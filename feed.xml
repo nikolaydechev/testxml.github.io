@@ -1,4 +1,6 @@
-  <job>
+<jobs>
+  
+<job>
     <title><![CDATA[Product Designer]]></title>
     <referencenumber><![CDATA[83799505]]></referencenumber>
     <expiration_date><![CDATA[10/31/2021 06:09:29 UTC]]></expiration_date>
@@ -71,3 +73,5 @@
     <employer_name><![CDATA[BlockFi]]></employer_name>
     <category><![CDATA[UX / UI Design]]></category>
   </job>
+  
+</jobs>
