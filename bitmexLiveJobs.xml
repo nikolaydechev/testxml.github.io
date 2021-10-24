@@ -52,7 +52,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Institutional Sales & Client Development Manager - APAC]]></title>
@@ -130,60 +130,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Senior Software Engineer - Web]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Hong Kong]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As a Senior React Engineer at 100x Group, you are an engineer with experience in design and implementation of fast, real-time web applications. The BitMEX platform is written with React.JS and carefully tuned for performance. If you&#39;re right for this role, you should understand how common JITs work, have an interest in new technology, have significant professional experience with React and a passion to grow as an engineer on this platform.&lt;/p&gt;
-&lt;p&gt;We develop with the latest tools with a strongly-typed development environment targeting modern browsers only. Forget everything you know about IE.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Development of the BitMEX Web Frontend and React Native components&lt;/li&gt;
-&lt;li&gt;New feature design and implementation, bug fixing, and performance tuning&lt;/li&gt;
-&lt;li&gt;Working closely with the API and Engine teams to integrate new features and unique consumer-facing products&lt;/li&gt;
-&lt;li&gt;Mentoring other engineers on coding practices, design philosophies, and engineering craft&lt;/li&gt;
-&lt;li&gt;Exploring and evaluating new stack components and architecture ideas as necessary&lt;/li&gt;
-&lt;li&gt;Regularly reviewing code&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Intimate experience with JS and JS performance characteristics&lt;/li&gt;
-&lt;li&gt;Experience with NodeJS, React, and Flux architecture&lt;/li&gt;
-&lt;li&gt;Experience with Jest, Flow, Webpack, Make, and Sass a plus&lt;/li&gt;
-&lt;li&gt;Experience making complex, data-driven products accessible to consumers&lt;/li&gt;
-&lt;li&gt;Ability to simultaneously develop several products and concepts in development&lt;/li&gt;
-&lt;li&gt;Familiarity with current UX trends and curiosity for new UX concepts (conversational UI, etc)&lt;/li&gt;
-&lt;li&gt;A Bachelor’s degree or equivalent work experience preferred&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/4933071002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Web]]></title>
@@ -236,7 +183,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Business Manager - Trading Platform]]></title>
@@ -308,7 +255,60 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Software Engineer - Web]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Hong Kong]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a Senior React Engineer at 100x Group, you are an engineer with experience in design and implementation of fast, real-time web applications. The BitMEX platform is written with React.JS and carefully tuned for performance. If you&#39;re right for this role, you should understand how common JITs work, have an interest in new technology, have significant professional experience with React and a passion to grow as an engineer on this platform.&lt;/p&gt;
+&lt;p&gt;We develop with the latest tools with a strongly-typed development environment targeting modern browsers only. Forget everything you know about IE.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of the BitMEX Web Frontend and React Native components&lt;/li&gt;
+&lt;li&gt;New feature design and implementation, bug fixing, and performance tuning&lt;/li&gt;
+&lt;li&gt;Working closely with the API and Engine teams to integrate new features and unique consumer-facing products&lt;/li&gt;
+&lt;li&gt;Mentoring other engineers on coding practices, design philosophies, and engineering craft&lt;/li&gt;
+&lt;li&gt;Exploring and evaluating new stack components and architecture ideas as necessary&lt;/li&gt;
+&lt;li&gt;Regularly reviewing code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intimate experience with JS and JS performance characteristics&lt;/li&gt;
+&lt;li&gt;Experience with NodeJS, React, and Flux architecture&lt;/li&gt;
+&lt;li&gt;Experience with Jest, Flow, Webpack, Make, and Sass a plus&lt;/li&gt;
+&lt;li&gt;Experience making complex, data-driven products accessible to consumers&lt;/li&gt;
+&lt;li&gt;Ability to simultaneously develop several products and concepts in development&lt;/li&gt;
+&lt;li&gt;Familiarity with current UX trends and curiosity for new UX concepts (conversational UI, etc)&lt;/li&gt;
+&lt;li&gt;A Bachelor’s degree or equivalent work experience preferred&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/4933071002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Derivatives Structurer]]></title>
@@ -379,7 +379,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Mobile]]></title>
@@ -433,7 +433,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Mobile]]></title>
@@ -487,7 +487,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Data Engineer]]></title>
@@ -539,7 +539,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[IT Support Engineer]]></title>
@@ -603,7 +603,76 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Derivatives Quantitative Analyst]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Hong Kong]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Financial Products team manages the full product range on the BitMEX platform. This includes responsibilities for maintaining the existing range of products, optimising the existing product mix through data driven decisions and designing and rolling out new products aimed at increasing and diversifying our client base and revenues.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This role will be a senior position in the Quant team within Financial Products. The successful candidate will help to develop the quant team as they build out pricing libraries, design and implement new methods of margining and participate in projects to expand the product offering beyond derivatives.&amp;nbsp;You will work closely with the Technology team to prioritise and direct the implementation of the team’s libraries and designs.&amp;nbsp;You will also be expected to suggest, research and implement tactical improvements to the platform in collaboration with the Structuring team and other stakeholders.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsible for developing and growing the Quant team&lt;/li&gt;
+&lt;li&gt;Taking the lead, or working with other team members on target projects including:
+&lt;ul&gt;
+&lt;li&gt;The building and development of (non-linear) derivative pricing libraries&lt;/li&gt;
+&lt;li&gt;Designing and developing a margining system architecture that incorporates both portfolio margining as well as a pre-defined initial / maintenance margin&lt;/li&gt;
+&lt;li&gt;Developing existing and designing new index methodologies&lt;/li&gt;
+&lt;li&gt;Multi-currency margining&lt;/li&gt;
+&lt;li&gt;Exchange traded options&lt;/li&gt;
+&lt;li&gt;Structured Products&lt;/li&gt;
+&lt;li&gt;Proprietary Index design and testing&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Helping the team to ensure:
+&lt;ul&gt;
+&lt;li&gt;Maintenance/industrialisation (leveraging Technology resources) of existing quantitative tools and reporting, such as simulator tools, exchange monitors, index rebalancing&lt;/li&gt;
+&lt;li&gt;Documenting all proposed production changes&lt;/li&gt;
+&lt;li&gt;Assisting with product launches &amp;amp; adjustments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8+ years experience as a derivatives quant across multiple asset classes&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep experience of working within / alongside trading / exchange business.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Strong background in options, risk management, mathematics, stochastic calculus and numerical methods&lt;/li&gt;
+&lt;li&gt;Knowledge of index construction, algorithm design, exchange functionality, margining and market structure&lt;/li&gt;
+&lt;li&gt;Demonstrated ability to innovate and iteratively refine quantitative processes&lt;/li&gt;
+&lt;li&gt;Strong communication skills; breaking down complex problems into simple concepts&lt;/li&gt;
+&lt;li&gt;Ability to own the relationship between the quant team and stakeholders&lt;/li&gt;
+&lt;li&gt;Experience leading projects across multiple departments&lt;/li&gt;
+&lt;li&gt;Crypto Futures &amp;amp; Options experience is a plus&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5237763002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior DevOps Engineer]]></title>
@@ -674,76 +743,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Senior Derivatives Quantitative Analyst]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Hong Kong]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Financial Products team manages the full product range on the BitMEX platform. This includes responsibilities for maintaining the existing range of products, optimising the existing product mix through data driven decisions and designing and rolling out new products aimed at increasing and diversifying our client base and revenues.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;This role will be a senior position in the Quant team within Financial Products. The successful candidate will help to develop the quant team as they build out pricing libraries, design and implement new methods of margining and participate in projects to expand the product offering beyond derivatives.&amp;nbsp;You will work closely with the Technology team to prioritise and direct the implementation of the team’s libraries and designs.&amp;nbsp;You will also be expected to suggest, research and implement tactical improvements to the platform in collaboration with the Structuring team and other stakeholders.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsible for developing and growing the Quant team&lt;/li&gt;
-&lt;li&gt;Taking the lead, or working with other team members on target projects including:
-&lt;ul&gt;
-&lt;li&gt;The building and development of (non-linear) derivative pricing libraries&lt;/li&gt;
-&lt;li&gt;Designing and developing a margining system architecture that incorporates both portfolio margining as well as a pre-defined initial / maintenance margin&lt;/li&gt;
-&lt;li&gt;Developing existing and designing new index methodologies&lt;/li&gt;
-&lt;li&gt;Multi-currency margining&lt;/li&gt;
-&lt;li&gt;Exchange traded options&lt;/li&gt;
-&lt;li&gt;Structured Products&lt;/li&gt;
-&lt;li&gt;Proprietary Index design and testing&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Helping the team to ensure:
-&lt;ul&gt;
-&lt;li&gt;Maintenance/industrialisation (leveraging Technology resources) of existing quantitative tools and reporting, such as simulator tools, exchange monitors, index rebalancing&lt;/li&gt;
-&lt;li&gt;Documenting all proposed production changes&lt;/li&gt;
-&lt;li&gt;Assisting with product launches &amp;amp; adjustments&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;8+ years experience as a derivatives quant across multiple asset classes&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep experience of working within / alongside trading / exchange business.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Strong background in options, risk management, mathematics, stochastic calculus and numerical methods&lt;/li&gt;
-&lt;li&gt;Knowledge of index construction, algorithm design, exchange functionality, margining and market structure&lt;/li&gt;
-&lt;li&gt;Demonstrated ability to innovate and iteratively refine quantitative processes&lt;/li&gt;
-&lt;li&gt;Strong communication skills; breaking down complex problems into simple concepts&lt;/li&gt;
-&lt;li&gt;Ability to own the relationship between the quant team and stakeholders&lt;/li&gt;
-&lt;li&gt;Experience leading projects across multiple departments&lt;/li&gt;
-&lt;li&gt;Crypto Futures &amp;amp; Options experience is a plus&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5237763002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Security Penetration Tester]]></title>
@@ -808,62 +808,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Derivatives Quant Analyst]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Hong Kong]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The Financial Products team manages the full product range on the BitMEX platform.&amp;nbsp;This includes responsibilities for maintaining the existing range of products, optimising the existing product mix through data driven decisions and designing and rolling out new products aimed at increasing and diversifying our client base and revenues.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;This role will be part of the Quant team within Financial Products. The successful candidate will help to design future iterations of the platform&#39;s margining architecture and will work closely with the Technology team to direct its implementation. There will also be scope to suggest, research and implement tactical improvements to the platform.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Building and developing (non-linear) derivative pricing libraries&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designing and developing a margining system architecture that incorporates both portfolio margining as well as a pre-defined initial / maintenance margin&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creating simulator tools for backtesting parameter and methodology changes in (portfolio) margining systems / liquidation algorithm / insurance fund&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Project management of all relevant implementations&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Developing existing and designing new index methodologies, working alongside internal &amp;amp; external teams&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Documenting all proposed production changes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assisting Financial Products team members with product launches &amp;amp; adjustments&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience as a derivatives quant&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong background in options and risk management&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to innovate and refine quantitative processes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong communication skills; breaking down complex problems into simple concepts&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to interface between the business and technology teams&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing projects across multiple departments&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto futures &amp;amp; options experience a plus&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in the crypto space is a must&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5186305002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Data Engineering Developer]]></title>
@@ -922,7 +867,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Production Support Lead]]></title>
@@ -988,7 +933,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Site Reliability Engineer]]></title>
@@ -1043,7 +988,123 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Derivatives Quant Analyst]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Hong Kong]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The Financial Products team manages the full product range on the BitMEX platform.&amp;nbsp;This includes responsibilities for maintaining the existing range of products, optimising the existing product mix through data driven decisions and designing and rolling out new products aimed at increasing and diversifying our client base and revenues.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This role will be part of the Quant team within Financial Products. The successful candidate will help to design future iterations of the platform&#39;s margining architecture and will work closely with the Technology team to direct its implementation. There will also be scope to suggest, research and implement tactical improvements to the platform.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Building and developing (non-linear) derivative pricing libraries&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designing and developing a margining system architecture that incorporates both portfolio margining as well as a pre-defined initial / maintenance margin&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creating simulator tools for backtesting parameter and methodology changes in (portfolio) margining systems / liquidation algorithm / insurance fund&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Project management of all relevant implementations&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Developing existing and designing new index methodologies, working alongside internal &amp;amp; external teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Documenting all proposed production changes&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assisting Financial Products team members with product launches &amp;amp; adjustments&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience as a derivatives quant&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong background in options and risk management&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to innovate and refine quantitative processes&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong communication skills; breaking down complex problems into simple concepts&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to interface between the business and technology teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing projects across multiple departments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto futures &amp;amp; options experience a plus&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in the crypto space is a must&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5186305002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Project Manager - Engineering]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Hong Kong]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The BitMEX Engineering department sits at the core of the business and handles all brokerage and trading aspects of the platform.&amp;nbsp; The team is responsible for Web UI, Mobile UI, Trading API, order management, risk checking, position keeping, PNL calculations, pricing (derivatives), risk management, market data distribution, order matching, and settlement.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Plan &amp;amp; coordinate deliveries of multiple projects across the Engineering Organisation, working closely with key stakeholders in Engineering, Product, Financial Products, Client and Business Development teams to plan and deliver to agreed timeline and budget.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with team leads in Engineering to:&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;facilitate sprint planning, daily standups retrospectives, and other agile development best practices&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;backlog pruning and prioritisation of stories vs. business objectives&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate with Product teams and other Project managers to ensure consistency and best practices of project management standards across the group&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelors degree&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of large scale global program management experience&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Financial industry background&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Adaptable, Excellent written and verbal communication skills, Empathetic, Type A, Proactive, Mediator&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Driving Organization OKRs&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Managing geo-located teams/stakeholders&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Managing high visibility large scale global initiatives&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with multiple time zones&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conflict management&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Technical background (Engineering / Development / Quality Assurance)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto experience would be an advantage&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5302711002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Social Media Manager]]></title>
@@ -1113,7 +1174,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Python Developer - Blockchain & Wallets]]></title>
@@ -1170,68 +1231,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Project Manager - Engineering]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Hong Kong]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The BitMEX Engineering department sits at the core of the business and handles all brokerage and trading aspects of the platform.&amp;nbsp; The team is responsible for Web UI, Mobile UI, Trading API, order management, risk checking, position keeping, PNL calculations, pricing (derivatives), risk management, market data distribution, order matching, and settlement.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Plan &amp;amp; coordinate deliveries of multiple projects across the Engineering Organisation, working closely with key stakeholders in Engineering, Product, Financial Products, Client and Business Development teams to plan and deliver to agreed timeline and budget.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with team leads in Engineering to:&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;facilitate sprint planning, daily standups retrospectives, and other agile development best practices&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;backlog pruning and prioritisation of stories vs. business objectives&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate with Product teams and other Project managers to ensure consistency and best practices of project management standards across the group&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelors degree&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of large scale global program management experience&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Financial industry background&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Adaptable, Excellent written and verbal communication skills, Empathetic, Type A, Proactive, Mediator&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Driving Organization OKRs&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Managing geo-located teams/stakeholders&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Managing high visibility large scale global initiatives&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with multiple time zones&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conflict management&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Technical background (Engineering / Development / Quality Assurance)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto experience would be an advantage&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5302711002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Human Resources Business Partner]]></title>
@@ -1289,7 +1289,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Human Resources Business Partner]]></title>
@@ -1347,7 +1347,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Digital Marketing Content Writer]]></title>
@@ -1412,7 +1412,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[UX Product Designer]]></title>
@@ -1466,7 +1466,119 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Quantitative Developer - Trading Engine]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
+&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Trading Engine sits at the core of the BitMEX platform and handles all brokerage and trading aspects.&amp;nbsp; The Trading Engine team is responsible for order management, risk checking, position keeping, PNL calculations, pricing (derivatives), risk management, market data distribution, order matching, and settlement.&lt;/p&gt;
+&lt;p&gt;100x Group is building a best in class Technology team to help us scale the BitMEX trading platform to millions of users and millions of transactions per second. We are looking for experts in low latency trading system development, microservice architectures, and scaling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Greenfield and brownfield design and development of a number of micro-service based electronic trading system components across order handling, order matching, market data, smart order routing&lt;/li&gt;
+&lt;li&gt;Work with Financial Products&amp;nbsp; to continuously optimise existing and develop new models/products/algorithms to facilitate risk controls and improve user experience&lt;/li&gt;
+&lt;li&gt;New feature implementation, bug fixing, and backtesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You follow good principles of software engineering like TDD, writing modular, maintainable, clean code, and are used to working in an Agile environment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;7+ years programming experience writing latency sensitive applications in Java or equivalent experience in another OO language, with some experience of Java&lt;/li&gt;
+&lt;li&gt;5+ years financial experience at a Hedge Fund, Investment Bank, or Exchange developing financial trading applications in Equity, FX or derivative product markets, either traditional or crypto-based&lt;/li&gt;
+&lt;li&gt;Strong engineering skill set with firm grasp of fundamental Computer Science principles and a test-driven approach to software development&lt;/li&gt;
+&lt;li&gt;Strong understanding of data structures, algorithms and algorithm complexity&lt;/li&gt;
+&lt;li&gt;Knowledge of execution algos, risk management systems in investment banks, brokers, mutual funds are great bonuses&lt;/li&gt;
+&lt;li&gt;Strong desire for software correctness, test driven development and agile practices&lt;/li&gt;
+&lt;li&gt;Computer Science/Mathematics/Physics degree preferable&lt;/li&gt;
+&lt;li&gt;Nice to have: In depth knowledge of graph algorithms and/or reactive graphs, statistics and stochastics calculus, KDB+&lt;/li&gt;
+&lt;li&gt;Ability to adapt to changing priorities within a fast moving industry and startup culture&lt;/li&gt;
+&lt;li&gt;Technical mindset with high attention to detail&lt;/li&gt;
+&lt;li&gt;Good written and verbal communication skills&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5340782002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Quantitative Developer - Trading Engine]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Hong Kong]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
+&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Trading Engine sits at the core of the BitMEX platform and handles all brokerage and trading aspects.&amp;nbsp; The Trading Engine team is responsible for order management, risk checking, position keeping, PNL calculations, pricing (derivatives), risk management, market data distribution, order matching, and settlement.&lt;/p&gt;
+&lt;p&gt;100x Group is building a best in class Technology team to help us scale the BitMEX trading platform to millions of users and millions of transactions per second. We are looking for experts in low latency trading system development, microservice architectures, and scaling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Greenfield and brownfield design and development of a number of micro-service based electronic trading system components across order handling, order matching, market data, smart order routing&lt;/li&gt;
+&lt;li&gt;Work with Financial Products&amp;nbsp; to continuously optimise existing and develop new models/products/algorithms to facilitate risk controls and improve user experience&lt;/li&gt;
+&lt;li&gt;New feature implementation, bug fixing, and backtesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You follow good principles of software engineering like TDD, writing modular, maintainable, clean code, and are used to working in an Agile environment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;7+ years programming experience writing latency sensitive applications in Java or equivalent experience in another OO language, with some experience of Java&lt;/li&gt;
+&lt;li&gt;5+ years financial experience at a Hedge Fund, Investment Bank, or Exchange developing financial trading applications in Equity, FX or derivative product markets, either traditional or crypto-based&lt;/li&gt;
+&lt;li&gt;Strong engineering skill set with firm grasp of fundamental Computer Science principles and a test-driven approach to software development&lt;/li&gt;
+&lt;li&gt;Strong understanding of data structures, algorithms and algorithm complexity&lt;/li&gt;
+&lt;li&gt;Knowledge of execution algos, risk management systems in investment banks, brokers, mutual funds are great bonuses&lt;/li&gt;
+&lt;li&gt;Strong desire for software correctness, test driven development and agile practices&lt;/li&gt;
+&lt;li&gt;Computer Science/Mathematics/Physics degree preferable&lt;/li&gt;
+&lt;li&gt;Nice to have: In depth knowledge of graph algorithms and/or reactive graphs, statistics and stochastics calculus, KDB+&lt;/li&gt;
+&lt;li&gt;Ability to adapt to changing priorities within a fast moving industry and startup culture&lt;/li&gt;
+&lt;li&gt;Technical mindset with high attention to detail&lt;/li&gt;
+&lt;li&gt;Good written and verbal communication skills&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5340763002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Security Penetration Tester]]></title>
@@ -1531,119 +1643,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Quantitative Developer - Trading Engine]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
-&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Trading Engine sits at the core of the BitMEX platform and handles all brokerage and trading aspects.&amp;nbsp; The Trading Engine team is responsible for order management, risk checking, position keeping, PNL calculations, pricing (derivatives), risk management, market data distribution, order matching, and settlement.&lt;/p&gt;
-&lt;p&gt;100x Group is building a best in class Technology team to help us scale the BitMEX trading platform to millions of users and millions of transactions per second. We are looking for experts in low latency trading system development, microservice architectures, and scaling.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Greenfield and brownfield design and development of a number of micro-service based electronic trading system components across order handling, order matching, market data, smart order routing&lt;/li&gt;
-&lt;li&gt;Work with Financial Products&amp;nbsp; to continuously optimise existing and develop new models/products/algorithms to facilitate risk controls and improve user experience&lt;/li&gt;
-&lt;li&gt;New feature implementation, bug fixing, and backtesting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You follow good principles of software engineering like TDD, writing modular, maintainable, clean code, and are used to working in an Agile environment.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;7+ years programming experience writing latency sensitive applications in Java or equivalent experience in another OO language, with some experience of Java&lt;/li&gt;
-&lt;li&gt;5+ years financial experience at a Hedge Fund, Investment Bank, or Exchange developing financial trading applications in Equity, FX or derivative product markets, either traditional or crypto-based&lt;/li&gt;
-&lt;li&gt;Strong engineering skill set with firm grasp of fundamental Computer Science principles and a test-driven approach to software development&lt;/li&gt;
-&lt;li&gt;Strong understanding of data structures, algorithms and algorithm complexity&lt;/li&gt;
-&lt;li&gt;Knowledge of execution algos, risk management systems in investment banks, brokers, mutual funds are great bonuses&lt;/li&gt;
-&lt;li&gt;Strong desire for software correctness, test driven development and agile practices&lt;/li&gt;
-&lt;li&gt;Computer Science/Mathematics/Physics degree preferable&lt;/li&gt;
-&lt;li&gt;Nice to have: In depth knowledge of graph algorithms and/or reactive graphs, statistics and stochastics calculus, KDB+&lt;/li&gt;
-&lt;li&gt;Ability to adapt to changing priorities within a fast moving industry and startup culture&lt;/li&gt;
-&lt;li&gt;Technical mindset with high attention to detail&lt;/li&gt;
-&lt;li&gt;Good written and verbal communication skills&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5340782002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Quantitative Developer - Trading Engine]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Hong Kong]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
-&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Trading Engine sits at the core of the BitMEX platform and handles all brokerage and trading aspects.&amp;nbsp; The Trading Engine team is responsible for order management, risk checking, position keeping, PNL calculations, pricing (derivatives), risk management, market data distribution, order matching, and settlement.&lt;/p&gt;
-&lt;p&gt;100x Group is building a best in class Technology team to help us scale the BitMEX trading platform to millions of users and millions of transactions per second. We are looking for experts in low latency trading system development, microservice architectures, and scaling.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Greenfield and brownfield design and development of a number of micro-service based electronic trading system components across order handling, order matching, market data, smart order routing&lt;/li&gt;
-&lt;li&gt;Work with Financial Products&amp;nbsp; to continuously optimise existing and develop new models/products/algorithms to facilitate risk controls and improve user experience&lt;/li&gt;
-&lt;li&gt;New feature implementation, bug fixing, and backtesting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You follow good principles of software engineering like TDD, writing modular, maintainable, clean code, and are used to working in an Agile environment.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;7+ years programming experience writing latency sensitive applications in Java or equivalent experience in another OO language, with some experience of Java&lt;/li&gt;
-&lt;li&gt;5+ years financial experience at a Hedge Fund, Investment Bank, or Exchange developing financial trading applications in Equity, FX or derivative product markets, either traditional or crypto-based&lt;/li&gt;
-&lt;li&gt;Strong engineering skill set with firm grasp of fundamental Computer Science principles and a test-driven approach to software development&lt;/li&gt;
-&lt;li&gt;Strong understanding of data structures, algorithms and algorithm complexity&lt;/li&gt;
-&lt;li&gt;Knowledge of execution algos, risk management systems in investment banks, brokers, mutual funds are great bonuses&lt;/li&gt;
-&lt;li&gt;Strong desire for software correctness, test driven development and agile practices&lt;/li&gt;
-&lt;li&gt;Computer Science/Mathematics/Physics degree preferable&lt;/li&gt;
-&lt;li&gt;Nice to have: In depth knowledge of graph algorithms and/or reactive graphs, statistics and stochastics calculus, KDB+&lt;/li&gt;
-&lt;li&gt;Ability to adapt to changing priorities within a fast moving industry and startup culture&lt;/li&gt;
-&lt;li&gt;Technical mindset with high attention to detail&lt;/li&gt;
-&lt;li&gt;Good written and verbal communication skills&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5340763002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Electronic Trading Platform Lead Developer]]></title>
@@ -1714,7 +1714,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Security Assurance Analyst]]></title>
@@ -1797,7 +1797,62 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Offensive Security Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
+&lt;p&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;
+&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The goal of an Offensive Security Engineer is to proactively identify and help mitigate technical risk across all BitMEX systems, people, and processes. They will achieve this through a combination of penetration testing, adversary simulation, red/purple teaming, ongoing vulnerability assessment activities and tools development while working closely alongside the Detection &amp;amp; Response, AppSec and Infrastructure Security teams.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover vulnerabilities in BitMEX Corporate infrastructure before a malicious external actor does.&lt;/li&gt;
+&lt;li&gt;Discover vulnerabilities in BitMEX Production infrastructure before a malicious external actor does.&lt;/li&gt;
+&lt;li&gt;Discover vulnerabilities in BitMEX Physica&lt;u&gt;l&lt;/u&gt;&amp;nbsp;(office, badging, ..) infrastructure before a malicious external actor does.&lt;/li&gt;
+&lt;li&gt;Discover vulnerabilities in BitMEX Executive infrastructure (homes, private/home offices) before a malicious external actor does.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of experience in security testing, vulnerability and/or red team assessment at a top tech or finance company.&lt;/li&gt;
+&lt;li&gt;Experience performing physical penetration tests.&lt;/li&gt;
+&lt;li&gt;Experience performing “Purple Team” exercises using the Mitre ATT&amp;amp;CK Framework.&lt;/li&gt;
+&lt;li&gt;Strong software development skills in Python, Golang, NodeJS, Ruby, C, C++, or similar.&lt;/li&gt;
+&lt;li&gt;Deep knowledge of Amazon Web Services, GCP, and general Cloud infrastructure security.&lt;/li&gt;
+&lt;li&gt;Deep understanding of DevOps/CICD environments, attack vectors and mitigating controls. Familiarity with Docker/Kubernetes.&lt;/li&gt;
+&lt;li&gt;Comfortable operating across a wide variety of platforms, operating systems, and technologies.&lt;/li&gt;
+&lt;li&gt;Ability to work collaboratively and cross functionally with the other security teams.&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5387286002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Financial Analyst]]></title>
@@ -1856,62 +1911,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Offensive Security Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
-&lt;p&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;
-&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The goal of an Offensive Security Engineer is to proactively identify and help mitigate technical risk across all BitMEX systems, people, and processes. They will achieve this through a combination of penetration testing, adversary simulation, red/purple teaming, ongoing vulnerability assessment activities and tools development while working closely alongside the Detection &amp;amp; Response, AppSec and Infrastructure Security teams.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Discover vulnerabilities in BitMEX Corporate infrastructure before a malicious external actor does.&lt;/li&gt;
-&lt;li&gt;Discover vulnerabilities in BitMEX Production infrastructure before a malicious external actor does.&lt;/li&gt;
-&lt;li&gt;Discover vulnerabilities in BitMEX Physica&lt;u&gt;l&lt;/u&gt;&amp;nbsp;(office, badging, ..) infrastructure before a malicious external actor does.&lt;/li&gt;
-&lt;li&gt;Discover vulnerabilities in BitMEX Executive infrastructure (homes, private/home offices) before a malicious external actor does.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;5+ years of experience in security testing, vulnerability and/or red team assessment at a top tech or finance company.&lt;/li&gt;
-&lt;li&gt;Experience performing physical penetration tests.&lt;/li&gt;
-&lt;li&gt;Experience performing “Purple Team” exercises using the Mitre ATT&amp;amp;CK Framework.&lt;/li&gt;
-&lt;li&gt;Strong software development skills in Python, Golang, NodeJS, Ruby, C, C++, or similar.&lt;/li&gt;
-&lt;li&gt;Deep knowledge of Amazon Web Services, GCP, and general Cloud infrastructure security.&lt;/li&gt;
-&lt;li&gt;Deep understanding of DevOps/CICD environments, attack vectors and mitigating controls. Familiarity with Docker/Kubernetes.&lt;/li&gt;
-&lt;li&gt;Comfortable operating across a wide variety of platforms, operating systems, and technologies.&lt;/li&gt;
-&lt;li&gt;Ability to work collaboratively and cross functionally with the other security teams.&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5387286002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Product Manager - Trading App (Web/Mobile)]]></title>
@@ -1965,7 +1965,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Regulatory Compliance Officer]]></title>
@@ -2046,7 +2046,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Security Investigations Engineer]]></title>
@@ -2106,7 +2106,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Compliance Officer, FCC]]></title>
@@ -2174,7 +2174,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Derivatives Structurer]]></title>
@@ -2244,7 +2244,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Infrastructure Security Engineer]]></title>
@@ -2298,7 +2298,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Infrastructure Security Engineer]]></title>
@@ -2352,7 +2352,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Product Manager - Digital Custody]]></title>
@@ -2410,7 +2410,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Risk Manager]]></title>
@@ -2469,7 +2469,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Digital Technology]]></title>
@@ -2528,7 +2528,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Production Support Lead]]></title>
@@ -2591,7 +2591,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Digital Technology]]></title>
@@ -2650,7 +2650,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Software Engineer - NodeJS - API (Compliance)]]></title>
@@ -2702,7 +2702,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Software Engineer - NodeJS - API (Trading API)]]></title>
@@ -2757,7 +2757,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Software Engineer - NodeJS - API (Trading API)]]></title>
@@ -2812,7 +2812,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Site Reliability Engineer]]></title>
@@ -2864,7 +2864,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Trading Operations Engineer]]></title>
@@ -2925,7 +2925,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Software Engineer - NodeJS - API (Compliance)]]></title>
@@ -2977,7 +2977,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[UX Product Designer]]></title>
@@ -3029,7 +3029,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Product Designer - Systems]]></title>
@@ -3085,7 +3085,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Mobile Engineering Manager]]></title>
@@ -3135,7 +3135,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Application Security Engineer]]></title>
@@ -3185,7 +3185,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Client Due Diligence Operations Analyst]]></title>
@@ -3239,7 +3239,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Compliance Operations Specialist]]></title>
@@ -3297,7 +3297,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[CRM BI Analyst]]></title>
@@ -3388,7 +3388,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[CRM BI Analyst]]></title>
@@ -3479,7 +3479,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Data Engineering Developer]]></title>
@@ -3537,7 +3537,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Detection & Response Engineer]]></title>
@@ -3592,7 +3592,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Digital Graphics Designer]]></title>
@@ -3652,7 +3652,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Electronic Trading Platform Lead Developer]]></title>
@@ -3722,7 +3722,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Global Data Analyst]]></title>
@@ -3791,7 +3791,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Global Data Analyst]]></title>
@@ -3860,7 +3860,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Growth Marketing Manager]]></title>
@@ -3920,7 +3920,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Growth Marketing Manager]]></title>
@@ -3980,7 +3980,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Mobile Engineering Manager]]></title>
@@ -4030,7 +4030,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Detection & Response Engineer]]></title>
@@ -4085,7 +4085,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Algo Developer - Trading Engine]]></title>
@@ -4133,7 +4133,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Exchange Developer - Trading Engine]]></title>
@@ -4181,7 +4181,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Exchange Developer - Trading Engine]]></title>
@@ -4229,55 +4229,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Algo Developer - Trading Engine]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
-&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Trading Technology team provides the trading infrastructure of the Bitmex platform including but not limited to margin and brokerage functionality, order matching and low latency message distribution. The role is a software development role working on initiatives in these areas.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Greenfield and brownfield design and development of a number of microservice based electronic trading system components across order handling, order matching, market data, smart order routing&lt;/li&gt;
-&lt;li&gt;New feature implementation, bug fixing, and performance tuning&lt;/li&gt;
-&lt;li&gt;Working closely with Senior developers on firm wide initiatives supporting the firms multi year growth agenda&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience working in an exclusively test-driven software development environment&lt;/li&gt;
-&lt;li&gt;Excellent understanding of the fundamentals of modern software development (TDD, BDD, Domain-driven design, SOLID)&lt;/li&gt;
-&lt;li&gt;Experience with writing high-performance software in Java or another object-oriented programming language&lt;/li&gt;
-&lt;li&gt;Some experience at a Hedge Fund, Investment Bank, or Exchange developing financial trading applications would be beneficial.&lt;/li&gt;
-&lt;li&gt;Computer Science / Engineering degree preferable&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5340783002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[IT Support Engineer]]></title>
@@ -4341,7 +4293,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Trading Applications Product Manager - Web/Mobile]]></title>
@@ -4397,7 +4349,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Trading Operations Engineer - Front Office Trading Applications Support]]></title>
@@ -4460,10 +4412,10 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
-    <title><![CDATA[Campaign Manager]]></title>
+    <title><![CDATA[Algo Developer - Trading Engine]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
@@ -4474,40 +4426,29 @@
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of the Marketing Acquisition team this person will lead planning and all go to market strategies for products launches. They will be the bridge between product and marketing and work closely with the campaign manager and vertical teams.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
+&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Trading Technology team provides the trading infrastructure of the Bitmex platform including but not limited to margin and brokerage functionality, order matching and low latency message distribution. The role is a software development role working on initiatives in these areas.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of acquisition/performance marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and execute integrated marketing campaigns&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with data analyst to analyse and optimize campaign performance&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and manage digital prospecting and remarketing campaigns&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage budgets and campaigns across all digital channels to drive strong return on investment and efficient CAC&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure successful planning, execution, optimization for key traffic KPIs via paid, organic &amp;amp; own media channel&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify and test new channels to meet or exceed established critical metrics&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the management to share funnel conversion improvement ideas, feedback &amp;amp; present results.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Greenfield and brownfield design and development of a number of microservice based electronic trading system components across order handling, order matching, market data, smart order routing&lt;/li&gt;
+&lt;li&gt;New feature implementation, bug fixing, and performance tuning&lt;/li&gt;
+&lt;li&gt;Working closely with Senior developers on firm wide initiatives supporting the firms multi year growth agenda&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in managing B2B and end to end campaigns including optimization and reporting&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and able to multitask&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detailed oriented&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great at stakeholder management&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High project management skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data driven&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands on and comfortable with execution&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Agency experience preferred not mandatory &lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
+&lt;li&gt;Experience working in an exclusively test-driven software development environment&lt;/li&gt;
+&lt;li&gt;Excellent understanding of the fundamentals of modern software development (TDD, BDD, Domain-driven design, SOLID)&lt;/li&gt;
+&lt;li&gt;Experience with writing high-performance software in Java or another object-oriented programming language&lt;/li&gt;
+&lt;li&gt;Some experience at a Hedge Fund, Investment Bank, or Exchange developing financial trading applications would be beneficial.&lt;/li&gt;
+&lt;li&gt;Computer Science / Engineering degree preferable&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5271447002?gh_src=759c9df92us#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5340783002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -4519,7 +4460,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Legal Counsel, Spot]]></title>
@@ -4586,7 +4527,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Legal Counsel, Custody]]></title>
@@ -4650,7 +4591,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Legal Counsel, Contentious & Regulatory]]></title>
@@ -4705,10 +4646,10 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
-    <title><![CDATA[Custody Business Manager]]></title>
+    <title><![CDATA[Campaign Manager]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
@@ -4719,57 +4660,40 @@
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
-&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role will be responsible for executing the deliverables set out by the Executive committee for the Custody platform. This includes but not limited to,the establishment of a related custodian in a jurisdiction of commercial credibility, the creation of a product that is able to cater to both retail and institutional clients, and ensuring the product is of a standard that can be fully insured. You will be reporting to the Head of Custody and will be a critical part in the success of the platform.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of the Marketing Acquisition team this person will lead planning and all go to market strategies for products launches. They will be the bridge between product and marketing and work closely with the campaign manager and vertical teams.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Product Management &amp;amp; Development:&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;Drive the execution of the Custody product strategy, including P&amp;amp;L projections, new product assessment, lending/staking capabilities and easy integration into the broader product suite.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and own robust business cases, opportunity sizing, competitive analysis and execution plans for each initiative and the presentation of these to senior management for buy-in, funding and resourcing.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Act as the escalation point for product related questions and ensure suitable resolution and management of issues.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help ensure tactical and strategic product development objectives are captured throughout the planning process. Drive and monitor the related product deliveries to completion with partners across the business&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand proposed standard pricing based on risk/reward trade-off and commercial framework for liability&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Licencing and Certification&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with regulated bodies in selected jurisdictions to ensure the product is fully regulated and licensed as an independent custodian&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide our clients a product that is able to offer insurance by working with underwriters to justify the security of the product is at a standard capable of getting insurance&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Become SOC-Type I &amp;amp; II compliant&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Client Solutions&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintenance of Product standard documentation and provide sales support to Sales teams where required&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage workshop / meetings with new or existing clients to understand their needs, define and solution non standard operating models. Have the gravitas to push back on non standard requests where they don&#39;t make commercial or risk reward sense&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work in partnership with Product Development, Technology and Operations to design and develop operating models for new or existing Institutional clients&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Oversight of product delivery (including business requirements and testing) to ensure operating models are implemented&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of acquisition/performance marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and execute integrated marketing campaigns&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with data analyst to analyse and optimize campaign performance&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and manage digital prospecting and remarketing campaigns&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage budgets and campaigns across all digital channels to drive strong return on investment and efficient CAC&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure successful planning, execution, optimization for key traffic KPIs via paid, organic &amp;amp; own media channel&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify and test new channels to meet or exceed established critical metrics&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the management to share funnel conversion improvement ideas, feedback &amp;amp; present results.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The successful candidate will have worked in a securities, investment management and / or global custody environment for a minimum of 10 years in an Operations, Client Service, Market Segment or Product Management role.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key attributes include:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Good overall knowledge of Custody &amp;amp; Fund Services Products (preferably within a Global Custody or background)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Regional APAC language capabilities&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in a product management or business management function working at a strategic planning level including conducting new business approvals for new products / alterations to the service&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Client facing experience and be able to exhibit confidence and professionalism in dealing with internal and external parties&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong analytical skills in terms of process and operating model re-engineering and understanding clients Global Custody needs&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong communication and presentation skills, both verbal and documentary (e.g. PowerPoint) in order to syndicate messages with sales/relationship management and senior product/risk managers&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to research the anticipated needs of clients; through a combination of &quot;own&quot; research as well as coordination across a number of key partners&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Desire to understand the competitive landscape; understanding the features and functions of competitor offerings and, where possible, pricing information&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A strong understanding of the risk profile of each initiative and ensuring that it is compliant with group guidelines&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in managing B2B and end to end campaigns including optimization and reporting&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and able to multitask&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detailed oriented&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great at stakeholder management&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High project management skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data driven&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands on and comfortable with execution&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Agency experience preferred not mandatory &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5343936002?gh_src=759c9df92us#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5271447002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -4781,7 +4705,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Compliance Officer, FCC]]></title>
@@ -4849,7 +4773,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Kubernetes Engineer]]></title>
@@ -4921,7 +4845,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Frontend Web]]></title>
@@ -4977,7 +4901,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Digital and Creative]]></title>
@@ -5035,7 +4959,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Offensive Security Engineer]]></title>
@@ -5087,7 +5011,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Digital and Creative]]></title>
@@ -5145,7 +5069,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Frontend Web]]></title>
@@ -5201,7 +5125,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Marketing Technology]]></title>
@@ -5260,7 +5184,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[CX Designer]]></title>
@@ -5332,7 +5256,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Site Reliability Engineer: Database & Messaging]]></title>
@@ -5402,7 +5326,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Site Reliability Engineer: Monitoring & Observability]]></title>
@@ -5464,7 +5388,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Offensive Security Engineer]]></title>
@@ -5519,7 +5443,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Customer Support Specialist - SG - Mandarin]]></title>
@@ -5584,7 +5508,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Customer Support Specialist - HK - Mandarin]]></title>
@@ -5649,7 +5573,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Communications Executive]]></title>
@@ -5711,7 +5635,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Product Designer - Systems]]></title>
@@ -5767,7 +5691,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Investment Associate - Corporate Development]]></title>
@@ -5860,7 +5784,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Customer Support Specialist - HK - English]]></title>
@@ -5927,7 +5851,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Customer Support Specialist - English]]></title>
@@ -5994,7 +5918,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Trading Technology Engineer]]></title>
@@ -6058,7 +5982,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[DevOps Engineer (Business Integration)]]></title>
@@ -6122,7 +6046,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Product Manager - Web/Mobile]]></title>
@@ -6178,7 +6102,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Project Manager - Data Analytics]]></title>
@@ -6233,7 +6157,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Legal Counsel, Spot]]></title>
@@ -6300,7 +6224,71 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Legal Counsel, Custody]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An experienced Legal Counsel is required to assist the Group’s Legal team, focusing on new product development and strategic growth projects, with a focus on supporting the business as it expands its Custody product offering. Reporting to the Co-Heads of Legal, he/she will be the Legal contact for the business’ Custody offering and assist with providing advice to various other parts of the business, and in particular providing and coordinating legal input to support the Business Development, Financial Products and other revenue functions. He/she will also be expected to be comfortable assisting the Legal team with a broad range of other legal matters.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Primary Legal contact to support Group’s Custody business line and other growth projects, including:&lt;/span&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provision of legal input in response to business strategy set by management, working closely with internal and external stakeholders and advisers, such as licensing or geographic expansion initiatives&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordination of Legal-led, cross-functional projects such as legal and regulatory technology implementation and other technical development programmes with significant legal-driven components&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with technology teams and security functions to provide commercially-driven legal solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Assistance with assessment and proactive management of legal risk management across strategic growth projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Providing and coordinating Legal input on new structured product and business line initiatives, including:&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reviewing proposals for business growth and assisting with feasibility review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advising on structuring and documentation for new products and business lines (working with internal and external legal input)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assisting with implementation and execution of new products&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instructing and communicating with external legal counsel as necessary&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Thought leadership within the Legal team as well as the wider business&lt;/li&gt;
+&lt;li&gt;Assisting with any specific matters requested by the Co-Heads of Legal, which may include advising on and drafting contracts, monitoring and advising on applicable and developing rules and regulations, assessing and advising on other legal risks affecting the Group, and advising on internal policies and procedures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3-6 years of post-qualification legal experience in a common law jurisdiction&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience advising, or working in, the banking and custodian sector&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing projects with a regulatory, accounting or tax-efficiency dimension&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Structured products and derivatives experience, with a track record of structuring and executing a range of complex, cross-border transactions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in the digital assets sector and curiosity to learn about a dynamic and emerging industry&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working autonomously and under time pressure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A critical thinker with an ability to communicate clearly&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593348002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Tax Manager]]></title>
@@ -6363,7 +6351,83 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
+  </job>
+<job>
+    <title><![CDATA[Custody Business Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;A pioneer in the FinTech world, 100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/p&gt;
+&lt;p&gt;The BitMEX trading platform represents the cornerstone of 100x. As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role will be responsible for executing the deliverables set out by the Executive committee for the Custody platform. This includes but not limited to,the establishment of a related custodian in a jurisdiction of commercial credibility, the creation of a product that is able to cater to both retail and institutional clients, and ensuring the product is of a standard that can be fully insured. You will be reporting to the Head of Custody and will be a critical part in the success of the platform.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Product Management &amp;amp; Development:&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;Drive the execution of the Custody product strategy, including P&amp;amp;L projections, new product assessment, lending/staking capabilities and easy integration into the broader product suite.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and own robust business cases, opportunity sizing, competitive analysis and execution plans for each initiative and the presentation of these to senior management for buy-in, funding and resourcing.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Act as the escalation point for product related questions and ensure suitable resolution and management of issues.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help ensure tactical and strategic product development objectives are captured throughout the planning process. Drive and monitor the related product deliveries to completion with partners across the business&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand proposed standard pricing based on risk/reward trade-off and commercial framework for liability&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Licencing and Certification&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with regulated bodies in selected jurisdictions to ensure the product is fully regulated and licensed as an independent custodian&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide our clients a product that is able to offer insurance by working with underwriters to justify the security of the product is at a standard capable of getting insurance&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Become SOC-Type I &amp;amp; II compliant&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Client Solutions&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintenance of Product standard documentation and provide sales support to Sales teams where required&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage workshop / meetings with new or existing clients to understand their needs, define and solution non standard operating models. Have the gravitas to push back on non standard requests where they don&#39;t make commercial or risk reward sense&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work in partnership with Product Development, Technology and Operations to design and develop operating models for new or existing Institutional clients&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Oversight of product delivery (including business requirements and testing) to ensure operating models are implemented&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The successful candidate will have worked in a securities, investment management and / or global custody environment for a minimum of 10 years in an Operations, Client Service, Market Segment or Product Management role.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key attributes include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Good overall knowledge of Custody &amp;amp; Fund Services Products (preferably within a Global Custody or background)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Regional APAC language capabilities&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in a product management or business management function working at a strategic planning level including conducting new business approvals for new products / alterations to the service&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Client facing experience and be able to exhibit confidence and professionalism in dealing with internal and external parties&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong analytical skills in terms of process and operating model re-engineering and understanding clients Global Custody needs&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong communication and presentation skills, both verbal and documentary (e.g. PowerPoint) in order to syndicate messages with sales/relationship management and senior product/risk managers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to research the anticipated needs of clients; through a combination of &quot;own&quot; research as well as coordination across a number of key partners&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Desire to understand the competitive landscape; understanding the features and functions of competitor offerings and, where possible, pricing information&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A strong understanding of the risk profile of each initiative and ensuring that it is compliant with group guidelines&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5343936002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <taxonomies_category><![CDATA[]]></taxonomies_category>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer - Marketing Technology]]></title>
@@ -6422,7 +6486,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Communications Manager]]></title>
@@ -6487,7 +6551,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[DevOps Engineer (Business Integration)]]></title>
@@ -6549,7 +6613,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Global Data Analyst]]></title>
@@ -6619,7 +6683,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Site Reliability Engineer]]></title>
@@ -6679,7 +6743,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[DevOps Engineer (Business Integration)]]></title>
@@ -6743,7 +6807,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Trading Technology Engineer]]></title>
@@ -6807,7 +6871,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 <job>
     <title><![CDATA[IT Support Engineer]]></title>
@@ -6880,70 +6944,6 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
-  </job>
-<job>
-    <title><![CDATA[Legal Counsel, Custody]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An experienced Legal Counsel is required to assist the Group’s Legal team, focusing on new product development and strategic growth projects, with a focus on supporting the business as it expands its Custody product offering. Reporting to the Co-Heads of Legal, he/she will be the Legal contact for the business’ Custody offering and assist with providing advice to various other parts of the business, and in particular providing and coordinating legal input to support the Business Development, Financial Products and other revenue functions. He/she will also be expected to be comfortable assisting the Legal team with a broad range of other legal matters.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Primary Legal contact to support Group’s Custody business line and other growth projects, including:&lt;/span&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provision of legal input in response to business strategy set by management, working closely with internal and external stakeholders and advisers, such as licensing or geographic expansion initiatives&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordination of Legal-led, cross-functional projects such as legal and regulatory technology implementation and other technical development programmes with significant legal-driven components&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with technology teams and security functions to provide commercially-driven legal solutions&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;Assistance with assessment and proactive management of legal risk management across strategic growth projects&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Providing and coordinating Legal input on new structured product and business line initiatives, including:&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reviewing proposals for business growth and assisting with feasibility review&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advising on structuring and documentation for new products and business lines (working with internal and external legal input)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assisting with implementation and execution of new products&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instructing and communicating with external legal counsel as necessary&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Thought leadership within the Legal team as well as the wider business&lt;/li&gt;
-&lt;li&gt;Assisting with any specific matters requested by the Co-Heads of Legal, which may include advising on and drafting contracts, monitoring and advising on applicable and developing rules and regulations, assessing and advising on other legal risks affecting the Group, and advising on internal policies and procedures&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3-6 years of post-qualification legal experience in a common law jurisdiction&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience advising, or working in, the banking and custodian sector&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing projects with a regulatory, accounting or tax-efficiency dimension&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Structured products and derivatives experience, with a track record of structuring and executing a range of complex, cross-border transactions&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in the digital assets sector and curiosity to learn about a dynamic and emerging industry&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working autonomously and under time pressure&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A critical thinker with an ability to communicate clearly&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593348002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/profile_BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <taxonomies_category><![CDATA[]]></taxonomies_category>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-    <category><![CDATA[{category}]]></category>
+    <category><![CDATA[]]></category>
   </job>
 </jobs>
