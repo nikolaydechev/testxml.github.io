@@ -1,6 +1,6 @@
 <jobs>
 <job>
-    <title><![CDATA[Senior Accountant]]></title>
+    <title><![CDATA[Full Stack Developer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Amun Tokens]]></company>
@@ -13,43 +13,48 @@
     <country><![CDATA[]]></country>
     <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Amun 21Shares is looking to hire a Staff Accountant to join its rapidly growing finance team in its New York City office.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Our Stack:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Review, prepare and post monthly journal entries including working with other teams to ensure completeness of accruals and proper revenue recognition&lt;/li&gt;
-&lt;li&gt;Maintain Fixed Asset, Intangible and Prepaid schedules&lt;/li&gt;
-&lt;li&gt;Reconcile monthly bank, credit card and cryptocurrency accounts/wallets&lt;/li&gt;
-&lt;li&gt;Prepare and analyze monthly and quarterly account reconciliations&lt;/li&gt;
-&lt;li&gt;Perform financial analyses, including balance sheet and income statement fluctuations analyses&lt;/li&gt;
-&lt;li&gt;Close general ledger monthly and prepare for internal and external reporting&lt;/li&gt;
-&lt;li&gt;Assist with the preparation of financial statements on an IFRS basis&lt;/li&gt;
-&lt;li&gt;Assist in the preparation of regulatory filings&lt;/li&gt;
-&lt;li&gt;Work closely with external auditors in year-end audit process&lt;/li&gt;
-&lt;li&gt;Assist with the design and implementation of proper internal controls to ensure a high degree of completeness and accuracy of the financial statements&lt;/li&gt;
-&lt;li&gt;Ad-hoc assignments and special projects&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;AWS infrastructure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Postgresql&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Node backend (Typescript, feathersjs)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Vue and React on the frontend&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Python and Golang in the mix as well&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements / Qualifications:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job Summary:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for a talented Software Engineer with &amp;gt; 5 years of experience in software development. You will be responsible for developing, testing, and maintaining code across our mission-critical products.&amp;nbsp; Your tasks will range from bug fixing to extending our platform new features and to creating whole new systems, services and applications.&amp;nbsp; Your projects will be cutting edge and unique in the crypto industry and there will be massive opportunities to learn new technologies within crypto and in general.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our culture is about diversity, communication, collaboration and education.&amp;nbsp; We are always working together across continents, building amazing experiences and learning along the way.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Accountabilities and Scope:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Undergraduate degree in Accounting or related field&lt;/li&gt;
-&lt;li&gt;2+ years of experience in corporate accounting and/or audit&lt;/li&gt;
-&lt;li&gt;CPA&lt;/li&gt;
-&lt;li&gt;Asset management or general financial services experience, preferred&lt;/li&gt;
-&lt;li&gt;Public accounting experience, preferred&lt;/li&gt;
-&lt;li&gt;IFRS experience, preferred&lt;/li&gt;
-&lt;li&gt;Strong analytical skills, both quantitative and qualitative&lt;/li&gt;
-&lt;li&gt;Intermediate to advanced MS Excel skills&lt;/li&gt;
-&lt;li&gt;Strong attention to detail and accuracy&lt;/li&gt;
-&lt;li&gt;Resourceful self-starter, with strong problem-solving skills&lt;/li&gt;
-&lt;li&gt;A collegial and collaborative team player&lt;/li&gt;
-&lt;li&gt;Strong organizational skills; ability to handle a diverse workload in a deadline driven environment&lt;/li&gt;
-&lt;li&gt;An interest in cryptocurrencies&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help Design, develop, and maintain our technical platform, architecture and systems.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Communicate regularly and clearly with other team members and also with other ecosystem participants.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create high quality software documentation and other written assets to document and explain the system design and how the system functions.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify opportunities to improve existing systems/workflows for performance, speed, and accuracy.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with engineers, designers, and leadership to turn our product and technical vision into deliverables each quarter.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Skills Required:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You care about building high-quality well-tested code, at scale&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Minimum 5 years of working experience as a full-stack software engineer&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with at least one strongly typed language and one duck typed language&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience developing apis, backend microservices and database design&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with front end technologies including 1 or more client side js and CSS frameworks&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience developing responsive &amp;amp; rich interactive web applications both extending existing applications and developing from the ground up&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiar with the OSI model, especially regarding HTTP and websockets&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You enjoy being a part of a feedback culture with shared code ownership and want to make a difference worldwide&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The ability to work hands on as a software engineer in an agile environment with a modern tech stack&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Degree in Engineering or Computer Science (M.sc. preferred)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ve built high reliability or security systems, and understand the importance of code robustness and quality in financial domain&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding Blockchain, or at least very curious about Blockchain and willing to learn and keep at the forefront of cryptocurrency continually&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4101760004?ref=crypto-careers.com#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4087922004?ref=crypto-careers.com#app]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[alexander+Amun Tokens@crypto-careers.com]]></contact_email>
@@ -60,63 +65,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Amun Tokens]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[VP of Product]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Amun Tokens]]></company>
-    <company_url><![CDATA[https://amun.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[New York, New York, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for a VP of Product to lead and expand our growing Product team! The ideal candidate is an experienced product owner who turns complex ideas into simple, engaging user experiences. This person must be an exceptional people leader &amp;amp; manager who has built product teams in a cross functional, growth stage environment.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Lead our team of 5 PMs across our three product lines including our consumer facing platforms, tokenized products and our ETP management software&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with other members of leadership to shape a strategic product roadmap that allows us to continue to scale our business and impact&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with Design, Engineering &amp;amp; other teams across the organization to ensure we’re aligned on our goals and building the right products for our customers&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensuring that we’re optimizing the way we ideate and deliver on new products and features, focusing on building the right products with high velocity and continuous improvement&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build an exceptional team of Product Managers &amp;amp; Designers that allow us to deliver new products &amp;amp; features to our users at a high velocity without sacrificing quality&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build a culture of action, ownership and learning while setting up efficient and lightweight process&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Job Requirements:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of product experience, 2+ years of managing / leading a team&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Startup experience and/or mentality, required&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fintech / crypto experience, a plus&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience as a Product leader with a mix of owning product roadmaps and building teams of Product Managers and Designers&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A strong track record of delivering products that create value for customers/users&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience successfully translating a vision into an executable product strategy&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong intuition around culture and how to hire people who align with our operating principles&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An ability to turn complex problems and ideas into simple user experiences&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A desire to be a builder rather than optimize, someone who is motivated by building teams and products from an early stage&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A desire to continuously learn and grow, ideally someone who isn’t afraid to take risks and knows how to learn from failures to always be improving&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4135469004?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[alexander+Amun Tokens@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Head of Communications]]></title>
@@ -167,9 +116,10 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
   </job>
 <job>
-    <title><![CDATA[VP, Compliance]]></title>
+    <title><![CDATA[Head of Marketing, Tokens]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Amun Tokens]]></company>
@@ -182,95 +132,33 @@
     <country><![CDATA[]]></country>
     <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As VP of Compliance, you will play a critical role in the success of our business. You will report to the COO with a secondary reporting line directly to the boards of directors of the different group entities.&amp;nbsp; Your responsibilities will include but are not limited to:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;O&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;verall responsibility for the design, implementation and effectiveness of compliance programs within the United States and management of the same across other jurisdictions.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensuring the ongoing creation and ongoing review of policies and procedures and compliance to ensure compliance with the Investment Company Act, Advisors Act and applicable SEC, CFTC and FINRA regulations&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advising on AML/KYC requirements within the United States and internationally&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Appropriately and proactively identifying, evaluating, investigating and resolving compliance &amp;amp; risk issues/concerns&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ongoing compliance testing&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Responsible for all regulatory compliance correspondence&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conducting or ensuring provision of compliance education and training of all staff Perform all firm regulatory filings and work with appropriate teams to obtain the data needed&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with and monitoring any external parties in respect of any outsourced compliance functions&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Responsible for employee form filings and licenses: (Series licensing and Form U4s)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate in certain company Committees as required (e.g., risk committee)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Performing electronic communications reviews&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Acting as the BSA/AML and Privacy Officer&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with teams and advisers in other jurisdictions to apply local compliance &amp;amp; risk standards in a consistent and aligned manner&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Providing timely and high-quality compliance and risk advice to the business and functions, and ensuring business needs are being met&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Being a point of contact for and having a transparent relationship and mutual understanding with the relevant regulators and monitoring authorities&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Helping local/regional/global staff by answering risk &amp;amp; compliance related questions and responding to requests&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identifying and assessing compliance risks through an active monitoring and testing program&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creating a positive and engaging compliance spirit and risk awareness within the business&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Supporting the business by advising on new product &amp;amp; services development&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Involved in new projects and new activities in order to timely assess and address the (compliance) risks associated with the project and activity&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;We are looking for candidates who:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5-7 years&#39; experience in asset management compliance, consultancy or internal audit involving some or all of the following: risk identification, controls development, control monitoring, training, and oversight of activities&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working within the SEC, FINRA and CFTC regulated entities and investment companies&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Worked within global businesses or have a good working understanding of compliance regimes particularly within Europe&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience or a keen interest in digital assets and the regulatory environment for digital assets is a plus&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent knowledge of the Investment Company Act of 1940, the Investment Advisor Act of 1940 (along with related rules), and regulatory standards/best practices for U.S Registered Investment Advisors required; experience with FINRA regulations highly desired&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent interpersonal, presentation, written and oral communication skills including writing board materials and presenting at board meetings&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to identify regulatory issues and work independently to develop solutions&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to liaise with all levels of management&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong attention to detail and analytical skills&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4145619004?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[alexander+Amun Tokens@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Amun Tokens]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Crypto Marketing Coordinator, Tokens]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Amun Tokens]]></company>
-    <company_url><![CDATA[https://amun.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[New York, New York, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Amun 21Shares is looking for a&amp;nbsp;&lt;strong&gt;Marketing Coordinator&lt;/strong&gt; to help establish Amun Tokens as a world-class DeFi platform. This Marketing Coordinator will be responsible for executing the marketing strategy, including community management and engagement, events, demand generation, digital marketing, content and more. The perfect candidate thrives in a creative environment.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Amun 21Shares is looking for a &lt;strong&gt;Head of Marketing, Tokens&lt;/strong&gt; to help establish Amun Tokens as a world-class DeFi platform. This Head of Marketing will be responsible for executing the marketing strategy, including community management and engagement, events, demand generation, digital marketing, content and more. The perfect candidate thrives in both marketing strategy and execution.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What You Will Do&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the product and marketing teams to build Amun’s brand and accelerate growth.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and execute growth campaigns&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage our social media, including Twitter (drafting quality tweets, increasing followers, etc.) and Discord (organizing our channels, building ambassador programs, etc.)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Set up, monitor, and share analytics and emerging issues in a timely manner.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conceptualize and build Amun’s brand, voice, and identity&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop a global marketing plan for Amun Tokens&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build strategic, mutually-beneficial partnerships with key players in the ecosystem&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Optimize a marketing team to develop top-tier content and events&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Plan and execute in-house events and proactively approach third-party event opportunities&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Set ambitious growth goals and monitor progress using data and analytics&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Who You Are&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3+ years of experience in marketing and communications &lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing social media accounts, required&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deeply fluent in crypto and crypto culture, required&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A hospitality/service mindset&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent writing skills&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus: you make great memes, podcasts, or videos.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience working in digital or experiential marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A crypto enthusiast with experience in marketing, comms or brand in the fin-tech or crypto space&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience creating and executing creative and effective campaigns&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proven success in executing event strategy&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exceptional partnerships and relationship skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A wonderful collaborator and communicator&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Capable of managing a team and budget&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Experience developing and executing a marketing strategy&lt;/li&gt;
 &lt;/ul&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4147767004?ref=crypto-careers.com#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4147756004?ref=crypto-careers.com#app]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[alexander+Amun Tokens@crypto-careers.com]]></contact_email>
@@ -281,6 +169,141 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Data Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Amun Tokens]]></company>
+    <company_url><![CDATA[https://amun.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Our Stack:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;AWS infrastructure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Postgresql&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Node backend (Typescript, feathersjs)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Vue and React on the frontend&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Python and Golang in the mix as well&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Job Summary:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for a savvy &lt;strong&gt;Data Engineer&lt;/strong&gt; to join our growing team of analytics experts. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our culture is about diversity, communication, collaboration and education.&amp;nbsp; We are always working together across continents, building amazing experiences and learning along the way.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Accountabilities and Scope:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create and maintain optimal data pipeline architecture,&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assemble large, complex data sets that meet functional / non-functional business requirements.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Keep our data separated and secure through multiple data centers and AWS regions.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with data and analytics experts to strive for greater functionality in our data systems.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills Required:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You care about building high-quality well-tested code, at scale&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong analytic skills related to working with unstructured datasets.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build processes supporting data transformation, data structures, metadata, dependency and workload management.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A successful history of manipulating, processing and extracting value from large disconnected datasets.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong project management and organizational skills.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience supporting and working with cross-functional teams in a dynamic environment.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for a candidate with 5+ years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. They should also have experience using the following software/tools:&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with big data tools: Hadoop, Spark, Kafka, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with AWS cloud services: EC2, EMR, RDS, Redshift&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with stream-processing systems: Storm, Spark-Streaming, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding Blockchain, or at least very curious about Blockchain and willing to learn and keep at the forefront of cryptocurrency continually&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with Financial engineering and financial data - Big advantage&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4157469004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[alexander+Amun Tokens@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ Data Science ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Talent Acquisition Partner, Corporate & Financial Services]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Amun Tokens]]></company>
+    <company_url><![CDATA[https://amun.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for an experienced &lt;strong&gt;Corporate Recruiter&lt;/strong&gt; to join our growing People team at Amun 21Shares. This role will be responsible for full-cycle technical recruiting and will report directly to the VP of People.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage full-cycle recruiting for multiple, complex searches.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create and implement innovative sourcing and engagement strategies to bring the best talent to Amun 21Shares.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate closely with hiring managers throughout the recruiting process to ensure alignment and maintain established interview velocity.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Learn multiple parts of the organization to make informed decisions and prioritize on behalf of the hiring teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Effectively communicate mission and culture and help candidates understand value proposition of company&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proactively contribute to improving recruiting practices by challenging the status quo and providing suggestions for improvement&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3+ years of experience as a full­-cycle recruiter&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Financial Services recruiting, preffered&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fin-tech startup experience, plus but not required&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto experience, plus but not required&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;You are:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data-minded with a strong attention to detail (i.e. love to build out and organize Greenhouse)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Builder and thrives in a hyper-growth environment (i.e. startup experience, growth mindset, etc.)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exceptional project management skills (i.e. managing many searches at once, juggling conflicting priorities, etc.) &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4158927004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[alexander+Amun Tokens@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
     <title><![CDATA[BD Partner, Enterprise (B2C)]]></title>
@@ -350,6 +373,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[a16z]]></employer_name>
+    <category><![CDATA[ Sales And Business Development ]]></category>
   </job>
 <job>
     <title><![CDATA[Bio Vertical Lead]]></title>
@@ -427,6 +451,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[a16z]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
     <title><![CDATA[Associate Partner, Enterprise Market Development]]></title>
@@ -493,6 +518,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[a16z]]></employer_name>
+    <category><![CDATA[  ]]></category>
   </job>
 <job>
     <title><![CDATA[Recruiting Coordinator]]></title>
@@ -563,6 +589,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[a16z]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Recruiter, Crypto]]></title>
@@ -636,9 +663,41 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[a16z]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Android Engineer (Remote, Europe only)]]></title>
+    <title><![CDATA[Remote Software Engineer - Core Systems]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Audius]]></company>
+    <company_url><![CDATA[https://audius.co/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b>Who are we? </b></div><div><a href="https://audius.co/" class="postings-link">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music.&nbsp;</div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence.&nbsp;</div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link">investors</a>, Audius was founded in 2018 and serves over 4,000,000 users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players to help us architect and build the most difficult parts of the <a href="http://whitepaper.audius.co/" class="postings-link">Audius protocol</a> (high availability services for decentralized replication of data, latency-sensitive distributed file transfers, Ethereum smart contracts, infrastructure and tooling for third parties to run our open source services). You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. You’re eager to jump into multiple parts of our tech stack and have strong CS fundamentals to do so. We solve a lot of problems that can't be easily Googled or searched on StackOverflow.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 18-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote forever and our team is currently distributed across the United States. </div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/audius/aac3b3c1-5df3-48b2-8041-32af771a222b/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/9eb470f6-526f-44fe-8217-68f8b251dad6_Audius-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[alexander+Audius@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[O59ohLFoUCncc5Tligww]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Audius]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Experienced Blockchain Engineer (Remote, Europe only)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Argent]]></company>
@@ -650,9 +709,9 @@
     <zip/>
     <country><![CDATA[]]></country>
     <description><![CDATA[Description
-Join us as we get ready to bring crypto's benefits to millions more people. You'll play a vital part by delivering outstanding UX and unrivalled security. This will draw on your experience building top-tier apps that you're proud of, quickly shipping features, and taking ownership of the entire development lifecycle.
+<p>We're looking for an experienced Solidity engineer to help us bring Ethereum to millions more people with our <a href="https://www.argent.xyz/blog/layer-2-plans/" rel="nofollow noreferrer noopener" class="external">Layer 2 launch</a>. Our L2 wallet will be smooth, secure and have radically lower gas - all while keeping the unique experience Argent is known for.</p><p>We're aiming for a breakthrough in the global adoption of crypto.</p><ul> <li>On Layer 1, you'll help us integrate more Defi protocols to the existing <a href="https://www.argent.xyz/blog/vault/" rel="nofollow noreferrer noopener" class="external">Argent Vault</a> which combines multisig security with one tap DeFi and protects over $1bn in assets.</li> <li>On Layer 2, you'll help us bring our unique smart-contract model to key rollups. We're starting on zkSync but will expand to other L2s, such as Optimism, Starkware and Arbitrum afterwards.</li> </ul><p>For both initiatives you'll take ownership of the entire smart contract development lifecycle, including managing relations with partners and deploying the contracts to our test and production environments.</p>
 Requirements
-<ul> <li>5 years experience building top tier Android apps, minimum 2 years in Kotlin</li> <li>Strong computer science fundamentals</li> <li>Focused on delivering great UX</li> </ul><p><em>Expert knowledge of:</em></p><ul> <li>RxJava usage (minimum 2 years of experience)</li> <li>The Android framework: lifecycles, memory management, Gradle</li> <li>Network protocols and data persistence techniques</li> </ul><p><i><em>Experience with:</em></i></p><ul> <li>Common Android libraries such as Retrofit, Room, Glide, and Dagger.</li> <li>Testing Android apps with unit tests and UI tests</li> <li>Continuous Integration and source control</li> <li>Implementing security best practices for safeguarding data on a mobile device</li> </ul><p><strong>The app</strong></p><p>The Argent app is written mostly in Kotlin. We use RxJava extensively as it helps us to work with concurrency issues and react to changes as soon as they happen. We also use proven libraries like Glide, Retrofit, Lottie and the latest AndroidX libraries.</p>
+<p><strong><em>Essential</em></strong></p><ul> <li>3+ years as a software engineer</li> <li>1+ years experience developing top tier smart contracts on mainnet</li> <li>Deep understanding of Solidity, Assembly, and the EVM</li> <li>Writing code that's clean, easy to audit, yet efficient in terms of deployment, execution and maintenance.</li> <li>Experience with smart-contract patterns such as upgradability, proxy wallets, meta-transactions, and counterfactual deployment</li> <li>Good knowledge of the L2 ecosystem, with a deep understanding of ZK and Optimistic rollups.</li> </ul><p><strong><em>Nice to have</em></strong></p><ul> <li>Passionate about the evolution of Solidity and the EVM</li> <li>Being an active member of the dev community (e.g. experience contributing to EIPs)</li> <li>Ability to work well with design, mobile platform and backend teams</li> <li>Enjoys working on unfamiliar problems, challenging others and being challenged in turn</li> <li>Knowledge of Rust, Javascript, Typescript or Node.js is a plus</li> </ul>
 Benefits
 <ul> <li> <em>Work remotely</em> - anywhere in Europe (but Europe only). No commute. Lots of flexibility. Plenty of time to care for your kids or cats.</li> <li> <em>Equity</em> in a high growth startup backed by the investors of Spotify and Slack.</li> <li> <em>Autonomy</em> - you decide how to achieve your best work.</li> <li> <em>Trips across Europe</em> - for one week every three months we collaborate in person, explore new solutions and have fun. So far we’ve stayed in Nice, Toulouse, Brussels, Lisbon and Barcelona. We'll resume these when safe following COVID.</li> <li> <em>Equipment</em> - pick the tech setup of your choice.</li> <li> <em>Parental leave </em>- generous package for new parents.</li> <li> <em>Build a new industry - </em>help define the future of the web.</li> </ul><h3>Our values</h3><p>You can find more information on each of our values <a href="https://www.notion.so/argenthq/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">here</a>.<img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/455656/00e08f56c9affe9be612393fb1fb3b34.png"></p>]]></description>
     <jobtype><![CDATA[]]></jobtype>
@@ -660,7 +719,7 @@ Benefits
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/6C69D299DE//apply?ref=crypto-careers.com]]></apply_url>
+    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/8DE6F97931/apply?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/fbd56c41-fafc-4fc3-9142-a5fcc0b27038_argent-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[alexander+Argent@crypto-careers.com]]></contact_email>
@@ -671,9 +730,10 @@ Benefits
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Argent]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior iOS Engineer (Remote, Europe only)]]></title>
+    <title><![CDATA[Technical Recruiter (Remote, Europe only)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Argent]]></company>
@@ -684,18 +744,13 @@ Benefits
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[Description
-<p>Join us as we get ready to bring crypto's benefits to millions more people. You'll play a vital part by delivering outstanding UX and unrivalled security. This will draw on your experience building top-tier apps that you're proud of, quickly shipping features, and taking ownership of the entire development lifecycle.</p><h3></h3>
-Requirements
-<ul> <li>5 years experience building top tier iOS apps, minimum 3 years in Swift</li> <li>Strong computer science and security fundamentals</li> <li>Focused on delivering great UX</li> </ul><p><em><strong>Expert knowledge of:</strong></em></p><ul> <li>The Apple ecosystem - everything from UIKit animation and navigation stacks down to Keychain and Operation Queues</li> <li>Debugging iOS apps - memory management, object lifecycle, view hierarchy</li> <li>Network protocols and data persistence techniques</li> </ul><p><i><em><strong>Experience with:</strong></em></i></p><ul> <li>Testing iOS apps with unit tests and UI tests</li> <li>Implementing different design patterns (i.e. Composable Architecture, Combine, Redux, MVVM)</li> <li>Implementing security best practices for safeguarding data on a mobile device</li> <li>Continuous integration and source control, App Store Connect, Certificates &amp; Entitlements</li> </ul><p><strong>The app</strong></p><p>The Argent app is 100% Swift. We use our own open source web3.swift library for communicating with the Ethereum blockchain. Our latest updates target iOS14+ so we are working with the latest frameworks.</p>
-Benefits
-<ul> <li> <em>Work remotely</em> - anywhere in Europe (but Europe only). No commute. Lots of flexibility. Plenty of time to care for your kids or cats.</li> <li> <em>Equity</em> in a high growth startup backed by the investors of Spotify and Slack.</li> <li> <em>Autonomy</em> - you decide how to achieve your best work.</li> <li> <em>Trips across Europe</em> - for one week every three months we collaborate in person, explore new solutions and have fun. So far we’ve stayed in Nice, Toulouse, Brussels, Lisbon and Barcelona. We'll resume these when safe following COVID.</li> <li> <em>Equipment</em> - pick the tech setup of your choice.</li> <li> <em>Parental leave </em>- generous package for new parents.</li> <li> <em>Build a new industry - </em>help define the future of the web.</li> </ul><h3>Our values</h3><p>You can find more information on each of our values <a href="https://www.notion.so/argenthq/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">here</a>.<img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/455656/00e08f56c9affe9be612393fb1fb3b34.png"></p>]]></description>
+    <description><![CDATA[<p>Description</p><h3>Summary</h3> <p>We believe that the future of money and the internet should be more open and fair. That everybody should have equal access to economic opportunities, and that this brave new future is possible. It can be realised through crypto.</p><p>That's why we started Argent: the world's most simple and secure smart wallet. Empowering you to control and prosper from your digital assets and identity.</p><p>We launched in 2018 and are fortunate to be backed by Silicon Valley and Europe's top investors, including <a href="https://www.paradigm.xyz/" target="_blank" rel="nofollow noreferrer noopener" class="external">Paradigm,</a> <a href="https://www.indexventures.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">Index Ventures</a>, <a href="https://www.creandum.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">Creandum</a> and <a href="https://www.firstminute.capital/" target="_blank" rel="nofollow noreferrer noopener" class="external">firstminute capital</a>. We're now getting ready to bring crypto's benefits to millions more people.</p><p>As our first Technical Recruiter you'll spearhead our efforts to find and recruit the world's best engineers. To start, you'll help us grow from 23 to 40+ over the next 18 months. The roles will range across our engineering team, from the backend to the mobile clients.</p><p>Your sourcing will be data driven and systematic, recognizing that LinkedIn usually won't work for the calibre of engineer we want.</p><p>You'll report to the Head of Strategy &amp; Operations.</p><h3>The role  </h3><ul> <li>Proactively and efficiently build a pipeline of top tier talent, spotting hidden gems and tracking candidates for future opportunities too.</li> <li>Ensure candidates have a great experience.</li> <li>Successfully sell Argent to the most sought after candidates.</li> <li>Identify candidates that fit our <a href="https://www.notion.so/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">values</a>.</li> <li>Understand what offer packages are appropriate for Argent's stage and ambition.</li> </ul><p>Requirements</p><ul> <li>3+ years recruiting experience at highly technical companies. Startup experience desirable.</li> <li>Ability to differentiate between A+ and A- engineers.</li> <li>Strong across every stage of the process, from sourcing to closing.</li> <li>Excellent written English.</li> <li>Excellent attention to detail.</li> </ul><p>Benefits</p><ul> <li> <em>Work remotely</em> - anywhere in Europe (but Europe only). No commute. Lots of flexibility. Plenty of time to care for your kids or cats.</li> <li> <em>Equity</em> in a high growth startup backed by the investors of Spotify and Slack.</li> <li> <em>Autonomy</em> - you decide how to achieve your best work.</li> <li> <em>Trips across Europe</em> - for one week every three months we collaborate in person, explore new solutions and have fun. So far we’ve stayed in Nice, Toulouse, Brussels, Lisbon and Barcelona. We'll resume these when safe following COVID.</li> <li> <em>Equipment</em> - pick the tech setup of your choice.</li> <li> <em>Parental leave </em>- generous package for new parents.</li> <li> <em>Build a new industry - </em>help define the future of the web.</li> </ul><h3>Our values</h3><p>You can find more information on each of our values <a href="https://www.notion.so/argenthq/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">here</a>.<img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/455656/00e08f56c9affe9be612393fb1fb3b34.png"></p>]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/E21C0FBC3C//apply?ref=crypto-careers.com]]></apply_url>
+    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/96BBFE6562/apply?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/fbd56c41-fafc-4fc3-9142-a5fcc0b27038_argent-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[alexander+Argent@crypto-careers.com]]></contact_email>
@@ -706,35 +761,6 @@ Benefits
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Argent]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Senior Marketing Communications Manager - Remote]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Aragon One]]></company>
-    <company_url><![CDATA[https://aragon.one/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote - Portland, ORE, USA]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://jobs.lever.co/aragonone/6fac9534-deec-4716-b307-e1e8af7b60d2/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a33db41e-1e95-4262-92d3-1b0fbc7638e0_aragon_one-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[alexander+Aragon One@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[zA20SURYdkef2cwqWu3Y5A]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Aragon One]]></employer_name>
+    <category><![CDATA[  ]]></category>
   </job>
 </jobs>
