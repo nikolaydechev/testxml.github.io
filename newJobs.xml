@@ -1,35 +1,5 @@
 <jobs>
 <job>
-    <title><![CDATA[Senior DevOps Engineer (remote)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Polymath]]></company>
-    <company_url><![CDATA[https://polymath.network/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Toronto]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://polymath.bamboohr.com/jobs/view.php?id=94&ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/146108/polymath.jpeg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[polymath@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[349137a7-5a69-4e45-926d-7ee3553c718e]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Polymath]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[Data Engineer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -80,6 +50,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Polychain Capital]]></employer_name>
+    <category><![CDATA[ Data Science ]]></category>
   </job>
 <job>
     <title><![CDATA[Finance Executive, SG/Group Entity]]></title>
@@ -110,6 +81,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Xfers]]></employer_name>
+    <category><![CDATA[ Finance & Accounting ]]></category>
   </job>
 <job>
     <title><![CDATA[Product Manager]]></title>
@@ -140,6 +112,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[11:FS]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
     <title><![CDATA[Affiliate Business Development Manager (Arabic/Eng) - Remote]]></title>
@@ -192,6 +165,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[OKEx]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
   </job>
 <job>
     <title><![CDATA[Research Analyst (Crypto) - Waterdrop]]></title>
@@ -222,6 +196,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[CertiK]]></employer_name>
+    <category><![CDATA[  ]]></category>
   </job>
 <job>
     <title><![CDATA[Director, Business Development Operations]]></title>
@@ -297,6 +272,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Forte Labs]]></employer_name>
+    <category><![CDATA[ Sales And Business Development ]]></category>
   </job>
 <job>
     <title><![CDATA[Crypto* Talent Acquisition Manager]]></title>
@@ -327,6 +303,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Ledger]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
     <title><![CDATA[Director of Business Development, Memberships]]></title>
@@ -357,6 +334,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[The Block]]></employer_name>
+    <category><![CDATA[ Sales And Business Development ]]></category>
   </job>
 <job>
     <title><![CDATA[Recruiter]]></title>
@@ -387,6 +365,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Latoken]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
     <title><![CDATA[Lead Product Manager, Signing]]></title>
@@ -464,6 +443,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Gemini]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
     <title><![CDATA[Global Recruitment Manager]]></title>
@@ -530,6 +510,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Digital Assets Holding]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
     <title><![CDATA[Software Engineer, New Grad]]></title>
@@ -560,6 +541,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Celo]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Risk Operation Analyst]]></title>
@@ -579,7 +561,7 @@
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/crypto-dot-com/j/2EE8645201//apply?ref=crypto-careers.com]]></apply_url>
+    <apply_url><![CDATA[https://apply.workable.com/crypto-dot-com/j/2EE8645201/apply?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/180888/cryptocom.png]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[careers@crypto.com]]></contact_email>
@@ -590,6 +572,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Crypto.com]]></employer_name>
+    <category><![CDATA[ Finance & Accounting ]]></category>
   </job>
 <job>
     <title><![CDATA[Blockchain/Solidity Developer (Codefi)]]></title>
@@ -670,6 +653,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Consensys]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Full Stack Web Developer]]></title>
@@ -745,6 +729,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Chainalysis]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Backend Developer (Remote)]]></title>
@@ -844,6 +829,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Current Media]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Crypto Research Analyst]]></title>
@@ -874,6 +860,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Kraken]]></employer_name>
+    <category><![CDATA[  ]]></category>
   </job>
 <job>
     <title><![CDATA[Account Manager]]></title>
@@ -956,6 +943,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitcoin Depot]]></employer_name>
+    <category><![CDATA[ Sales And Business Development ]]></category>
   </job>
 <job>
     <title><![CDATA[Head of Product Marketing]]></title>
@@ -1038,6 +1026,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[PayStand]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
   </job>
 <job>
     <title><![CDATA[Market Data Systems Engineer]]></title>
@@ -1097,6 +1086,7 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[DRW]]></employer_name>
+    <category><![CDATA[  ]]></category>
   </job>
 <job>
     <title><![CDATA[Software Engineer]]></title>
@@ -1159,5 +1149,6 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Circle]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 </jobs>
