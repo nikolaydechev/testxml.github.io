@@ -1,2 +1,1035 @@
 <jobs>
+<job>
+    <title><![CDATA[Head of Security]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Tari Labs]]></company>
+    <company_url><![CDATA[https://www.tari.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><span style="font-size: 11pt">Tari Labs, a digital assets-focused blockchain organization that believes privacy on the internet should be pervasive and available to all, was co-founded by Naveen Jain (who also founded Sparkart). And in case you’re worried about funding (stability), Yat is backed by Blockchain Capital, Pantera Capital, Multicoin Capital, Trinity Ventures, Redpoint Ventures, Canaan Partners, and Slow Ventures (as well as some of the best investors in the world).</span></div><div><br></div><div><span style="font-size: 11pt">Yat is the brainchild of Tari Labs. It’s really about connecting to the universal language of visual representation in a whole new way, one that celebrates individuals, community, and everyone’s right to privacy in the digital realm. We don’t want to say we’re changing the world, but yeah, we are.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">We also happen to be one of the fastest-growing consumer products of all time (👑 us) and as such needs an incredibly talented team dedicated to making sure it’s continued 🚀from here on out.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">As Tari Labs Head of Security, you will be responsible for overseeing the design, implementation, monitoring, and governance of Tari Labs’ information security framework across all internal and external systems (e.g., Cloud, SaaS, Codebase, etc.). Reporting to the Tari Labs CTO, you will establish security policies, controls, cyber incident response plans, security audit processes, and reporting. You will provide oversight as to best security practices in software architecture and in selecting technology partners.</span></div><div><br></div><div><span style="font-size: 11pt">And who are you? Well, we’re hoping you’re someone who takes the exceptional and exceeds it, who rolls up their sleeves and gets their hands dirty, and who wants to take a step outside the ordinary to create a world that’s more beautiful, fun and privacy-oriented</span></div><div><br></div><div><span style="font-size: 11pt">Our ideal candidate has led security practices, policies, and initiatives in new product development - with a track record in deploying Cloud/SaaS securely at scale - including a thorough understanding of best security practices in operating agile software development environments.</span></div><div><br></div><div><span style="font-size: 11pt">If that sounds like you, join us.</span></div><br/>What You’ll Do:<br/><li>Overall responsibility for the design, implementation, monitoring, and governance of Tari Labs’ information security framework.</li><li>Direct and approve the design of security systems; ensure compliance with the changing laws and applicable regulations.</li><li>Ensure that cyber incident response, disaster recovery, and business continuity plans are in place and tested.</li><li>Facilitate post-incident investigations, including impact analysis and recommendations for avoiding similar vulnerabilities.</li><li>Provide guidance on and approve identity and access policies and systems; perform periodic security audits.</li><li>Lead security engineering practices across the organization, whether through direct team members or engineering specialists embedded within product engineering or specialist IT teams.</li><li>Build a proactive, security-responsible culture; establish communications and training to propagate cyber security policies and procedures throughout the organization.</li><li>Provide briefings to Tari Labs executive level on security status, risks, and incident response.</li><li>Lead with high energy, engagement, integrity, and professionalism.</li><li>Must have experience researching and evaluating emerging technology, industry, and market trends to assist in enhanced cybersecurity resilience.</li><li>Must have proven experience with Cloud Security, Application Security, Operations, and Identity Management.</li><br/>Requirements:<br/><li>Bachelors degree or equivalent Cyber Security certifications such as CISSP, CISM.&nbsp;</li><li>8+ years of cyber security experience leading key initiatives, establishing and enforcing policy, and working across an entire organizational scope.</li><li>5+ years of technical leadership and management experience.</li><li>High level of independent judgment and decision-making.</li><li>Clear, transparent, proactive, and effective communicator and leader.</li><li>Action-oriented and drives for results.</li><br/>Benefits:<br/><li>100% Remote</li><li>A chance to work on an open-source system that will have a global impact.</li><li>Highly competitive compensation package</li><li>Comprehensive benefits, including up to 100% paid medical, dental, &amp; vision insurance coverage for you &amp; your loved one.</li><li>401k program&nbsp;</li><li>An Oculus Quest 2 - Our All Hands meetings and Engagement events are done in VR</li><li>Flexible work schedule and paid time to create your work/life harmony</li><li>An international team of highly talented and engaged people from different cultural backgrounds and locations.</li><li>The latest technology and equipment to do your best work from your home office</li><li>Be an OG in a young project that is already making 🌊</li><div><span style="font-size: 11pt">That's all to say: these job listings are approximations!&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">If you're a curious and passionate person, we want to hear from you. We are all generalists who like to dip our toes into different fields and skillsets, so if a job isn't a 100% fit, don't worry!</span></div><div><br></div><div><span style="font-size: 11pt">We’re proud to be an equal opportunity employer. We only care that you’re the best person for the job.</span></div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/tari/e0a9e19a-a592-44f3-9e83-6d0d658b57e7/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/389046/tarilabs.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[tarilabs@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[20082bd3-12ce-46ad-8d7f-d896825fa014]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Tari Labs]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Build & Release Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Akuna Capital]]></company>
+    <company_url><![CDATA[https://akunacapital.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Chicago, IL]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About Akuna:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Our Founding Partners, including Akuna’s CEO Andrew Killion, first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, and Boston.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;What you’ll do as a&amp;nbsp;Build&amp;nbsp;&amp;amp;&amp;nbsp;Release&amp;nbsp;Engineer&amp;nbsp;at Akuna:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:2,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:350}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Akuna&amp;nbsp;is looking for&amp;nbsp;a&amp;nbsp;Build&amp;nbsp;&amp;amp;&amp;nbsp;Release Engineer to implement, maintain,&amp;nbsp;and constantly improve&amp;nbsp;its&amp;nbsp;build ecosystem. This is an opportunity for an experienced&amp;nbsp;engineer to&amp;nbsp;help&amp;nbsp;architect and implement the future of&amp;nbsp;Akuna’s&amp;nbsp;CI/CD&amp;nbsp;infrastructure platform.&amp;nbsp;You will be a part of a fast-paced environment, collaborating with&amp;nbsp;software and infrastructure&amp;nbsp;engineers,&amp;nbsp;and designing CI systems to optimize the build, test, and deployment cycle times for multiple teams and codebases.&amp;nbsp;If you&#39;re passionate about&amp;nbsp;continuous&amp;nbsp;integration, delivery,&amp;nbsp;and deployment at scale, this is&amp;nbsp;an ideal&amp;nbsp;role.&amp;nbsp;&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;In this role, you will:&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:2,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:350}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Develop and maintain&amp;nbsp;Akuna’s&amp;nbsp;enterprise build system and the infrastructure that powers it&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Lead the design and development&amp;nbsp;of&amp;nbsp;our next generation Continuous Integration &amp;amp; Delivery system, which powers our polyglot&amp;nbsp;(C++, Python, JavaScript, C#, Scala)&amp;nbsp;set of platforms&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Modernize&amp;nbsp;our&amp;nbsp;tooling for faster build times&amp;nbsp;and&amp;nbsp;accelerate developer productivity&amp;nbsp;and deployment velocity&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Work closely with&amp;nbsp;our&amp;nbsp;engineering teams&amp;nbsp;to identify developer pain points and eliminate them&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-contrast=&quot;none&quot;&gt;Automate operational tasks, streamline our processes to scale, and identify process and technology gaps&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Partner with&amp;nbsp;development and infrastructure&amp;nbsp;teams to keep environments healthy, including triage and support&amp;nbsp;as&amp;nbsp;necessary&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Help educate and level up the broader organization as it relates to Continuous Delivery and SDLC best practices&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Qualities that make great candidates:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;3+ years&amp;nbsp;of&amp;nbsp;experience with distributed build and CI systems for large scale products,&amp;nbsp;spanning&amp;nbsp;from build&amp;nbsp;through&amp;nbsp;to release&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Experience with continuous integration / continuous delivery platforms such as GitLab (preferred), Jenkins, Azure&amp;nbsp;DevOps&amp;nbsp;or equivalent solutions&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You have breadth of knowledge on a variety of techniques and tools in the areas of build, test, deploy, and release&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Hands-on experience building C++ applications and systems at scale, using technologies such as Clang/GCC,&amp;nbsp;CMake,&amp;nbsp;Conan, Ninja,&amp;nbsp;ccache,&amp;nbsp;and&amp;nbsp;distcc&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Passion for&amp;nbsp;building&amp;nbsp;systems that provide both reliability and timeliness, can scale according to demand, and protect developers from mechanically identifiable issues&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Experience using scripting languages&amp;nbsp;and configuration-as-code best practices&amp;nbsp;for automation and&amp;nbsp;to create end-to-end solutions&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Demonstrated expertise&amp;nbsp;with cloud platforms like AWS, GCP, or Azure,&amp;nbsp;and managing containers (Docker) and orchestration (Kubernetes, EKS, Nomad) at scale&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Experience with tools such as&amp;nbsp;valgrind,&amp;nbsp;vtune,&amp;nbsp;gperftools,&amp;nbsp;gtest&amp;nbsp;is highly beneficial&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;18&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Hands-on, collaborative working style, with the ability to build relationships with multiple teams&amp;nbsp;and stakeholders at all levels&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;134233279&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=_tT7wJWEWy8" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.akunacapital.com/job-details?gh_jid=3650275&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/195886/akuna.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[akiuna@crypto-careerrs.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9b05d9bd-e49a-47fe-8b17-9f153850eba3]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Akuna Capital]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Biz Ops & Strategic Finance]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Alchemy]]></company>
+    <company_url><![CDATA[https://alchemyapi.io/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[San Francisco & New York]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><a href="https://www.alchemy.com/company" class="postings-link">Our mission</a> is to bring blockchain to a billion people. The Alchemy Platform is a world class developer platform designed to make building on the blockchain easy. We've built leading infrastructure in the space, powering over $45 billion in transactions for tens of millions of users in 99% of countries worldwide. </div><div><br></div><div>The Alchemy team draws from decades of deep expertise in massively scalable infrastructure, AI, and blockchain from leadership roles at leading companies and universities like Google, Microsoft, Facebook, Stanford, and MIT. </div><div><br></div><div>Alchemy recently raised a <a href="https://techcrunch.com/2021/10/28/aws-for-blockchain-alchemy-boost-valuation-to-3-5b-with-250m-raise/" class="postings-link">Series C</a> led by a16z at a $3.5B valuation, having previously raised from Coatue, Addition, Stanford University, Coinbase, the Chairman of Google, Charles Schwab, and the <a href="https://alchemy.com/company#investors" class="postings-link">founders and executives</a> of leading organizations.</div><div><br></div><div>Alchemy powers the top blockchain companies globally and has been featured in <a href="https://techcrunch.com/2021/04/28/alchemy-raises-80m-at-a-505m-valuation-to-be-the-aws-for-blockchain/" class="postings-link">TechCrunch</a>, <a href="https://www.forbes.com/sites/ninabambysheva/2021/06/08/the-future-of-crypto-and-blockchain-fintech-50-2021/?sh=6791bad153b1" class="postings-link">Forbes</a>, <a href="https://www.bloomberg.com/news/articles/2021-03-21/nfts-mushroom-into-billion-dollar-market-with-help-from-alchemy?srnd=premium" class="postings-link">Bloomberg</a>, and <a href="https://www.alchemy.com/newsroom" class="postings-link">elsewhere</a>.&nbsp;</div><div><br></div><div><b style="font-size: 13.5pt">The Role</b></div><div><span style="font-size: 11pt">This role is a great opportunity to play a meaningful role and develop strategic initiatives at a high growth, mission-driven company. As an early hire on the Business Operations / Strategic Finance team, you will be in a unique position to help scale our strategic analysis, forecasting, and reporting capabilities while working cross-functionally to turn key insights into impact. The ideal candidate will have strong analytical and strategic thinking skills, keen attention to detail, and enjoys working in a fast-paced, dynamic environment.</span></div><br/>What You'll Do<br/><li>Apply business judgement and financial insights to assist with decision making related to unit economics, margin levers, core business expansion, and new opportunities</li><li>Partner cross-functionally to drive strategic decision making and initiative prioritization</li><li>Work closely with accounting and data science to scale the foundational analytical tools that enables us to analyze business results, key performance indicators, and data trends</li><li>Build guardrails and milestones for financial and performance management and improve processes to prepare Alchemy for the next stages of growth</li><li>Think strategically and then execute - the models we build aid in decision making and strategy - we operationalize our insights</li><br/>Who You Are<br/><li>2-4 years of experience in investment banking, private equity or other analytically-intensive roles at software companies</li><li>Deep understanding of financial modeling, valuation methods, and key metrics used in Enterprise SaaS and Blockchain</li><li>Agile self-starter with ability to move quickly and desire to own and be accountable for projects from Day 1</li><li>Service-oriented attitude characterized by strong listening skills and the desire to achieve shared success</li><li>Experience with BI tools and SQL are a plus</li><li>BS / BA in Finance, Business, Accounting, Economics or a similar major</li>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/alchemy/b5c47fe4-6f26-4a19-8178-8c4f81df3a56/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/637333/alchemy-logo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[alchemy@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[2216d58c-1ece-4465-a4f9-6c8eafa52f36]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Alchemy]]></employer_name>
+    <category><![CDATA[ Finance & Accounting ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Research Analyst - Market Insights]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Genesis Global Trading]]></company>
+    <company_url><![CDATA[https://genesistrading.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Description</p><h3>About Genesis </h3>  <p>Genesis is a global leader in institutional digital asset markets. We provide a single point of access for digital asset trading, derivatives, borrowing, lending, custody and prime brokerage services.</p>  <p>Genesis facilitates billions in trades, loans and transactions on a monthly basis. We have a proven track record driving results for some of the largest digital asset-focused hedge funds, quant funds, family offices, VC’s, market makers and exchanges.</p>    <h3>Join Our Team </h3>  <p>Genesis is expanding to solve some of the toughest challenges in digital asset financial markets.</p>    <h3>About This Role – Research Analyst - Market Insights</h3>    <p>Genesis is hiring a research analyst, focusing on insights of interest to our institutional audience. </p><p><strong>Primary Responsibilities:</strong></p><ul>  <li>Assist with the      production of the Genesis Daily Market Color Update email</li>  <li>Co-author a monthly market trends report</li>  <li>Research and produce reports on crypto assets and      sectors</li>  <li>Write bi-weekly briefs on asset sectors, provide      data-backed narratives</li>  <li>Keep up to date with market movements</li>  <li>Support the efforts of our sales and trading teams,      provide answers and insights</li> </ul><p>Requirements</p><ul>  <li>At least four years in a      role related to equity research, corporate finance and/or VC investing.</li>  <li>Experience researching crypto assets and markets a      plus.</li>  <li>Deep familiarity with crypto markets and principles,      including but not limited to Bitcoin, Ethereum, other Layer-1s, DeFi, NFTs      and collateralization.</li>  <li>Strong writing and presentation skills.</li>  <li>An eagerness to continue learning at a fast pace.</li>  <li>Ability to work under pressure and to meet deadlines.</li>  <li>A passion for the potential of blockchain technology.</li> </ul><p>Benefits</p><ul> <li>Comprehensive health, vision, dental and FSA benefits</li> <li>Flexible time off</li> </ul><h3>Why Genesis</h3><p>Genesis is dedicated to creating best-in-class infrastructure for institutional investors, developing advanced products that lower barriers, increase profitability and broaden access. Our team has decades of experience at top Wall Street investment banks and Silicon Valley technology firms, and includes leading experts in blockchain, distributed computing, cryptography and cybersecurity.</p><p><strong>Digital Asset Ecosystem</strong></p><p>Genesis operates at the heart of the digital asset ecosystem:</p><p>→ We are a subsidiary of Digital Currency Group (DCG), the largest investor in the bitcoin and blockchain space.</p><p>→ We have an unparalleled global network at the intersection of data, finance and technology.</p><p><strong>Accelerating Momentum</strong></p><p>Our addressable market is expanding rapidly as new institutional investors enter the space. Recent results include:</p><p>→ 300%+ Y/Y trading volume growth</p><p>→ 400%+ Y/Y loan origination growth</p><p>→ 300%+ Y/Y active loan growth</p><p>→ 150%+ Q/Q derivatives transaction growth</p><p><strong>Diversity And Inclusion</strong></p><p>Genesis invests in creating a welcoming environment where everyone can feel supported and connected at work.</p><p>→ We help employees develop a deep understanding of the problems we’re trying to solve.</p><p>→ We thrive on ideas driven by a broad range of perspectives.</p><p>→ We believe diverse teams lead to better products and bigger outcomes.</p><p><em>Genesis is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/genesistrading/j/27BE5B787B/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/393086/genesistrading.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[genesis@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[c9bd0dc3-d1d2-4216-adf4-36b49462bc09]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Genesis Global Trading]]></employer_name>
+    <category><![CDATA[ Business Analyst ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Compliance Partnership Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Uphold]]></company>
+    <company_url><![CDATA[https://uphold.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p><span style="font-size: 22px; font-weight: 600;">Compliance Partnership Manager</span></p>
+<p> </p>
+<p><span style="font-size: 15px; font-weight: 600;">About Uphold</span></p>
+<p><span style="color: #4c5c6e; font-size: 15px;">One of the fastest-growing fintech companies, Uphold is pursuing a mission to democratise investments and payments for people and companies worldwide. </span></p>
+<p><span style="color: #4c5c6e; font-size: 15px;">A digital money platform serving over 6 million customers in more than 150 countries. Uphold now manages more than $1.5 billion in customer assets. The Silicon Valley firm currently opens around 10,000 accounts a day as consumers seek a more versatile and cost-effective home for their financial lives. Leveraging blockchain technology, the platform provides both consumers and businesses with easy access to 46 digital assets, 27 national currencies, four precious metals and 50 fractional U.S. equities. </span></p>
+<p><span style="color: #4c5c6e; font-size: 15px;">Uphold’s unique trading experience - ‘Anything-to-Anything’ - allows customers to trade directly between asset classes, saving time and money. Uphold supports financial inclusion by enabling customers virtually anywhere to open an account in less than a minute and trade with no minimum investment amounts. Customers can send money to virtually anyone with an email address free of charge. </span></p>
+<p><span style="color: #4c5c6e; font-size: 15px;">To learn more, please visit </span><a href="https://uphold.com" target="_blank" rel="noopener noreferrer"><span style="font-size: 15px;">https://uphold.com</span></a></p>
+<p><span style="font-size: 15px; font-weight: 600;">The </span><span style="font-weight: bold;"><span style="color: #4c5c6e; font-size: 15px;">o</span></span><span style="font-size: 15px; font-weight: 600;">pportunity: </span></p>
+<p><span style="color: #4c5c6e; font-size: 15px;">The Uphold Compliance Partner Manager (the, “Manager”) will be leading and managing various Compliance aspects of Uphold’s work and joint projects with external partners.  This may include managing the on-boarding of new partnerships, and assisting in the design of Compliance processes and controls applicable to these partnerships. The role will also include involvement in partner audits, monitoring Compliance aspects of the partnerships as they (and regulatory requirements) evolve, and other related projects.</span></p>
+<p><br></p>
+<p><span style="color: #4c5c6e; font-size: 15px;">You will often work across Compliance, Legal, Product, Engineering teams, and have frequent interaction with industry leading Fintech partners.</span></p>
+<p><br></p>
+<p><span style="font-size: 15px; font-weight: 600;">What you’ll be doing primarily:</span></p>
+<ul>
+<li><span style="color: #4c5c6e; font-size: 15px;">Lead Uphold’s partner compliance program strategy and its implementation, and help build products that meet our compliance and regulatory obligations  </span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Act as primary contact for cross-functional partners and cross-functional environments; become the Compliance leader for Uphold’s business partner ecosystem </span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Conduct compliance program gap analyses, execute in-depth partner AML/KYP audits, and manage compliance technology integrations and testing</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Perform tasks related to Uphold partner and business customer on-boarding using Customer Due Diligence (CDD), Enhanced Due Diligence (EDD), Know-Your-Partner (KYP) and strategies as well as sound judgment and decision-making </span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Liaise between Uphold senior management, Business Development, Engineering, Product, Legal, Operations, and Information Security teams to ensure adherence and compliance with policies and procedures</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Evaluate new and existing product flows to proactively identify gaps or conflicts in processes, technological deficiencies, develop solutions, and create proposals for Risk Committee</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Design, document and implement compliance technology processes and control tests</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Assist the U.S. Compliance Department with special projects projects</span></li>
+</ul>
+<p><span style="font-size: 15px; font-weight: 600;">Required qualifications:</span></p>
+<ul>
+<li><span style="color: #4c5c6e; font-size: 15px;">BA/BS or equivalent, advanced degree preferred </span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">At least five (5) years of financial services industry experience, with knowledge of  regulatory compliance (KYC, AML, etc.) standards, preferably at a top-tier bank, Big 4 consulting firm, or a high-growth FinTech company</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Working (or more advanced) knowledge of Fintech product design and engineering processes</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Strong knowledge of AML/OFAC, Bank Secrecy Act, USA PATRIOT Act on-boarding requirements and FinCEN Customer Identification Program (CIP) Guidance</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Experience in technology risk management, program management, operational risk, or equivalent</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Advanced research skills and a passion for finding solutions to complex business problems with a risk-mitigation mindset</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Ability to manage multiple projects in a high-pressure environment</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Strong quality, delivery and customer service orientation</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Excellent verbal and written communication</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Excellent organizational, time management and prioritization skills with a sense of urgency</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Must have a happy disposition and great attitude; be a self-starter and work well within a global, multi-cultural team</span></li>
+</ul>
+<p><span style="font-size: 15px; font-weight: 600;">Bonus if you have:</span></p>
+<ul>
+<li><span style="color: #4c5c6e; font-size: 15px;">Advanced degree (MBA, MSc.) </span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Engineering or product design experience</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Prior experience working at a startup in FinTech/Crypto</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Availability for occasional work outside normal business hours</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Advanced data science skills, coding, or other computer  languages</span></li>
+</ul>
+<p><span style="font-size: 15px; font-weight: 600;">What we have to offer you:</span></p>
+<ul>
+<li><span style="color: #4c5c6e; font-size: 15px;">A fun and collaborative work environment in a company that continues to grow, driven by extraordinary and passionate people that keep us innovating and challenging each day</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Competitive salary and benefits</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">An international team in a cutting edge field</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">A flexible and enthusiastic environment with work from home opportunities</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Growth and career opportunities and the chance to be proactive and creative</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Open and transparent culture - we get together on a regular basis to share updates, strategic plans, and engage with each other informally over (virtual) drinks</span></li>
+<li><span style="color: #4c5c6e; font-size: 15px;">Interesting events that keep you connected with the team and celebrate our success</span></li>
+</ul>
+<p><span style="color: #4c5c6e; font-size: 15px;">If this job isn’t exactly what you are looking for, visit our </span><a href="https://uphold.com/en/about-us/careers" target="_blank" rel="noopener noreferrer"><span style="font-size: 15px;">careers page</span></a><span style="color: #4c5c6e; font-size: 15px;"> to check out all our exciting opportunities.  </span></p>
+<p><span style="font-size: 13px; font-weight: 600;">EEOC Employer</span></p>
+<p><span style="color: #4c5c6e; font-size: 13px;">We're proud to be an Equal Opportunity Employer and we celebrate our employees' differences, including race, color, religion, gender identity, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, and any other protected classes. Difference makes us stronger and better - together.</span></p><p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=UpvIJLUizB8" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://uphold.bamboohr.com/jobs/view.php?id=295&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/144414/uphold.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[uphold@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[8acc9c28-72bb-41e4-9d28-123751dcb8ad]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Uphold]]></employer_name>
+    <category><![CDATA[ Legal & Compliance ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Compliance Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[SFOX]]></company>
+    <company_url><![CDATA[https://www.sfox.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Singapore / Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;SFOX is the all-in-one digital assets platform for prime brokerage, trade execution, and custody. Founded in 2014, we are the world’s only end-to-end cryptocurrency prime broker. As the leading digital asset brokerage, we are at the forefront of safety and security while providing a fast and effective trading platform to customers. With a single account we connect customers to 50+ different liquidity providers and provide them the algorithmic trading tools to be one step ahead of the market. We’re funded by leading investors including Social Capital, Khosla Ventures, Haystack, and Y Combinator.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We’re on a mission to open the world’s financial markets to everyone and we’re looking for exceptional talent to join our rapidly growing team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Position:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We continue to build a world-class legal and compliance team to support SFOX and its affiliates as we continue to grow.&amp;nbsp; We are looking for exceptional Compliance Manager in Singapore to spearhead compliance and regulatory audit matters.&lt;/p&gt;
+&lt;p&gt;The Compliance Manager will be based out of Singapore and report directly to the Director of Compliance. Working closely with legal, business, and compliance colleagues, you will be responsible for administering relevant policies and procedures to help prepare for regulatory exams and interact directly with our regulators.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collect and provide documentation according to regulatory requests and liaise with regulators and auditors during onsite visits.&lt;/li&gt;
+&lt;li&gt;Participate in regulatory examinations and assist with internal audits, risk assessments, and program reviews.&lt;/li&gt;
+&lt;li&gt;Oversee matters relating to consumer complaint management practices.&lt;/li&gt;
+&lt;li&gt;Help oversee the identification, reporting and resolution of regulatory compliance breaches or gaps and work cross-functionally to create scalable solutions for complex compliance issues.&lt;/li&gt;
+&lt;li&gt;Contribute to the design of initiatives to create new systems and processes or enhance existing ones, and manage, monitor and report to senior management on progress of special initiatives.&lt;/li&gt;
+&lt;li&gt;Liaise with external regulators, audit, legal, international-based compliance teams and other departments including teams managing customer experience.&lt;/li&gt;
+&lt;li&gt;Anticipate regulatory concerns and develop effective methods to manage them.&lt;/li&gt;
+&lt;li&gt;Prepare reports to executive management and communicate across teams.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years in regulatory compliance in the financial services industry, in particular preparing for regulatory examinations or conducting regulatory examinations.&lt;/li&gt;
+&lt;li&gt;A./B.S. or equivalent.&lt;/li&gt;
+&lt;li&gt;Working understanding of regulatory framework including AML/CFT, Bank Secrecy Act (BSA), OFAC regulations and others.&lt;/li&gt;
+&lt;li&gt;Ability to articulate complex products and services to non-experts in a way that is meaningful and effective.&lt;/li&gt;
+&lt;li&gt;Expertise of payment service license requirements under the Singapore Payment Services Act 2019 including AML/CFT, consumer protection, banking, accounting and finance sufficient to effectively identify and communicate risks related to these areas.&lt;/li&gt;
+&lt;li&gt;Superior organizational and communications skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Preferred (optional nice-to-haves):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with CDD/EDD and compliance policies and procedures.&lt;/li&gt;
+&lt;li&gt;Experience working with a money services or digital payment business.&lt;/li&gt;
+&lt;li&gt;Working knowledge of digital currency.&lt;/li&gt;
+&lt;li&gt;CAMS Certified (or equivalent).&lt;/li&gt;
+&lt;/ul&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=8cyQjlRfOnc&t=55s" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.sfox.com/jobs/?gh_jid=5700888002&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/143939/sfox.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[sfox@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[683ec9dc-3820-479c-8587-a1049ba06856]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[SFOX]]></employer_name>
+    <category><![CDATA[ Legal & Compliance ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Head of Product Design]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Blockstream]]></company>
+    <company_url><![CDATA[https://blockstream.com]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Blockstream, we believe Bitcoin is changing the world, and we’re here to help it succeed. Our mission is to build the financial infrastructure of the future, making it easier for individuals and businesses to secure and transact their digital assets. Blockstream’s “layer 2” solutions such as Liquid and c-lightning extend Bitcoin with new capabilities, and our product suite of wallets and enterprise tools make these powerful platforms accessible to end users.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re a growth stage company that recently closed a $210M round of funding. We’ve built a reputation for visionary industry insight and a track record of delivering innovation on hard technical problems. Come join us in our mission!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As our Head of Product Design, you’ll lead the product design team, and partner closely with company leadership to drive our goals and deliver world-class products. You’ll help grow and mentor a team of designers, and adjust our design process as we scale. This role reports to Blockstream’s Chief Product Officer.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;What You’ll Be Doing (Responsibilities):&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Lead a team to oversee and execute interaction &amp;amp; visual design, user research, and prototyping in pursuit of developing intuitive, user-friendly products that delight users and align to our strategic objectives&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with product managers and other stakeholders to identify and articulate new opportunities, clarify user problems and inspire the direction of our work&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Channel the voice of our users. Organize qualitative and quantitative research to identify gaps and usability issues, to help the company better understand its users, and to validate possible solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate with engineers to work through technical feasibility and ensure design details are clear and captured by the implementation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Utilize techniques to measure or quantify effective design choices, and employ data to inform decisions or strengthen a product narrative&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What We Look For In You (Required Qualifications):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;10+ years of experience in a design related field, including managing and growing a team of designers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proven experience transforming customer needs and business goals into iterative, execution-friendly plans with appropriate resources&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In-depth knowledge of design practices, research methodologies, and current design tools&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to present and rationalize decisions to internal and external stakeholders&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfort with the pace, scrappiness and dynamic environment within a growing startup&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Have successfully supported, coached and scaled teams across Product Design, User Research, and User Experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience designing products with complex technical features and high security standards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding of Bitcoin or blockchain-related technology&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passion to learn and to create a learning environment where designers grow and expand skill-sets, techniques, and tools (This is Bitcoin - no one knows everything about it, We grow and learn together)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/blockstream/jobs/3661242?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/567753/wdicm4jqd6tp79ctxf4x-2.jpeg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[blockstream@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[8906116e-6aa6-4a38-91c4-06d86797b96a]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Blockstream]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Director, Business Systems and Tools]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Forte Labs]]></company>
+    <company_url><![CDATA[https://www.forte.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Forte is seeking an experienced &lt;/span&gt;&lt;strong&gt;&lt;em&gt;Director, Business Systems and Tools&lt;/em&gt;&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to design, improve and lead the execution of the Business Operations Team’s key business processes to maximize efficiency, focusing first and foremost on our Tools &amp;amp; Systems.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the organization is growing rapidly through game publisher and developer partnerships, the Business Operations team aims to scale internal processes and continue its focus on operational excellence.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Director will be responsible for assessing our current processes and building the right scalable&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;rhythm of business to maximize the team’s efficiency as well as leadership’s visibility and decision making.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Examples of projects will include migrating our business development pipeline to an enterprise level customer relationship management system, coordinating business critical initiatives, designing processes for new verticals and developing an efficient reporting and communication cadence for our global business development efforts.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The ideal candidate will be comfortable working independently and across cross-functional teams in a fast-paced and evolving environment. They will be an excellent communicator and a leader with a passion for delivering results.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this role, you will...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Drive migration of existing systems to new improved tools, with an initial focus on CRM/CLM systems.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Lead Program Management for key initiatives.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Design Processes that scale with business growth in volume and complexity and implement them across teams.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Uncover areas of opportunity to improve processes and operational performance and drive change management with the Leadership team.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop appropriate rhythm of business, standard business review formats and communication cadences.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop documentation and communications for processes rollout and ongoing support.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage and report out projects, status and proactively work with teams to remove project blockers.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Take pride in holding oneself and others accountable to meet deadlines and a high bar for quality.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prioritize and execute in the face of ambiguity.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruit and hire a great business systems &amp;amp; tools team.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To be a good fit, you have...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor’s degree in business, finance, economics, engineering or other highly quantitative field.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;8+ years of professional experience in Program Management, Technical Program Management, or Operations Management.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing 2+ direct reports.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience recommending and setting up CRM tools/softwares/SaaS aimed at improving team efficiency and answering pain points, from early specs definition to full launch.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience gathering business requirements, developing and implementing efficient processes, scorecards, dashboards and reporting to surface meaningful KPIs and actionable intelligence to leadership.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to think clearly, grasp the big picture, analyze quantitatively and problem solve.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to foster cooperation amongst business stakeholders and get things done.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent written and verbal communication skills; ability to present in a clear and concise manner to all levels in the company.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to prioritize, multitask and adapt to a fast moving environment.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advanced skills in Google Suite and experience with other standard program management tools.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bonus if you also have...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience in gaming and gaming-adjacent industries.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A genuine appreciation for blockchain technology and the benefits it can offer the games industry.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience with Airtable and Notions.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience with SugarCRM or Salesforce (or similar CRM software/saas).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience with DocuSign, HelloSign or Ironclad (or similar CLM software/saas).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience with Ally.io&amp;nbsp; (or similar goals/OKR management software/saas).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience with program management tools like Monday.com or Asana.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfort interacting with C-level executives.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High-growth or early-stage startup experience.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;About Forte&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Forte is building economic technology for games. Its end-to-end platform enables the emergence of&amp;nbsp;&lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fwww.forte.io%2F%3Fp%3D507&amp;amp;esheet=52430260&amp;amp;newsitemid=20210520005295&amp;amp;lan=en-US&amp;amp;anchor=community+economics&amp;amp;index=5&amp;amp;md5=47dfe9eadc11aa00eabe6c1dcfa3cc30&quot;&gt;community economics&lt;/a&gt;, a system where the interests of game developers and players are aligned, leading to healthier, sustainable game communities. The team is composed of longtime industry members (Unity, ngmoco, Riot Games, Electronic Arts, Sony, and Rockstar Games, among others), and is currently working with over 20 acclaimed game developers from across the industry to reimagine the economics of games.&lt;/em&gt;&lt;/p&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=K378r1KeRio" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/forte/jobs/4818632003?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/511563/forte-labs-logo_Cropped.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[forte@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[509e5842-f758-4b3e-8b54-bfc3ca4c2a98]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Forte Labs]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[VP, Global Workplace Experience]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Genesis Global Trading]]></company>
+    <company_url><![CDATA[https://genesistrading.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York City, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Description</p><h3>About Genesis </h3>  <p>Genesis is a global leader in institutional digital asset markets. We provide a single point of access for digital asset trading, derivatives, borrowing, lending, custody and prime brokerage services.</p>  <p>Genesis facilitates billions in trades, loans and transactions on a monthly basis. We have a proven track record driving results for some of the largest digital asset-focused hedge funds, quant funds, family offices, VC’s, market makers and exchanges.</p><p><br></p>    <h3>Join Our Team </h3>  <p>Genesis is expanding to solve some of the toughest challenges in digital asset financial markets.</p><p><br></p>    <h3></h3><h3>About This Role: VP, Global Office Experience </h3>  <p>We are looking for someone who can hit the ground running and create a seamless global office experience and manage our facilities in NYC, Singapore and London.</p>  <h3>Responsibilities</h3>  <ul>  <li>Manage all      facets of our global offices and the employee office experience.</li>  <li>Will be      responsible for building and managing a global office      management/facilities team.</li>  <li>Implement      procedural and policy changes to improve operational efficiency</li>  <li>Manage a      hybrid working environment.</li>  <li>Manage      relationships with vendors, service providers, ensuring that all items are      invoiced and paid on time.</li>  <li>Manage      contract and price negotiations with vendors.</li>  <li>Oversee the      build out of all of our global office locations.</li>  <li>Participate      actively in the planning and execution of company events.</li>  <li>Ensure      filing systems are maintained and current.</li>  <li>Ensure      security, integrity, and confidentiality of data.</li>  <li>Own      relationship with external IT partners for day-to-day tech needs and to      help ensure employees have all tech items needed both in office and as      part of their home set up.</li>  <li>Lead      our efforts to create a more environmentally friendly work environment.</li>  <li>Maintain      budgets across all offices</li> </ul><p>Requirements</p><ul> <li>8+      years of office &amp; facilities management </li>  <li>Experience      in construction project management &amp; office build outs</li>  <li>Strong      organizational skills that reflect an ability to perform and prioritize      multiple tasks with excellent attention to detail.</li>  <li>Creative,      proactive thinker who actively seeks solutions and process improvements.</li>  <li>A high      degree of integrity, professionalism, and capacity to excel in a cohesive      team environment</li>  <li>Excels at      analysis, problem solving and strategic alignment</li>  <li>Strong      interpersonal skills, including written and oral communications skills</li>  <li>Ability to      communicate effectively to all levels of the organization, including      senior management</li> </ul><p>Benefits</p><ul> <li>Comprehensive health, vision, dental and FSA benefits</li> <li>Flexible time off</li> </ul><h3>Why Genesis</h3><p>Genesis is dedicated to creating best-in-class infrastructure for institutional investors, developing advanced products that lower barriers, increase profitability and broaden access. Our team has decades of experience at top Wall Street investment banks and Silicon Valley technology firms, and includes leading experts in blockchain, distributed computing, cryptography and cybersecurity.</p><p><strong>Digital Asset Ecosystem</strong></p><p>Genesis operates at the heart of the digital asset ecosystem:</p><p>→ We are a subsidiary of Digital Currency Group (DCG), the largest investor in the bitcoin and blockchain space.</p><p>→ We have an unparalleled global network at the intersection of data, finance and technology.</p><p><strong>Accelerating Momentum</strong></p><p>Our addressable market is expanding rapidly as new institutional investors enter the space. Recent results include:</p><p>→ 300%+ Y/Y trading volume growth</p><p>→ 400%+ Y/Y loan origination growth</p><p>→ 300%+ Y/Y active loan growth</p><p>→ 150%+ Q/Q derivatives transaction growth</p><p><strong>Diversity And Inclusion</strong></p><p>Genesis invests in creating a welcoming environment where everyone can feel supported and connected at work.</p><p>→ We help employees develop a deep understanding of the problems we’re trying to solve.</p><p>→ We thrive on ideas driven by a broad range of perspectives.</p><p>→ We believe diverse teams lead to better products and bigger outcomes.</p><p><em>Genesis is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/genesistrading/j/47658C5143/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/393086/genesistrading.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[genesis@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[c9bd0dc3-d1d2-4216-adf4-36b49462bc09]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Genesis Global Trading]]></employer_name>
+    <category><![CDATA[ Administrative / Office Management ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Head of Marketing - US]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Luno]]></company>
+    <company_url><![CDATA[https://www.luno.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Greater New York Area]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;The world is changing. We all want something different.&lt;/p&gt;
+&lt;p&gt;At Luno, we see you as an individual, and we want to unleash your potential and empower you to become the best possible version of yourself.&lt;/p&gt;
+&lt;p&gt;Luno welcomes crypto lovers and crypto newbies. You - just like everyone in the world - are on your own unique crypto-learning journey.&lt;/p&gt;
+&lt;p&gt;We are a mission-driven cryptocurrency company that is building more open and equal access to the future of money. You don’t have to know lots about crypto to be interested in joining us, you just have to feel that upgrading the world to a fairer financial system matters, and that you’d like to be part of this global change. We’re a passionate and committed team taking on a challenge of epic proportions. Like the first moon landing, it requires a special kind of people&amp;nbsp;working together&amp;nbsp;with unusual skill, focus and determination. We need the best team on board for our mission.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If that sounds like a culture you’d thrive in, then we are excited to hear from you.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A little about us&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Luno means moon in Esperanto, we chose the name because at night, wherever you are in the world, you look up at the same moon. We believe in the power of working together, as one team, across borders, with clear focus and shared purpose.&lt;/li&gt;
+&lt;li&gt;Our popular mobile app and website helps people around the world grow and manage their money using the world&#39;s most mature cryptocurrencies: Bitcoin, Ethereum and USDC. We’ve processed over&amp;nbsp;&lt;strong&gt;$21 billion&lt;/strong&gt;&amp;nbsp;to date.&lt;/li&gt;
+&lt;li&gt;Over &lt;strong&gt;9 million&lt;/strong&gt; customers across 40 countries have chosen to hold their crypto wallets on Luno because we offer a delightfully simple experience and bank-grade security.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We&#39;re part of the Digital Currency Group, named in 2021 as one of TIME magazine’s 100 Most Influential Companies, in the “Disruptors” category alongside Tesla, AirBnB, SpaceX, Peloton. TIME noted that DCG is&amp;nbsp;&lt;a href=&quot;https://time.com/collection/time100-companies/5953752/digital-currency-group/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://time.com/collection/time100-companies/5953752/digital-currency-group/&amp;amp;source=gmail&amp;amp;ust=1626194299880000&amp;amp;usg=AFQjCNFF9GsIf2L0VXXMGf18rZIibpCTEQ&quot;&gt;“mainstreaming cryptocurrency”&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We’re proud to be one of the world’s most international cryptocurrency teams, with colleagues from 43 different nationalities working across South Africa, Indonesia, the United Kingdom, Malaysia, Nigeria, Australia and Singapore. Financial inclusion is part of our mission, but on a deeper level, inclusion is a way of life, and a way of work for us. It is part of who we are as a company, and a group of human individuals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The role in a nutshell&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Luno is on a mission to empower 1 billion customers by 2030. We are hiring a team of exceptional individuals to launch and grow the US business into one of the leading crypto investing apps in the market.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a critical role responsible for shaping and executing our go to market strategy in the US. The US team operates as an autonomous hyper growth startup powered by Luno’s far reaching global expertise and the vast network and resources of crypto powerhouse &lt;/span&gt;&lt;a href=&quot;https://time.com/collection/time100-companies/5953752/digital-currency-group/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;DCG&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for an experienced Marketing professional to build and lead the US marketing team as well as the structures and processes to leverage existing and evolving global marketing functions.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will report directly to the global Chief Revenue Officer and work closely with the US General Manager as part of the US Leadership Team.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your mission will involve&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Developing the marketing strategy for the US in close collaboration with the US General Manager and the global Marketing Leadership Team across Growth, Brand and PR&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Building a local team as well as effective relationships, interfaces and processes with global marketing functions to execute on the strategy&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assessing and sourcing agencies and contractors as needed and ensuring high quality execution from briefing through relationship management and monitoring&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Developing and owning internal metrics as well as customer and market research to measure performance of channels, campaigns, activities and partners and take corrective action as needed&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Empowering the US Marketing team to develop, prioritise and execute ideas to support Luno’s mission in the US across all stages of the acquisition funnel&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Leading and coordinating localisation and execution of global campaigns in the US&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Setting up the capabilities to execute a highly localised influencer marketing strategy with external partners&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Informing product and platform decisions in global and local teams to further empower and boost marketing efforts in the US&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Shaping and supporting the wider US business, the team and culture as part of the US Leadership team&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The ideal Lunaut for this role will have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Entrepreneurial mindset with high degree of autonomy and ownership for objectives and key results&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strategic thinking and data driven decision making paired with a track record of execution excellence and ability to create high quality down to the details&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exceptional leadership skills with experience scaling a marketing team, navigating a global organization and the ability to work across non-Marketing functions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A wealth of experience in B2C marketing across different marketing functions, with a deep understanding of mass market consumers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in developing and managing sizeable marketing budgets and allocating spend against business objective based on robust data&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Solid understanding of financial services, fintech or a highly regulated industry preferred&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Life at Luno&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you’re looking to work on something truly global and disruptive with a forward-thinking and ambitious team that highly values diversity, teamwork, and the continuous quest for excellence, then this is an opportunity for you.&lt;/p&gt;
+&lt;p&gt;Like the majority of the companies, Luno is currently working remotely to keep our employees safe, which means you will not be physically, but virtually onboarded for now!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live long and&amp;nbsp;&lt;strong&gt;prosper.&amp;nbsp;&lt;/strong&gt;We’ve got you covered with excellent private medical insurance.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You&#39;ll be able to continuously&amp;nbsp;&lt;strong&gt;up-skill&lt;/strong&gt;&amp;nbsp;yourself with access to free courses on&amp;nbsp;&lt;strong&gt;Udemy and Codecademy.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;For the crypto fans among you (should be everyone!),&amp;nbsp;&lt;strong&gt;you&#39;ll pay 0 fees&lt;/strong&gt;&amp;nbsp;with Luno from the day you start&lt;/li&gt;
+&lt;li&gt;Generous&amp;nbsp;&lt;strong&gt;maternity / paternity&lt;/strong&gt;&amp;nbsp;leave.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;An annual&amp;nbsp;&lt;strong&gt;inspiration day&lt;/strong&gt;, over and above your annual and public holiday leave... for that pottery course you’ve always been meaning to do!&lt;/li&gt;
+&lt;li&gt;Work with a&lt;strong&gt;&amp;nbsp;globally diverse team&lt;/strong&gt;&amp;nbsp;of hardworking, ambitious and friendly people on something that will truly revolutionise the financial world.&lt;/li&gt;
+&lt;li&gt;We have&amp;nbsp;&lt;strong&gt;virtual cooking, dancing, drawing and house planting classes&lt;/strong&gt;&amp;nbsp;hosted by our Lunauts to break up your day and work that other part of your brain.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Work is important, but&lt;strong&gt;&amp;nbsp;your mental health should always take priority&lt;/strong&gt;. At Luno, we do everything we can to make sure you lead a healthy and happy life. That&#39;s why Luno gives you&lt;strong&gt;&amp;nbsp;free access to Headspace&lt;/strong&gt;&amp;nbsp;– a full library of guided meditations, sleep stories, and music.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Luno is a ‘remote but reachable’ company! At Luno,&amp;nbsp;we trust that people can do their work effectively anywhere and provide Lunauts with the flexibility to decide where they do their best work. For some of us, that’s at home for the majority of the time, for others, that might mean joining other Lunauts in person at one of our Luno workspaces more often. Luno is built on our relationships, so we still value in-person connection and have a minimum expectation of spending time in person once a quarter. So as long as you are based in one country with a Luno workspace, we want to hear from you!&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;We are an equal opportunity employer and value diversity at our company. We do not negatively discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=yq6lSA5uNYA" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.luno.com/en/careers/apply/3292874?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/145517/luno.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[luno@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[d4a1d4d5-b5b6-4f82-b913-953220c869d0]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Luno]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Account Executive, Public Sector (Korea)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Chainalysis]]></company>
+    <company_url><![CDATA[https://www.chainalysis.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Seoul, South Korea]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;The sales person responsible for our South Korea public sector customers is driven by our mission to make the world a safer place by tracking and investigating activities that involve cryptocurrency like human trafficking, terrorist financing, and money-laundering. We’re experts on the “why” and the “how” with deep relationships and knowledge of navigating government sales processes.&amp;nbsp;&lt;br&gt;&lt;br&gt;Account Executives are servant leaders who can quickly establish trust and build strong relationships with the Public Sector stakeholders, tailoring their sales approach to their needs, and evangelizing Chainalysis solutions in a compelling yet approachable way. We measure success by the attainment of assigned quota, accuracy of forecasting, building pipeline and the growth of accounts in your region. They are experts at navigating complex sales cycles. and still enjoy the thrill creating a calculated account plan and then closing a deal. We measure your success by your ability to accurately forecast revenue, hit (read: exceed) quotas and become the trusted advisor to your customers.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In one year you’ll know you were successful if…&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You exceeded your quota and substantially increased our foothold in the South Korea market through strategic and relentless prospecting and developing your sales pipeline&lt;/li&gt;
+&lt;li&gt;You’ve helped us develop compelling product positioning and messaging specific to market trends, competitive drivers, region-specific sales channels, and more&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Your relationships with customers are built on trust and transparency resulting in network referrals that ultimately build Chainalysis’ brand awareness&lt;/li&gt;
+&lt;li&gt;You’ve created and executed go-to-market plans that have resulted in predictable and increasing quarterly forecasts&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You’ve built a diverse pipeline of opportunities resulting in consistent and accurate forecasting&lt;/li&gt;
+&lt;li&gt;You have managed and structured our relationships with the local resellers and distributors&lt;/li&gt;
+&lt;li&gt;You have relationships across departments at Chainalysis allowing you to provide expert advice to prospects related to technical concepts, product roadmaps, solutions implementations, training, and more.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br&gt;A background like this helps:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recent experience managing and closing complex software sales within Public Sector customers in South Korea.&lt;/li&gt;
+&lt;li&gt;Experience managing the sales cycle from mission/program manager to agency leadership&lt;/li&gt;
+&lt;li&gt;Strong relationships in the System Integrator and Defense community&lt;/li&gt;
+&lt;li&gt;Key industry knowledge and ability to effectively articulate the Chainalysis value proposition&lt;/li&gt;
+&lt;li&gt;Track record of over-achieving quota (top 10-20% of company) in past positions&lt;/li&gt;
+&lt;li&gt;Ability to negotiate pricing, terms and conditions and other concessions in complex, multi-year sales agreements.&lt;/li&gt;
+&lt;li&gt;History of scaling and coaching high-performing and diverse sales teams&lt;/li&gt;
+&lt;li&gt;Experience with Financial Intelligence, Blockchain, Cyber Security, and/or Cryptocurrency technologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;sub&gt;#LI-RS1&lt;/sub&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You belong here.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways we’re ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Women’s Day, Juneteenth, Harvey Milk Day, and International Migrant’s Day, and a commitment to continue revisiting and reevaluating our diversity culture.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We encourage applicants across any race, ethnicity, gender/gender expression, age, spirituality, ability, experience and more. Additionally, if you need any accommodations to make our interview process more accessible to you due to a disability, don&#39;t hesitate to let us know. You can learn more &lt;a href=&quot;https://go.chainalysis.com/rs/503-FAP-074/images/Interview%20Accommodations%20Request.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. We can’t wait to meet you.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Applying from the EU? Please review our &lt;/span&gt;&lt;a href=&quot;https://go.chainalysis.com/rs/503-FAP-074/images/GDPR%20Notice.pdf&quot; target=&quot;_blank&quot;&gt;Candidate GDPR Notice.&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/0ZgkZLn.png&quot; alt=&quot;&quot; width=&quot;97&quot; height=&quot;136&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href=&quot;https://blog.powertofly.com/best-work-from-home-companies-2649504754.html?rebelltitem=10#rebelltitem10&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/HNMvlj9.jpg&quot; alt=&quot;&quot; width=&quot;187&quot; height=&quot;134&quot;&gt;&lt;/a&gt;&amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;By submitting this application, I consent to and authorize Chainalysis to contact my former employers, and any and all other persons and organizations for information bearing upon my qualifications for employment.&amp;nbsp; I further authorize the listed employers, schools and personal references to give Chainalysis (without further notice to me) any and all information about my previous employment and education, along with other pertinent information they may have, and hereby waive any actions which I may have against either party(ies) for providing a reference.&amp;nbsp; I understand any future employment will be contingent on the Company receiving satisfactory employment references.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Chainalysis COVID-19 Policy - USA&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-renderer-start-pos=&quot;2600&quot;&gt;All employees are required to have or obtain a COVID-19 vaccination as a condition of employment at Chainalysis, unless an exemption has been approved. All employees shall be required to report their vaccine status. All new employees shall be required to provide proof of their vaccination status prior to the start of their employment.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Chainalysis COVID-19 Policy - EMEA&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;As an employer, Chainalysis is obliged to ensure a healthy and safe working environment. This means that we must try to prevent the coronavirus from spreading inside the workplace and all employees are obliged to follow the local regulations issued by the relevant health authorities.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-renderer-start-pos=&quot;3483&quot;&gt;To help support a safe work environment, we encourage all employees in EMEA to get fully vaccinated against COVID-19.&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;3602&quot;&gt;Employees will not be required to attend an event or in-person customer meeting.&amp;nbsp;&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;3784&quot;&gt;Employees in the EU and the UK are allowed to travel internationally for internal meetings to any country deemed “green or amber” by the EU and the UK authorities. All attendees for Chainalysis in-person events or meetings will be required to adhere to the following guidelines:&amp;nbsp;&amp;nbsp;
+&lt;ul&gt;
+&lt;li data-renderer-start-pos=&quot;4068&quot;&gt;International travel will only be permitted if you receive approval from both your manager and Executive Leader&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;4183&quot;&gt;You must familiarize yourself and comply with any screening/safety protocols imposed by the entity/individual hosting the in-person meeting or event&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;4335&quot;&gt;You must comply with any and all safety guidelines and travel restrictions established by applicable law&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;4445&quot;&gt;If you are in close or proximate contact with others at the event/customer site and test positive for COVID-19, you must immediately notify the People Team and avoid contact with others for 10 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Chainalysis COVID-19 Policy - APAC&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;With circumstances changing on a regular basis and parts of our APAC team going in and out of mandatory lockdown, APAC will continue to follow country legislation and guidelines.&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;sub&gt;&lt;img src=&quot;https://imgur.com/HNMvlj9&quot; alt=&quot;&quot;&gt;&lt;/sub&gt;&lt;/p&gt;&lt;/div&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=yNpNz-FvSYQ&t=6s" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/chainalysis/jobs/5713192002?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/144926/chainalysis.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[chainalysis@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[31de1ffa-3dc5-41f3-ae72-ed4cbf977d1b]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Chainalysis]]></employer_name>
+    <category><![CDATA[ Sales And Business Development ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Director, Solutions Architecture, Commercial]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Chainalysis]]></company>
+    <company_url><![CDATA[https://www.chainalysis.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York City, New York]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Solutions Architecture team is the backbone that helps the go-to-market (GTM) team run effectively. Our job is to manage the full funnel operations across the customer lifecycle and provide the organization documentation and expertise needed for the teams to function efficiently.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This Solutions Architecture leader is responsible for creating and implementing strategies that improve global operations across our revenue organization. We measure success by your accuracy, speed, and ability to build out processes and infrastructure to drive hiring, team enablement and support sales team activities.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In one year you’ll know you were successful if you…&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Created and implemented solutions to drive and retain revenue by collaborating with teams such as sales, marketing, and customer success and training&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Surfaced insights, business analytics, and data across all GTM functions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identified bottlenecks and collaborated with leadership/enablement to proactively unblock growth&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Optimized our sales strategy, enablement, and execution as a whole&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Defined the analytics framework to measure individual and company performance and owned the end-to-end process of tracking and analyzing the sales funnel from lead to customer&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Created models for lead, company, and deal scoring. Designed a strategy for enrichment, attribution modeling, and campaign measurement&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Managed the tech stack of the GTM organization. Owned the recommendation, selection, and deployment of new technologies and tools to scale the GTM organization&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A background like this helps:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong working knowledge of the tools we use (or similar) to run the business and the ability to quickly learn and optimize new technologies.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have very strong Salesforce reporting, dashboarding, and workflow skills.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working with sales and marketing teams with a growth mindset.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proven track record of developing and implementing and driving operations process efficiencies, effective policies and enabling better practice&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Flexible, well-organized and the ability to work in a fast-paced startup&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Superior analytical, planning, and organizational skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Curiosity to learn and adapt to dynamic research, development, and industry knowledge&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;sub&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-YT1&lt;/span&gt;&lt;/sub&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You belong here.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways we’re ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Women’s Day, Juneteenth, Harvey Milk Day, and International Migrant’s Day, and a commitment to continue revisiting and reevaluating our diversity culture.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We encourage applicants across any race, ethnicity, gender/gender expression, age, spirituality, ability, experience and more. Additionally, if you need any accommodations to make our interview process more accessible to you due to a disability, don&#39;t hesitate to let us know. You can learn more &lt;a href=&quot;https://go.chainalysis.com/rs/503-FAP-074/images/Interview%20Accommodations%20Request.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. We can’t wait to meet you.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Applying from the EU? Please review our &lt;/span&gt;&lt;a href=&quot;https://go.chainalysis.com/rs/503-FAP-074/images/GDPR%20Notice.pdf&quot; target=&quot;_blank&quot;&gt;Candidate GDPR Notice.&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/0ZgkZLn.png&quot; alt=&quot;&quot; width=&quot;97&quot; height=&quot;136&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href=&quot;https://blog.powertofly.com/best-work-from-home-companies-2649504754.html?rebelltitem=10#rebelltitem10&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/HNMvlj9.jpg&quot; alt=&quot;&quot; width=&quot;187&quot; height=&quot;134&quot;&gt;&lt;/a&gt;&amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;By submitting this application, I consent to and authorize Chainalysis to contact my former employers, and any and all other persons and organizations for information bearing upon my qualifications for employment.&amp;nbsp; I further authorize the listed employers, schools and personal references to give Chainalysis (without further notice to me) any and all information about my previous employment and education, along with other pertinent information they may have, and hereby waive any actions which I may have against either party(ies) for providing a reference.&amp;nbsp; I understand any future employment will be contingent on the Company receiving satisfactory employment references.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Chainalysis COVID-19 Policy - USA&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-renderer-start-pos=&quot;2600&quot;&gt;All employees are required to have or obtain a COVID-19 vaccination as a condition of employment at Chainalysis, unless an exemption has been approved. All employees shall be required to report their vaccine status. All new employees shall be required to provide proof of their vaccination status prior to the start of their employment.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Chainalysis COVID-19 Policy - EMEA&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;As an employer, Chainalysis is obliged to ensure a healthy and safe working environment. This means that we must try to prevent the coronavirus from spreading inside the workplace and all employees are obliged to follow the local regulations issued by the relevant health authorities.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-renderer-start-pos=&quot;3483&quot;&gt;To help support a safe work environment, we encourage all employees in EMEA to get fully vaccinated against COVID-19.&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;3602&quot;&gt;Employees will not be required to attend an event or in-person customer meeting.&amp;nbsp;&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;3784&quot;&gt;Employees in the EU and the UK are allowed to travel internationally for internal meetings to any country deemed “green or amber” by the EU and the UK authorities. All attendees for Chainalysis in-person events or meetings will be required to adhere to the following guidelines:&amp;nbsp;&amp;nbsp;
+&lt;ul&gt;
+&lt;li data-renderer-start-pos=&quot;4068&quot;&gt;International travel will only be permitted if you receive approval from both your manager and Executive Leader&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;4183&quot;&gt;You must familiarize yourself and comply with any screening/safety protocols imposed by the entity/individual hosting the in-person meeting or event&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;4335&quot;&gt;You must comply with any and all safety guidelines and travel restrictions established by applicable law&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li data-renderer-start-pos=&quot;4445&quot;&gt;If you are in close or proximate contact with others at the event/customer site and test positive for COVID-19, you must immediately notify the People Team and avoid contact with others for 10 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Chainalysis COVID-19 Policy - APAC&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;With circumstances changing on a regular basis and parts of our APAC team going in and out of mandatory lockdown, APAC will continue to follow country legislation and guidelines.&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;sub&gt;&lt;img src=&quot;https://imgur.com/HNMvlj9&quot; alt=&quot;&quot;&gt;&lt;/sub&gt;&lt;/p&gt;&lt;/div&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=yNpNz-FvSYQ&t=6s" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/chainalysis/jobs/5714573002?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/144926/chainalysis.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[chainalysis@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[31de1ffa-3dc5-41f3-ae72-ed4cbf977d1b]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Chainalysis]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Core Infrastructure Engineer - Disaster Recovery]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Kraken]]></company>
+    <company_url><![CDATA[https://kraken.com]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b style="font-size: 18px">About Kraken</b></div><div><br></div><div>Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. In our first decade, Kraken has risen to become one of the largest, most successful and respected crypto exchanges on the planet.&nbsp;</div><div><br></div><div>We are changing the way the world thinks about finance and our range of successful products are playing a critical role in the mainstream adoption of crypto assets. We continue to trail-blaze into new territory with the introduction of Kraken Bank, providing a more seamless integration between crypto and the traditional financial system. This makes us the first crypto company (ever) to be awarded a U.S. state banking charter.&nbsp;</div><div><br></div><div>Our diverse group of 2,000+ Krakenites are distributed all over the world as part of our 'remote first' culture, united by a shared passion for delighting customers, upholding crypto values and achieving our meaningful mission. We attract people who push themselves to improve, are radically transparent and think differently in order to unlock their potential.&nbsp;</div><div><br></div><div>Crypto is a rapidly evolving industry and we’re just getting started. We’re growing fast and you're invited to join the revolution!</div><div><br></div><div><span style="font-size: 11pt">This role is fully remote</span></div><div><br></div><div><span style="font-size: 11pt">The DevOps Engineer is critical to the Kraken platform and infrastructure. You are smart, highly skilled, and self-motivated, with a penchant for out-of-the-box thinking. You are a developer who is interested in deployment and network operations, or you're already somewhere on the journey to being a fully fledged DevOps practitioner.</span></div><div><br></div><div><span style="font-size: 11pt">You'll be joining the production engineering team to provide software engineering and cloud infrastructure support and advice across the public-facing businesses, as well as becoming part of the wider DevSecOps team, and the global (and world-class) Security, IT and DevOps team.</span></div><div><br></div><div><span style="font-size: 11pt">You'll become a member of a 50+ FTE Infrastructure team, and will be expected to contribute and learn across the full cloud engineering stack. You will be (or will become) a "T-shaped" individual with enormous potential to further your career in the burgeoning DevSecOps domain, with the guidance of industry leaders in Security and DevOps, and alongside a mature team of true polyglots and talented microservices developers.</span></div><div><br></div><div><span style="font-size: 11pt">At Kraken, our culture and our people are at the core of our strategy, and the future growth and health of our company rests on our ability to attract and retain the very best talent in the industry.</span></div><br/>Responsibilities<br/><li>Work highly independently, with multiple stakeholders outside of the formal management structure;</li><li>Write good quality policies, procedures and technical documentation;</li><li>Nurture security awareness in the organization, produce material to support this, and relate this to the current threat landscape;</li><li>Be familiar with risks introduced to organization by third parties, and processes to mitigate these;</li><li>Take a risk-based approach to all facets of information security;</li><li>Have a "finger on the pulse" of current challenges and exploits in the ecosystem;</li><li>Be an active participant in a truly world class global security organization.</li><br/>Requirements<br/><li>Code (or script) in at least one modern application development or utility language;</li><li>Use Source Code Management and Document Management Systems to organize business function tasks and publish relevant material;</li><li>Be a competent Linux user;</li><li>Know how to build, run and deploy secure Docker containers;</li><li>Be aware of how containers and microservices are configured, and can be secured and orchestrated, in particular using Kubernetes;</li><li>Use open source tooling to programmatically test and verify the safety and integrity of bespoke software;</li><li>Analyze data sets and produce reports using basic tools (e.g. SQL, POSIX stream processing tools, spreadsheets, ODBC, Python);</li><li>Understand principles around secure Identity Management and Authentication;</li><li>Understand the implementation of secure messaging systems in the context of privacy awareness, including GPG and encrypted instant messaging;</li><li>Have a good basic comprehension of computer networks, the Internet, and supporting systems such as web servers and proxies;</li><li>Understand DNS, SSL/ TLS, and how traffic on IP networks establishes end-to-end security and trust.</li><div>We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background.&nbsp;</div><div><br></div><div>As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div>Check out all our open roles at&nbsp;<a href="https://www.kraken.com/careers" class="postings-link">https://www.kraken.com/careers</a>. &nbsp;</div><div><br></div><div><b><span style="font-size: 18px">Stay in the know</span></b></div><div><br></div><div><b><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></b></div><div><b><a href="https://blog.kraken.com/" class="postings-link">Catch up on our blog</a></b></div><div><b><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Follow us on LinkedIn</a></b></div><p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=iG-bpAnRvqM" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/kraken/9e9aa23e-4c0f-4ef3-94e2-97e1c170e73c/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/141006/kraken_new.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[kraken@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[3fb432db-ca35-4833-8307-f0a44eb39242]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Kraken]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Product Designer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Ava Labs]]></company>
+    <company_url><![CDATA[https://www.avalabs.org/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Brooklyn, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;ABOUT AVALANCHE&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Avalanche is an open-source platform for launching decentralized finance applications and enterprise blockchain deployments in one interoperable, highly scalable ecosystem. Developers who build on Avalanche can easily create powerful, reliable, and secure applications and custom blockchain networks with complex rulesets or build on existing private or public subnets.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;ABOUT AVA LABS&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Ava Labs makes it simple to launch finance applications using blockchain technology–with highly scalable and efficient networks, customizable public and private blockchains, the capability to create any digital asset, and more. We are empowering people to build an open, simple, and democratic internet of finance that enables the world to have a more prosperous future.&lt;/p&gt;
+&lt;p&gt;Ava Labs was founded by Cornell computer scientists who brought on talent from Wall Street to execute their vision. The company has received funding from Andreessen Horowitz, Initialized Capital, and Polychain Capital, with angel investments from Balaji Srinivasan and Naval Ravikant.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;h4&gt;WHAT YOU WILL DO&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner closely with Product, Engineering, and Design teams to build effective user experiences.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Research user behaviors/insights, define problems, launch new products/features and innovative solutions.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contribute to and participate in our design critique. Providing and receiving feedback to the team&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contribute to the direction of Ava Labs, Avalanche, and other ecosystem product design&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;h4&gt;WHAT YOU WILL BRING&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of professional experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A love for finding simple solutions to complex problems&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding of UX patterns, best practices, and design standards for iOS, Android, and Web&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong Figma skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to clearly communicate design concepts and decisions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with building and contributing to design systems&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A low ego, collaborative, and open-minded attitude&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Desire to continually improve yourself and the team as designers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A strong portfolio that represents your full design process.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of cryptocurrencies and blockchain technologies is a plus&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Illustration skills are a plus&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Motion design skills are a plus&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=mWBzFmzzBAg" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/avalabs/jobs/4195444004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/571953/avalabs-logo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[avalabs@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[a4029032-6a83-4107-89a8-330ee9cccbd1]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Ava Labs]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Events Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Ava Labs]]></company>
+    <company_url><![CDATA[https://www.avalabs.org/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Brooklyn, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;ABOUT AVALANCHE&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Avalanche is an open-source platform for launching decentralized finance applications and enterprise blockchain deployments in one interoperable, highly scalable ecosystem. Developers who build on Avalanche can easily create powerful, reliable, and secure applications and custom blockchain networks with complex rulesets or build on existing private or public subnets.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;ABOUT AVA LABS&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Ava Labs makes it simple to launch finance applications using blockchain technology–with highly scalable and efficient networks, customizable public and private blockchains, the capability to create any digital asset, and more. We are empowering people to build an open, simple, and democratic internet of finance that enables the world to have a more prosperous future.&lt;/p&gt;
+&lt;p&gt;Ava Labs was founded by Cornell computer scientists who brought on talent from Wall Street to execute their vision. The company has received funding from Andreessen Horowitz, Initialized Capital, and Polychain Capital, with angel investments from Balaji Srinivasan and Naval Ravikant.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;h4&gt;WHAT YOU WILL DO&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure all team members have been assigned to leading events as either speakers or panelists&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Align with core business objectives by organizing events globally and working with local team community managers and region leads&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Lead and execute major branded events (1 per quarter)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help position Avalanche as the go-to blockchain platform for all financial products, services, and other decentralized applications.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure in-person and virtual events strategy is fully managed&lt;/span&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Organize virtual events with external partners&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Organize in-person meetups for community and business development&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordinate operations of events&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage sponsorships and costs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Increase bandwidth of current team members&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure team meets minimum amount of branded events and maximize attendance for every event&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create a replicable/scalable v1 system for events strategy and operations with a focus on future-facing opportunities and identifying which events best suit each team member&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure that all key team members have full schedule of speaking opportunities and other appearances throughout the year&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Full schedule and semantics roadmap built out 4- 6 months ahead w/ next 1.5 - 3 months scheduled out enough to do innovative experimentation work&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;h4&gt;WHAT YOU WILL BRING&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Minimum 3-5 years experience in events management&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In-depth understanding of tech-focused events (e.g., hackathons, meetups, summits)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Google Business Suite&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with global events (preferable)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to understand how to be nimble on a moment&#39;s notice (i.e., be able to salvage existing plans with ad-hoc changes)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High EQ&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized to manage both events execution and team member speaking engagements&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to be self driven/proactive&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passion for using events as a way to boost marketing effectiveness&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Responsive/Reliable/Accountable&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=mWBzFmzzBAg" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/avalabs/jobs/4195353004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/571953/avalabs-logo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[avalabs@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[a4029032-6a83-4107-89a8-330ee9cccbd1]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Ava Labs]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Marketing Campaigns Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[11:FS]]></company>
+    <company_url><![CDATA[https://11fs.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[London, England]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>11:FS is on a mission to change the fabric of financial services. Our <a href="https://11fs.com/services/consulting" class="postings-link">Consulting &amp; Research</a> practice builds challenger propositions globally, like we did for Natwest with Mettle. Our <a href="https://11fs.com/products/11fs-pulse" class="postings-link">Pulse</a> team creates a benchmarking tool used by the likes of Monzo, Starling, Natwest and Tesco Bank. Our <a href="https://11fs.com/products/11fs-foundry" class="postings-link">Foundry</a> team are delivering a Financial Services Operating System to help businesses quickly add financial services to their offering. On top of all of that, we’re a <a href="https://11fs.com/services/media" class="postings-link">media</a> company, generating content that supports our brand and changes the conversation - not necessarily in that order. </div><div><br></div><div>To do this we need an amazing team so we have pulled together the best in financial services and beyond. </div><div><br></div><div>We truly live our values at 11:FS, and they are critical to your entire journey here. ‘Cultural Add’ is as, if not more, important as pure technical fit, and as part of your interview process we’ll deep dive in our values and your beliefs. Everyone at 11:FS fits our 4 core values: Team, Attitude, Communication and Impact, and this remains at the core of our growth.</div><div><br></div><div><b>Scope &amp; Impact:</b></div><div><br></div><div>Our Marketing Campaigns Manager will play a big part in how we grow and engage our key client accounts. You'll be establishing ABM programs and working closely with the rest of the Growth Team to run multi-channel campaigns that work across all funnel stages. By helping to shape content that showcase our industry expertise. and reporting on learnings, you'll help our work pack an even bigger punch.</div><br/>As a Marketing Campaign manager you would:<br/><li>Own and manage multi-channel campaigns end-to-end, driving demand and tangible leads</li><li>Help establish ABM strategy and create account-based practices within 11:FS</li><li>Own and deliver account specific marketing planning aligned to sales targets</li><li>Build strong relationships with our sales teams and collaborate to define the target audience within key accounts - develop an execution plan to increase awareness, reputation and consideration for our offerings</li><li>Reporting on success of campaigns and programs across platforms</li><li>Prioritise and manage multiple projects at once, hitting deadlines and effectively communicating results</li><li>Create marketing plans for targeted sales accounts and contacts.</li><br/>What we're looking for:<br/><li>Experience building, launching, and reporting on campaigns in a similar B2B marketing role in tech or financial services</li><li>Ability to engage with and influence senior stakeholders</li><li>Account-based marketing experience preferable</li><li>Generalist marketing experience, with a good knowledge of and ability to write copy, understand ad targeting and the need to tailor messaging at different stages in the funnel.</li><li>The experience and passion to think creatively and generate ideas on how to build effective and standout campaigns. </li><li>Experience planning and managing multi-channel campaigns.</li><li>Strong core marketing skills as well as marketing automation and CRM experience required - ideally using Hubspot&nbsp;</li><br/>Benefits<br/><li>Discretionary bonus</li><li>Flexible working</li><li>Private medical</li><li>Pension - match up to 4%</li><li>Income protection</li><li>Life insurance</li><li>Enhanced maternity, paternity &amp; adoption leave</li><li>Free eye test and contribution to eye wear for VDU</li><li>Corporate gym membership</li><li>Season ticket loan</li><li>Birthdays off (or your childs if you prefer)</li><div>We strongly encourage people of colour, lesbian, gay, bisexual, transgender, queer and non-binary people, parents, and individuals with disabilities to apply. 11:FS is an equal opportunity employer and welcomes everyone to our team. If you need reasonable adjustments at any point in the application or interview process, please let us know.</div><div><br></div><div>In your application, please feel free to note which pronouns you use (For example - she/her/hers, he/him/his, they/them/theirs, etc).</div><div><br></div><div>Unfortunately we are unable to sponsor Visas at this time, but please do check back in with us in the future.</div><p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=ANPJSJU9oVQ" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/11fs/6beca143-0fa9-441e-bdc8-58eddad2b46e/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/549642/11FS-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[11fs@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[d28fc801-0423-4108-8476-3745eba53edb]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[11:FS]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Chatbot Specialist]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Luno]]></company>
+    <company_url><![CDATA[https://www.luno.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Cape Town]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The world is changing.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We all want something different.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Luno, we see you as an individual.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Together, we&#39;re upgrading the world of work to unleash your potential and empower you to become the best possible version of yourself.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Upgrading the entire planet to a new financial system is a challenge of epic proportions. Like the first moon landing, it requires a special kind of people working together with unusual skill, focus and determination. We’re changing the world, and to do so, we need the best team on board for our mission. In short, to achieve our goals, we need people with exceptional talent. As simple as that.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A little about us&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We make it safe and easy to buy, store and learn about cryptocurrencies like Bitcoin and Ethereum.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We currently have over 9 million customers across 40 countries.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re part of the Digital Currency Group, a group of companies driving progress in the cryptocurrency and blockchain space that includes Grayscale, Genesis, Coindesk and Foundry Services.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our platform has processed over $17 billion to date.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re proud to be one of the world’s most international cryptocurrency teams from 43 different nationalities — working across South Africa, Indonesia, the United Kingdom, Malaysia, Nigeria and Singapore.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A little about the Customer Success team&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Customer Success team is responsible for delivering service support to Luno’s 8 million customers across the globe.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a global team with team members in the US (soon), Europe, South East Asia and South Africa.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This team is passionate about delivering fantastic customer support experiences that build customer loyalty and love for Luno.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This team is made up of leaders and specialists in the areas of workforce management, customer success service operations, quality management, customer service measurement, training, continuous improvement, programme management, customer experience design and content, to name a few.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We will be 250+ passionate global Lunauts in this team by the end of 2021.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The role in a nutshell:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will be leading Luno’s efforts to define, design, enable and optimise Luna, our customer support chatbot. You will in essence be the human that makes Luna the best possible version of itself. You will optimise Luna to ensure she delights our customers and consistently delivers the Luno customer support experience, with a high containment rate and awesome customer satisfaction.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ll report into André, the Manager: Customer Support Content, Experience Design and Internal Communications. Meet him&lt;/span&gt;&lt;a href=&quot;https://www.linkedin.com/in/andre-wessels/&quot;&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your mission will involve:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designing and mapping Luna chatbot conversations.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Analyse customer support journeys delivered by Luna to identify and manage opportunities to improve the support experiences it delivers to our customers.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Define, shape and deliver conversational AI experiences that are aligned to the Luno brand tone and Luno customer support. experience, in a channel agnostic way (e.g. Luna should be able to have support conversations with our customers across many types of digital channels).&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Continuously scanning the external market for chat bot best practices, translating these into Luno chatbot experience designs to always improve Luna.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Loading new or updating existing chatbot support journeys on Luna.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with the relevant Engineering and Product teams to enhance Luna configurations and automations.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report and analyse daily, weekly and monthly Luna performance trends to identify improvement opportunities, support chat designs not working well and opportunities for automation.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Tune and refine Luna’s natural language processing (NLP), workflows and intents, and publish new workflows.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain knowledge of current and emerging technologies/products/trends related to Bots, AI and analytical tools, identifying opportunities to enhance Luna.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;In your first six months, you will:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Become the Luno chatbot AI subject matter expert.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build internal and external relationships.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enable regular reporting to key internal stakeholders.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Establish a close working relationship with the data and quality assurance teams to measure (in as close to real time as possible) the chatbot performance and customer satisfaction.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with internal Customer Success stakeholders to measure chatbot effect on support live chat and conversation volumes, with the aim to continuously reduce the need for human-assisted support.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with the Support Content Team to establish a chatbot tone of voice, in line with CS and Luno’s tone of voice guidelines.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The ideal Lunaut for this role will have:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience designing and mapping chatbot experiences, or customer support automation flows.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Have a solid understanding of Customer Support processes and policies.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong analytical mindset.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to adapt within a fast-paced environment.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Entrepreneurial, strong sense of responsibility and very high level of integrity.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Solid interpersonal, communication and negotiation skills.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friendly, transparent, articulate and driven to succeed&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with cryptocurrencies will be &lt;/span&gt;&lt;strong&gt;highly advantageous&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Remote Life at Luno:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re looking to work on something truly global and disruptive with a forward-thinking and ambitious team that highly values diversity, teamwork, and the continuous quest for excellence, then this is an opportunity for you.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Like the majority of the companies, Luno is currently working remotely to keep our employees safe, which means you will not be physically, but virtually onboarded for now!&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Live long and prosper. We’ve got you covered with excellent private medical insurance.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Generous maternity / paternity and even (yes, you are reading it correctly) paw-ternity for your furry friend.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual Inspiration Day.. like that pottery course you’ve always been meaning to do!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with a diverse team of hardworking, ambitious and friendly people on something that will truly revolutionise the financial world.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a social bunch of people, we have virtual quarterly activities and drinks Fridays for whoever wants to join!&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We have virtual cooking, dancing, drawing and house planting classes hosted by our Lunauts Monthly to break up your day and work that other part of your brain.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are an equal opportunity employer and value diversity at our company. We do not negatively discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.&lt;/span&gt;&lt;/p&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=yq6lSA5uNYA" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.luno.com/en/careers/apply/3675855?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/145517/luno.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[luno@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[d4a1d4d5-b5b6-4f82-b913-953220c869d0]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Luno]]></employer_name>
+    <category><![CDATA[ Customer Services ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Software Engineer, Data (Remote)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Swissborg]]></company>
+    <company_url><![CDATA[https://swissborg.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Lausanne]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>We’re SwissBorg, a fintech startup headquartered in Switzerland.&nbsp;</div><div><br></div><div>Our flagship product, the SwissBorg app, offers over 450,000+ users the best price and liquidity across 15 fiat and 12 cryptos, as well as giving them the opportunity to earn passive income with our new Smart Yield account. And the community is growing fast, with over $1 billion in assets under management, weekly volume of over 250 million, and over 20,000 Premium users.</div><div><br></div><div>But that’s just the start in our mission to democratise wealth management by building products that allow individuals to manage their crypto assets at a touch of a finger. Whether you’re in Andorra or Zimbabwe, and whether your portfolio is worth one dollar or a million, SwissBorg gives you the best tools to learn about digital currencies and manage your wealth.</div><div><br></div><div>And this is where you come in...</div><div><br></div><div><i><b>Please note this is a fully remote role for a candidate who can be based anywhere in European timezone</b></i></div><div><br></div><div><span style="font-size: 15px">#LI-Remote</span></div><br/>What you might be doing:<br/><li>Identify requirements for the data pipelines layout, design, and implementation</li><li>Design, build, maintain, and troubleshoot SwissBorg's data delivery and data processing systems</li><li>Be the link between the backend services and the data analytics teams</li><li>Work on scaling the existing data systems to accommodate the future growth</li><li>Optimize databases and query performance</li><li>Solve challenging problems in the context of data and distributed systems</li><br/>What you might bring:<br/><li>Expert knowledge of at least one JVM based language (Java/Kotlin/Scala). Scala is a plus</li><li>Good practical knowledge of Python</li><li>Good understanding and practical experience with Apache Kafka</li><li>Expertise in modern data storage and data processing tools and techniques</li><li>Experience with RDBMs, data warehouses, cloud-based data processing architectures</li><li>Flexible, proactive, organized, detail-oriented and entrepreneurial</li><li>Excellent English communication skills. French is a plus</li><li>Experience in the finance industry is a plus</li><div><b style="font-size: 18px">Why you should apply: </b></div><div><br></div><div>- Freedom to build up the company that you’ve dreamed of</div><div>- Learn with (cool) experts in finance, engineering, AI, psychology and business</div><div>- CHSB bonus based on our meritocratic system</div><div>- We'll provide you with a Macbook and a cutting edge tech stack to help you do your best work</div><div>- Flexible work hours</div><div>- Annual team retreats with colleagues around the world.</div><div>- Continuous learning and development opportunities</div><div><br></div><div>Oh and are you planning on having a kid? That’s great! We have a bunch of those: you’ll get time off to enjoy that (other) adventure!&nbsp;</div><div><br></div><div><i>At SwissBorg, we embrace diversity. We strongly believe that getting to the best outcomes requires different perspectives and backgrounds. We’re committed to openness, curiosity and creating an inclusive culture as we know that diverse teams build better products and generate better ideas. We strongly encourage applications from everyone regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</i></div><p><figure><iframe style="width: 500px; height: 281px;" src="https://www.youtube.com/watch?v=02lonwc5XE4" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/swissborg/b760d6fb-4198-4586-a362-f378a945817a/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/440178/Swissborg-logo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[swissborg@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[f4703261-2e7b-4b75-af19-fbdfc5e62c02]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Swissborg]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
 </jobs>
