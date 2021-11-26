@@ -1709,59 +1709,6 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Detection & Response Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Hong Kong]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The primary objective of a Detection &amp;amp; Response Engineer is to protect BitMEX from external and internal threats. They will provide an orderly, rapid and effective response to security incidents, including but not limited to intrusions, insider threats and abuse. D&amp;amp;R Engineers are responsible for designing, building and implementing tools that aid in these functions. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Support a global, multi-timezone, on-call rotation for incident triage &amp;amp; response&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proactively Identify and respond to emerging security threats&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop tools that aid in the detection, mitigation or response to security threats&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist the investigations team in technical forensic investigations&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mentor and provide security guidance to various organizations throughout the company&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Define and refine security response policies and processes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with internal and external partners to obtain actionable intelligence to protect the firm.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Demonstrated experience in digital forensics and incident response&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding of emerging adversary tactics, techniques and procedures&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong written and oral communication skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in forensic analysis with tools such as volatility or sleuthkit&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong Amazon Web Services, and general Cloud infrastructure security skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge with HIDS/NIDS tools such as osquery, or zeek (formally bro)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Software development skills in languages such as Python, Golang, Ruby, C, C++, or similar&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Malware analysis &amp;amp; reverse engineering&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5267989002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[Digital Graphics Designer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -1954,7 +1901,7 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Growth Marketing Manager]]></title>
+    <title><![CDATA[CRM Manager]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
@@ -2012,7 +1959,7 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Growth Marketing Manager]]></title>
+    <title><![CDATA[CRM Manager]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
@@ -2058,59 +2005,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5469716002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Detection & Response Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The primary objective of a Detection &amp;amp; Response Engineer is to protect BitMEX from external and internal threats. They will provide an orderly, rapid and effective response to security incidents, including but not limited to intrusions, insider threats and abuse. D&amp;amp;R Engineers are responsible for designing, building and implementing tools that aid in these functions. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Support a global, multi-timezone, on-call rotation for incident triage &amp;amp; response&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proactively Identify and respond to emerging security threats&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop tools that aid in the detection, mitigation or response to security threats&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist the investigations team in technical forensic investigations&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mentor and provide security guidance to various organizations throughout the company&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Define and refine security response policies and processes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with internal and external partners to obtain actionable intelligence to protect the firm.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Demonstrated experience in digital forensics and incident response&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding of emerging adversary tactics, techniques and procedures&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong written and oral communication skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in forensic analysis with tools such as volatility or sleuthkit&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong Amazon Web Services, and general Cloud infrastructure security skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge with HIDS/NIDS tools such as osquery, or zeek (formally bro)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Software development skills in languages such as Python, Golang, Ruby, C, C++, or similar&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Malware analysis &amp;amp; reverse engineering&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5492126002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -2489,7 +2383,7 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Senior Software Engineer - Frontend Web]]></title>
+    <title><![CDATA[CX Designer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
@@ -2500,37 +2394,53 @@
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Traders around the world transact the equivalent of billions of USD everyday on BitMEX.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’ve been at the forefront of cryptocurrency exchanges since 2016, when we launched our XBTUSD perpetual swap. Fast forward to now and it remains the most traded cryptocurrency product of all time.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;It changed the industry and has allowed us to continue innovating and expanding with new perpetual swaps, traditional futures and quanto futures products.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto is changing, and we’re changing with it.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; We’re expanding our capabilities to serve a broader subset of users through establishing spot, custody, and brokerage capabilities, as well as information products and an academy. We’re hiring an increasingly more diverse employee base to help us achieve this, and setting the groundwork to invest in a more diverse crypto talent pipeline. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Role&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are seeking experienced frontend developers with a strong interest in building modern, fast, robust websites with the latest tech stacks.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The role will involve building out our web pages and component library, optimising for page-load times and browser compatibility, as well as building a user experience to surprise and delight our customers.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition, experience with using analytics to inform development decisions is a plus.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a new department, the Digital Tech team has the opportunity to define our own stack based on the best available technologies, and the budget we need to find the best possible solution.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our current stack: Typescript, NextJS, React, Express, GraphQL, Redshift, Docker and Kubernetes.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a member of our rapidly growing marketing team, you will be responsible for creating cross-functional and high-quality digital user experiences, bringing ideas to life in the form of sketches, concepts, high-level prototypes and detailed user interface designs. You will also be validating if the concepts and solutions delivered by internal teams or vendors meet the desired user experiences. The aspiration is to define experiences that will maximize consumer engagement, conversion and advocacy for our brands.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working in close collaboration with our Web Developers and Tech Team you will leverage your in-depth knowledge to create consistent experiences end-to-end and to consult stakeholders on User Centric Thinking.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build solid web pages using the latest technologies and best practices&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Support our web deployments at scale&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Optimise our pages for SEO, page-load times and conversions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conduct and maintain analyses of competitor websites and evolving user interfaces&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and maintain knowledge base of current UI / UX trends in Crypto &amp;amp; Trading website environment&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;User research, data, and best practices to form and validate your solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create optimal user and customer journeys&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create designs and key milestone deliverables&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordinate with product owners to create and maintain a constituent, intuitive and user journey specific UX and UI across all platforms, optimizing navigation, minimal clicks and page refreshes for current task&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create wireframes, storyboards, user flows and site maps&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create mock-ups and interactive prototypes to solve challenging CX problems and present the vision to stakeholders&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Objectively evaluate and refine concepts based on learnings from user testing validation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist performance marketing with graphic and creative content&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with Typescript and frontend frameworks (ideally React)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Supported high traffic, high performance public facing web applications&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Nice to have:&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An eye for detail when it comes to UI/UX&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with micro-interactions and CSS animation&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Marketing-specific experience, such as SEO optimization, Google Analytics etc.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Business or Marketing Degree&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years’ experience in Retail Digital, Retail Marketing and/or Digital Marketing/IT&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2+ years working with global markets, or 2+ years in a key adidas market&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2+ years project or process management experience (beneficial)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep knowledge in retail digital &amp;amp; technical innovations, combining theoretical with practical experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong organisation skills and flexibility&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Specialist in technical/digital skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in digital and/ or eCommerce environment&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A strong portfolio that demonstrates your attention to details and problem solving.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Valid experience in growing high volume and high-demand (hype) businesses and achieving bottom line results in a commercial world.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Good level of knowledge on CRM and/or digital marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in working with Illustrator and other relevant wireframing tools&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep understanding of the native apps environment, GUI (screen layouts and composition)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Very good communication skills, comfortable presenting complex topics to stakeholders at various organizational levels both in person and remotely&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Consistency across designs while maintaining a creative approach&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creative and energetic team player who has a passion for user-centered design&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;People management skills are a big plus&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5600008002?gh_src=759c9df92us#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5308971002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -2637,76 +2547,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5599949002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[CX Designer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a member of our rapidly growing marketing team, you will be responsible for creating cross-functional and high-quality digital user experiences, bringing ideas to life in the form of sketches, concepts, high-level prototypes and detailed user interface designs. You will also be validating if the concepts and solutions delivered by internal teams or vendors meet the desired user experiences. The aspiration is to define experiences that will maximize consumer engagement, conversion and advocacy for our brands.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working in close collaboration with our Web Developers and Tech Team you will leverage your in-depth knowledge to create consistent experiences end-to-end and to consult stakeholders on User Centric Thinking.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conduct and maintain analyses of competitor websites and evolving user interfaces&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and maintain knowledge base of current UI / UX trends in Crypto &amp;amp; Trading website environment&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;User research, data, and best practices to form and validate your solutions&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create optimal user and customer journeys&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create designs and key milestone deliverables&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordinate with product owners to create and maintain a constituent, intuitive and user journey specific UX and UI across all platforms, optimizing navigation, minimal clicks and page refreshes for current task&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create wireframes, storyboards, user flows and site maps&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create mock-ups and interactive prototypes to solve challenging CX problems and present the vision to stakeholders&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Objectively evaluate and refine concepts based on learnings from user testing validation&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist performance marketing with graphic and creative content&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Business or Marketing Degree&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years’ experience in Retail Digital, Retail Marketing and/or Digital Marketing/IT&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2+ years working with global markets, or 2+ years in a key adidas market&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2+ years project or process management experience (beneficial)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep knowledge in retail digital &amp;amp; technical innovations, combining theoretical with practical experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong organisation skills and flexibility&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Specialist in technical/digital skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in digital and/ or eCommerce environment&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A strong portfolio that demonstrates your attention to details and problem solving.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Valid experience in growing high volume and high-demand (hype) businesses and achieving bottom line results in a commercial world.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Good level of knowledge on CRM and/or digital marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in working with Illustrator and other relevant wireframing tools&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep understanding of the native apps environment, GUI (screen layouts and composition)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Very good communication skills, comfortable presenting complex topics to stakeholders at various organizational levels both in person and remotely&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Consistency across designs while maintaining a creative approach&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creative and energetic team player who has a passion for user-centered design&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;People management skills are a big plus&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5308971002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -3014,71 +2854,6 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Customer Support Specialist - English]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Vancouver, Canada]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;*Turkish or any other European language is optional, but would be a huge plus!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Purpose of the Role&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The role of the Customer Support Specialist is to assist our users during the allocated time zone via a number of channels - including but not limited to - our CRM (Freshdesk), the BitMEX Trollbox, Reddit and Telegram.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will be required to continuously identify and evaluate customer needs in order to achieve the highest quality of customer satisfaction. You will be expected to monitor the community for any emerging issues and bring forward any feedback or proposals you come across.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position is ideal for somebody who would enjoy being the face of the company, helping people and establishing/maintaining strong relationships with our customers.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;About the Customer Support Team&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a young, passionate and fast growing team with members all over the world delivering a 24/7/365 industry leading support experience. We are proud to work for BitMEX and of the standard we have set and hold ourselves to. We enjoy working together and helping each other to grow. There is a high level of independence involved in the role, but we are interdependent on each other in the sense that many hands make light work and we are all responsible for upholding the high standard that has been set and raising it even higher into the future.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Respond to customer queries in a timely manner with the utmost professionalism and in accordance with company policies/guidelines&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monitor the BitMEX Trollbox, Telegram and other channels as required&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Perform document checks as per standard procedures&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Escalate enquiries when necessary&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with various internal partners (including Founders, Engineers, Sales, Marketing, Control teams, IT) in different regions (Asia, Europe, America) when necessary&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist in updating FAQ/Solutions documentation&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Constantly look for ways to improve our customer service&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Must be proficient in &lt;strong&gt;English&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Attention to detail with excellent communication skills and patience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to troubleshoot and discover answers quickly and effectively&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enjoy helping people and being patient with customers&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Capable of working under pressure&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cooperative with strong team spirit and a willingness to motivate your other colleagues on the Customer Support Team&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;* Please note this position will require occasional weekend work.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We&#39;d love to see&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;Proficiency in Turkish or another European language optional&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience and knowledge of cryptocoins, Blockchain and trading&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Technical background/understanding of the BitMEX API is a major plus&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Available for immediate hire preferred&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Previous experience in solving customer inquiries.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593314002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[Investment Associate - Corporate Development]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -3158,6 +2933,71 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5554815002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Customer Support Specialist - English]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Vancouver, Canada]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;*Turkish or any other European language is optional, but would be a huge plus!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Purpose of the Role&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The role of the Customer Support Specialist is to assist our users during the allocated time zone via a number of channels - including but not limited to - our CRM (Freshdesk), the BitMEX Trollbox, Reddit and Telegram.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will be required to continuously identify and evaluate customer needs in order to achieve the highest quality of customer satisfaction. You will be expected to monitor the community for any emerging issues and bring forward any feedback or proposals you come across.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position is ideal for somebody who would enjoy being the face of the company, helping people and establishing/maintaining strong relationships with our customers.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Customer Support Team&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a young, passionate and fast growing team with members all over the world delivering a 24/7/365 industry leading support experience. We are proud to work for BitMEX and of the standard we have set and hold ourselves to. We enjoy working together and helping each other to grow. There is a high level of independence involved in the role, but we are interdependent on each other in the sense that many hands make light work and we are all responsible for upholding the high standard that has been set and raising it even higher into the future.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Respond to customer queries in a timely manner with the utmost professionalism and in accordance with company policies/guidelines&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monitor the BitMEX Trollbox, Telegram and other channels as required&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Perform document checks as per standard procedures&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Escalate enquiries when necessary&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with various internal partners (including Founders, Engineers, Sales, Marketing, Control teams, IT) in different regions (Asia, Europe, America) when necessary&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist in updating FAQ/Solutions documentation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Constantly look for ways to improve our customer service&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Must be proficient in &lt;strong&gt;English&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Attention to detail with excellent communication skills and patience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to troubleshoot and discover answers quickly and effectively&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enjoy helping people and being patient with customers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Capable of working under pressure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cooperative with strong team spirit and a willingness to motivate your other colleagues on the Customer Support Team&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;* Please note this position will require occasional weekend work.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We&#39;d love to see&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Proficiency in Turkish or another European language optional&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience and knowledge of cryptocoins, Blockchain and trading&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Technical background/understanding of the BitMEX API is a major plus&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Available for immediate hire preferred&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Previous experience in solving customer inquiries.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593314002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -3347,6 +3187,68 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5554541002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Legal Counsel, Custody]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An experienced Legal Counsel is required to assist the Group’s Legal team, focusing on new product development and strategic growth projects, with a focus on supporting the business as it expands its Custody product offering. Reporting to the Co-Heads of Legal, he/she will be the Legal contact for the business’ Custody offering and assist with providing advice to various other parts of the business, and in particular providing and coordinating legal input to support the Business Development, Financial Products and other revenue functions. He/she will also be expected to be comfortable assisting the Legal team with a broad range of other legal matters.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Primary Legal contact to support Group’s Custody business line and other growth projects, including:&lt;/span&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provision of legal input in response to business strategy set by management, working closely with internal and external stakeholders and advisers, such as licensing or geographic expansion initiatives&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordination of Legal-led, cross-functional projects such as legal and regulatory technology implementation and other technical development programmes with significant legal-driven components&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with technology teams and security functions to provide commercially-driven legal solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Assistance with assessment and proactive management of legal risk management across strategic growth projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Providing and coordinating Legal input on new structured product and business line initiatives, including:&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reviewing proposals for business growth and assisting with feasibility review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advising on structuring and documentation for new products and business lines (working with internal and external legal input)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assisting with implementation and execution of new products&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instructing and communicating with external legal counsel as necessary&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Thought leadership within the Legal team as well as the wider business&lt;/li&gt;
+&lt;li&gt;Assisting with any specific matters requested by the Co-Heads of Legal, which may include advising on and drafting contracts, monitoring and advising on applicable and developing rules and regulations, assessing and advising on other legal risks affecting the Group, and advising on internal policies and procedures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3-6 years of post-qualification legal experience in a common law jurisdiction&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience advising, or working in, the banking and custodian sector&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing projects with a regulatory, accounting or tax-efficiency dimension&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Structured products and derivatives experience, with a track record of structuring and executing a range of complex, cross-border transactions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in the digital assets sector and curiosity to learn about a dynamic and emerging industry&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working autonomously and under time pressure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A critical thinker with an ability to communicate clearly&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593348002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -3870,68 +3772,6 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Legal Counsel, Custody]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An experienced Legal Counsel is required to assist the Group’s Legal team, focusing on new product development and strategic growth projects, with a focus on supporting the business as it expands its Custody product offering. Reporting to the Co-Heads of Legal, he/she will be the Legal contact for the business’ Custody offering and assist with providing advice to various other parts of the business, and in particular providing and coordinating legal input to support the Business Development, Financial Products and other revenue functions. He/she will also be expected to be comfortable assisting the Legal team with a broad range of other legal matters.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Primary Legal contact to support Group’s Custody business line and other growth projects, including:&lt;/span&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provision of legal input in response to business strategy set by management, working closely with internal and external stakeholders and advisers, such as licensing or geographic expansion initiatives&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordination of Legal-led, cross-functional projects such as legal and regulatory technology implementation and other technical development programmes with significant legal-driven components&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with technology teams and security functions to provide commercially-driven legal solutions&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;Assistance with assessment and proactive management of legal risk management across strategic growth projects&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Providing and coordinating Legal input on new structured product and business line initiatives, including:&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reviewing proposals for business growth and assisting with feasibility review&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advising on structuring and documentation for new products and business lines (working with internal and external legal input)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assisting with implementation and execution of new products&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instructing and communicating with external legal counsel as necessary&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Thought leadership within the Legal team as well as the wider business&lt;/li&gt;
-&lt;li&gt;Assisting with any specific matters requested by the Co-Heads of Legal, which may include advising on and drafting contracts, monitoring and advising on applicable and developing rules and regulations, assessing and advising on other legal risks affecting the Group, and advising on internal policies and procedures&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3-6 years of post-qualification legal experience in a common law jurisdiction&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience advising, or working in, the banking and custodian sector&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing projects with a regulatory, accounting or tax-efficiency dimension&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Structured products and derivatives experience, with a track record of structuring and executing a range of complex, cross-border transactions&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in the digital assets sector and curiosity to learn about a dynamic and emerging industry&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working autonomously and under time pressure&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A critical thinker with an ability to communicate clearly&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593348002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[Chief Compliance Officer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -3994,6 +3834,60 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5658330002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Senior Software Engineer - Frontend Web]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Traders around the world transact the equivalent of billions of USD everyday on BitMEX.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’ve been at the forefront of cryptocurrency exchanges since 2016, when we launched our XBTUSD perpetual swap. Fast forward to now and it remains the most traded cryptocurrency product of all time.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;It changed the industry and has allowed us to continue innovating and expanding with new perpetual swaps, traditional futures and quanto futures products.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto is changing, and we’re changing with it.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; We’re expanding our capabilities to serve a broader subset of users through establishing spot, custody, and brokerage capabilities, as well as information products and an academy. We’re hiring an increasingly more diverse employee base to help us achieve this, and setting the groundwork to invest in a more diverse crypto talent pipeline. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Role&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are seeking experienced frontend developers with a strong interest in building modern, fast, robust websites with the latest tech stacks.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The role will involve building out our web pages and component library, optimising for page-load times and browser compatibility, as well as building a user experience to surprise and delight our customers.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition, experience with using analytics to inform development decisions is a plus.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a new department, the Digital Tech team has the opportunity to define our own stack based on the best available technologies, and the budget we need to find the best possible solution.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our current stack: Typescript, NextJS, React, Express, GraphQL, Redshift, Docker and Kubernetes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build solid web pages using the latest technologies and best practices&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Support our web deployments at scale&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Optimise our pages for SEO, page-load times and conversions&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with Typescript and frontend frameworks (ideally React)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Supported high traffic, high performance public facing web applications&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Nice to have:&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An eye for detail when it comes to UI/UX&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with micro-interactions and CSS animation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Marketing-specific experience, such as SEO optimization, Google Analytics etc.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5600008002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -4491,54 +4385,62 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[DevOps Engineer (Business Integration)]]></title>
+    <title><![CDATA[Global Data Analyst]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
     <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Vancouver, Canada]]></location>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Job Purpose &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The BitMEX infrastructure team is responsible for the reliability and scalability of all the services that power the BitMEX platform and for empowering its developers to iterate efficiently with high engineering standards through the use of self-service tools and frameworks.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As an Automation Engineer, you will be working with some of the most cutting-edge technology in the DevOps and CI/CD space. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will be working closely with our Product Engineering, Trading Technology, and Data Engineering departments to shape integration and delivery pipelines to streamline operations, development, &amp;nbsp;and end-to-end testing, and to build self-serviceable, ephemeral trading environments.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Purpose of the Role&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Data Team is responsible for analyzing how initiatives and business has performed; developing visualizations and reports for executives and teams; supporting the organisation’s data-driven roadmap; maintaining data integrity across requests from most departments from Product, Marketing, Legal and Compliance to Business Development, Support and Operations.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The team is organised as 24/7/365, shifting between time zones at lunchtime (Asia, Europe and the America). Morning is spent on support work such as building dashboards or running analyses for departments. Afternoons are free of meetings and spent on longer term projects such as experiments or infrastructure. Team members can be remote or office-based, with all team members involved in all time zones’ projects.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A separate Data Engineering team takes care of ingesting and keeping online around 50-100TB of data from a variety of sources for the team, but skills overlap is welcome.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with BitMEX engineering leads to design and lead continuous integration and continuous delivery (CI/CD) best practices&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify scaling challenges in our CI/CD process: extract common build patterns into reusable libraries, and create reusable templates for common pipeline&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enforce good CI/CD practice on any automation tools by adopting CI/CD patterns which include: design automated tests against any changes, run integration tests on sandbox environments before deploying changes, and create a rollback process that’s easy to follow by all our team members&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Integrate the different components making up our trading platform into a self-serviceable stack for ephemeral testing environments&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Design tools and processes with a focus on security: apply the principle of least privileges and privilege escalation to prevent accidental changes for any BitMEX infrastructure.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and maintain identity and access management controls across our delivery tools&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enable our engineering teams to deliver software with higher confidence by assisting them with adding post-deployment tests, implementing blue/green and canary deployments and automated rollbacks&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Increase the efficiency of our delivery process by analyzing each build stage’s time, find opportunities for parallelization, and provide technical guidance on how to improve CI/CD build time.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Evangelize engineering teams on CI/CD best practices by holding regular workshops&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand the platform, products and external data sources to knowledgeably support business users.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write Redshift and PostgreSQL queries, create and support Tableau dashboards to support all departments. Through automation, make this less than 10% of your time.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prototype external data source ingestion for Data Engineering to productionise.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contribute to the build-out of a more robust, longer term PB-scale data infrastructure.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create, run and document experiments to explore high risk, low visibility opportunities. The target success rate / risk level for experiments is around 1 in 10 with a focus on learning, documentation and replicability.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stay up to date with competitor offerings, where BitMEX stands in terms of product suite, volumes, market share; proactively identify areas we should be focusing on.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Required Skills:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience in the industry&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficient in at least one of the following languages: Python, Golang, Node.JS or similar&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Worked with one or more of the following CI tools as an admin: Jenkins, CircleCI, TeamCity, TravisCI, etc&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Worked with one or more of the following CD tools: ArgoCD, Spinnaker, CodeFresh, Harness.io, etc&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A good understanding of infrastructure configuration management (Chef, SaltStack, Ansible, Puppet) and automation tools (e.g. Terraform)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Solid experience with Amazon Web Services, GCP&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Good understanding of Chaos Engineer and its application in a software delivery context&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Well-versed in the many different build tools that are common in a CI/CD pipeline, from Makefile, bash/zsh scripts, gradle build tasks, SBT, fastlane, and npm/yarn builds&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable context-switching across a wide variety of platforms and technologies and are able to find ways to clue different technologies together&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to manage a complex, polyglot, and global infrastructure as code, and understand how to fully automate their management from a centralized git repository.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience writing SQL queries using more than 5 CTEs / subqueries; any relational dialect but PostgreSQL family preferred.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Empathy for and experience observing users, particularly non-technical.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Created visualisations for more than 5 non-technical users.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Appreciation for real teamwork, including thoughtful and structured documentation.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Transcend the letter of the request and understand and solve for its spirit.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Desire to learn something new every day and year - a key OKR is personal growth.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If possible, in time zones UTC-08 to -06 or +00 to +02. Work entirely remotely, subject to regulatory considerations; or in our offices in Hong Kong, Singapore or Bermuda.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advanced understanding of PostgreSQL at all levels from having read some of the C source to multi-source logical replication; extra bonus if you’ve used Postgres in a relational manner at 10TB+ scale with tables at 50bn+ rows.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Normalised a schema of over 500 tables.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Formal training in computer science, abstract mathematics or statistics.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in modern DevOps developments (including Nix).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with low latency, parallelism or concurrency.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;FOSS contributions.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Intuitive understanding of options, up to second or third order greeks e.g. explain vega convexity to people with no financial background.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Sufficient machine learning experience to appreciate simpler deterministic approaches.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ve used higher kinded types in any language (especially in Haskell/Mercury/Idris, OCaml/SML, Scala…).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable with APL family languages (APL, J, NumPy, K, q...).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You&#39;ve read/heard about: Edgar Codd, Chris Date, Johns Backus and McCarthy, Claude Shannon, Alonso Church…&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ve at least thought about opening TAOCP.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593291002?gh_src=759c9df92us#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5440391002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -4607,62 +4509,54 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Global Data Analyst]]></title>
+    <title><![CDATA[DevOps Engineer (Business Integration)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
     <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Vancouver, Canada]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Purpose of the Role&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Data Team is responsible for analyzing how initiatives and business has performed; developing visualizations and reports for executives and teams; supporting the organisation’s data-driven roadmap; maintaining data integrity across requests from most departments from Product, Marketing, Legal and Compliance to Business Development, Support and Operations.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The team is organised as 24/7/365, shifting between time zones at lunchtime (Asia, Europe and the America). Morning is spent on support work such as building dashboards or running analyses for departments. Afternoons are free of meetings and spent on longer term projects such as experiments or infrastructure. Team members can be remote or office-based, with all team members involved in all time zones’ projects.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A separate Data Engineering team takes care of ingesting and keeping online around 50-100TB of data from a variety of sources for the team, but skills overlap is welcome.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Job Purpose &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The BitMEX infrastructure team is responsible for the reliability and scalability of all the services that power the BitMEX platform and for empowering its developers to iterate efficiently with high engineering standards through the use of self-service tools and frameworks.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As an Automation Engineer, you will be working with some of the most cutting-edge technology in the DevOps and CI/CD space. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will be working closely with our Product Engineering, Trading Technology, and Data Engineering departments to shape integration and delivery pipelines to streamline operations, development, &amp;nbsp;and end-to-end testing, and to build self-serviceable, ephemeral trading environments.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand the platform, products and external data sources to knowledgeably support business users.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write Redshift and PostgreSQL queries, create and support Tableau dashboards to support all departments. Through automation, make this less than 10% of your time.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prototype external data source ingestion for Data Engineering to productionise.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contribute to the build-out of a more robust, longer term PB-scale data infrastructure.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create, run and document experiments to explore high risk, low visibility opportunities. The target success rate / risk level for experiments is around 1 in 10 with a focus on learning, documentation and replicability.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stay up to date with competitor offerings, where BitMEX stands in terms of product suite, volumes, market share; proactively identify areas we should be focusing on.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with BitMEX engineering leads to design and lead continuous integration and continuous delivery (CI/CD) best practices&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify scaling challenges in our CI/CD process: extract common build patterns into reusable libraries, and create reusable templates for common pipeline&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enforce good CI/CD practice on any automation tools by adopting CI/CD patterns which include: design automated tests against any changes, run integration tests on sandbox environments before deploying changes, and create a rollback process that’s easy to follow by all our team members&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Integrate the different components making up our trading platform into a self-serviceable stack for ephemeral testing environments&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Design tools and processes with a focus on security: apply the principle of least privileges and privilege escalation to prevent accidental changes for any BitMEX infrastructure.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and maintain identity and access management controls across our delivery tools&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enable our engineering teams to deliver software with higher confidence by assisting them with adding post-deployment tests, implementing blue/green and canary deployments and automated rollbacks&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Increase the efficiency of our delivery process by analyzing each build stage’s time, find opportunities for parallelization, and provide technical guidance on how to improve CI/CD build time.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Evangelize engineering teams on CI/CD best practices by holding regular workshops&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Minimum Required Skills:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience writing SQL queries using more than 5 CTEs / subqueries; any relational dialect but PostgreSQL family preferred.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Empathy for and experience observing users, particularly non-technical.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Created visualisations for more than 5 non-technical users.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Appreciation for real teamwork, including thoughtful and structured documentation.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Transcend the letter of the request and understand and solve for its spirit.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Desire to learn something new every day and year - a key OKR is personal growth.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If possible, in time zones UTC-08 to -06 or +00 to +02. Work entirely remotely, subject to regulatory considerations; or in our offices in Hong Kong, Singapore or Bermuda.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advanced understanding of PostgreSQL at all levels from having read some of the C source to multi-source logical replication; extra bonus if you’ve used Postgres in a relational manner at 10TB+ scale with tables at 50bn+ rows.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Normalised a schema of over 500 tables.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Formal training in computer science, abstract mathematics or statistics.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in modern DevOps developments (including Nix).&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with low latency, parallelism or concurrency.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;FOSS contributions.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Intuitive understanding of options, up to second or third order greeks e.g. explain vega convexity to people with no financial background.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Sufficient machine learning experience to appreciate simpler deterministic approaches.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ve used higher kinded types in any language (especially in Haskell/Mercury/Idris, OCaml/SML, Scala…).&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable with APL family languages (APL, J, NumPy, K, q...).&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You&#39;ve read/heard about: Edgar Codd, Chris Date, Johns Backus and McCarthy, Claude Shannon, Alonso Church…&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ve at least thought about opening TAOCP.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience in the industry&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficient in at least one of the following languages: Python, Golang, Node.JS or similar&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Worked with one or more of the following CI tools as an admin: Jenkins, CircleCI, TeamCity, TravisCI, etc&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Worked with one or more of the following CD tools: ArgoCD, Spinnaker, CodeFresh, Harness.io, etc&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A good understanding of infrastructure configuration management (Chef, SaltStack, Ansible, Puppet) and automation tools (e.g. Terraform)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Solid experience with Amazon Web Services, GCP&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Good understanding of Chaos Engineer and its application in a software delivery context&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Well-versed in the many different build tools that are common in a CI/CD pipeline, from Makefile, bash/zsh scripts, gradle build tasks, SBT, fastlane, and npm/yarn builds&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable context-switching across a wide variety of platforms and technologies and are able to find ways to clue different technologies together&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to manage a complex, polyglot, and global infrastructure as code, and understand how to fully automate their management from a centralized git repository.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5440391002?gh_src=759c9df92us#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5593291002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
@@ -5207,6 +5101,63 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
+    <title><![CDATA[Senior Software Engineer - Digital Technology]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;BitMEX is heavily investing in building cutting-edge Digital Tech as part of our growth strategy. We are looking for experienced engineers to help us overhaul our public-facing assets, as well as to build out bespoke marketing tooling leveraging the latest technologies.&lt;/p&gt;
+&lt;p&gt;This involves defining and implementing infrastructure and data pipelines for measuring conversions and providing targeted user experiences, as well as working on all of our unauthenticated UX, including the blog and the homepage of bitmex.com.&lt;/p&gt;
+&lt;p&gt;As a new department, the Digital Tech team has the opportunity to work on several greenfield projects, with the ability to define our own stack based on the best available technologies, and the budget we need to find the best possible solution.&lt;/p&gt;
+&lt;p&gt;Our current stack: Typescript, NextJS, React, Express, GraphQL, Redshift, Docker and Kubernetes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ideate, build and deploy services to support our Digital and Marketing teams internally&lt;/li&gt;
+&lt;li&gt;Integrate existing systems to enable sophisticated logging and analysis of web traffic&lt;/li&gt;
+&lt;li&gt;Ensure the privacy of our users data is maintained by implementing novel techniques for tracking&lt;/li&gt;
+&lt;li&gt;Develop and maintain frontend assets including the Web Frontend and Blog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with Typescript and frontend frameworks (ideally React)&lt;/li&gt;
+&lt;li&gt;Experience with implementing NodeJS services (ideally with Express)&lt;/li&gt;
+&lt;li&gt;Supported high traffic, high performance public facing web applications&lt;/li&gt;
+&lt;li&gt;Nice to have:&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;An eye for detail when it comes to UI/UX&lt;/li&gt;
+&lt;li&gt;Marketing-specific experience, such as SEO optimization, Google Analytics etc.&lt;/li&gt;
+&lt;li&gt;Knowledge of Docker/Kubernetes/Container Orchestration&lt;/li&gt;
+&lt;li&gt;Knowledge of Terraform/Infrastructure As Code&lt;/li&gt;
+&lt;li&gt;Experience defining Apache Airflow DAGs / ETL Pipelines&lt;/li&gt;
+&lt;li&gt;Experience with Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5678606002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
     <title><![CDATA[Compliance Manager]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -5632,63 +5583,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5704284002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Senior Software Engineer - Digital Technology]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;BitMEX is heavily investing in building cutting-edge Digital Tech as part of our growth strategy. We are looking for experienced engineers to help us overhaul our public-facing assets, as well as to build out bespoke marketing tooling leveraging the latest technologies.&lt;/p&gt;
-&lt;p&gt;This involves defining and implementing infrastructure and data pipelines for measuring conversions and providing targeted user experiences, as well as working on all of our unauthenticated UX, including the blog and the homepage of bitmex.com.&lt;/p&gt;
-&lt;p&gt;As a new department, the Digital Tech team has the opportunity to work on several greenfield projects, with the ability to define our own stack based on the best available technologies, and the budget we need to find the best possible solution.&lt;/p&gt;
-&lt;p&gt;Our current stack: Typescript, NextJS, React, Express, GraphQL, Redshift, Docker and Kubernetes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ideate, build and deploy services to support our Digital and Marketing teams internally&lt;/li&gt;
-&lt;li&gt;Integrate existing systems to enable sophisticated logging and analysis of web traffic&lt;/li&gt;
-&lt;li&gt;Ensure the privacy of our users data is maintained by implementing novel techniques for tracking&lt;/li&gt;
-&lt;li&gt;Develop and maintain frontend assets including the Web Frontend and Blog&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience with Typescript and frontend frameworks (ideally React)&lt;/li&gt;
-&lt;li&gt;Experience with implementing NodeJS services (ideally with Express)&lt;/li&gt;
-&lt;li&gt;Supported high traffic, high performance public facing web applications&lt;/li&gt;
-&lt;li&gt;Nice to have:&lt;/li&gt;
-&lt;ul&gt;
-&lt;li&gt;An eye for detail when it comes to UI/UX&lt;/li&gt;
-&lt;li&gt;Marketing-specific experience, such as SEO optimization, Google Analytics etc.&lt;/li&gt;
-&lt;li&gt;Knowledge of Docker/Kubernetes/Container Orchestration&lt;/li&gt;
-&lt;li&gt;Knowledge of Terraform/Infrastructure As Code&lt;/li&gt;
-&lt;li&gt;Experience defining Apache Airflow DAGs / ETL Pipelines&lt;/li&gt;
-&lt;li&gt;Experience with Python&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5678606002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
