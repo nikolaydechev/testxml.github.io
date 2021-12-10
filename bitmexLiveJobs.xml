@@ -268,62 +268,6 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Python Developer - Blockchain & Wallets]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Hong Kong]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Wallets &amp;amp; Funds system powers the custody of bitcoin deposits, enabling many thousands of trading customers to make secure deposits as margin in our Trading Engine. Our systems are responsible for tracking deposits, creating withdrawals, and interacting with the base layer of Bitcoin and other cryptocurrencies.&lt;/p&gt;
-&lt;p&gt;BitMEX is building a best in class funds and wallets team to help us increase security and efficiency of our deposits, as well as onboard millions of new users in the years to come.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Wallets team tracks our customers&#39; deposits and withdrawals across millions of addresses on multiple chains. We lead on wallet and address format changes, and strive to participate in the wider crypto circle to follow and establish best practices for exchanges.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Develop and maintain software to credit customer’s cryptocurrency deposits and prepare withdrawals in a safety-critical and high-uptime environment.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Improve test coverage of existing codebases as well as engage in test-driven development practices with the team.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Assist in architecting new cryptocurrency and wallet infrastructure relying on modern standards and practices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Several years experience working as a team on a python codebase&lt;/li&gt;
-&lt;li&gt;Familiarity with a code-review and pull-request based workflow&lt;/li&gt;
-&lt;li&gt;Experienced with writing software that speaks a variety of network protocols, with awareness of appropriate threading/locking models, or asynchronous design to ensure correctness.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Good to have&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shipping and deploying container-based software&lt;/li&gt;
-&lt;li&gt;Experience of handling large datasets in python, perhaps with numpy or scipy tooling&lt;/li&gt;
-&lt;li&gt;Transaction-level awareness of cryptocurrencies (scripts, signatures, utxo set, proof of work, fees, blocks)&lt;/li&gt;
-&lt;li&gt;Use of type checked and code-formatted python, pytest and similar, CI/CD.&lt;/li&gt;
-&lt;li&gt;Awareness of defensive software security practices&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5220862002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[Digital Marketing Content Writer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -3662,6 +3606,55 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5752591002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Trader]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As part of the Brokerage Team, you will report to the Head of Trading where you will gain experience and deep insights into the cryptocurrency ecosystem. You will also work closely together with the Operations Team where you will also learn about the cash and liquidity management and start building the foundation for your career.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Help manage the desk risk positions&lt;/li&gt;
+&lt;li&gt;Apply cash and liquidity management (working closely with our operations team)&lt;/li&gt;
+&lt;li&gt;Research the latest projects and developments in the cryptocurrency ecosystem&lt;/li&gt;
+&lt;li&gt;Working closely with the technology team to continue development of our internal risk management, trading systems and systematic strategies (programming skills are a big plus)&lt;/li&gt;
+&lt;li&gt;Ensuring that risk management systems are operational 24/7, taking on late or early shifts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2+ years of experience in trading at a financial institution, favourably in cryptocurrencies (spot and derivatives)&lt;/li&gt;
+&lt;li&gt;Strong analytical skills and sound knowledge of VBA, Python, SQL, KDB, etc.&lt;/li&gt;
+&lt;li&gt;Strategic thinking combined with problem-solving skills; a passion for digitalisation and an interest in development in the crypto space&lt;/li&gt;
+&lt;li&gt;Ability to think outside the box, adapt to new market environment and a confident communicator&lt;/li&gt;
+&lt;li&gt;An entrepreneurial mentality with the ability to work well under pressure and a strong sense of personal accountability and ownership&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5759797002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
