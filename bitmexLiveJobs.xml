@@ -129,59 +129,6 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Senior Software Engineer - Mobile]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As a Senior Software Engineer (Mobile) at 100x Group, you are an engineer with experience in design and implementation of mobile applications. The BitMEX mobile app for iOS and Android is written on React Native using Javascript, Java, and Objective-C. If you’re right for this role, you should have a background in native Android development and be comfortable developing with React Native.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Development of the BitMEX React Native mobile application&lt;/li&gt;
-&lt;li&gt;Development of native Android components for the React Native application&lt;/li&gt;
-&lt;li&gt;Maintenance, scaling, and performance tuning for Android&lt;/li&gt;
-&lt;li&gt;Mentoring other engineers on coding practices, design philosophies, and engineering craft&lt;/li&gt;
-&lt;li&gt;Exploring and evaluating new stack components and architecture ideas as necessary&lt;/li&gt;
-&lt;li&gt;Regularly reviewing code&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Significant experience building native Android applications using Java&lt;/li&gt;
-&lt;li&gt;Significant experience scaling Android applications to a large diversity of devices&amp;nbsp;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with Javascript and/or React Native&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with mobile end-to-end testing&lt;/li&gt;
-&lt;li&gt;Experience making complex, data-driven products accessible to consumers&lt;/li&gt;
-&lt;li&gt;Ability to simultaneously develop several products and concepts in development&lt;/li&gt;
-&lt;li&gt;Familiarity with current UX trends and curiosity for new UX concepts (conversational UI, etc)&lt;/li&gt;
-&lt;li&gt;A Bachelor’s degree or equivalent work experience preferred&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5121911002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[IT Support Engineer - Infrastructure]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -433,64 +380,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5308972002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Campaign Manager]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of the Marketing Acquisition team this person will lead planning and all go to market strategies for products launches. They will be the bridge between product and marketing and work closely with the campaign manager and vertical teams.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of acquisition/performance marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and execute integrated marketing campaigns&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with data analyst to analyse and optimize campaign performance&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and manage digital prospecting and remarketing campaigns&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage budgets and campaigns across all digital channels to drive strong return on investment and efficient CAC&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure successful planning, execution, optimization for key traffic KPIs via paid, organic &amp;amp; own media channel&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify and test new channels to meet or exceed established critical metrics&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the management to share funnel conversion improvement ideas, feedback &amp;amp; present results.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in managing B2B and end to end campaigns including optimization and reporting&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and able to multitask&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detailed oriented&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great at stakeholder management&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High project management skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data driven&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands on and comfortable with execution&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Agency experience preferred not mandatory &lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5271447002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -998,6 +887,64 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5492312002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Campaign Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of the Marketing Acquisition team this person will lead planning and all go to market strategies for products launches. They will be the bridge between product and marketing and work closely with the campaign manager and vertical teams.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of acquisition/performance marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and execute integrated marketing campaigns&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with data analyst to analyse and optimize campaign performance&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and manage digital prospecting and remarketing campaigns&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage budgets and campaigns across all digital channels to drive strong return on investment and efficient CAC&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure successful planning, execution, optimization for key traffic KPIs via paid, organic &amp;amp; own media channel&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify and test new channels to meet or exceed established critical metrics&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the management to share funnel conversion improvement ideas, feedback &amp;amp; present results.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in managing B2B and end to end campaigns including optimization and reporting&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and able to multitask&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detailed oriented&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great at stakeholder management&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High project management skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data driven&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands on and comfortable with execution&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Agency experience preferred not mandatory &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5271447002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -2017,57 +1964,6 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Senior Software Engineer - API (Derivatives)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Design and development of the public BitMEX APIs and internal&amp;nbsp;library services&lt;/li&gt;
-&lt;li&gt;New feature implementation, bug fixing, and performance tuning&lt;/li&gt;
-&lt;li&gt;Working closely with the Frontend and Engine teams to integrate new features and unique consumer-facing products&lt;/li&gt;
-&lt;li&gt;Exploring and evaluating new stack components and architecture ideas as necessary&lt;/li&gt;
-&lt;li&gt;Regularly reviewing code&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;4+ years of professional experience beyond your CS education (BS or advanced degree), including project responsibility&lt;/li&gt;
-&lt;li&gt;Intimate&amp;nbsp;experience with JS and JS performance characteristics&lt;/li&gt;
-&lt;li&gt;Experience with NodeJS and WebSockets&lt;/li&gt;
-&lt;li&gt;Experience building scalable systems&lt;/li&gt;
-&lt;li&gt;Experience with containers, Redis, pub/sub, and NATS a plus&lt;/li&gt;
-&lt;li&gt;Experience delivering real-time data over the web&lt;/li&gt;
-&lt;li&gt;Ability to manage your workload and simultaneously develop several features and bug fixes&lt;/li&gt;
-&lt;li&gt;Familiarity with current industry coding practices, design patterns, frameworks, and deployment and testing automation&lt;/li&gt;
-&lt;li&gt;A Bachelor’s degree or equivalent work experience preferred&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5772999002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[Senior Customer Support Specialist - Mandarin]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -2283,62 +2179,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5779705002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Retention Specialist]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p class=&quot;s2&quot;&gt;&lt;strong&gt;&lt;span class=&quot;s4&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Purpose of the Role&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p class=&quot;s2&quot;&gt;&lt;span class=&quot;s5&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;The role will be part of the new CRM team and will focus on the segmentation, upselling, reactivation of the existing database. This role will work hands on the retention activities set by the CRM Manager and will be measured with KPIs like churn rate, LTV values and frequency of trade. The Retention Specialist will &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s5&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;be also responsible, in coordination with the CRM Manager, to work with Analytics team to create a set of reports to evaluate the retention performance over time, track and optimize the offers cost and come up with a series of actionable activities to improve overall retention KPIs.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;s2&quot;&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class=&quot;s2&quot;&gt;&lt;strong&gt;&lt;span class=&quot;s4&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Responsibilities&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Shared accountability with CRM Manager of metrics like churn rate, LTV, frequency of trade and average trade size for retail customers&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Design and implement &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;the full lifecycle of multiple retention &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; CRM campaigns, from ideation to execution to evaluation across email, &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;apps and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; onsite&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Execution&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; of the daily operations for CRM, iterating and improving at every opportunity&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Constantly &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;optimizing our programs, looking for opportunities to improve reach and deliverability, optimize channel strategy, and improve operational efficiency&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Work with other team in reviewing&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; retention programs, using data driven insights and a strong understanding of key business priorities&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Drive a test &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; learn approach: lead the systematic creation and execution of testing plans, and ensure results get shared &amp;amp; implemented&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Cultivate extensive knowledge of &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;the segmentation&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;strategy; assist in continuously improving &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; refining our approach&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Work with Analytics team, with the supervision of the CRM Manager,&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;on reporting focusing &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;on platform metrics and campaign effectiveness&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Drive collaboration with key stakeholders to collaborate on campaigns and maintain a continuous feedback loop. &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Serve as a subject-matter expert, advising business stakeholders on CRM best practices, including design, copy, and channel strategy&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Optimize our programs, look for opportunities to improve reach and deliverability, define channel strategy, and improve operational efficiency&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Work with Product and Engineering team&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; on our promotional &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;tools’ expansion&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; and drive automation wherever possible&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;p class=&quot;s10&quot;&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class=&quot;s10&quot;&gt;&lt;strong&gt;&lt;span class=&quot;s9&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Qualifications&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;+ years of experience in &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;retention programs, client segmentation and retention reporting, &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;with experience creating and managing Marketing campaigns from start to finish&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Bachelor’s degree or equivalent industry experience preferred&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Strong understanding of Customer Engagement Platform &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;like &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Salesforce, &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;HubSpot and Optimove&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Strong understanding of CRM platform metrics&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Has a positive attitude and loves opportunities to collaborate with others&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Strong organizational skills &amp;amp; effective at project management&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Experience in Crypto and/or Online Gambling CRM preferred&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5798140002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -3116,6 +2956,62 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5798129002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Retention Specialist]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p class=&quot;s2&quot;&gt;&lt;strong&gt;&lt;span class=&quot;s4&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Purpose of the Role&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;s2&quot;&gt;&lt;span class=&quot;s5&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;The role will be part of the new CRM team and will focus on the segmentation, upselling, reactivation of the existing database. This role will work hands on the retention activities set by the CRM Manager and will be measured with KPIs like churn rate, LTV values and frequency of trade. The Retention Specialist will &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s5&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;be also responsible, in coordination with the CRM Manager, to work with Analytics team to create a set of reports to evaluate the retention performance over time, track and optimize the offers cost and come up with a series of actionable activities to improve overall retention KPIs.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;s2&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;s2&quot;&gt;&lt;strong&gt;&lt;span class=&quot;s4&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Responsibilities&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Shared accountability with CRM Manager of metrics like churn rate, LTV, frequency of trade and average trade size for retail customers&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Design and implement &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;the full lifecycle of multiple retention &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; CRM campaigns, from ideation to execution to evaluation across email, &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;apps and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; onsite&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Execution&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; of the daily operations for CRM, iterating and improving at every opportunity&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Constantly &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;optimizing our programs, looking for opportunities to improve reach and deliverability, optimize channel strategy, and improve operational efficiency&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Work with other team in reviewing&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; retention programs, using data driven insights and a strong understanding of key business priorities&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Drive a test &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; learn approach: lead the systematic creation and execution of testing plans, and ensure results get shared &amp;amp; implemented&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Cultivate extensive knowledge of &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;the segmentation&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;strategy; assist in continuously improving &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;and&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; refining our approach&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Work with Analytics team, with the supervision of the CRM Manager,&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;on reporting focusing &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;on platform metrics and campaign effectiveness&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Drive collaboration with key stakeholders to collaborate on campaigns and maintain a continuous feedback loop. &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Serve as a subject-matter expert, advising business stakeholders on CRM best practices, including design, copy, and channel strategy&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Optimize our programs, look for opportunities to improve reach and deliverability, define channel strategy, and improve operational efficiency&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Work with Product and Engineering team&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; on our promotional &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;tools’ expansion&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt; and drive automation wherever possible&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p class=&quot;s10&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;s10&quot;&gt;&lt;strong&gt;&lt;span class=&quot;s9&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Qualifications&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;+ years of experience in &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;retention programs, client segmentation and retention reporting, &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;with experience creating and managing Marketing campaigns from start to finish&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Bachelor’s degree or equivalent industry experience preferred&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Strong understanding of Customer Engagement Platform &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;like &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Salesforce, &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;HubSpot and Optimove&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Strong understanding of CRM platform metrics&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Has a positive attitude and loves opportunities to collaborate with others&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Strong organizational skills &amp;amp; effective at project management&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;s8&quot;&gt;&lt;span class=&quot;s6&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;s7&quot;&gt;&lt;span class=&quot;bumpedFont20&quot;&gt;Experience in Crypto and/or Online Gambling CRM preferred&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5308970002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
