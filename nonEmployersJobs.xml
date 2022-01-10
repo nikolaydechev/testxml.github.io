@@ -96,38 +96,6 @@
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Developer Relations Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Interchain GmbH]]></company>
-    <company_url><![CDATA[https://interchain.berlin/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Berlin, DE - Remote OK]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<h1>Developer Relations Engineer - Interchain GmbH</h1><p>Interchain GmbH is a 20-person company which works on core blockchain technology. We are based in Berlin, but our team stretches from New York City to Ulyanovsk, Russia. We keep in touch through Slack and Zoom, and get together in person periodically (when COVID permits).</p><p>One of our company’s responsibilities is improving developer relations within the Cosmos Network and the wider IBC connected Internet of Blockchains. We are pretty flexible with the definition of “developer relations” and generally think of it as anything that improves a new developer’s understanding of the admittedly complicated world of blockchains.</p><p>Generally this takes the form of tutorials, blog posts, workshops, presentations, documentation and supporting users in our community channels. We’re looking for someone who can get creative with ways to reach our audience of builders and who can take initiative on more adventurous ideas, whether they be proof-of-concept applications or anything that sparks interest and curiosity in our products. The Cosmos ecosystem also includes a number of ambitious teams who push our software to its limits. As part of this role, you’ll be working with some of the best projects in the industry, understanding their needs and supporting them through public chat channels, calls, code reviews, pointing them to existing resources, or writing how-to posts—anything that makes synthesizing the broad scope of Cosmos related technologies more readily available.</p><p>Because we are a small company, our employees sometimes wear more than one hat. The Developer Relations department currently consists of two people who double as the Grants and Funding department. They help evaluate funding proposals for the <a>Interchain Foundation</a>, a Swiss non-profit dedicated to supporting the research and creation of secure decentralized technology and the networks that deploy it like Cosmos. You may be asked from time to time to evaluate a specific project or technology, or be the first to try out the results from cutting edge teams shaping the future of our industry.</p><p>While the Cosmos ecosystem touches on many projects and technologies that enrich the vision of an Internet of Blockchains, there are some core products that we are especially dedicated to supporting. The three main ones are:</p><p><ul><li><a>Cosmos SDK</a><ul><li>Our flagship blockchain development framework built in Golang that allows complete control of your blockchain from the ground up</li><li>It is a modular framework like Ruby-on-Rails that allows you to import a variety of features from external sources</li></ul></li><li><a>Inter-Blockchain Communication (IBC)</a><ul><li>TCP-IP for blockchains, a protocol for communication between independent consensus state machines, gluing together the Internet of Blockchains</li></ul></li><li><a>Tendermint Core</a><ul><li>The gold standard for BFT consensus and Proof of Stake</li></ul></li></ul><p><p>We don’t have any specific criteria regarding previous experience, but we're looking for candidates who ideally have:<br></p><ul><li><strong>Passion and curiosity for emerging technologies.</strong> This is an exciting sector of technology and your enthusiasm should be infectious as you seek out new information and work towards synthesizing it for others.</li><li><strong>Creative thinking.</strong> “Dermis and feline can be divorced by manifold methods”</li><li><strong>Clarity of thought in written and spoken language.</strong> It will be important for you to be able to answer questions like “How does it work?” and “Why does it matter?” in a way that is accessible to people just entering the space.</li><li><strong>Generalist programming experience.</strong> A lot of the work you’ll be doing is directly related to onboarding users to the Cosmos SDK. This is a Golang framework so experience in that language would be helpful in this task. However the role will include jumping into a wide variety of codebases in an assortment of languages. Having a broad level of general experience will be more valuable than any deep domain-specific knowledge. There’s a list of many of these topics later on.</li><li><strong>Demonstrated ability to take ownership. </strong>You finish what you start and keep a high standard of quality. You take pride in your work.</li><li><strong>A home base within our working timezones. </strong>You are probably based in a timezone between UTC-5:00 (New York) and UTC+3:00 (Moscow).</li></ul><p>Your position will put you in contact with a large list of topics. We hope this is especially exciting for you and anticipate the opportunity to be engaged with many of the following areas:</p><ul><li>Advanced Cryptography, Networking and Blockchain concepts<ul><li>Prediction Markets</li><li>Zero Knowledge Proofs</li><li>Optimistic Rollups</li><li>Automated Market Makers</li><li>Non-Fungible Tokens</li><li>Consensus algorithms, like Paxos, Raft, or PBFT</li><li>P2P systems</li></ul></li><li>Open source maintainership and governance<ul><li>Protocol standards inside and outside of the blockchain space</li><li>DAOs</li><li>Git &amp; Github</li></ul></li><li>Modern Web Development<ul><li>Frontend Frameworks like React and Vue</li><li>Backend Frameworks like RoR and Laravel</li><li>Microservices</li><li>Apache and NGINX</li><li>DNS &amp; SSL</li><li>Docker</li><li>GraphQL / REST / RPC / gRPC</li></ul></li><li>Broad range of scripting languages and programming environments<ul><li>Golang</li><li>Rust</li><li>Haskell</li><li>Javascript / Typescript / AssemblyScript</li><li>Solidity / Vyper / EVM</li><li>WebAssembly (WASM)</li></ul></li><li>Decentralized Storage Solutions<ul><li>IPFS</li><li>Dat Protocol</li><li>BitTorrent</li><li>SSB</li></ul></li></ul><p>Don’t worry if you’re not familiar with most of these topics: These are just some examples of the technologies you might come across, and although previous exposure is helpful, we’re looking for people who are passionate and curious above all else. </p><p>Not sure if you're a fit? Please feel free to apply anyways, and we'll take it from there.</p><p><em>Interchain GmbH believes that great people come from a broad range of backgrounds, and that the diversity of our team is one of our strengths. Discrimination has no place at Interchain GmbH and we do not discriminate on the bases of race, color, gender, gender identity, national origin, age, religion, disability, or sexual orientation. We are committed to fighting bias and discrimination in our workplace and in our communities.</em></p><p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://interchain-gmbh.breezy.hr/p/95bebed025ed01-developer-relations-engineer/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/b8bc49f1-0d10-48a5-bfe7-de09f9862560_interchain-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+InterchainGmbH@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[MKKySvo2BEGmMuF5nawKmg]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Interchain GmbH]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Crypto SaaS Product Manager (Remote - US only)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -3685,44 +3653,6 @@ Benefits
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
-    <title><![CDATA[DevOps Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[CoinDCX]]></company>
-    <company_url><![CDATA[https://coindcx.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Mumbai / Bangalore, India]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<p><strong>Imagine,</strong><br />Cryptocurrency Traders are looking for a strong global platform that can help them trade faster, better and smarter. We are building a platform that can solve their needs. The opportunity is big, and the journey is tough. Now that’s a challenge that needs to be addressed. You do that. You are phenomenal in solving these complex challenges. You help build secure and performant APIs and above all you stay on top of all things in the blockchain and cryptocurrency space. You help our team do more.</p>
-<p>As a DevOps Engineer, you do all of the above and more. <strong>You make a difference.</strong></p>
-<p><strong><br /></strong></p>
-<p>We are looking for an experienced Devops Engineer who has worked on AWS or related platforms. </p>
-<ul><li>Needs to know how to create and manage cloud deployments using Beanstalk platform</li><li>Expertise in docker, Kubernetes, Prometheus and Grafana is essential</li><li>Knowledge of Jenkins pipeline and Atlassian tools (Jira, Bitbucket) etc is preferred</li></ul>
-<ul><li>Should have preferably worked in a Product Startup</li><li>Should have decent knowledge of docker based deployments on containers. </li><li>Must know basic scripting and to work on Linux systems. </li><li>Should be a team player and have good communication skills.</li><li>Must be able to and proficient in maintaining Logs and generating reports from the same. </li><li>Certification in any of the same is preferable.</li></ul><p><strong><br /></strong></p><p><strong>About CoinDCX</strong></p>
-<p>CoinDCX is India’s largest and safest cryptocurrency exchange. We provide users single-point access to a diverse suite of crypto-based financial products and services that are backed by security processes and insurance. CoinDCX aims to be the global gateway to cryptocurrencies where users can start building their cryptocurrency portfolio with ease. We provide a comprehensive set of advanced and powerful products to trade crypto-based instruments in the fast-paced markets and aim to keep opening new opportunities for its traders as well as new customers to level up their potential with industry-first innovations. Recognized and awarded for its contribution to the Indian emerging tech space, CoinDCX is backed by investors such as Coinbase Ventures, Polychain Capital, Bain Capital Ventures, Block.one and HDR Group, operator of BitMEX.</p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://careers.coindcx.com/o/devops-engineer-mumbai-bangalore/c/new?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/95b47f1a-66ef-4cfb-8dbf-3550e010eb11_coin_dcx-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+CoinDCX@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[eIhDSaweG0eEKIvVK1xWLw]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[CoinDCX]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Engineering Manager]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -6431,6 +6361,38 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
+    <title><![CDATA[Research Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Interchain GmbH]]></company>
+    <company_url><![CDATA[https://interchain.berlin/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Berlin, DE - Remote OK]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Interchain GmbH is a 19-person company which works on core blockchain technology. We are based in Berlin, but our team stretches from New York City to Ulyanovsk, Russia. We keep in touch through Slack and Zoom, and get together in person periodically (when COVID permits).</p><p>We are searching for a Research Engineer who will serve as part of an interdisciplinary team applying scientific principles to discover, analyze, and design complex socio-technical and economic systems meeting high level descriptive goals using tools from an array of disciplines from multi-agent control to mechanism design. The Engineer is responsible for developing and documenting mathematical models based on requirements from internal and external stakeholders. The Engineer will use formal analysis techniques to design and refine economic models by characterizing evolutionary tendencies and attack vectors, as well as using stochastic process simulations to explore system trajectories and define practical bounds on system parameters. The Engineer will have opportunities to present work to technical and non-technical audiences, both publicly and privately.</p><p><p>RESPONSIBILITIES: </p><ul><li>Capture and document descriptive models of economic systems from whitepapers, conference calls, and in person meetings and characterize as formal goals</li><li>Extend formal models with complete notation and assumptions and characterize analytically the immediate consequences of these definitions and assumptions</li><li>Propose and Evaluate incentive mechanisms to align local agent goals with system level goals</li><li>Create simulation tools for dynamical systems representing the evolution of economic systems at various levels of detail, from agent-based to macroeconomic</li><li>Use simulation tools to run repeated stochastic process-driven numerical experiments for a wide range of environmental conditions and behavioral assumptions</li><li>Use data analysis tools to evaluate experimental results and make recommendations regarding the assumptions and conditions under which a particular set of mechanisms and/or policies will achieve the stated goals of the economic system</li><li>Use data analysis tools to evaluate data collected directly from economic networks to verify that the intended dynamics are emerging, and to recommend tuning system parameters as needed</li><li>Support the design and development of economic health indicators and operational analytics</li><li>Provide reports and/or requirements documents to stakeholders</li><li>Document work in a structured format to serve as a manual for software implementation</li></ul><p><p>REQUIREMENTS: </p><ul><li>M.S. or higher in Engineering, Robotics, Operations Research, Economics or related field</li><li>Masters Level Course work in Optimization and/or Decision Science</li><li>4+ years research experience in Industry or Academia</li><li>Advanced Numerical Computing skills (Matlab, Python, R)</li><li>Advanced Mathematical Analysis skills (ability to write formal proofs)</li><li>Proficient with a scripting language</li><li>Proficient with data manipulation and visualization </li><li>Proficient with LaTeX or Markdown for mathematical documentation</li><li>Proficient with collaborating in a technology team setting (GitHub, Jira)</li><li>Good presentation and communication skills in English—visual and verbal</li><li>Ability work with a heterogeneous team to achieve a common goal</li></ul>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://interchain-gmbh.breezy.hr/p/a63daf80c4f501-research-engineer/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/b8bc49f1-0d10-48a5-bfe7-de09f9862560_interchain-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+InterchainGmbH@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[MKKySvo2BEGmMuF5nawKmg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Interchain GmbH]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[Analyst/Associate, Operations]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8192,6 +8154,38 @@ positive, constructive team member.<br /></li></ol>
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
+    <title><![CDATA[Blockchain Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Messari]]></company>
+    <company_url><![CDATA[https://messari.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote - USA]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b style="font-size: 18px">About Messari</b></div><div><br></div><div>Messari is an analytical platform on a mission to organize and contextualize information for crypto professionals. With Messari, analysts and enterprises can analyze, research, and stay on the bleeding edge of the crypto world while trusting the transparency of the underlying data. This gives professionals the power to make informed decisions and the ability to take timely action.</div><div><br></div><div>Our users range from some of most prominent analysts, investors, and crypto individuals to top platforms like Coinbase, BitGo, Anchorage, 0x, Chainanalysis, Ledger, Compound, MakerDAO and <a href="https://twitter.com/MessariCrypto/status/1362437022812696576?s=20">many, many more</a>.</div><div><br></div><div><br></div><div><b style="font-size: 18px">About the Blockchain Engineer role</b></div><div><br></div><div>We are looking for an experienced blockchain engineer to join as a member of the core engineering team. As a blockchain engineer, you will have an extensive impact over the product, the architecture, and the technology.</div><div><br></div><div>Our platform is a cluster of microservices used to aggregate and contextualize crypto information. It is built using Node, Golang, and Kubernetes.</div><br/>As a member of the team, you will be responsible for<br/><li>architecting, building, and maintaining the infrastructure used to interact with multiple blockchains, from orchestrating a fleet of microservices to facilitating the flow of real-time data</li><li>adding Web3 interaction while providing an intuitive user experience - for e.g. sending transactions to smart contracts is hard to grasp, can we find a way to facilitate this across blockchains in a way such that novices can make sense of it?</li><li>implementing autoscaling systems - our product is constantly growing, so how do we build redundancies such that our system grows with the needs of the product?</li><li>maintaining a high bar for code quality, reusability, and readability</li><li>collaborating with product, research, and design to create a useful and delightful user experience</li><br/>About You<br/><li>3+ years experience with modern backend technologies including Node, Kubernetes, and AWS</li><li>curiosity in Web3 technologies like <a href="http://web3.js">web3.js</a> and <a href="http://ethers.js">ethers.js</a> and have tinkered in this space</li><li>interest in building data infrastructure systems, and a love of building resiliency while growing a complex fleet of services</li><li>looking to work on big/interesting things with lots of creative freedom</li><li>have experience with building products and/or have the curiosity to think through the holistic product picture</li><li>interest in the crypto space, and a love for building tools that help users dive deep into this world</li><li>empathetic and love to help your teammates grow</li><br/>Nice-to-haves<br/><li>worked with other elements of our tech stack: GraphQL, Postgres, Golang, Java</li><li>specific experience with building dApps and/or applications of security through on-chain integrations</li><br/>Projects you could work on<br/><li><b>Web3!</b>– Integrate with a specific smart contract and create a pipeline which facilitates the on-chain interaction and build it into the product workflow</li><li><b>Blockchains!</b>– Build integrations with the top blockchains and aggregate key on-chain data from each blockchain</li><li><b>Vault!</b>– Build a secrets management system to manage the programmatic access control of crypto wallets</li><br/>What’s it like to work at Messari?<br/><li>A welcoming and open environment with people who love to collaborate on ideas and tackle complex problems</li><li>Work with a small team of engineers with large impact across product, research, and business development</li><li>Participate in forums like Family Meals and Messari Lab to share ideas and technologies you’ve been exploring and tinkering with</li><li>Enjoy awesome, comprehensive benefits; unlimited PTO; and the ability to work remotely</li><div><b style="font-size: 18px">Our commitments</b></div><div>Messari is committed to maintaining a workplace where diversity of identity, culture, and life experience is the norm and respected consistently. Diversity of experience drives creativity and innovation, entrepreneurial leadership and integrity, and competitive and collaboration throughout our business and in the market. We depend on our differences to make our team stronger, and have our product reflect the diversity of our customers.</div><div><br></div><div>At Messari, we welcome all qualified applicants regardless of race, color, ancestry, national origin, citizenship, socioeconomic status, religion, age, marital or parental status, sex, sexual orientation, gender identity or expression, disability, veteran status, or any other legally protected status. We are proud to be an equal opportunity workplace.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/messari/04d1f5c6-8ba7-4bff-9e97-fff380b10cf2/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/904b7e0c-9130-4083-9f20-ceb2945228df_messari-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Messari@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[rQhudnOYaEGOxyAvfLBcA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Messari]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[DevOps Senior Engineer (Remote)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8619,6 +8613,77 @@ positive, constructive team member.<br /></li></ol>
     <reference/>
     <employer_name><![CDATA[Amun Tokens]]></employer_name>
     <category><![CDATA[ Administrative / Office Management ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Graphic Designer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Taxbit]]></company>
+    <company_url><![CDATA[https://taxbit.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Seattle, Washington, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is helping to drive mainstream adoption of digital assets by connecting the consumer, enterprise, and government tax and accounting ecosystems.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our Software-as-a-Service platform streamlines our customers’ reporting experience across traditional and digital asset classes. We are trusted in this work by thousands of consumers, leading exchanges and enterprises, government agencies (including the IRS), respected accounting firms, and others to solve complex accounting problems at scale and ensure compliance with the latest tax laws. TaxBit investors include Paradigm, Tiger Global, PayPal Ventures, Winklevoss Capital, Coinbase Ventures, and other leading crypto investors. Our team is located in Salt Lake City, UT and Seattle, WA.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your growth, recognizes your unique contribution, and provides a fun, flexible and inclusive work environment, then TaxBit is the place for you. We’re looking for team members ready to join a hypergrowth company and are excited to work at the forefront of an entirely new industry.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Senior Graphic Designer must be a self-starter who has a passion for effective design and branding. The Senior Graphic Designer will create visual assets including sales and marketing collateral, social media assets, videos, gifs and more, to represent the brand and to connect with, engage and convert our target audience into customers. The Senior Graphic Designer will play a key role in the evolution of our brand and an early-hire to the marketing team. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The ideal candidate is a creative team player passionate about design and gaming who thrives in a fast-paced environment.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand target audience, strategic positioning and marketing initiatives to work closely with the Marketing team to conceptualize and create visual experiences&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Unrelenting focus on producing design&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain a consistent creative process across all design elements always applying brand guidelines&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Give and receive and develop alternate creative solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Produce product videos that meet branding standards and effectively engage the consumer&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Meet average monthly workload and deadline goals&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be a standard-bearer for our culture and values&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Desired Skills &amp;amp; Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Tenacious self-starter with a passion for effective communications&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Able to multi-task in a fast-moving environment&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Approach projects with ownership and think strategically&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;6+ years of relevant design experience — ideally in a FinTech/tech-forward product drive environment&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Flexible and comfortable with feedback and change during a project.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor’s degree&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An available online portfolio&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fluent in Adobe CC programs, Sketch and Adobe XD.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with prototyping tools (Principle, Invision, After Effects)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Asset creations: icons, illustrations and ui&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working in a&amp;nbsp; fast paced start-up environment &amp;lt;a plus&amp;gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive cash compensation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100% paid health insurance premiums&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hybrid working model: 3 days in-office, 2 days WFH/flexible&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friday team lunches&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Autonomous work and flexibility in how work is performed&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://taxbit.com/careers/4084413004?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Taxbit]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
     <title><![CDATA[Back End Developer]]></title>
@@ -9443,6 +9508,43 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Caleb And Brown]]></employer_name>
     <category><![CDATA[ Trading ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Recruiter]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Caleb And Brown]]></company>
+    <company_url><![CDATA[https://www.calebandbrown.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[Description
+<p>Entirely self-funded by a small team, Caleb and Brown has grown in the last five years to become one of the leading cryptocurrency brokerage firms. By fostering a culture of crypto experience married with professional services, we are building the bridge to the traditional financial world.</p><p>Our team is looking for a Recruitment Coordinator to join our community of highly-driven, like-minded individuals. This position works as part of a generalist HR team and is responsible for a broad range of administrative duties across the entire employee lifecycle. It also co-ordinates information flows for all people processes, contributing to the delivery of effective and efficient HR activities and programs. </p><p><br></p><p><strong>You will be:</strong></p><ul> <li>Performing general HR Administration</li> <li>Manage recruitment reporting and pre-employment screening activities</li> <li>Placement of job advertising on job boards and social media platforms</li> <li>Scheduling and organising interviews</li> <li>Liaising with hiring managers and external candidates</li> </ul>
+Requirements
+<ul> <li>Attention to Detail and ability to prioritise and multi-task</li> <li>Administrative experience</li> <li>Ability to work at an intense workflow</li> <li>Embraces teamwork, but able to work autonomously</li> </ul>
+Benefits
+<ul> <li>Learn from a team of experienced cryptocurrency experts</li> <li>Ongoing training and industry development</li> <li>Group events, lunches, outings, extremely friendly and supportive team members.</li> </ul><p>This position presents as an exceptional opportunity to be part of a fast-growing and internationally expanding business while working with a dynamic and multicultural team. Join us in our top-notch private space in Cremorne, the heart of Melbourne’s startup scene.</p>EOE/Minority/Female/Veteran/Disabled/Sexual Orientation/Gender Identity/National Origin]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/caleb-and-brown-pty-ltd/j/F597F86CA4/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/6583487d-c5ed-4b72-a893-e350209e8114_Caleb__And_Brown-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+CalebAndBrown@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[J9EnLtJJ1USP1JPvONFpbQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Caleb And Brown]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
     <title><![CDATA[Mobile Software Engineer - IOS]]></title>
@@ -11218,6 +11320,38 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
+    <title><![CDATA[Risk & Compliance Officer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Radix DLT]]></company>
+    <company_url><![CDATA[https://www.radixdlt.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[London, England, United Kingdom]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Description</p><h3>What is the role?<br> </h3> <p>At Radix DLT, we are looking for a Risk &amp; Compliance Officer. Working with our VP of Ops,  you will help to define and continuously improve KYC and AML policies, processes, our ways of working and all potential risks that may arise. You will also support the junior member in the team, reviewing alerts of suspicious activity and transactions and run regular reviews of transaction data to identify any trends in behaviour.</p> <h3><br></h3><h3>What will you be doing?</h3><ul> <li>Drafting and validating policies, procedures and guidance documents</li> <li>Working closely with product teams to ensure all products and flows meet internal policies whilst ensuring a positive user experience</li> <li>Owning the incident management and risk reporting framework, undertaking root causes analysis, leading lessons learned briefings and presenting process improvement recommendations</li> <li>Continually monitor and review all developments within the regulatory environment and actively develop technical knowledge</li> <li>Driving a commercial approach to compliance and a championing a pro-active compliance culture across the business and embedding strong working relationships</li> <li>Assist with preparing regulatory reporting and correspondence across multiple jurisdictions</li> <li>Act as Money Laundering Reporting Officer for our UK entity</li> </ul> <p><br></p><h3>What skills do you need?</h3><ul> <li>Minimum of 5 years of experience within a risk/compliance related business functions</li> <li>Extensive regulatory compliance experience, ideally gained within financial services, demonstrating strong knowledge of FCA/PRA regulations including but not limited to, SYSC rules, MIFID, COBS, Treating Customers Fairly, AML, and Payment Services Directive (PSD)</li> <li>Detailed knowledge of anti-money laundering, counter-terrorist financing, and sanctions risks and regulations</li> <li>A professional compliance, or financial qualification, and membership of a recognised professional body, would be advantageous but not a prerequisite.</li> <li>Strong analytical skills</li> <li>Clear and concise communication, both written and verbal. This should include excellent report-writing and drafting capabilities</li> <li>Be comfortable with operating in ambiguity and adapting to changing priorities</li> </ul><br><h3>Who are we? </h3><p>You’ve heard of Bitcoin (BTC) - the world’s first decentralized peer-to-peer digital money system - and Ethereum (ETH) - the decentralized computer for the world.  Radix (XRD) builds on these concepts to deliver the decentralized infrastructure for global finance (aka decentralised finance, “DeFi”) with the Radix network.</p><p>At Radix, we're a team of like-minded thinkers who believe we’re at the earliest stages of a global financial revolution.  DeFi is already enabling pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. </p><p>DeFi has grown assets under management from $1 billion to $100 billion in less than a year. Impressive as its growth has been, its current market size isn't even a rounding error on the over $111 trillion held in traditional finance.  However, the current decentralized public ledgers DeFi is running on are hampered with fundamental challenges in scaling and parallelisation of transactions.</p><p>At Radix, we’ve gone back to first principles to develop the right technical solution—the first layer-one protocol built specifically for mainstream DeFi. Clearly the need for an infinitely scalable platform is only one prerequisite for mass adoption, so we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.  </p><p>We're focused on delivering the technology to take DeFi from billions to trillions. We have forged a path deep into the future of what distributed ledger technology is going to look like.  We need you to join the team to help bring this vision to reality.</p><p>If this job sounds like it was made for you, then please apply directly via the link or email <a href="mailto:farrah@radixdlt.com" rel="nofollow noreferrer noopener" class="external">farrah@radixdlt.com</a> for more information.  </p><p>Requirements</p><p>Benefits</p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/radixdlt/j/AB946C119A/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/53d20b86-666f-40d5-8901-2a8c6d501071_radix_dlt-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+RadixDLT@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[FwAmdt1yEuwevun7Gp1w]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Radix DLT]]></employer_name>
+    <category><![CDATA[ Legal & Compliance ]]></category>
+  </job>
+<job>
     <title><![CDATA[Senior DevOps Engineer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -11247,6 +11381,38 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[NOBI]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Software Development Engineer in Test (SDET)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Radix DLT]]></company>
+    <company_url><![CDATA[https://www.radixdlt.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[London, England, United Kingdom]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Description</p><p>As an SDET at Radix, you will apply your boundless cunning to break distributed systems in new and interesting ways.  You will study and emulate known attacks, and then concoct some new ones.  You will make sure that happy path scenarios function as advertised, and that a massive array of potential error conditions all fail gracefully, predictably, and in a recoverable fashion.<br></p><p>During your first few months, your focus will be on creating automated tests verifying predictable pre- and post-conditions against a distributed, trustless system while coming up to speed on how the network operates and where the limitations are.  With that understanding under your belt, you’ll start in on chaos testing and acting as a knowledgeable, malicious actor on our test networks.</p><p>Of course, you’ll also be contributing to test plans, highlighting gaps in coverage, creating regression tests to ensure fixed bugs stay fixed, and all the usual responsibilities of a test role.  You’ll just have more fun doing those things, because we only hire fun and interesting people to work with.  Your brain will bend in ways it wasn’t meant to be bent, you will form lifelong bonds with a team of incredible people, and you will forever remember the journey.</p><h3>About You</h3><ul> <li>Whenever you look at a specification or an API, your mind goes straight to the edge cases.</li> <li>You’re a flexible coder and are confident in your ability to learn “enough to be dangerous” if you need to pick up a new language or tool.</li> <li>If asked about a familiar product or system, you have no trouble describing the various sub-systems that contribute to its overall function.</li> <li>You don’t get easily frustrated when trying to nail down difficult-to-reproduce issues.  You are able to methodically narrow a bug investigation down to the critical elements.</li> <li>You’re intelligent and you pick up new concepts quickly.  A lot of what we do here is rolling back the boundaries of known space, and there’s no playbook to refer to.</li> </ul><h3><br></h3><h3>What skills do you need?</h3> <ul> <li>At least 3 years in a quality assurance or development role for production software.</li> <li>Experience building test automation frameworks. Can write such code from scratch.</li> <li>Can integrate tests in CI, e.g., Jenkins.</li> <li>Experience with load testing.</li> <li>Familiarity with JVM languages, JavaScript, or Python.</li> <li>Understanding or experience with BDD, TDD, or contract testing.</li> <li>Docker and AWS experience is important.</li> <li>Nice to have - experience with distributed systems.</li> </ul><h3>About Us </h3><p>At Radix, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management to $90 billion in the last year. Impressive as its growth has been, its current market size isn't even a rounding error on the over $111 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p>Radix went back to first principles to come up with the right technical solution—the first layer-one protocol built specifically for mainstream DeFi—and we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p>We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p>If this job sounds like it was made for you, then please apply directly or email farrah@radixdlt.com for more information.  </p><p>Requirements</p><p>Benefits</p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/radixdlt/j/0ACF60B76A/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/53d20b86-666f-40d5-8901-2a8c6d501071_radix_dlt-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+RadixDLT@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[FwAmdt1yEuwevun7Gp1w]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Radix DLT]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
@@ -12196,6 +12362,38 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
+    <title><![CDATA[Head of Developer Ecosystem]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Radix DLT]]></company>
+    <company_url><![CDATA[https://www.radixdlt.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[London, England, United Kingdom]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Description</p><h3>What is the job? <br> </h3><p>We are looking for an ambitious Head of Developer Ecosystem who wants a new challenge in one of the most exciting growth industries in the world: DeFi (Decentralised Finance).</p><p>In the middle of November of this year a ground breaking new programming language for DeFi, Scrypto, was previewed to the world by Radix. Over 6,000 people tuned in to watch the live demonstrations.</p><p>Your role will be to strategise and execute a well funded and global multi-year plan to turn the Radix DeFi dev community from the small passionate tribe it is today, into something world beating. Scrypto is your secrete weapon, the Radix community is your platform, rebuilding the global financial system the target market for the community you empower.</p><p>We believe that Decentralized Finance is the biggest developer opportunity since the internet itself, but it is a revolution on pause largely due to the immaturity of current platforms and tools for developers.</p><p>Right now DeFi developers and entrepreneurs have a problem: everything is built on Solidity, a programming language that was never intended for decentralized finance. So while the DeFi industry has grown from <em>$1Bn</em> to over <em>$270Bn</em> under management in less than two years (yes, really), it has had <em>$300M+</em> in hacks and smart contract exploits over the same period. And the pool of good Solidity developers is tiny due to the complexity of learning how to build even the simplest functionality safely.</p><p>The problem sits right at the heart of how DeFi is built today. At Radix, we thought that should change. Radix exists to be a developer-first platform. Everything we have done to date in building our technology has been informed by our long work in the crypto space, and talking with the leading decentralized finance developers and projects in the space.</p><p>Scrypto is built around an entirely new asset-oriented paradigm of development that finally gives DeFi developers what they need: making build, test, and iteration cycles short; massively reducing the complexity of safe management of digital assets; and helping get new developers from DeFi curious to DeFi competent quickly and effectively. Scrypto deeply leverages Rust, but adds new capabilities specifically for finance in a public decentralized network environment.</p><p>But technology alone isn’t enough. Central to Radix’s success is building a groundswell movement of developer adoption that may start small, but is self-sustaining, organic, and exponential in growth.  You will be responsible for building a community and ecosystem of developers that support, educate and help each other to succeed using Radix and Scrypto as the enabling technologies for their success – from a small existing core developer community to one of thousands and onward to millions.</p><p>Using your know-how in building and growing passionate global communities of developers, you will formulate a practical, concrete community-first strategy closely linked with our product and marketing strategies for 2022 and beyond. You will of course want to learn all there is to know about our developer tools, our platform roadmap, and our vision. You will get to know our existing developer community as well as today’s chaotic DeFi industry. Your job will be to take these technology tools and community foundations and build a team and a movement of builders by planning and driving the right combination of developer events both physical and virtual, social channels, technical support and documentation, and other programs of your devising.</p><p>This will not be easy - so much of the future of this industry is still unwritten - but this is your chance to help write an entirely new chapter around what is possible with community-driven financial applications and decentralized finance.</p><p>Listen to our CEO and CPO talking about Scrypto, DeFi, and the importance of developer community: <a href="https://youtu.be/Hn20w1gmpMw?t=340" target="_blank" rel="nofollow noreferrer noopener" class="external">https://youtu.be/Hn20w1gmpMw?t=340</a><br></p><p><br></p><h3>What are we looking for? </h3><ul> <li>You have previously built a community of developers that has expanded to take on a life of its own - or you’ve been a front lines to witness the birth of a successful community and have learned the secrets of success</li> <li>You thrive on finding and initiating new ways to seed and support new flashpoints of enthusiasm and community growth</li> <li>You are a builder - you don’t want to just talk about tech, you write code because that’s the only way to understand first-hand the needs of developers</li> <li>You are a communicator, able to convey to a developer audience why they should care about the tech in terms that resonate deeply with them</li> <li>You believe in the power of open source development to create great things and serve as a hub for communities, and know how successful open source projects are run</li> <li>You understand that while we must invest in our community, the goal is a self-sustaining movement fueled by personal enthusiasm, fun, and a belief in long-term opportunity - not just bounties, prizes, and dev funds</li> </ul><h3>What skills do you need?</h3><ul> <li>Proven experience in creating and running impactful community developer meetups, hackathons, workshops, and other events, physical and virtual</li> <li>Strong written and verbal communication skills, and comfortable with community interaction on channels like Discord and Telegram</li> <li>Practical development experience - either professional or open source contribution</li> <li>Rust or smart contract programming experience a plus</li> </ul><h3>Who are we? </h3><p>At Radix, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance, which is enabling an assortment of pioneering developers and entrepreneurs to re-invent and improve almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to $270 billion in less than two years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $300 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p>Radix went back to first principles to come up with the right technical solution—the first layer-one protocol built specifically for mainstream DeFi—and we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p>We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p>In return for working with us, you get to work remotely on your own schedule (or the option to get a local co-working space if preferred), work at the cutting edge of new technology and benefit from an education budget to use to further develop your skills!</p> <p>If this job sounds like it was made for you, then please apply directly via the link or email <a href="mailto:farrah@radixdlt.com" rel="nofollow noreferrer noopener" class="external">farrah@radixdlt.com</a> for more information.  </p><p>Requirements</p><p>Benefits</p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/radixdlt/j/0FBF2826E9/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/53d20b86-666f-40d5-8901-2a8c6d501071_radix_dlt-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+RadixDLT@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[FwAmdt1yEuwevun7Gp1w]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Radix DLT]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[Legal Officer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -12226,5 +12424,421 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[NOBI]]></employer_name>
     <category><![CDATA[ Legal & Compliance ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Video Producer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[PowerTrade]]></company>
+    <company_url><![CDATA[https://power.trade/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b>Who we are</b></div><div><br></div><div>PowerTrade is a fast growing crypto trading platform for trading crypto options and other crypto derivatives. Our Android and iOS Apps are live in the respective App Stores, and offer a mobile- first trading experience that’s designed to be simple, fast and focused on trader success.</div><div><br></div><div>Our community is what keeps us focussed and dedicated to delivering our best. PowerTrade not only offers a mobile-first crypto options platform, but has also designed the PTF DAO token which governs a treasury covering traders in black-swan events. We want traders to be successful and do everything we can to educate and inform the trading community of opportunities in crypto.</div><div><br></div><div><b>About The Role</b></div><div><br></div><div><span style="font-size: 11pt">As our Video Producer you will develop and manage video creatives for a wide range of media for PowerTrade. This role requires collaboration with the Design and Marketing team to create compelling video creatives for various forms of channels. We’re offering a full crypto derivatives suite including perpetuals, derivatives, options, along with additional upcoming trading products and features. As we grow, you will need to coordinate and contribute to the ideation of brand-led campaigns to spread our mission of being the easiest platform to trade crypto options.</span></div><br/>Job Duties<br/><li>Develop and manage video creative for a wide range of media including Youtube, Ad Networks, website, etc.&nbsp;</li><li>Coordinate and lead the PowerTrade&nbsp; video creation and editorial process ensuring content and visual elements are ready for final delivery&nbsp;</li><li>Proactively explore, strategize, and identify opportunities alongside the Design and Marketing teams to capture creative niche opportunities (longtail video content for YouTube etc.)</li><br/>Our Ideal Candidate<br/><li>Has 3+ years of relevant working experience in video production and creating video assets for a fintech/crypto focused startup, agency, or freelancer capacity</li><li>Has experience managing video marketing strategy for brands or agencies</li><li>Strong video editing capabilities with the ability to execute on producing a variety of deliverables&nbsp;</li><li>Is passionate about PowerTrade and the opportunities in our space</li><li>Has experience with options trading and/or crypto</li><li>Is meticulous, well-organised, and outcome driven</li><div><b>Think you're a good fit for the role?</b></div><div><br></div><div>If you share our values and our enthusiasm for crypto and trading and you’re up for the challenge of working remotely for a distributed team, we would love to hear from you and explore the value you can add to our team.</div><div><br></div><div>Visit our website at&nbsp;<a href="https://power.trade/" class="postings-link">https://power.trade/</a>&nbsp;or find us on Twitter, Facebook, and LinkedIn.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/powertrade/9351d952-1008-44ec-9dca-ca5ab8035ac2?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/c96685fb-3a4a-4b89-9821-cdb600437999_powertrade-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+PowerTrade@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[CM7ZtFVXVEGEs0Ur8aJ9qg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[PowerTrade]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Trading Content Creator]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[PowerTrade]]></company>
+    <company_url><![CDATA[https://power.trade/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b>Who we are</b></div><div><br></div><div>PowerTrade is a fast growing crypto trading platform for trading crypto options and other crypto derivatives. Our Android and iOS Apps are live in the respective App Stores, and offer a mobile- first trading experience that’s designed to be simple, fast and focused on trader success.</div><div><br></div><div>Our community is what keeps us focussed and dedicated to delivering our best. PowerTrade not only offers a mobile-first crypto options platform, but has also designed the PTF DAO token which governs a treasury covering traders in black-swan events. We want traders to be successful and do everything we can to educate and inform the trading community of opportunities in crypto.</div><div><br></div><div>We’re looking for an experienced Content Creator to produce educational content on options trading.</div><div><br></div><div><span style="font-size: 32px">About the role</span></div><div>As a <b>Content Creator</b>, you’ll…</div><div>- Develop a curriculum for beginner and intermediate education on options trading.</div><div>- Create an easy to follow course following effective education best practices.</div><div>- Create or work with designer to provide supporting graphics.</div><div>- Repurpose content for multiple mediums.</div><div><br></div><div><span style="font-size: 32px">About you</span></div><div>You’ll thrive as the Content Creator if you:</div><div>- Have experience creating high quality educational content.</div><div>- Understand options trading well enough to explain clearly.</div><div>- Are a clear communicator with examples of your work.</div><div>- Have an entrepreneurial spirit — you're self-driven and you don’t need direction.</div><div>- Can easily switch between thinking creatively and analytically.</div><div><b>Think you're a good fit for the role?</b></div><div><br></div><div>If you share our values and our enthusiasm for crypto and trading and you’re up for the challenge of working remotely for a distributed team, we would love to hear from you and explore the value you can add to our team.</div><div><br></div><div>Visit our website at&nbsp;<a href="https://power.trade/" class="postings-link">https://power.trade/</a>&nbsp;or find us on Twitter, Facebook, and LinkedIn.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/powertrade/f78f3534-9e41-4591-861a-7a381eca73ae?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/c96685fb-3a4a-4b89-9821-cdb600437999_powertrade-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+PowerTrade@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[CM7ZtFVXVEGEs0Ur8aJ9qg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[PowerTrade]]></employer_name>
+    <category><![CDATA[ Trading ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Social Media Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[PowerTrade]]></company>
+    <company_url><![CDATA[https://power.trade/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b>Who we are</b></div><div><br></div><div>PowerTrade is a fast growing crypto trading platform for trading crypto options and other crypto derivatives. Our Android and iOS Apps are live in the respective App Stores, and offer a mobile- first trading experience that’s designed to be simple, fast and focused on trader success.</div><div><br></div><div>Our community is what keeps us focussed and dedicated to delivering our best. PowerTrade not only offers a mobile-first crypto options platform, but has also designed the PTF DAO token which governs a treasury covering traders in black-swan events. We want traders to be successful and do everything we can to educate and inform the trading community of opportunities in crypto.</div><div><br></div><div><b>About The Role</b></div><div><br></div><div><span style="font-size: 11pt">As our Social Media Marketing Manager you will lead the social media strategy for PowerTrade. This role requires multi-channel campaign management across YouTube, Twitter, Facebook, TikTok, Snapchat, website, blogs, and more. We’re offering a full crypto derivatives suite including perpetuals, derivatives, options, along with additional upcoming trading products and features. We want to put your expertise in crypto, options trading and the token ecosystem to work in growing our social media presence. As we grow, you will need to grow and build relevant audiences for each channel and expand our team of social media marketers to spread our mission of being the easiest platform to trade crypto options.</span></div><br/>Job Duties<br/><li>Lead the social media strategy and content calendar for all PowerTrade channels</li><li>Create and execute multi-channel campaign distribution across YouTube, Twitter, Facebook, TikTok, Snapchat, Clubhouse, Website, blogs, and others.</li><li>Oversee, schedule, and publish daily, weekly, monthly social content while growing relevant audience for each channel&nbsp;</li><li>Manage and interact with community team members on social platforms and streamline user feedback/concerns.</li><li>Manage monthly, quarterly, and yearly reports providing insights on PowerTrade social growth</li><li>Work cross functionally with internal teams including Product and Customer Support to communicate effectively on latest features and campaigns&nbsp;</li><br/>Our Ideal Candidate<br/><li>Has 5+ years of relevant working experience in social media and digital marketing</li><li>Has experience in utilizing publishing, analytics and social media management tools to help content creation and drive engagement&nbsp;</li><li>Has deep knowledge executing campaigns with experience in tools including Tweetdeck, Hootsuite, Photoshop, and other social media management tools</li><li>Is passionate about PowerTrade and the opportunities in our space</li><li>Has experience with options trading and/or crypto</li><li>Is meticulous, well-organised, and outcome driven</li><div><b>Think you're a good fit for the role?</b></div><div><br></div><div>If you share our values and our enthusiasm for crypto and trading and you’re up for the challenge of working remotely for a distributed team, we would love to hear from you and explore the value you can add to our team.</div><div><br></div><div>Visit our website at&nbsp;<a href="https://power.trade/" class="postings-link">https://power.trade/</a>&nbsp;or find us on Twitter, Facebook, and LinkedIn.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/powertrade/c5243cdd-c553-4b99-819e-75eb985878f8?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/c96685fb-3a4a-4b89-9821-cdb600437999_powertrade-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+PowerTrade@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[CM7ZtFVXVEGEs0Ur8aJ9qg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[PowerTrade]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Web Developer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[PowerTrade]]></company>
+    <company_url><![CDATA[https://power.trade/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b>Who we are</b></div><div><br></div><div>PowerTrade is a fast growing crypto trading platform for trading crypto options and other crypto derivatives. Our Android and iOS Apps are live in the respective App Stores, and offer a mobile- first trading experience that’s designed to be simple, fast and focused on trader success.</div><div><br></div><div>Our community is what keeps us focussed and dedicated to delivering our best. PowerTrade not only offers a mobile-first crypto options platform, but has also designed the PTF DAO token which governs a treasury covering traders in black-swan events. We want traders to be successful and do everything we can to educate and inform the trading community of opportunities in crypto.</div><div><br></div><div><b>About The Role</b></div><div><br></div><div>We are looking for a Senior Web Developer to build the next-generation cryptocurrency platform.</div><div>Senior Web Developer responsibilities include leading a team of junior and mid-level developers, refining web-related specifications and resolving technical issues.</div><div><br></div><div>To be successful in this role, you should have extensive experience building realtime products such as trading applications, video games, chat apps or any other high throughput applications with websockets or gRPC.</div><div><br></div><div>Previous experience in FinTech/Financial Services and crypto would be an advantage, but curiosity, experimentation and empathy for the user experience would be most important. If you have experimented with webassembly, smart contracts, or have used emerging technologies in interesting ways, you'll thrive in our environment.</div><br/>Job Duties<br/><li>Identify user and system requirements for new applications.</li><li>Prioritize software development projects, set timelines and assign tasks to team members.</li><li>Create wireframes to decide on layout.</li><li>Write or review code for various applications.</li><li>Run functionality testings and debug code.</li><li>Oversee junior/mid-level web developers and evaluate their performance.</li><li>Liaise with designers to decide on UI/UX elements.</li><li>Ensure all software documentation is up-to-date.</li><li>Collaborate with vendors, mobile and back-end developers to build mobile-responsive websites.</li><br/>Our Ideal Candidate<br/><li>An inordinate amount of common sense.</li><li>Extensive work experience as a Senior Web Developer.</li><li>Expert knowledge of javascript and HTML/CSS to create delightful experiences and animations.</li><li>Experience with mockup and UI prototyping tools.</li><li>Deep understanding of security practices (OWASP, etc.).</li><li>Interpreting client specifications and identifying platform user requirements.</li><li>Identify trade-offs and make critical decisions based on technical and business requirements.</li><li>Creating timeframes and work schedules to meet (and beat) deadlines.</li><li>Communicating effectively with clients, teams and Senior Management.</li><li>Updating records and writing reports (standard discipline).</li><li>Debugging and ensuring software documentation is updated and current.</li><li>Liaising and syncing with mobile and backend developers.</li><li>Establishing strong professional relationships with clients and other professionals.</li><li>Supervising junior web developers, analyzing areas of weakness, and scheduling training sessions as appropriate.</li><li>Willingness to work overtime when required.</li><li>Superb interpersonal, and written and verbal communication skills.</li><li>Passion to perform, and willingness to innovate and succeed.</li><div><b>Think you're a good fit for the role?</b></div><div><br></div><div>If you share our values and our enthusiasm for crypto and trading and you’re up for the challenge of working remotely for a distributed team, we would love to hear from you and explore the value you can add to our team.</div><div><br></div><div>Visit our website at&nbsp;<a href="https://power.trade/" class="postings-link">https://power.trade/</a>&nbsp;or find us on Twitter, Facebook, and LinkedIn.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/powertrade/0b1aeb7b-3e2f-4321-a8d2-5845d1a0e1df?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/c96685fb-3a4a-4b89-9821-cdb600437999_powertrade-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+PowerTrade@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[CM7ZtFVXVEGEs0Ur8aJ9qg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[PowerTrade]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Visual Designer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Optimism]]></company>
+    <company_url><![CDATA[https://optimism.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who are we?&lt;/h3&gt;
+&lt;p&gt;Everybody and their mother working on blockchains loves the word “decentralization”. On a broad, world-changing scale, we can all agree that it’s important. Yet, when we zoom into the specifics of how to build this decentralized world, we find many diverse approaches. Whether it’s defi, identity, art, healthcare, or anything in between, a single dependency unites each dream for the future:&amp;nbsp;&lt;strong&gt;scalability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are building the critical infrastructure to address this need. Optimism is an extension to Ethereum that scales both its technology and philosophy. Not only do we enable orders of magnitude more performance, we’re also doubling down on Ethereum’s values as a public good, never to be captured by private commercial interests. Ethereum will enable the greatest change in human coordination since the birth of the internet, and Optimism is here to bring it to the masses.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;p&gt;We are hiring a Visual Designer who has a balance of great visual design coupled with the ability for storytelling in different formats. As a visual designer at Optimism, you will partner with our senior leaders to conceptualize, conceive, adapt and execute designs in different forms, for branding collateral, internal presentations, product demos, market launches, and much more.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;h3 class=&quot;section page-centered&quot;&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;h3&gt;What you should have:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years professional experience as a visual designer&lt;/li&gt;
+&lt;li&gt;An outstanding portfolio, showcasing a foundation in storytelling, illustration, typography, visual, UI design and motion&lt;/li&gt;
+&lt;li&gt;Expertise in Figma, Powerpoint/Keynote, Illustrator and image editing software such as Photoshop&lt;/li&gt;
+&lt;li&gt;Basic understanding or ability to manage contract workers focused on motion and animation software such as After Effects, Keynote’s animation capabilities or other&lt;/li&gt;
+&lt;li&gt;Understanding of UI principles for desktop and mobile applications&lt;/li&gt;
+&lt;li&gt;Experience working and collaborating with diverse teams in a dynamic, rapid-growth environment&lt;/li&gt;
+&lt;li&gt;Ability to execute high quality work in a fast paced environment – strong adaptability&lt;/li&gt;
+&lt;li&gt;Experience with prototyping as a means to explore and convey design solutions&lt;/li&gt;
+&lt;li&gt;Passion for the Ethereum ecosystem, blockchain and web3 industry preferred&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What are the role responsibilities?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Work independently and collaboratively with Product and Marketing teams on projects to create experiences, campaigns, graphic concepts, assets, and visual treatments&lt;/li&gt;
+&lt;li&gt;Produce brand and campaign standards, templates, and style guides&lt;/li&gt;
+&lt;li&gt;Elevate brand aesthetics while supporting overall brand direction&lt;/li&gt;
+&lt;li&gt;Work with partners across Optimism to guarantee an integrated brand experience&lt;/li&gt;
+&lt;li&gt;Develop compelling visions, stories, concepts, visual designs, and prototypes&lt;/li&gt;
+&lt;li&gt;Help to formulate our internal visual design strategy, and ensure visual design excellence&lt;/li&gt;
+&lt;li&gt;Create presentation decks for executives&lt;/li&gt;
+&lt;li&gt;Work closely with Product Design on UI Mockups, UI Click-through demos, and GIFs or Simple Animated Screens&lt;/li&gt;
+&lt;li&gt;Execute layouts, typography, iconography, color theory, and compositions to design with artistry, creativity, and mastery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;What will you like about us?&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Providing the product management input to solving groundbreaking problems in computer science&lt;/li&gt;
+&lt;li&gt;Working with a world-class team developing a technically challenging product critical to scaling Ethereum&lt;/li&gt;
+&lt;li&gt;Fully remote, deeply engaged, highly skilled, and yet really FUN team environment&lt;/li&gt;
+&lt;li&gt;Competitive compensation and benefits package&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/optimism/jobs/4231237004/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/603f9a50-c1b8-4478-ab18-962d178d1163_Optimism-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Optimism@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[YnfYYwW0UEqRGZpUHOtluQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Optimism]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Community Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Optimism]]></company>
+    <company_url><![CDATA[https://optimism.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who are we?&lt;/h3&gt;
+&lt;p&gt;Everybody and their mother working on blockchains loves the word “decentralization”. On a broad, world-changing scale, we can all agree that it’s important. Yet, when we zoom into the specifics of how to build this decentralized world, we find many diverse approaches. Whether it’s defi, identity, art, healthcare, or anything in between, a single dependency unites each dream for the future:&amp;nbsp;&lt;strong&gt;scalability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are building the critical infrastructure to address this need. Optimism is an extension to Ethereum that scales both its technology and philosophy. Not only do we enable orders of magnitude more performance, we’re also doubling down on Ethereum’s values as a public good, never to be captured by private commercial interests. Ethereum will enable the greatest change in human coordination since the birth of the internet, and Optimism is here to bring it to the masses.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;We are hiring a Community Manager to nurture and grow the Optimism community all the way to self-governance and full decentralization !!&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;
+&lt;h3&gt;What are the role responsibilities?&lt;/h3&gt;
+&lt;ul class=&quot;posting-requirements plain-list&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicate a deep understanding of the OΞ vision to our developers, end-users, &amp;amp; partners - the Optimistic Ethereum community and the larger Ethereum community itself&lt;/li&gt;
+&lt;li&gt;Manage and engage the community through Discord, Twitter, our blog, and any other mediums&lt;/li&gt;
+&lt;li&gt;Support early Optimism developers and end-users through both 1:1 help and group tutorials, guiding people to the right docs or the right community members to solve their problems&lt;/li&gt;
+&lt;li&gt;Create engaging workshops, conferences, meet-ups, and other social ways of engaging with the OE and larger Ethereum communities&lt;/li&gt;
+&lt;li&gt;Establish and grow Optimism community ambassador program&lt;/li&gt;
+&lt;li&gt;Assess the Optimism user experience and work with the team to improve it&lt;/li&gt;
+&lt;li&gt;Foster healthy and collaborative culture within the community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;
+&lt;h3&gt;What skills do you bring?&lt;/h3&gt;
+&lt;ul class=&quot;posting-requirements plain-list&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong written and verbal communication skills — can clearly explain technical concepts to a lay audience&lt;/li&gt;
+&lt;li&gt;Blockchain and Ethereum knowledge necessary&lt;/li&gt;
+&lt;li&gt;Deep empathy for both the Optimism community and those not yet a part of it&lt;/li&gt;
+&lt;li&gt;Comfortable with highly technical documents and writing - you don&#39;t have to an engineer, but need to be able to understand the technical documentation enough to help others navigate it&lt;/li&gt;
+&lt;li&gt;Discord guru with good general social media and content production experience&lt;/li&gt;
+&lt;li&gt;Desire to bring Optimism&#39;s technology and culture to the next wave of crypto users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;What will you like about us?&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Providing the product management input to solving groundbreaking problems in computer science&lt;/li&gt;
+&lt;li&gt;Working with a world-class team developing a technically challenging product critical to scaling Ethereum&lt;/li&gt;
+&lt;li&gt;Fully remote, deeply engaged, highly skilled, and yet really FUN team environment&lt;/li&gt;
+&lt;li&gt;Competitive compensation and benefits package&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/optimism/jobs/4195546004/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/603f9a50-c1b8-4478-ab18-962d178d1163_Optimism-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Optimism@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[YnfYYwW0UEqRGZpUHOtluQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Optimism]]></employer_name>
+    <category><![CDATA[ Community Management ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Community Support Specialist]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Optimism]]></company>
+    <company_url><![CDATA[https://optimism.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who are we?&lt;/h3&gt;
+&lt;p&gt;Everybody and their mother working on blockchains loves the word “decentralization”. On a broad, world-changing scale, we can all agree that it’s important. Yet, when we zoom into the specifics of how to build this decentralized world, we find many diverse approaches. Whether it’s defi, identity, art, healthcare, or anything in between, a single dependency unites each dream for the future:&amp;nbsp;&lt;strong&gt;scalability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are building the critical infrastructure to address this need. Optimism is an extension to Ethereum that scales both its technology and philosophy. Not only do we enable orders of magnitude more performance, we’re also doubling down on Ethereum’s values as a public good, never to be captured by private commercial interests. Ethereum will enable the greatest change in human coordination since the birth of the internet, and Optimism is here to bring it to the masses.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;We are hiring a Community Support Specialist to nurture and grow the Optimistic Ethereum community all the way to self-governance and full decentralization !!&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;
+&lt;h3&gt;What are the role responsibilities?&lt;/h3&gt;
+&lt;ul class=&quot;posting-requirements plain-list&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep on top of inbound support requests in our Discord server and other channels, ensuring that no request for help goes unanswered.&lt;/li&gt;
+&lt;li&gt;Implement and manage a robust ticketing process for tracking user&#39;s issues, and keeping those users updated.&lt;/li&gt;
+&lt;li&gt;Translate reports from users into clear and reproducible issues which can be addressed by engineering.&lt;/li&gt;
+&lt;li&gt;Communicate and collaborate with other parts of the team to ensure issues are properly prioritized.&lt;/li&gt;
+&lt;li&gt;Report high level insights to the rest of the team, based on data and user feedback, to support strategic decision making.&lt;/li&gt;
+&lt;li&gt;Support improvements to documentation and automation, in order to reduce the support load.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;
+&lt;h3&gt;What skills do you bring?&lt;/h3&gt;
+&lt;ul class=&quot;posting-requirements plain-list&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong written and verbal communication skills — can clearly explain technical concepts to a lay audience&lt;/li&gt;
+&lt;li&gt;Blockchain and Ethereum knowledge necessary&lt;/li&gt;
+&lt;li&gt;Deep empathy for both the Optimism community and those not yet a part of it&lt;/li&gt;
+&lt;li&gt;Comfortable with highly technical documents and writing - you don&#39;t have to an engineer, but need to be able to understand the technical documentation enough to help others navigate it&lt;/li&gt;
+&lt;li&gt;Discord guru with good general social media and content production experience&lt;/li&gt;
+&lt;li&gt;Desire to bring Optimism&#39;s technology and culture to the next wave of crypto users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;What will you like about us?&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Providing the product management input to solving groundbreaking problems in computer science&lt;/li&gt;
+&lt;li&gt;Working with a world-class team developing a technically challenging product critical to scaling Ethereum&lt;/li&gt;
+&lt;li&gt;Fully remote, deeply engaged, highly skilled, and yet really FUN team environment&lt;/li&gt;
+&lt;li&gt;Competitive compensation and benefits package&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/optimism/jobs/4230280004/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/603f9a50-c1b8-4478-ab18-962d178d1163_Optimism-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Optimism@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[YnfYYwW0UEqRGZpUHOtluQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Optimism]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Developer Advocate]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Optimism]]></company>
+    <company_url><![CDATA[https://optimism.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who are we?&lt;/h3&gt;
+&lt;p&gt;Everybody and their mother working on blockchains loves the word “decentralization”. On a broad, world-changing scale, we can all agree that it’s important. Yet, when we zoom into the specifics of how to build this decentralized world, we find many diverse approaches. Whether it’s defi, identity, art, healthcare, or anything in between, a single dependency unites each dream for the future:&amp;nbsp;&lt;strong&gt;scalability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are building the critical infrastructure to address this need. Optimism is an extension to Ethereum that scales both its technology and philosophy. Not only do we enable orders of magnitude more performance, we’re also doubling down on Ethereum’s values as a public good, never to be captured by private commercial interests. Ethereum will enable the greatest change in human coordination since the birth of the internet, and Optimism is here to bring it to the masses.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered&quot;&gt;As the first Developer Advocate at Optimism, you’ll help define and build out our Developer Relations program. You’ll establish strong relationships with developers by crafting clear and easy to use resources to help them build on the Optimism Protocol. You will champion developer interests, and translate their feedback into actionable insights for our product and engineering teams. If you’re passionate about connecting with developers and being an active participant in the growing Web3/crypto community, trying out new technologies and sharing what you’ve learned, we’d love to chat!&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;h3&gt;What are the role responsibilities?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Champion Optimism and empower the ecosystem by building high-quality sample applications, recorded demos, developer tools, writing technical guides and tutorials, and publishing blog posts&lt;/li&gt;
+&lt;li&gt;Drive adoption of the Optimism developer products and grow the&amp;nbsp;ecosystem of applications, integrations, and services built on top of the Optimism Protocol&lt;/li&gt;
+&lt;li&gt;Stay in the know of new web3 projects and developer needs by listening to podcasts, perusing Discord channels and actively engaging with developers across various channels to evangelize Optimism&lt;/li&gt;
+&lt;li&gt;Identify opportunities to engage with developers and grow our community in person and online, from speaking at conferences or attending hackathons to hosting office hours on Twitter and Discord&lt;/li&gt;
+&lt;li&gt;Raise the bar for our documentation by collaborating with engineers, product managers, and technical writers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What skills do you bring?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience as an engineer with exposure to a large set of technologies—Typescript, Solidity are a plus&lt;/li&gt;
+&lt;li&gt;Highly attuned to developer needs—empathetic understanding of developers across the Ethereum ecosystem&lt;/li&gt;
+&lt;li&gt;Passion for building delightful developer experiences and vibrant developer communities&lt;/li&gt;
+&lt;li&gt;Strong communication skills, and the ability to convey complex topics simply to a large developer audience&lt;/li&gt;
+&lt;li&gt;Prior experience creating a Developer Relations program, writing technical articles, and building open source software preferred but not required&lt;/li&gt;
+&lt;li&gt;Ability and willingness to travel to multiple Ethereum conferences and hackathons across the world&lt;/li&gt;
+&lt;li&gt;Experience experimenting with Ethereum/Solidity or other blockchains preferred but not required&lt;/li&gt;
+&lt;li&gt;Excellent communication skills in English (fluent level), other languages are a plus&lt;/li&gt;
+&lt;li&gt;Passionate about Ethereum, Web3/crypto, and Retroactive Public Goods Funding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section page-centered&quot;&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;What will you like about us?&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Providing the product management input to solving groundbreaking problems in computer science&lt;/li&gt;
+&lt;li&gt;Working with a world-class team developing a technically challenging product critical to scaling Ethereum&lt;/li&gt;
+&lt;li&gt;Fully remote, deeply engaged, highly skilled, and yet really FUN team environment&lt;/li&gt;
+&lt;li&gt;Competitive compensation and benefits package&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/optimism/jobs/4279834004/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/603f9a50-c1b8-4478-ab18-962d178d1163_Optimism-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Optimism@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[YnfYYwW0UEqRGZpUHOtluQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Optimism]]></employer_name>
+    <category><![CDATA[  ]]></category>
   </job>
 </jobs>
