@@ -2918,66 +2918,6 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Software Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Taxbit]]></company>
-    <company_url><![CDATA[https://taxbit.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Draper, Utah, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;What you’ll do As a Sr. Software Engineer at TaxBit, you should be passionate about software and people. You will help us build complex systems to create a top quality experience for our customers and clients. You will help to implement software solutions in an effort to deliver amazing experiences and capabilities for our customers and clients. The ideal engineer is someone who is humble, hungry and smart and runs after problems. They will be one who can inspire others, communicate clearly, and ensure that our clients have the best experience possible.&lt;br&gt;This is a full time on site position based out of Salt Lake City Utah area.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This is what you’ll do on a day to day basis:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Build complex, modern applications with beautiful, consistent and fast functionalities for our customers&lt;/li&gt;
-&lt;li&gt;Partner with designers and product managers to define the best practices for the tools we’re building&lt;/li&gt;
-&lt;li&gt;Write well-designed, well-tested, readable, maintainable code&lt;/li&gt;
-&lt;li&gt;Participate in code reviews to maintain code quality and distribute knowledge&lt;/li&gt;
-&lt;li&gt;Help lead large projects from idea to positive execution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What you’ll need:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You have at least 5+ years of experience in Engineering or Development&lt;/li&gt;
-&lt;li&gt;You have strong skills in Javascript (React), Python, Clojure, or Datomic&lt;/li&gt;
-&lt;li&gt;Care about software architecture across the front-end, back-end, and the APIs that glue them&lt;/li&gt;
-&lt;li&gt;Passionate about code quality, continuous delivery, automated testing&lt;/li&gt;
-&lt;li&gt;Comfortable working in an agile environment and challenging yourself and your team to improve their ways of working&lt;/li&gt;
-&lt;li&gt;Excellent analytical and problem-solving skills and can communicate your ideas, especially to those not technologically proficient&lt;/li&gt;
-&lt;li&gt;You value team success over personal success and ability to mentor ju&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive cash compensation&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock options&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Heath, Dental, Vision, and Life Insurance &lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hybrid working model: 3 days in-office, 2 days WFH/flexible&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friday team lunches&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Autonomous work and flexibility in how work is performed&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;**Vaccines are mandatory in order to foster a safe environment.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://taxbit.com/careers/4012866004?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Taxbit]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Principal Security Architect]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -3651,6 +3591,44 @@ Benefits
     <reference/>
     <employer_name><![CDATA[CoinDCX]]></employer_name>
     <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[DevOps Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[CoinDCX]]></company>
+    <company_url><![CDATA[https://coindcx.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Mumbai / Bangalore, India]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p><strong>Imagine,</strong><br />Cryptocurrency Traders are looking for a strong global platform that can help them trade faster, better and smarter. We are building a platform that can solve their needs. The opportunity is big, and the journey is tough. Now that’s a challenge that needs to be addressed. You do that. You are phenomenal in solving these complex challenges. You help build secure and performant APIs and above all you stay on top of all things in the blockchain and cryptocurrency space. You help our team do more.</p>
+<p>As a DevOps Engineer, you do all of the above and more. <strong>You make a difference.</strong></p>
+<p><strong><br /></strong></p>
+<p>We are looking for an experienced Devops Engineer who has worked on AWS or related platforms. </p>
+<ul><li>Needs to know how to create and manage cloud deployments using Beanstalk platform</li><li>Expertise in docker, Kubernetes, Prometheus and Grafana is essential</li><li>Knowledge of Jenkins pipeline and Atlassian tools (Jira, Bitbucket) etc is preferred</li></ul>
+<ul><li>Should have preferably worked in a Product Startup</li><li>Should have decent knowledge of docker based deployments on containers. </li><li>Must know basic scripting and to work on Linux systems. </li><li>Should be a team player and have good communication skills.</li><li>Must be able to and proficient in maintaining Logs and generating reports from the same. </li><li>Certification in any of the same is preferable.</li></ul><p><strong><br /></strong></p><p><strong>About CoinDCX</strong></p>
+<p>CoinDCX is India’s largest and safest cryptocurrency exchange. We provide users single-point access to a diverse suite of crypto-based financial products and services that are backed by security processes and insurance. CoinDCX aims to be the global gateway to cryptocurrencies where users can start building their cryptocurrency portfolio with ease. We provide a comprehensive set of advanced and powerful products to trade crypto-based instruments in the fast-paced markets and aim to keep opening new opportunities for its traders as well as new customers to level up their potential with industry-first innovations. Recognized and awarded for its contribution to the Indian emerging tech space, CoinDCX is backed by investors such as Coinbase Ventures, Polychain Capital, Bain Capital Ventures, Block.one and HDR Group, operator of BitMEX.</p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://careers.coindcx.com/o/devops-engineer-mumbai-bangalore/c/new?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/95b47f1a-66ef-4cfb-8dbf-3550e010eb11_coin_dcx-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+CoinDCX@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[eIhDSaweG0eEKIvVK1xWLw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[CoinDCX]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Engineering Manager]]></title>
@@ -5424,7 +5402,39 @@ Benefits
     <category><![CDATA[  ]]></category>
   </job>
 <job>
-    <title><![CDATA[Test Engineer]]></title>
+    <title><![CDATA[Don't See What You're Looking For?]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Localcoin]]></company>
+    <company_url><![CDATA[https://localcoinatm.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Canada]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;We&#39;re looking for talented people that are passionate about inspiring the future of cryptocurrency. If that&#39;s you, lets get in touch!&amp;nbsp;&lt;/p&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/localcoin/jobs/4021666004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/1aa21d2f-16eb-4baa-a452-4a29504188f0_localcoin-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Localcoin@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[R7GeQBQDFkKoQglYJs0aDg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Localcoin]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Software Development Engineer in Test]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Voyager]]></company>
@@ -5662,7 +5672,7 @@ Benefits
     <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
-    <title><![CDATA[Cloud Services Engineer]]></title>
+    <title><![CDATA[Cloud Engineer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Voyager]]></company>
@@ -5721,70 +5731,6 @@ Benefits
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Voyager]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Senior Software Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Taxbit]]></company>
-    <company_url><![CDATA[https://taxbit.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Seattle, Washington, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is the technology platform that enables cryptocurrency adoption by automating the tax complexities behind the asset class. TaxBit is used by thousands of consumers, leading exchanges, governmental authorities, respected accounting firms, and other cryptocurrency facilitators. TaxBit is trusted for solving some of the most novel and difficult tax problems at scale.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your ideas and growth, recognizes your unique contribution, and provides a fun, flexible and inclusive work environment, then TaxBit is the place for you. Whether you are a fin-tech wizard, crypto enthusiast, or passionate about solving complex problems at scale, we’d love to speak with you. Apply now.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a Sr. Software Engineer at TaxBit, you should be passionate about software and people. You will help us build complex systems to create a top quality experience for our customers and clients.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help to implement software solutions in an effort to deliver amazing experiences and capabilities for our customers and clients. The ideal engineer is someone who is humble, hungry and smart and runs after problems. They will be one who can inspire others, communicate clearly, and ensure that our clients have the best experience possible.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is what you’ll do on a day to day basis:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build complex, modern applications with beautiful, consistent and fast functionalities for our customers&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with designers and product managers to define the best practices for the tools we’re building&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write well-designed, well-tested, readable, maintainable code&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate in code reviews to maintain code quality and distribute knowledge&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help lead large projects from idea to positive execution&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What you’ll need:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have at least 5+ years of experience in Engineering or Development&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have strong skills in Javascript (React), Python, Clojure, or Datomic&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Care about software architecture across the front-end, back-end, and the APIs that glue them&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passionate about code quality, continuous delivery, automated testing&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working in an agile environment and challenging yourself and your team to improve their ways of working&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent analytical and problem-solving skills and can communicate your ideas, especially to those not technologically proficient&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You value team success over personal success and ability to mentor junior members of the team &lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;100% paid health insurance premiums&lt;/li&gt;
-&lt;li&gt;Competitive pay&lt;/li&gt;
-&lt;li&gt;Friday team lunches&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Autonomous work and flexibility in how work is performed&lt;/li&gt;
-&lt;li&gt;Stock Options&lt;/li&gt;
-&lt;li&gt;Working with an awesome team that is having incredible growth&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://taxbit.com/careers/4030884004?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Taxbit]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
@@ -6104,71 +6050,6 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Gnosis]]></employer_name>
     <category><![CDATA[  ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Software Engineer II]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Taxbit]]></company>
-    <company_url><![CDATA[https://taxbit.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Seattle, Washington, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is the technology platform that enables cryptocurrency adoption by automating the tax complexities behind the asset class. TaxBit is used by thousands of consumers, leading exchanges, governmental authorities, respected accounting firms, and other cryptocurrency facilitators. TaxBit is trusted for solving some of the most novel and difficult tax problems at scale.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your ideas and growth, recognizes your unique contribution, and provides a fun, flexible and inclusive work environment, then TaxBit is the place for you. Whether you are a fin-tech wizard, crypto enthusiast, or passionate about solving complex problems at scale, we’d love to speak with you. Apply now.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a Software Engineer II at TaxBit, you should be passionate about building high quality web and mobile experiences. You are comfortable working autonomously and eager to collaborate with teams. You are looking to gain experience in multiple parts of the stack and innovate with new technologies in order to create high quality experiences for our customers and clients.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help to implement software solutions in an effort to deliver amazing experiences and capabilities for our customers and clients. The ideal engineer is someone who is humble, eager to learn, smart and dives into problems. They will be one who can inspire others, communicate clearly, and ensure that our clients have the best experience possible.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is what you’ll do on a day to day basis:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build complex, modern applications with beautiful, consistent and fast UI for our customers&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with designers and product managers to define the best practices for the tools we’re building&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Implement best practices on our team&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write well-designed, well-tested, readable, maintainable code&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate in code reviews to maintain code quality and distribute knowledge&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help lead projects from idea to positive execution&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What you’ll need:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a college degree in computer science or equivalent experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have at least 2+ years of professional software development experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have strong skills in Python, JavaScript, React or Clojure.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Care about software architecture across the front-end and the APIs that power them&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passionate about code quality, continuous delivery, automated testing&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working in an agile environment and challenging yourself and your team to improve their ways of working&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent analytical and problem-solving skills and can communicate your ideas, especially to those not technologically proficient&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You value team success over personal success and ability to mentor more junior members of the team&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;100% paid health insurance premiums&lt;/li&gt;
-&lt;li&gt;Competitive pay&lt;/li&gt;
-&lt;li&gt;Friday team lunches&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Autonomous work and flexibility in how work is performed&lt;/li&gt;
-&lt;li&gt;Stock Options&lt;/li&gt;
-&lt;li&gt;Working with an awesome team that is having incredible growth&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://taxbit.com/careers/4038572004?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Taxbit]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Counsel, E-Gaming (Remote)]]></title>
@@ -6668,70 +6549,6 @@ Benefits
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/galaxydigitalservices/jobs/4018115004?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/7a50d6a5-3fd7-426f-a0e9-0388a08200d2_galaxy_digital-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+GalaxyDigital@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[0h9JSpb2fk6D7TIG9zdBIA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Galaxy Digital]]></employer_name>
-    <category><![CDATA[  ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Analyst/Associate, Operations]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Galaxy Digital]]></company>
-    <company_url><![CDATA[https://www.galaxydigital.io/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Chicago]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Galaxy Digital&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Galaxy Digital is a diversified financial services firm dedicated to the digital asset, cryptocurrency and blockchain technology industry. As one of the most well-capitalized and trusted companies in the industry, Galaxy Digital is a publicly listed company on the TSX and operates five synergistic business lines: Trading (arbitrage, macro, market making/OTC), Asset Management (passive and active strategies, including venture capital), Principal Investing, Investment Banking Services (capital markets and M&amp;amp;A) and Mining (proprietary mining and mining finance). Galaxy Digital’s CEO and Founder Michael Novogratz leads a team of institutional veterans focused on this high-growth, technology-driven space. The company is headquartered in New York City, with offices in San Francisco, Tokyo, Hong Kong, London, Chicago, the Cayman Islands (registered office) and New Jersey.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Description&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Working from Galaxy’s Chicago office, the Analyst/Associate will provide support to Galaxy’s trading and investment operations and has at least two years of experience in back/middle office at a financial institution, hedge fund or administrator.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Provide full support to Galaxy Digital’s trading and investment operations&lt;/li&gt;
-&lt;li&gt;Work in a fast-paced trading environment with daily interaction across multiple business units (Trading, Operations, Lending, Derivatives, Finance, Engineering)&lt;/li&gt;
-&lt;li&gt;Manage all aspects of OTC derivative trade capture, reporting, and settlement&lt;/li&gt;
-&lt;li&gt;Ensure operational processes are fully documented, tested and adequately supported&lt;/li&gt;
-&lt;li&gt;Identify operational control gaps and suggest process improvements&lt;/li&gt;
-&lt;li&gt;Respond to inquiries from counterparties, custodians and brokers&lt;/li&gt;
-&lt;li&gt;Daily trade, position and cash reconciliations&lt;/li&gt;
-&lt;li&gt;Facilitate frictionless settlements with over-the-counter counterparties&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2 to 4 years back/middle office experience working directly with derivative products including futures and options&lt;/li&gt;
-&lt;li&gt;Expertise in the trade life cycle of derivative products&lt;/li&gt;
-&lt;li&gt;Middle/back office experience covering trade settlements, fail control, reconciliation of trade discrepancies, and client servicing&lt;/li&gt;
-&lt;li&gt;Knowledge of accounting and reconciliation systems with a focus on derivatives&lt;/li&gt;
-&lt;li&gt;An outgoing individual with a strong work ethic and a great attention to detail&lt;/li&gt;
-&lt;li&gt;Ability to work in a fast-paced deadline-driven environment and multitask&lt;/li&gt;
-&lt;li&gt;Self-starter with a strong desire to make processes more efficient&lt;/li&gt;
-&lt;li&gt;Able to work effectively in a team environment with good communication skills&lt;/li&gt;
-&lt;li&gt;Experience with programming (ex. Python) and/or scripting strongly preferred&lt;/li&gt;
-&lt;li&gt;An interest in cryptocurrencies and blockchain technology&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Familiar with Cryptocurrency&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Galaxy Digital seeks to provide equal employment opportunities to all employees and job applicants for employment without regard to age, race, color, creed, religion, gender (including gender identity or pregnancy), sexual orientation, marital status, ancestry, national origin, citizenship, disability, military or veteran status, genetic information or predisposing genetic characteristic, status as a victim of domestic violence, sexual violence or stalking, arrest or conviction record, his or her sexual and other reproductive health decisions, or other protected status. This policy applies to all terms and conditions of employment.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/galaxydigitalservices/jobs/4039553004?ref=crypto-careers.com#app]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/7a50d6a5-3fd7-426f-a0e9-0388a08200d2_galaxy_digital-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -7801,6 +7618,38 @@ Benefits
     <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
+    <title><![CDATA[Senior Frontend Web3 Developer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Mycelium]]></company>
+    <company_url><![CDATA[https://wallet.mycelium.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><span style="font-size: 16px">At this exciting time, Mycelium is looking for driven, talented individuals, who have that special ‘spark’. Mycelium is a mission based vanguard of software engineers, data scientists, economists and creatives, committed to the future of a decentralised web, that preserves privacy, and protects individual sovereignty. A collective of growth stage companies, each focusing on unique and challenging problems. With offices in Brisbane, Sydney, Melbourne, Adelaide and team members in London, Dallas and New York. Our companies are focused on two distinct areas; data and finance. We believe these fields can benefit from more robust technology, and can help Australian companies grow domestically, and on the global stage.</span></div><div><br></div><div>As a Senior Frontend Web3 Developer you will be leading a team of developers to design and build Web3 interfaces for Tracer DAO. You will be given a high level of ownership over your work, the opportunity to expand your knowledge of a fast-growing industry, and the chance to help build the decentralised infrastructure of the future.</div><div><br></div><div>As a decentralised organisation, this role can be based anywhere in the world. See specifics in Requirements. #LI-Remote</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/Mycelium/a97c5a74-84cb-4f4a-b1a4-c73f50ca69a0/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/4a3afa15-0a82-491c-b63b-ffe259d4a443_Mycelium-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Mycelium@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[NoRO3NtO8UOEkhA4TFCLEw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Mycelium]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
     <title><![CDATA[Senior Software Engineer (TypeScript/React)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8686,6 +8535,139 @@ positive, constructive team member.<br /></li></ol>
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
+    <title><![CDATA[Senior Graphic Designer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Taxbit]]></company>
+    <company_url><![CDATA[https://taxbit.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Draper, Utah, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is helping to drive mainstream adoption of digital assets by connecting the consumer, enterprise, and government tax and accounting ecosystems.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our Software-as-a-Service platform streamlines our customers’ reporting experience across traditional and digital asset classes. We are trusted in this work by thousands of consumers, leading exchanges and enterprises, government agencies (including the IRS), respected accounting firms, and others to solve complex accounting problems at scale and ensure compliance with the latest tax laws. TaxBit investors include Paradigm, Tiger Global, PayPal Ventures, Winklevoss Capital, Coinbase Ventures, and other leading crypto investors. Our team is located in Salt Lake City, UT and Seattle, WA.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your growth, recognizes your unique contribution, and provides a fun, flexible and inclusive work environment, then TaxBit is the place for you. We’re looking for team members ready to join a hypergrowth company and are excited to work at the forefront of an entirely new industry.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Senior Graphic Designer must be a self-starter who has a passion for effective design and branding. The Senior Graphic Designer will create visual assets including sales and marketing collateral, social media assets, videos, gifs and more, to represent the brand and to connect with, engage and convert our target audience into customers. The Senior Graphic Designer will play a key role in the evolution of our brand and an early-hire to the marketing team. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The ideal candidate is a creative team player passionate about design and gaming who thrives in a fast-paced environment.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand target audience, strategic positioning and marketing initiatives to work closely with the Marketing team to conceptualize and create visual experiences&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Unrelenting focus on producing design&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain a consistent creative process across all design elements always applying brand guidelines&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Give and receive and develop alternate creative solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Produce product videos that meet branding standards and effectively engage the consumer&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Meet average monthly workload and deadline goals&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be a standard-bearer for our culture and values&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Desired Skills &amp;amp; Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Tenacious self-starter with a passion for effective communications&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Able to multi-task in a fast-moving environment&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Approach projects with ownership and think strategically&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;6+ years of relevant design experience — ideally in a FinTech/tech-forward product drive environment&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Flexible and comfortable with feedback and change during a project.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor’s degree&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An available online portfolio&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fluent in Adobe CC programs, Sketch and Adobe XD.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with prototyping tools (Principle, Invision, After Effects)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Asset creations: icons, illustrations and ui&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working in a&amp;nbsp; fast paced start-up environment &amp;lt;a plus&amp;gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive cash compensation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100% paid health insurance premiums&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hybrid working model: 3 days in-office, 2 days WFH/flexible&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friday team lunches&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Autonomous work and flexibility in how work is performed&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://taxbit.com/careers/4084411004?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Taxbit]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Staff Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Taxbit]]></company>
+    <company_url><![CDATA[https://taxbit.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Draper, Utah, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is the technology platform that enables cryptocurrency adoption by automating the tax complexities behind the asset class. TaxBit is used by thousands of consumers, leading exchanges, governmental authorities, respected accounting firms, and other cryptocurrency facilitators. TaxBit is trusted for solving some of the most novel and difficult tax problems at scale.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your ideas and growth, recognizes your unique contribution, and provides a fun, flexible and inclusive work environment, then TaxBit is the place for you. Whether you are a fin-tech wizard, crypto enthusiast, or passionate about solving complex problems at scale, we’d love to speak with you. Apply now.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a Staff engineer at TaxBit, you should be passionate about building high quality software. You are comfortable working autonomously and eager to collaborate with teams. You are looking to gain experience in multiple parts of the stack and innovate with new technologies in order to create high quality experiences for our customers and clients.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help to implement software solutions in an effort to deliver amazing experiences and capabilities for our customers and clients. The ideal engineer is someone who is humble, eager to learn, smart and dives into problems. They will be one who can inspire others, communicate clearly, and ensure that our clients have the best experience possible.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is what you’ll do on a day to day basis:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build complex, modern applications with beautiful, consistent and fast functionalities for our customers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with designers and product managers to define the best practices for the tools we’re building&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write well-designed, well-tested, readable, maintainable code&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate in code reviews to maintain code quality and distribute knowledge&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help lead projects from idea to positive execution&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What you’ll need:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a college degree in computer science or equivalent experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have at least 7+ years of professional software development experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have strong skills in one or more of Javascript (React/Typescript), Python, Clojure, Java/C#&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Care about software architecture across the front-end, back-end, and the APIs that glue them&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passionate about code quality, continuous delivery, automated testing&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working in an agile environment and challenging yourself and your team to improve their ways of working&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent analytical and problem-solving skills and can communicate your ideas, especially to those not technologically proficient&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You value team success over personal success and ability to mentor more junior members of the team&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive cash compensation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100% paid health insurance premiums&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hybrid working model: 3 days in-office, 2 days WFH/flexible&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friday team lunches&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Autonomous work and flexibility in how work is performed&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://taxbit.com/careers/4086781004?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Taxbit]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[Back End Developer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8978,84 +8960,6 @@ positive, constructive team member.<br /></li></ol>
     <reference/>
     <employer_name><![CDATA[Amun Tokens]]></employer_name>
     <category><![CDATA[ Finance & Accounting ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Head of Sales for Payment Solutions, Coinify]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Voyager]]></company>
-    <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is a Publicly traded company listed on the Canadian Securities Exchange (VYGR.CN), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2).&amp;nbsp; Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To learn more about Voyager please visit us at &lt;a href=&quot;http://www.investvoyager.com&quot; target=&quot;_blank&quot;&gt;www.investvoyager.com&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Responsibilities:&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Overall pipeline responsible for Payments &lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Building pipeline 10x or more to support volume target&lt;/li&gt;
-&lt;li&gt;Drive go-to market activities and sales&lt;/li&gt;
-&lt;li&gt;Contribute to a structured sales process&lt;/li&gt;
-&lt;li&gt;Keeping pipedrive up to date&lt;/li&gt;
-&lt;li&gt;Ensuring road blocks for go-live are raised in appropriate channels&lt;/li&gt;
-&lt;li&gt;Professionalize and develop the outbound sales processes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Responsible for monthly forecast target on new sales &lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Doing win/loss analysis on opportunities to understand what worked and didn’t&lt;/li&gt;
-&lt;li&gt;Prepare Board update pipeline material when relevant&lt;/li&gt;
-&lt;li&gt;Report on a weekly basis on pipeline, forecast and closed sales&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Provide feedback and competitor information to Product Team and rest of the organization&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Help set priorities for product developments based on customer feedback/needs&lt;/li&gt;
-&lt;li&gt;Ensuring Coinify has an understanding of competitors offerings&lt;/li&gt;
-&lt;li&gt;Help define key features to define winning payment products&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Building up a sales team &lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Help find new team members&lt;/li&gt;
-&lt;li&gt;Participate in joint sales calls with team members in DK&lt;/li&gt;
-&lt;li&gt;General development of own and organizational capabilities to deliver on the role responsibilities&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;3-4+ years of professional sales experience&lt;/li&gt;
-&lt;li&gt;Proven results in successfully growing sales and leading individuals in cross-functional teams&lt;/li&gt;
-&lt;li&gt;Strategic Thinking – ability to analyze, understand core areas of opportunity and develop holistic plans to execute change and bring about improved performance/results&lt;/li&gt;
-&lt;li&gt;Motivated, dedicated and responsible personality with strong team-player attitude&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Benefits including healthcare (medical, dental, vision) and 401k&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock Options&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;*Please note that during COVID-19 we are working remotely.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://www.investvoyager.com/careers/?gh_jid=4101165004&ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/13e96280-5fac-4708-8710-fe3aac995d25_Vertalo-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Voyager@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[3YJL8o4mkmbDWCBpVBlHQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Voyager]]></employer_name>
-    <category><![CDATA[ Sales And Business Development ]]></category>
   </job>
 <job>
     <title><![CDATA[Content Manager (Remote Optional)]]></title>
@@ -10264,6 +10168,38 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[  ]]></category>
   </job>
 <job>
+    <title><![CDATA[Director, Communications and Content]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[CoinFlip]]></company>
+    <company_url><![CDATA[https://coinflip.tech/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Chicago, IL]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>CoinFlip is a leading financial services platform focused on the digital economy. Headquartered in Chicago, CoinFlip operates the world’s largest network of cryptocurrency ATMs by volume and an over-the-counter trading desk, giving the world quick, easy, and secure access to the benefits of cryptocurrency.</div><div><br></div><div>CoinFlip placed No. 60 on the 2021 Inc. 5000 list, making it the top-ranked cryptocurrency company in the most prestigious ranking of the nation’s fastest-growing private companies. CoinFlip was also named the 2021 #1 fastest-growing company in Chicago by Crain’s and was awarded the 2021 Silver Stevie ® Award for Customer Service.</div><div><br></div><div>With a 5-year growth rate of 1,715,091.9%, the company is looking to quickly expand its current headcount across all departments. It’s an exciting time to join CoinFlip as it plans to add additional business lines, expand internationally, and cement itself as a leading fintech company.</div><div><br></div><div>We're seeking a <span style="font-size: 10.5pt">Director of Communications responsible for building, activating, and evaluating strategic marketing and communications plans and tactics. You will control the flow of information between the company and the public as well as the internal team. You will drive key company communication initiatives across internal and external channels — from PR, social media, brand and product campaigns, internal employee communications, company presentations and more. In this role, you will work collaboratively across departments to develop proactive communication campaigns aligned to CoinFlip’s vision, values and company goals. The Director is also responsible for the day-to-day management of an internal communications team as well as external agency partners</span></div><br/>Responsibilities <br/><li>Develop and implement an integrated strategic communications plan to advance CoinFlip’s brand identity and broaden awareness of its products; and increase the visibility of its programs across key target audiences including strategy, goals, budget, and tactics</li><li>Lead the development of initiatives that drive forward our corporate identity through unique communication programs, amplification of brand marketing efforts, and as a direct partner to the internal and employer brand, leadership, and marketing teams</li><li>Become an expert in the CoinFlip voice, positioning, and messaging to drive cohesion and one voice in the market</li><li>Oversee and contribute to the conceptualization and creation of influential and compelling content across all marketing assets, including the website, campaigns, emails, blog, social media, and public relations</li><li>Develop, deliver, and maintain an internal communications strategy and approach that executes on the goals and desired outcomes and upholds the culture, values, and tenets of CoinFlip</li><li>Use effective messaging to help drive long-term commitment to the vision and priorities of the firm and paint a clear picture of what it means to our team</li><li>Track trending concerns and issues, and develop employee communications strategies and plans that help employees understand a situation, our response, and available resources and support. This includes crafting messaging, communications, presentations, talk tracks for town halls, FAQs, and other support materials</li><li>Create and review templates that enable our Global Operations Center to communicate with and support employees at scale</li><li>Shape and execute a global internal communications strategy that raises awareness of the outstanding initiatives and support provided by our Global Safety &amp; Security team</li><li>Serve as the face of the company at media events when needed</li><li>Lead and develop the Communications team</li><br/>Requirements<br/><li>6+ years’ experience in corporate marketing or strategic communications roles</li><li>Experience in highly regulated industries or high-growth/emerging markets is a plus</li><li>3+ experience in public relations</li><li>Experienced in implementing holistic communications planning strategies</li><li>Exceptional writing and interpersonal communication skills, and an ability to present complex topics in a relevant, compelling way</li><li>Team management experience</li><li>Ability to thrive and work both independently and as part of a team in a fast-paced environment</li><li>Experience with the integration of creative, paid and earned media, CRM, website content and local activations toward a singular strategic communications approach</li><li>Track record of successful and productive relationship management with agency partners</li><li>Experience working with international teams and programs</li><li>Proficient public speaking abilities are an asset</li><div>Working at Coinflip means collaborating with experienced, people-first leaders with a clear vision and a track record of success. We offer a collaborative, positive working environment where we encourage employees to balance productivity with the need to recharge the batteries. And of course, you get paid pretty well - we offer competitive compensation packages, including equity, performance-based incentives, and competitive benefits for full-time employees.</div><div><br></div><div>CoinFlip values diversity in the workplace and is an equal opportunity employer. We are committed to providing an inclusive and accessible work environment. We thank all candidates who apply, but only those selected for an interview will be contacted. By applying to this role, you give express consent that CoinFlip may send you informational text (SMS) messages regarding this role, your application, and the application process. You can cancel the SMS service at any time by replying "STOP" to the text message you received. If at any time you forget what keywords are supported, just reply "HELP" to the text message you received.&nbsp; Message and data rates apply. If you require an accommodation, please let us know. We will work with you to meet your needs.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/CoinFlip/5558dd39-0bdf-4eb4-817c-e5897c4f0e50/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/0056658c-a57d-4547-b7da-3b105f7333fd_coinflip-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+CoinFlip@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[gsTiuqZ7U2KuoC1oWi6A]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[CoinFlip]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
     <title><![CDATA[Site Reliability Engineer (SRE)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -11285,6 +11221,77 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[Cardano Foundation]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Regulatory and Licensing Associate]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Voyager]]></company>
+    <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote (US)]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To learn more about Voyager please visit us at &lt;a href=&quot;http://www.investvoyager.com&quot; target=&quot;_blank&quot;&gt;www.investvoyager.com&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The Regulatory and Compliance Associate will support the Voyager Compliance team with its reporting, licensing, marketing compliance and other related compliance functions and be expected to be aware of product development and corporate changes in a fast-moving environment.&lt;/p&gt;
+&lt;p&gt;This role requires experience in regulatory licensing (e.g., state money transmitter licenses), application submissions and license maintenance requirements, knowledge of Bank Secrecy Act/Anti-Money Laundering rules and regulations, as well as consumer protection laws. &lt;/p&gt;
+&lt;p&gt;In addition, this role will be involved in maintaining compliance with internal policies and procedures that are part of our robust Anti-money Laundering Compliance Program and compliance testing.&lt;/p&gt;
+&lt;p&gt;This role will also be engaged in the review and approval of marketing materials, promotions and social media content&lt;/p&gt;
+&lt;p&gt;The ideal candidate will be highly organized, detail and results-oriented, experienced in AML and Sanctions compliance, have a strong interest in cryptocurrency, and have excellent project, time management, and people skills.&lt;/p&gt;
+&lt;h3&gt;Responsibilities:&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Support the day-to-day management of regulatory licensing applications, maintenance of existing licenses, and compliance reporting with NMLS and FinCEN&lt;/li&gt;
+&lt;li&gt;Participate in risk assessments, audits, and examinations&lt;/li&gt;
+&lt;li&gt;Support critical and complex AML compliance initiatives (e.g., Travel Rule)&lt;/li&gt;
+&lt;li&gt;Review and research OFAC false positives and escalate potential OFAC issues for review; file OFAC reports, if required.&lt;/li&gt;
+&lt;li&gt;Conduct Customer Due Diligence (CDD), review Customer Risk Ranking, conduct Enhanced Due Diligence (EDD), escalate potential AML risks with recommendations for mitigation.&lt;/li&gt;
+&lt;li&gt;Work collaboratively with the compliance team related to suspicious activity alerts and initial investigations and escalation of same.&lt;/li&gt;
+&lt;li&gt;Implement respective BSA/AML and OFAC procedures and recommend procedure improvements based on regulations and industry best practices that correspond to the Company’s business model.&lt;/li&gt;
+&lt;li&gt;Support the drafting of materials and presentations for key internal and external stakeholders (e.g., senior leadership, industry partners, regulators, bank partners)&lt;/li&gt;
+&lt;li&gt;Other duties and responsibilities as required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Qualifications:&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3+ years of relevant experience as a compliance professional at a fintech, bank, or large financial institution.&lt;/li&gt;
+&lt;li&gt;Experience in AML/KYC investigations and sanctions compliance&lt;/li&gt;
+&lt;li&gt;Understanding of due diligence and enhanced due diligence processes&lt;/li&gt;
+&lt;li&gt;Successful collaborator with excellent verbal, written, and interpersonal skills&lt;/li&gt;
+&lt;li&gt;Highly organized and adept at managing competing priorities&lt;/li&gt;
+&lt;li&gt;Strong critical thinker and problem solver, with meticulous attention to detail&lt;/li&gt;
+&lt;li&gt;Knowledge and interest in cryptocurrency&lt;/li&gt;
+&lt;li&gt;CAMS certification preferred&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Benefits including healthcare (medical, dental, vision) and 401k&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock Options&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;*Please note that during COVID-19 we are working remotely.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.investvoyager.com/careers/?gh_jid=4155122004&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/13e96280-5fac-4708-8710-fe3aac995d25_Vertalo-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Voyager@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[3YJL8o4mkmbDWCBpVBlHQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Voyager]]></employer_name>
+    <category><![CDATA[ Legal & Compliance ]]></category>
   </job>
 <job>
     <title><![CDATA[iOS Developer]]></title>
