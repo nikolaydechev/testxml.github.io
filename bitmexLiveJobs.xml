@@ -77,56 +77,45 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[IT Support Engineer - Infrastructure]]></title>
+    <title><![CDATA[Software Engineer - Web]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
     <company_url><![CDATA[https://www.bitmex.com]]></company_url>
     <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Vancouver, Canada]]></location>
+    <location><![CDATA[Singapore]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The IT Support is an IT professional with experience supporting end users at all levels of technical knowledge in all levels of the business. You will work to ensure the highest levels of end user productivity. This will be achieved through response time and turnaround of end user support requests.&amp;nbsp; In this role you will be responsible for responding to incoming requests, via multiple tools, in a timely fashion.&amp;nbsp; You will also triage requests and manage complex requests to completion. Having at strong familiarity with Okta, Sailpoint, JIRA, and Confluence, as well as firewalls will set you up for success in this role.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a Senior React Engineer at 100x Group, you are an engineer with experience in design and implementation of fast, real-time web applications. The BitMEX platform is written with React.JS and carefully tuned for performance. If you&#39;re right for this role, you should understand how common JITs work, have an interest in new technology, have significant&amp;nbsp;professional experience with React and a passion to grow as an engineer on this platform.&lt;/p&gt;
+&lt;p&gt;We develop with the latest tools with a strongly-typed development environment targeting modern browsers only. Forget everything you know about IE.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with all levels of staff to ensure an optimal end user experience&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop, maintain and document support processes for the team.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Field inquiries, troubleshooting requests and manage hardware, software or network problems, enter all information in Jira request&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Troubleshoot, recognize, and escalate more challenging problems to the appropriate teams. Drive these issues to completion.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage and maintain IT Asset inventory and ensure endpoints are in compliance and under management.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage maintain and administer MDM infrastructure&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Remotely support and maintain AV systems globally as needed.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist in onboarding users and deploying new technologies as required.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate in staggered schedule with teammates to ensure global IT support coverage&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stay abreast of current and developing technologies and identify training to further oneself&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong familiarity with Okta, Sailpoint, JIRA, and Confluence, and firewalls is strongly preferred&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Development of the BitMEX Web Frontend and React Native components&lt;/li&gt;
+&lt;li&gt;New feature design and implementation, bug fixing, and performance tuning&lt;/li&gt;
+&lt;li&gt;Working closely with the API and Engine teams to integrate new features and unique consumer-facing products&lt;/li&gt;
+&lt;li&gt;Mentoring other engineers on coding practices, design philosophies, and engineering craft&lt;/li&gt;
+&lt;li&gt;Exploring and evaluating new stack components and architecture ideas as necessary&lt;/li&gt;
+&lt;li&gt;Regularly reviewing code&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5-8 years of related experience in an IT Support/ Helpdesk position &lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong professional demeanor and work ethic&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong critical thinking skills and able to work independently&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience communicating on a high level to a non-technical audience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working closely with end users, team managers and senior leadership&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience supporting cloud/SaaS services such as G Suite&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of Apple systems and software&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable working in fast growth environments&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent communication &amp;amp; documentation skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A focus on education to empower the user base for increased productivity&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to work with remote teams globally and possess cultural intelligence&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Self reliant, yet works well within a team and is directed by global presence &amp;amp; management&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of ITIL preferred, in particular ITIL best practices&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+&lt;li&gt;Intimate experience with JS and JS performance characteristics&lt;/li&gt;
+&lt;li&gt;Experience with NodeJS, React, and Flux architecture&lt;/li&gt;
+&lt;li&gt;Experience with Jest, Flow, Webpack, Make, and Sass a plus&lt;/li&gt;
+&lt;li&gt;Experience making complex, data-driven products accessible to consumers&lt;/li&gt;
+&lt;li&gt;Ability to simultaneously develop several products and concepts in development&lt;/li&gt;
+&lt;li&gt;Familiarity with current UX trends and curiosity for new UX concepts (conversational UI, etc)&lt;/li&gt;
+&lt;li&gt;A Bachelor’s degree or equivalent work experience preferred&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5211135002?gh_src=759c9df92us#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/4972210002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -196,128 +185,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5218151002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Digital Marketing Content Writer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for a Content Writer &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;who has experience writing high-quality content to join our rapidly growing marketing department. You are a creative storyteller in an online environment, knowing your channels and touchpoints. You will contribute to a wide variety of digital content platforms – websites, blogs, social media, guides, videos, mobile, and more - following the global brand direction, style guides and tone of voice policies for our brands. You work with the creative team as well as major stakeholders, to deliver industry leading written content.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creating well researched, refreshing &amp;amp; inspiring copywriting for website, social, EDM’s, blogs, advertising, products&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Utilize industry best practices and familiarity with the firm&#39;s mission to inspire ideas and content&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Communicate and cooperate with the content manager, social media manager and other stakeholders in the content creation process&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage a busy workload according to deadlines&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Organize, modify and update existing content.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop related content for multiple platforms, such as website, email marketing, product descriptions, blogs and social media&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Incorporate our search engine optimization strategy guidance in your content creation process to maximize the online visibility in search engine results&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proofread and edit spelling, grammar and syntax.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor&#39;s degree in communications, journalism, English or related field.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3-4 years agency experience or in a similar role.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Adept at keyword placement and SEO best practices.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent command of the English language&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficiency with popular content management systems.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creativity and the ability to develop original content.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to develop content that provokes engagement.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Crypto Native would be a great advantage&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience sprucing up product descriptions on eCommerce websites&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Writing, copy editing, and proofreading experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and detail oriented&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficient in retail “Marketing Language”&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in social media&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Additional languages a plus - Mandarin, Russian, Japanese, Korean, Turkish, etc&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5308972002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Campaign Manager]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of the Marketing Acquisition team this person will lead planning and all go to market strategies for products launches. They will be the bridge between product and marketing and work closely with the campaign manager and vertical teams.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of acquisition/performance marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and execute integrated marketing campaigns&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with data analyst to analyse and optimize campaign performance&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and manage digital prospecting and remarketing campaigns&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage budgets and campaigns across all digital channels to drive strong return on investment and efficient CAC&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure successful planning, execution, optimization for key traffic KPIs via paid, organic &amp;amp; own media channel&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify and test new channels to meet or exceed established critical metrics&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the management to share funnel conversion improvement ideas, feedback &amp;amp; present results.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in managing B2B and end to end campaigns including optimization and reporting&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and able to multitask&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detailed oriented&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great at stakeholder management&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High project management skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data driven&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands on and comfortable with execution&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Agency experience preferred not mandatory &lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5271447002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -838,6 +705,64 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
+    <title><![CDATA[Campaign Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100x is the result of the phenomenal success of BitMEX, the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD per day.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem of 100x Group companies, through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of the Marketing Acquisition team this person will lead planning and all go to market strategies for products launches. They will be the bridge between product and marketing and work closely with the campaign manager and vertical teams.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Report directly to the head of acquisition/performance marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and execute integrated marketing campaigns&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with data analyst to analyse and optimize campaign performance&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and manage digital prospecting and remarketing campaigns&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage budgets and campaigns across all digital channels to drive strong return on investment and efficient CAC&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure successful planning, execution, optimization for key traffic KPIs via paid, organic &amp;amp; own media channel&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify and test new channels to meet or exceed established critical metrics&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the management to share funnel conversion improvement ideas, feedback &amp;amp; present results.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in managing B2B and end to end campaigns including optimization and reporting&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and able to multitask&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detailed oriented&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great at stakeholder management&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High project management skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data driven&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands on and comfortable with execution&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Agency experience preferred not mandatory &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5271447002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
     <title><![CDATA[Customer Support Specialist - HK - English]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -1026,68 +951,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5661254002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
-    <title><![CDATA[Trading Operations Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Switzerland]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;content-intro&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;The Trading Technology department sits at the core of the business and handles all brokerage and trading aspects of the platform.&amp;nbsp; The team is responsible for order management, risk checking, position keeping, PNL calculations, pricing (derivatives), risk management, market data distribution, order matching, and settlement.&lt;/p&gt;
-&lt;p&gt;We operate a 24/7 business. It is essential that the Trading Platform is highly available and system downtime is minimised. The Engine Operations team is responsible for ensuring the operational reliability of the Trading Engine services.&lt;/p&gt;
-&lt;p&gt;As a Trading Operations Engineer you will be responsible for both application support of the brokerage and matching engine services and also for engineering solutions to automate release processes and disaster recovery. Automation and test driven development sit at the heart of what we do and a key theme of your role will be to eliminate manual processes and procedures, and the necessity for human intervention in order to keep the systems operational.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;First line application support on-call rota for Trading Engine services including trading gateways, brokerage, position keeping, risk management, matching and market data distribution services&lt;/li&gt;
-&lt;li&gt;Identify and resolve issues with the production environment in a timely manner, escalating and coordinating incident response where applicable&lt;/li&gt;
-&lt;li&gt;Identify and resolve gaps in application and system level monitoring and alerting&lt;/li&gt;
-&lt;li&gt;Work closely with the Trading Technology development team to identify, diagnose and solve problems with the trading platform&lt;/li&gt;
-&lt;li&gt;Perform software releases to the production environment for Trading Engine services&lt;/li&gt;
-&lt;li&gt;Automate the deployment of Trading Technology software services, working with the DevOps team to implement the firmwide standards&lt;/li&gt;
-&lt;li&gt;Work with the DevOps team and Site Reliability Engineers on firm-wide reliability initiatives&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong engineering skill set with firm grasp of fundamental Computer Science principles&lt;/li&gt;
-&lt;li&gt;5+ years experience at a Hedge Fund, Investment Bank, or Exchange supporting trading platforms, preferably in the pre-trade space (e.g. OMS, Algo Trading, Market Making)&lt;/li&gt;
-&lt;li&gt;Experience working with FIX, OUCH, ITCH, or similar financial service protocols&lt;/li&gt;
-&lt;li&gt;Experience with Site Reliability Engineering and/or DevOps is preferred&lt;/li&gt;
-&lt;li&gt;Experience supporting and maintaining message bus technologies like Kafka, Ultra Messaging (29West), Chronicle Queue, or Aeron&lt;/li&gt;
-&lt;li&gt;Experience diagnosing and debugging issues with Java-based services&lt;/li&gt;
-&lt;li&gt;Experience with Grafana or similar data visualisation tools for monitoring services&lt;/li&gt;
-&lt;li&gt;Experience building and maintaining release automation services&lt;/li&gt;
-&lt;li&gt;Expertise in Linux operating systems, including understanding of the network layer&lt;/li&gt;
-&lt;li&gt;Ability to adapt to changing priorities within a fast moving industry and startup culture&lt;/li&gt;
-&lt;li&gt;Preferred: Experience with Site Reliability Engineering and/or DevOps, and Release Management&lt;/li&gt;
-&lt;li&gt;Computer Science / Engineering / Mathematics degree preferable&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5658335002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -2016,53 +1879,125 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Senior Recruiter (Engineering/Technology)]]></title>
+    <title><![CDATA[Customer Support Specialist - Mandarin]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Bitmex]]></company>
     <company_url><![CDATA[https://www.bitmex.com]]></company_url>
     <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Singapore]]></location>
+    <location><![CDATA[Vancouver, Canada]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
     <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for an outstanding recruiter based in Singapore to help drive the ongoing expansion of our highly successful global fintech organisation.&amp;nbsp; This hands-on role will be key in supporting our ambitious tech recruiting initiatives which play an essential part in supporting the commercial objectives of our business.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working closely with our hiring managers, you will formulate and implement strategies to source and attract the very best talent.&amp;nbsp; You will have a fantastic opportunity to shape and deliver the end to end recruitment experience for our fun and fast growing firm.&amp;nbsp; You will have excellent interpersonal skills, be quick to build relationships to create a first class candidate experience and feel passionate about recruiting great people for BitMEX.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a great role for a driven, talented recruiter to make a real impact and there is huge scope for the role to grow in line with the company.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The role of the Customer Support Specialist is to assist our users during the allocated time zone via a number of channels - including but not limited to - our CRM (Freshdesk), the BitMEX Trollbox, Reddit and Telegram.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You will be required to continuously identify and evaluate customer needs in order to achieve the highest quality of customer satisfaction. You will be expected to monitor the community for any emerging issues and bring forward any feedback or proposals you come across.&lt;/p&gt;
+&lt;p&gt;This position is ideal for somebody who would enjoy being the face of the company, helping people and establishing/maintaining strong relationships with our customers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Customer Support Team&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are a young, passionate and fast growing team with members all over the world delivering a 24/7/365 industry leading support experience. We are proud to work for BitMEX and of the standard we have set and hold ourselves to. We enjoy working together and helping each other to grow. There is a high level of independence involved in the role, but we are interdependent on each other in the sense that many hands make light work and we are all responsible for upholding the high standard that has been set and raising it even higher into the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage the end to end recruitment process for multiple and complex searches by creating innovative sourcing strategies&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work in partnership with hiring managers throughout the hiring process&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proactively source top talent utilising a number of recruitment methodologies and channels including LinkedIn Recruiter&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Think creatively and outside the box to find exceptional talent&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop a network and pipeline of qualified candidates across multiple disciplines&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Own the candidate experience from first contact to onboarding&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage and hold vendors accountable to a high bar&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain accuracy and structure in the documentation related to all recruitment processes by utilising our ATS (Greenhouse)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Continuously review hiring and funnel data to track and measure effectiveness&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Establish and maintain meaningful relationships across management and key cross functional stakeholders internally&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Raise awareness and enhance our external brand by representing the BitMEX employer brand externally&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Respond to customer queries in a timely manner with the utmost professionalism and in accordance with company policies/guidelines&lt;/li&gt;
+&lt;li&gt;Monitor the BitMEX Trollbox, Telegram and other channels as required&lt;/li&gt;
+&lt;li&gt;Perform document checks as per standard procedures&lt;/li&gt;
+&lt;li&gt;Escalate enquiries when necessary&lt;/li&gt;
+&lt;li&gt;Work closely with various internal partners (including Founders, Engineers, Sales, Marketing, Control teams, IT) in different regions (Asia, Europe, America) when necessary&lt;/li&gt;
+&lt;li&gt;Assist in updating FAQ/Solutions documentation&lt;/li&gt;
+&lt;li&gt;Constantly look for ways to improve our customer service&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At least 5 years’ tech recruiting experience with a proven track record of executing complex searches&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In-house experience from a crypto, fintech, technology or traditional financial services firm is preferred&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To be comfortable navigating through ambiguity and able to self-manage and develop new strategies and processes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Outstanding communication, interpersonal and relationship skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A working knowledge of HR and ATS systems (e.g. Greenhouse, Workday, LinkedIn Recruiter)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing multiple tasks simultaneously and ability to prioritise effectively in a fast paced environment&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Must be proficient in &lt;strong&gt;English&lt;/strong&gt; and &lt;strong&gt;Mandarin&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Experience and knowledge of cryptocoins, Blockchain and trading - with good understanding of the &lt;strong&gt;Mainland&lt;/strong&gt; crypto market&lt;/li&gt;
+&lt;li&gt;Attention to detail with excellent communication skills and patience&lt;/li&gt;
+&lt;li&gt;Ability to troubleshoot and discover answers quickly and effectively&lt;/li&gt;
+&lt;li&gt;Enjoy helping people and being patient with customers&lt;/li&gt;
+&lt;li&gt;Capable of working under pressure&lt;/li&gt;
+&lt;li&gt;Cooperative with strong team spirit and a willingness to motivate your other colleagues on the Customer Support Team&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+&lt;p&gt;* This position may require occasional weekend work.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We&#39;d love to see:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Technical background/understanding of the BitMEX API is a major plus&lt;/li&gt;
+&lt;li&gt;Available for immediate hire preferred&lt;/li&gt;
+&lt;li&gt;Previous experience in solving customer inquiries.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5704284002?gh_src=759c9df92us#app]]></apply_url>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5823820002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Head of Communications]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote - Europe]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Purpose of the Role: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of our expanding communications team, we are seeking an experienced, driven, and highly independent professional to help manage and develop the communications and corporate reputation of BitMEX.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The PR and Communications Manager, Corporate Reputation role, remotely based in Western Europe (excluding UK), is a great opportunity for someone who wants to shape the future of one of the most innovative and recognised brands in crypto.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position requires impeccable judgement and attention to detail. We are looking for someone who is a creative thinker, skillful writer, experienced in media relations, with a strong focus on digitals and skills in&amp;nbsp; building communities. The Manager is part of the brand building process, supporting a think-different approach, building the foundation of the brand.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ll work with, and have the support of, a growing communications and marketing team, mostly based in Asian time zones. Working alongside the Head of Comms and Director of Comms, as well as external agencies,&amp;nbsp; you will help design external and internal communications campaigns, write company communications, and liaise with our legal, compliance, product, and tech teams in the process, showing your crisis communication skills whenever necessary.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A successful candidate will be a smart, resourceful individual who brings energy and passion to their role, with a proven track record in communications and issues/ crisis management from an agency (at around Associate Director-level), a consumer-driven brand, a digital or a crypto company. We’re looking for a team player who can forge productive relationships with those they interact with - whether as colleagues or when representing BitMEX to the outside world.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Scope and Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Brand Awareness: work with the Head of Comms/ Director of Comms to oversee and manage company communications, both internal and external, in order to build the brand awareness and the corporate reputation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Corporate Identity: be part of the definition of the corporate identity, even at brand book level, define proper guidelines to ensure a consistent brand approach&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Influencer marketing: identify a list of influencers and define a plan to engage them&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Community management: build a community of followers and stakeholders in the region&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proactive Campaign Development: support the development and delivery of proactive corporate reputation campaigns, including the execution (e.g. media buying) and control the KPI to ensure the goals&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Content Development: work with the editorial team to develop and publish company content across owned channels.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;External Stakeholder Engagement: help to coordinate interaction with key journalists and other critical stakeholders internationally.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help manage activation of strategic partnerships, including AC Milan.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Company appearances at PR events - be the main point of contact in Europe to identify and manage our participation in events (i.e. helping to evaluate a potential CEO appearance on a panel discussion, for example)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interact and assist in management of external agency team&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist with internal communication.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Support on crisis management.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Requirements, Capabilities and Skillsets:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;7+ years PR and communications handling experience, gained within an in-house or agency environment.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Consumer brand management, cryptocurrency, or fintech industry experience necessary.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Meaningful international media relations expertise required.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Digital approach and community management skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Meaningful experience managing reputational risks/ dealing with issues and crises.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Multi-stakeholder reputation campaigning, encompassing strategy development, creative execution, and flawless delivery.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong written and verbal communications skills, with English language essential.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborative mindset to work in an international and multidisciplinary environment as part of one global team.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Team management and coaching skills.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent interpersonal skills.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A Bachelor’s degree or equivalent required.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Impeccable judgment with ability to maintain confidentiality and exercise discretion.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent attention to detail is an absolute must.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5823834002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -2436,64 +2371,6 @@
     <employer_name><![CDATA[Bitmex]]></employer_name>
   </job>
 <job>
-    <title><![CDATA[Executive Assistant - CCO]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Bitmex]]></company>
-    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Switzerland]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Executive Assistant will primarily support the CCO. This position will support the executives in planning and booking travel, maintaining calendars, scheduling meetings and tracking expenses. Working closely and collaboratively with other administrative teams and assistants in other locations, the Executive Assistant may be required to provide coverage for other assistants as necessary.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage CCO&#39;s daily schedule and maintain his calendars&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure CCO has all the necessary information to efficiently manage meetings&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Executive administrative duties include but not limited to: schedule meetings, create presentation decks, spreadsheets and maintain any G Suite documents and files&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Travel arrangement for CCO and work with admin teams to organize off-site events as necessary&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with other members of the executive team on a variety of ad-hoc projects, such as company off-sites or other events&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure successful follow through on assigned projects&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordinate with Head of Security to ensure the safety of executives being supported&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor degree preferred&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent communication skills in &lt;strong&gt;English&lt;/strong&gt; &amp;amp; &lt;strong&gt;German&lt;/strong&gt; - verbal and written&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Minimum 5 years of experience supporting high-level executives on work and personal matters&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with directly supporting C-level executives and assisting with their relocation is a plus&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with Google Suite and Mac OS&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Service-oriented team player with exceptional interpersonal skills and ability to build and foster relationships&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong organizer with ability to create and simplify processes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Independent, energetic, and adaptable to changing priorities in a fast-paced environment&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Self-motivated and passionate about given responsibilities&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detail oriented and a problem solver who can come up with solutions with minimal guidance&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Tech-savvy - existing knowledge of a variety of computer programs and ability to quickly learn new ones&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;*&lt;/strong&gt;We are only considering local candidates or those with EU citizenship*&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5782971002?gh_src=759c9df92us#app]]></apply_url>
-    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Bitmex]]></employer_name>
-  </job>
-<job>
     <title><![CDATA[Senior Institutional Sales & Client Development Manager - APAC]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -2670,6 +2547,131 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5816801002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Customer Support Specialist - Mandarin]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote - Americas]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;This role can be based anywhere except China.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The role of the Customer Support Specialist is to assist our users during the allocated time zone via a number of channels - including but not limited to - our CRM (Freshdesk), the BitMEX Trollbox, Reddit and Telegram.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You will be required to continuously identify and evaluate customer needs in order to achieve the highest quality of customer satisfaction. You will be expected to monitor the community for any emerging issues and bring forward any feedback or proposals you come across.&lt;/p&gt;
+&lt;p&gt;This position is ideal for somebody who would enjoy being the face of the company, helping people and establishing/maintaining strong relationships with our customers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Customer Support Team&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are a young, passionate and fast growing team with members all over the world delivering a 24/7/365 industry leading support experience. We are proud to work for BitMEX and of the standard we have set and hold ourselves to. We enjoy working together and helping each other to grow. There is a high level of independence involved in the role, but we are interdependent on each other in the sense that many hands make light work and we are all responsible for upholding the high standard that has been set and raising it even higher into the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Respond to customer queries in a timely manner with the utmost professionalism and in accordance with company policies/guidelines&lt;/li&gt;
+&lt;li&gt;Monitor the BitMEX Trollbox, Telegram and other channels as required&lt;/li&gt;
+&lt;li&gt;Perform document checks as per standard procedures&lt;/li&gt;
+&lt;li&gt;Escalate enquiries when necessary&lt;/li&gt;
+&lt;li&gt;Work closely with various internal partners (including Founders, Engineers, Sales, Marketing, Control teams, IT) in different regions (Asia, Europe, America) when necessary&lt;/li&gt;
+&lt;li&gt;Assist in updating FAQ/Solutions documentation&lt;/li&gt;
+&lt;li&gt;Constantly look for ways to improve our customer service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Must be proficient in &lt;strong&gt;English&lt;/strong&gt; and &lt;strong&gt;Mandarin&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Experience and knowledge of cryptocoins, Blockchain and trading - with good understanding of the &lt;strong&gt;Mainland&lt;/strong&gt; crypto market&lt;/li&gt;
+&lt;li&gt;Attention to detail with excellent communication skills and patience&lt;/li&gt;
+&lt;li&gt;Ability to troubleshoot and discover answers quickly and effectively&lt;/li&gt;
+&lt;li&gt;Enjoy helping people and being patient with customers&lt;/li&gt;
+&lt;li&gt;Capable of working under pressure&lt;/li&gt;
+&lt;li&gt;Cooperative with strong team spirit and a willingness to motivate your other colleagues on the Customer Support Team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;* This position may require occasional weekend work.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We&#39;d love to see:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Technical background/understanding of the BitMEX API is a major plus&lt;/li&gt;
+&lt;li&gt;Available for immediate hire preferred&lt;/li&gt;
+&lt;li&gt;Previous experience in solving customer inquiries.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5823821002?gh_src=759c9df92us#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[melanie.chow@bitmex.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9be7868e-8681-4d7e-85f8-92f3542b1106]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitmex]]></employer_name>
+  </job>
+<job>
+    <title><![CDATA[Senior Recruiter (Engineering/Technology)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitmex]]></company>
+    <company_url><![CDATA[https://www.bitmex.com]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitMEX is the world’s leading cryptocurrency derivatives trading platform, which has pioneered cryptocurrency trading through relentless commitment to change, and continues to set benchmarks for innovation, liquidity, and security today.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the world&#39;s most advanced peer-to-peer crypto-products trading platform and API, BitMEX gives knowledge, confidence, and precision to hundreds of thousands of traders, transacting billions of USD a day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for an outstanding recruiter based in Singapore to help drive the ongoing expansion of our highly successful global fintech organisation.&amp;nbsp; This hands-on role will be key in supporting our ambitious tech recruiting initiatives which play an essential part in supporting the commercial objectives of our business.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working closely with our hiring managers, you will formulate and implement strategies to source and attract the very best talent.&amp;nbsp; You will have a fantastic opportunity to shape and deliver the end to end recruitment experience for our fun and fast growing firm.&amp;nbsp; You will have excellent interpersonal skills, be quick to build relationships to create a first class candidate experience and feel passionate about recruiting great people for BitMEX.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a great role for a driven, talented recruiter to make a real impact and there is huge scope for the role to grow in line with the company.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage the end to end recruitment process for multiple and complex searches by creating innovative sourcing strategies&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work in partnership with hiring managers throughout the hiring process&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proactively source top talent utilising a number of recruitment methodologies and channels including LinkedIn Recruiter&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Think creatively and outside the box to find exceptional talent&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop a network and pipeline of qualified candidates across multiple disciplines&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Own the candidate experience from first contact to onboarding&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage and hold vendors accountable to a high bar&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain accuracy and structure in the documentation related to all recruitment processes by utilising our ATS (Greenhouse)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Continuously review hiring and funnel data to track and measure effectiveness&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Establish and maintain meaningful relationships across management and key cross functional stakeholders internally&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Raise awareness and enhance our external brand by representing the BitMEX employer brand externally&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At least 5 years’ tech recruiting experience with a proven track record of executing complex searches&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In-house experience from a crypto, fintech, technology or traditional financial services firm is preferred&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To be comfortable navigating through ambiguity and able to self-manage and develop new strategies and processes&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Outstanding communication, interpersonal and relationship skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A working knowledge of HR and ATS systems (e.g. Greenhouse, Workday, LinkedIn Recruiter)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing multiple tasks simultaneously and ability to prioritise effectively in a fast paced environment&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join us, as we build a thriving cryptocurrency ecosystem through strategic investments in emerging cryptocurrency technology, and create the future of digital financial services.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitmex/jobs/5704284002?gh_src=759c9df92us#app]]></apply_url>
     <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/950790/BitMEX_Logo_1200x628px-01.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
