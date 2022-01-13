@@ -1504,38 +1504,6 @@
     <category><![CDATA[ HR & Recruiting ]]></category>
   </job>
 <job>
-    <title><![CDATA[Mobile Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Terraform Labs]]></company>
-    <company_url><![CDATA[https://terra.money/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Seoul, KR - Remote OK]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<p>테라의 미션은 <strong><u>돈을 자유롭게 하는 것</u></strong> 입니다. 디지털 시대에 돈 역시 혁신을 통해 발전하는 기술의 일종이라 믿습니다. 테라는 공평하고 열린 금융의 막을 열기 위해 필요한 새로운 화폐의 형태에 대해 깊이 고민하며, 이를 실현하기 위해 bottom-up 부터 혁신적인 금융 인프라를 구축하고 기존 금융 플랫폼에 존재할 수 없었던 다양한 금융 서비스를 개발합니다. <br><br><strong>테라의 프로덕트:</strong><br></p><ul><li> 미러는 테라 위에 구축된 합성 자산 프로토콜입니다. 미러 안의 합성 자산을 "미러 자산"(mAssets)이라고 하며, 미국 주식, 상품, ETF, 귀금속 등과 같은 실제 자산의 가격을 반영합니다. 미러의 비전은 주요 자산에 대한 접근의 자유를 추구합니다. 미러는 테라 스테이블 코인을 거래하고 사용하는 진입경로와 같은 역할을 하며 유동성을 더욱 강화시킵니다. 미러를 사용하면 전 세계 사용자가 미러 웹 앱 또는 모바일 미러 월렛에 연결하여 세계 주요 자산의 거래 통한 자본 수익을 얻을 수 있으며, 이를 통해 미러의 사용자들은 글로벌 시장에서의 가치 창출에 참여할 수 있게 됩니다.</li><li>앵커는 UST를 앵커 프로토콜에 보관하는 사용자에게 변동성이 적은 이자율을 제공하도록 설계된 예금상품 프로토콜입니다.</li></ul><p><br><strong>테라 뉴스:</strong><br></p><ul><li>벤처스퀘어: <a>테라, 360억 원 시드투자 유치 “블록체인 기반 결제솔루션 만든다”</a></li><li>머니투데이: <a>신현성 "블록체인 성공조건은 '안정성·상용화'"</a></li><li>코인데스크: <a>“테라, 주식-암호화폐 잇는 미러 프로토콜 출시“</a> / <a>“폴카닷·코스모스·테라, PoS 이용한 신개념 디파이 출시“</a></li></ul><p><strong><strong><br></strong></strong></p><p><strong><strong>테라의 도전과제</strong></strong><br></p><ul><li>iOS / Android 모바일 애플리케이션 구축</li><li>블록체인에 트랜잭션을 요청하고 응답을 처리하는 모바일 애플리케이션 구축</li></ul><p><br><strong><strong>자격조건</strong></strong><br></p><ul><li>React Native를 능숙하게 사용</li><li>모바일 애플리케이션 개발에 대한 깊은 이해 (iOS / Android)</li><li> Promise / Future / Reactive 프로그래밍 경험</li><li>MVP, MVVM, BloC 등의 디자인 패턴에 대한 지식 보유</li><li>꾸준한 코드 리팩토링 및 코드 리뷰에 대한 욕심이 있으신 분 </li><li>동료들과의 원활한 커뮤니케이션</li></ul><p><br></p><p></p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://terra.breezy.hr/p/c60933bcb4a8-mobile-engineer/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/615e6b28-dc49-4b82-9032-4768fb82c4ad_Terraform_Labs-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+TerraformLabs@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[2zKDaNgvBUqmnmVGCQ7ZNA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Terraform Labs]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Core Engineer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -1554,6 +1522,70 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://terra.breezy.hr/p/6735b5df2d64-core-engineer/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/615e6b28-dc49-4b82-9032-4768fb82c4ad_Terraform_Labs-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+TerraformLabs@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[2zKDaNgvBUqmnmVGCQ7ZNA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Terraform Labs]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Core Researcher]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Terraform Labs]]></company>
+    <company_url><![CDATA[https://terra.money/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote Worldwide]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Terra’s mission is to set money free. We believe that money is a form of technology that can be innovated on. As a pioneer in monetary technology, we build open infrastructure, rethink monetary policy, and create revolutionary applications that sets the stage for open financial platforms.   <br></p><p><p><strong>Some examples include:</strong><br></p><ul><li>Mirror : Mirror is a synthetic asset protocol built on top of the Terra blockchain. These 'mirrored asset' (mAssets) are tokens that track the price of the underlying real life asset, such as stocks, ETFs, commodities etc. The vision of mirror is to allow unfettered access to global markets. By utilizing Terra's stable coins, liquidity for the Mirror Protocol is greatly improved, and the decentralized nature of the protocol allows for immediate access from anywhere in the world. Mirror investors are able to freely access the protocol by both web and mobile application. With Mirror, users are able to join in the value-creation process seen in real financial markets.</li><li>Anchor : Anchor is a savings protocol that provides stablecoin depositors with a stable interest rate that is much more competitive to traditional savings products. </li></ul><p><p><strong>As featured in:</strong><br></p><ul><li><strong>Bloomberg</strong>: "<a>Novogratz Invests in Crypto Startup Serving Millions in Korea</a>"</li><li><strong>Coindesk</strong>: "<a>Galaxy, Coinbase Bet $25M on DeFi Using Terra Stablecoins</a>"</li><li><strong>NASDAQ</strong>: "<a>Terra Brings 24-Hour Trading to Synthetic Versions of Stocks Like TSLA and AAPL</a>"</li><li><strong>Yahoo! Finance</strong>: "<a>TerraMirror Wallet Offers Robinhood-Like Trading Experience and Access to Top 12 US Stocks to Anyone in the World's plan for a blockchain PayPal alternative gets $32m from top crypto exchanges</a>"</li></ul><p><br></p><p><strong></strong><strong>You will be solving these problems at Terra: </strong><br></p><ul><li>Design and analysis of novel economic and financial models to be built on the blockchain</li><li>Simulations to assess the behavior of economic systems under a variety of agent models</li><li>Risk modeling and stress-testing of developed mechanisms</li></ul><p><strong>You will find it easier to do your job if you have the following qualities. Needless to say, none of these qualities supersede your intellectual and professional curiosity</strong>:  <br></p><ul><li>English and/or Mandarin proficiency preferred</li><li>PhD or equivalent level in Economics or Quantitative Finance or 2+ years of experience as a Quantitative Trader/Researcher</li><li>Proficient at probabilistic modeling and scripting (Python/R)</li><li>Fluency in game theory and mechanism design a plus</li></ul><p>If you are tired of simply making money and hope to go down the rabbit hole to rethink how money works, then Terra is the right place for you. <br></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://terra.breezy.hr/p/eebd747b7ab6-core-researcher/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/615e6b28-dc49-4b82-9032-4768fb82c4ad_Terraform_Labs-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+TerraformLabs@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[2zKDaNgvBUqmnmVGCQ7ZNA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Terraform Labs]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[DevOps Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Terraform Labs]]></company>
+    <company_url><![CDATA[https://terra.money/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote Worldwide]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Terra’s mission is to set money free. We believe that money is a form of technology that can be innovated on. As a pioneer in monetary technology, we build open infrastructure, rethink monetary policy, and create revolutionary applications that sets the stage for open financial platforms.   <br></p><p><p><strong>Some examples include:</strong><br></p><ul><li>Mirror : Mirror is a synthetic asset protocol built on top of the Terra blockchain. These 'mirrored asset' (mAssets) are tokens that track the price of the underlying real life asset, such as stocks, ETFs, commodities etc. The vision of mirror is to allow unfettered access to global markets. By utilizing Terra's stable coins, liquidity for the Mirror Protocol is greatly improved, and the decentralized nature of the protocol allows for immediate access from anywhere in the world. Mirror investors are able to freely access the protocol by both web and mobile application. With Mirror, users are able to join in the value-creation process seen in real financial markets.</li><li>Anchor : Anchor is a savings protocol that provides stablecoin depositors with a stable interest rate that is much more competitive to traditional savings products. </li></ul><p><p><strong>As featured in:</strong><br></p><ul><li><strong>Bloomberg</strong>: "<a>Novogratz Invests in Crypto Startup Serving Millions in Korea</a>"</li><li><strong>Coindesk</strong>: "<a>Galaxy, Coinbase Bet $25M on DeFi Using Terra Stablecoins</a>"</li><li><strong>NASDAQ</strong>: "<a>Terra Brings 24-Hour Trading to Synthetic Versions of Stocks Like TSLA and AAPL</a>"</li><li><strong>Yahoo! Finance</strong>: "<a>TerraMirror Wallet Offers Robinhood-Like Trading Experience and Access to Top 12 US Stocks to Anyone in the World's plan for a blockchain PayPal alternative gets $32m from top crypto exchanges</a>"</li></ul><p><p><strong>You will be responsible for the following:</strong><br></p><ul><li>Infrastructure as a Code (IaC): Build a code-managed hybrid back-end infrastructure </li><li>Blockchain node (server) and associated application server operations / updates / fault response system control</li><li>CI/CD pipeline management for fast deployment</li><li>Development and Test (QA) Environment Management</li><li>Build high availability and disaster recovery environments</li><li>Work with various DevOps solutions</li><li>Back office environment and version control system integration</li></ul><p><p><strong>You will find it easier to do your job if you have the following qualities. Needless to say, none of these qualities supersede your intellectual and professional curiosity</strong>:  <br></p><ul><li>3+ years of hands-on experience with Linux-based servers</li><li>Understanding script languages such as node.js, go, python, etc.</li><li>Basic understanding of computer science with focus on OS and networks</li><li>Deploy automation systems across all areas</li><li>Experience in working with infrastructure such as Terraform, Ansible, Docker-compose, and k8s</li><li>Hands-on experience in cloud environments such as AWS</li><li>Experience with server performance optimization and security</li><li>DBMS knowledge</li><li>Experience building CI/CD pipelines with Jenkins/etc.</li><li>Practical experience working with open-source projects</li><li>Experience with contributing to open source projects</li><li>English (required)</li><li>Strong interest in monetary economics, blockchain, and cryptocurrencies</li></ul>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://terra.breezy.hr/p/57db9af5b30f-devops-engineer/apply?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/615e6b28-dc49-4b82-9032-4768fb82c4ad_Terraform_Labs-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -2515,7 +2547,7 @@ Benefits
     <company><![CDATA[Voyager]]></company>
     <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
     <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote (US, Canada, Denmark. Latin America)]]></location>
+    <location><![CDATA[Remote (US, Canada, Denmark)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -2796,7 +2828,7 @@ Benefits
     <company><![CDATA[Findora]]></company>
     <company_url><![CDATA[https://findora.org/]]></company_url>
     <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Menlo Park, CA]]></location>
+    <location><![CDATA[Palo Alto, CA or Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -2828,7 +2860,7 @@ Benefits
     <company><![CDATA[Findora]]></company>
     <company_url><![CDATA[https://findora.org/]]></company_url>
     <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Menlo Park, CA or Remote]]></location>
+    <location><![CDATA[Palo Alto, CA or Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -2860,7 +2892,7 @@ Benefits
     <company><![CDATA[Findora]]></company>
     <company_url><![CDATA[https://findora.org/]]></company_url>
     <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Menlo Park, CA or Remote]]></location>
+    <location><![CDATA[Palo Alto, CA or Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -5569,13 +5601,13 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Software Engineer, Crypto Transfer Platform]]></title>
+    <title><![CDATA[Software Engineer - Crypto Transfer Platform]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Voyager]]></company>
     <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
     <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote (US, Canada, Denmark, Latin America)]]></location>
+    <location><![CDATA[Remote (US, Canada, Denmark)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -5678,7 +5710,7 @@ Benefits
     <company><![CDATA[Voyager]]></company>
     <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
     <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote (US, Canada, Denmark. Latin America)]]></location>
+    <location><![CDATA[Remote (US, Canada, Denmark)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -5830,7 +5862,7 @@ Benefits
     <company><![CDATA[Voyager]]></company>
     <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
     <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote (US, Canada, Denmark. Latin America)]]></location>
+    <location><![CDATA[Remote (Mexico, Chile, Columbia)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -7189,71 +7221,6 @@ Benefits
     <category><![CDATA[ Data Science ]]></category>
   </job>
 <job>
-    <title><![CDATA[Marketing and Communications Director]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Foundry Digital]]></company>
-    <company_url><![CDATA[https://foundrydigital.com/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Rochester, NY or North Eastern US Hybrid - Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;DESCRIPTION:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Marketing and Communications Manager is an exciting opportunity for a motivated and passionate individual to join the team at Foundry, a subsidiary of the blockchain industry’s most prolific and active investor, Digital Currency Group. Reporting to the Director of Operations, the Marketing and Communications Manager will develop and execute Foundry’s global marketing strategy for new and existing product and service offerings, across all relevant channels.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This is a rare invitation to join a small, highly professional entrepreneurial group, with the backing of the most established player in the fast-growing crypto space.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PRIMARY RESPONSIBILITIES:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Oversee the organization’s marketing efforts via the development of a rich content/editorial calendar.&lt;/li&gt;
-&lt;li&gt;Define and execute marketing communications strategies and plans for key initiatives.&lt;/li&gt;
-&lt;li&gt;In partnership with key stakeholders, create and post/publish content in a timely and thoughtful manner.&lt;/li&gt;
-&lt;li&gt;Research and test new communication and outreach tools (e.g., emerging media platforms, tech-specific platforms) digital media, community outreach, and participation in key trade shows and events&lt;/li&gt;
-&lt;li&gt;Help develop our conference and sponsorship strategy and book relevant speaking engagements, propose specific investments, partnerships, and opportunities&lt;/li&gt;
-&lt;li&gt;Establish a sustainable, strategic approach to PR based on adding value to media outlets and event managers&lt;/li&gt;
-&lt;li&gt;Support ad-hoc projects to ensure copy and content is consistent with company voice and branding&lt;/li&gt;
-&lt;li&gt;Craft briefings, emails, reports, and speeches for Foundry leadership as needed&lt;/li&gt;
-&lt;li&gt;Manage external PR relationships with third party firms and PR representatives from Foundry’s clients&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br&gt;&lt;strong&gt;ABOUT YOU:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Minimum Qualifications; Knowledge, Skills and Abilities: &lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;College degree in a related field preferred (Marketing, Communications, BA, BS)&lt;/li&gt;
-&lt;li&gt;Minimum of 5 years of work experience in strategic marketing; prior experience in the start-up/high-growth technology and/or financial services sector strongly preferred&lt;/li&gt;
-&lt;li&gt;Experience in public relations, corporate communication, and content marketing&lt;/li&gt;
-&lt;li&gt;Personal passion for crypto is a bonus&lt;/li&gt;
-&lt;li&gt;Excels in the use of effective storytelling and utilizes advanced writing skills across multiple platforms (e.g. social media, PR, website, collateral) to create engagement.&lt;/li&gt;
-&lt;li&gt;Can quickly come up to speed on new products and services to develop/support the public launch strategy&lt;/li&gt;
-&lt;li&gt;Sincere commitment to working collaboratively with multiple stakeholder groups&lt;/li&gt;
-&lt;li&gt;Strong track record as an implementer who can manage multiple concurrent projects&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;ABOUT FOUNDRY:&lt;/strong&gt;&lt;br&gt;Foundry was created to meet the institutional demand for better capital access, efficiency, and transparency in the digital currency mining and staking industry.&lt;/p&gt;
-&lt;p&gt;As a Digital Currency Group company, Foundry taps unparalleled institutional expertise, capital, and market intelligence to provide North American bitcoin miners and global manufacturers with the resources to build, maintain, and secure decentralized networks.&lt;/p&gt;
-&lt;p&gt;Foundry’s mission is to empower miners with the tools they need to build tomorrow’s decentralized infrastructure for a digital world and provides North American digital asset mining businesses with capital and intelligence.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Environment:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;General office environment with perks (fully stocked kitchen, flexible workspace, focus on employee engagement, teamwork, and collaboration).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;br&gt;The above statements are intended to describe the general nature and level of work performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified.&lt;/p&gt;
-&lt;p&gt;We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, martial status, veteran status, or disability status.&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/foundrydigital/jobs/4014354004?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/399f357a-fb2d-40f4-956a-56419ff02c64_foundry-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+FoundryDigital@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[ibmFcGe4uUGdYcgwUeNsLQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Foundry Digital]]></employer_name>
-    <category><![CDATA[ Marketing & PR ]]></category>
-  </job>
-<job>
     <title><![CDATA[Network Engineer, Crypto]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -7520,6 +7487,102 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Foundry Digital]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Software Engineer, Frontend, UI/UX, Crypto]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Foundry Digital]]></company>
+    <company_url><![CDATA[https://foundrydigital.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Rochester, NY or North Eastern US Hybrid - Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;DESCRIPTION:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The Software Engineer – Frontend is an exciting opportunity for a motivated and passionate individual to join the team at Foundry, a subsidiary of the blockchain industry’s most prolific and active investor, Digital Currency Group. Reporting to the CTO, the Software Engineer- Frontend will be focused on building a world-class website for the Foundry’s mining and staking operations.&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;This is a rare invitation to join a small, highly professional entrepreneurial group, with the backing of the most established player in the fast-growing crypto space.&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;br&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;PRIMARY RESPONSIBILITIES:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Develop and maintain&amp;nbsp;the DCG Foundry mining and staking&amp;nbsp;website. This includes:&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Front-end software&amp;nbsp;development&amp;nbsp;for&amp;nbsp;the&amp;nbsp;Bitcoin&amp;nbsp;Mining pool&amp;nbsp;and Staking Web Applications&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Ensure secure&amp;nbsp;communications&amp;nbsp;between the frontend and the backend&amp;nbsp;via APIs&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Make sure&amp;nbsp;all&amp;nbsp;critical&amp;nbsp;data points are&amp;nbsp;accurately&amp;nbsp;rendered&amp;nbsp;and&amp;nbsp;plotted&amp;nbsp;and high performing&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Apply best UX/UI practices&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Develop&amp;nbsp;Mobile applications&amp;nbsp;for the mining and staking web applications&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Write documentation on how to maintain and troubleshoot the system.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Remain in an on-call rotation with other engineers in the team to troubleshoot critical downtime.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;10&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Work closely with product owners, project managers, other development teams,&amp;nbsp;DevOps&amp;nbsp;and infrastructure teams.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;ABOUT YOU:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Minimum Qualifications; Knowledge, Skills and Abilities:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335559739&amp;quot;:200,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;5+ years professional experience in software engineering, software architecture, focused on&amp;nbsp;frontend development&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Bachelor&#39;s degree in a technical field such as computer science, computer engineering or related field, or equivalent experience.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Passionate about technology and interested in Bitcoin, blockchain, and tech entrepreneurship&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Strong understanding of web services,&amp;nbsp;API,&amp;nbsp;databases,&amp;nbsp;I18N, Kafka,&amp;nbsp;and data analysis&amp;nbsp;&amp;amp; reporting&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Interest in researching topics related to digital assets, mining, and staking&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Have a working knowledge of databases and monitoring&amp;nbsp;and alerting&amp;nbsp;systems&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Self-starter, strong&amp;nbsp;problem solving&amp;nbsp;skills, and ability to meet tight deadlines&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Comfortable working in agile and lean project environments&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;11&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Working knowledge of Bitcoin mining and/or interest to learn development&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Preferred&amp;nbsp;Qualifications; Knowledge, Skills and Abilities&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Technical Skills&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;.&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;JavaScript, CSS, HTML&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;React and React Native&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Material-UI, Bootstrap&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Ubuntu Linux system administration&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;JavaScript, CSS, HTML&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;REST/HTTP, JSON/XML&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Mockup and charting&amp;nbsp;tools such as Figma,&amp;nbsp;InVision,&amp;nbsp;Adobe/XD&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Cloud servers such as AWS, Azure, GCP&amp;nbsp;and Digital Ocean&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Familiar&amp;nbsp;with&amp;nbsp;operating mining&amp;nbsp;and&amp;nbsp;staking&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Microservices architecture&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;13&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Git version control&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Personal Attributes:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;A passion for learning&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Proactive self-starter with a solutions-focused, positive attitude&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Team player, willing to pitch in wherever needed&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Organized, detail-oriented, and resourceful&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Reliable time management skills and method for tracking objectives and tasks&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Strong written and verbal communication skills&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Ability to independently manage short term projects from conception to execution and power through setbacks with focus and determination&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Comfort adapting to changing situations and priorities with a high sense of accountability and urgency&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Appreciation of input and candid feedback&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233279&amp;quot;:true}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;12&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Comfortable with startup like environment&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;ABOUT FOUNDRY:&lt;/strong&gt;&lt;br&gt;Foundry was created to meet the institutional demand for better capital access, efficiency, and transparency in the digital currency mining and staking industry.&lt;/p&gt;
+&lt;p&gt;As a Digital Currency Group company, Foundry taps unparalleled institutional expertise, capital, and market intelligence to provide North American bitcoin miners and global manufacturers with the resources to build, maintain, and secure decentralized networks.&lt;/p&gt;
+&lt;p&gt;Foundry’s mission is to empower miners with the tools they need to build tomorrow’s decentralized infrastructure for a digital world and provides North American digital asset mining businesses with capital and intelligence.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Environment:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;General office environment with perks (fully stocked kitchen, flexible workspace, focus on employee engagement, teamwork, and collaboration).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;br&gt;The above statements are intended to describe the general nature and level of work performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified.&lt;/p&gt;
+&lt;p&gt;We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, martial status, veteran status, or disability status.&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/foundrydigital/jobs/4049343004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/399f357a-fb2d-40f4-956a-56419ff02c64_foundry-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+FoundryDigital@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[ibmFcGe4uUGdYcgwUeNsLQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Foundry Digital]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
     <title><![CDATA[Smart Contract Developer]]></title>
@@ -7905,6 +7968,53 @@ positive, constructive team member.<br /></li></ol>
     <reference/>
     <employer_name><![CDATA[Taxbit]]></employer_name>
     <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Trading Systems Developer (C++)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Galaxy Digital]]></company>
+    <company_url><![CDATA[https://www.galaxydigital.io/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York, NY]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Galaxy Digital&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Galaxy Digital is a diversified financial services firm dedicated to the digital asset, cryptocurrency and blockchain technology industry. As one of the most well-capitalized and trusted companies in the industry, Galaxy Digital is a publicly listed company on the TSX and operates five synergistic business lines: Trading (arbitrage, macro, market making/OTC), Asset Management (passive and active strategies, including venture capital), Principal Investing, Investment Banking Services (capital markets and M&amp;amp;A) and Mining (proprietary mining and mining finance). Galaxy Digital’s CEO and Founder Michael Novogratz leads a team of institutional veterans focused on this high-growth, technology-driven space. The company is headquartered in New York City, with offices in San Francisco, Tokyo, Hong Kong, London, Chicago, the Cayman Islands (registered office) and New Jersey.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are looking for a highly motivated, talented and responsible software engineer with a strong C++ background to join our trading development team in NYC. You will have the opportunity to make significant contributions to our platform and help define our product’s strategic direction through thoughtful design and solid development. Our team models complex data structures, patterns and relationships to build well architected execution strategies, and have a passion for high quality standards. Our software engineers work with quants, traders and product managers to implement market leading algorithms and strategies for crypto trading. As a key member of this team, you will be expected to design, code, test and deploy projects while working in a fast-paced environment. You may also be required to troubleshoot production issues when they occur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proficiency in C++ programming (OOP, Templates, Design patterns, Data structures)&lt;/li&gt;
+&lt;li&gt;Proficiency in multithreaded programming, IPC and linux internals&lt;/li&gt;
+&lt;li&gt;Strong analytical and problem solving skills with a proactive attitude to own issues and solve them&lt;/li&gt;
+&lt;li&gt;Ability to work independently and a strong desire to automate and optimize&lt;/li&gt;
+&lt;li&gt;Excellent team-player and communication skills Desired:&lt;/li&gt;
+&lt;li&gt;Good knowledge of exchange connectivity, FIX protocol, market data handlers etc.&lt;/li&gt;
+&lt;li&gt;Experience with Python and other scripting languages a big plus&lt;/li&gt;
+&lt;li&gt;Familiarity with financial trading, specifically Crypto is a big plus&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Galaxy Digital seeks to provide equal employment opportunities to all employees and job applicants for employment without regard to age, race, color, creed, religion, gender (including gender identity or pregnancy), sexual orientation, marital status, ancestry, national origin, citizenship, disability, military or veteran status, genetic information or predisposing genetic characteristic, status as a victim of domestic violence, sexual violence or stalking, arrest or conviction record, his or her sexual and other reproductive health decisions, or other protected status. This policy applies to all terms and conditions of employment.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/galaxydigitalservices/jobs/4039695004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/7a50d6a5-3fd7-426f-a0e9-0388a08200d2_galaxy_digital-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+GalaxyDigital@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[0h9JSpb2fk6D7TIG9zdBIA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Galaxy Digital]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer]]></title>
@@ -10968,6 +11078,83 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
+    <title><![CDATA[Product Marketing Manager (Remote Optional)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Coinme]]></company>
+    <company_url><![CDATA[https://coinme.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[USA/Canada]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Coinme, we&#39;re large enough to make a difference but small enough for your voice to be heard. This means that we are an organization where every person matters. You are part of the success of our business and that of our customers regardless of where you sit in our organization. A human touch in a digital world.&lt;/p&gt;
+&lt;p&gt;Digital currency can transform the way we conduct business and brings new benefits to both the corporate world and to consumers globally. Coinme is on a mission to help people everywhere understand and use the power of digital currencies as a delightful medium-of-exchange, and be accessible anywhere in the world, so everyone has a fair chance for financial prosperity.&lt;/p&gt;
+&lt;p&gt;From analyst to engineers, from marketing to client services experts, we&#39;re hiring to support your growth and ours – Together We Rise.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As Coinme’s product marketing manager, you will play a strategic role in successfully positioning and differentiating our products, driving awareness and adoption, and providing GTM leadership for Coinme. You’ll be responsible for liaising with various business partners and internal teams to ensure products and features are launched, messaged, marketed and adopted successfully. You’ll love to get inside the heads of our customers to understand their needs, how they make decisions and use insights and evidence to develop positioning and messaging that resonates with everyday consumers.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Own the end-to-end GTM strategies, content and launch execution plans for Coinme’s products&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conduct market, industry and competitive research - qualitative and quantitative - to drive value and competitive advantage&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Become an expert on our customers, products and product roadmap to clearly communicate products, features and value propositions to customers and partners&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build strong product messaging across Coinme consumer products to ensure we’re delivering user value and understanding&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate with product managers, channel partners, marketing, design and communications to execute product launches flawlessly&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Drive GTM campaign planning, execution and measurement with cross-functional teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage consumer engagement and adoption, gather feedback on products and performance and advocate improvements&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Obsessively track performance and effectiveness of marketing efforts. Leverage insights - both qualitative and quantitative - to deepen our understanding of how each physical and digital touchpoint plays on our user experience and journey.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Test, iterate and scale programs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have 5+ years of experience in consumer product marketing delivering successful user acquisition and engagement strategies&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fintech (B2B2C) or crypto product marketing experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong written and verbal skills, being able to transform complex technical ideas and turn into insightful content&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a start-up mentality with a bias toward collaboration and problem solving&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong project management and organizational skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You are creative and curious in nature - you love to test new ideas&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coinme is a remote-first work workplace and will hire candidates for this role based anywhere in the US and Canada. However, most of the Coinme team/key stakeholders are based on the West Coast and operate mainly in the PST time zone. Applying candidates should be comfortable working within that time zone.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Why You’ll Want to Work Here:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;false&quot; data-border-radius-top-cap=&quot;false&quot; data-border-radius-bottom-cap=&quot;false&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;100% Coinme-paid health insurance options for employees and dependents&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;100% covered Employee Assistance Program&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid Parental Leave&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Generous time off&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with up to 4% vested match&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Professional development reimbursement&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Stock Options&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid Volunteer Hours&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Diverse offering of supplemental insurances&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;If this sounds exciting, we&#39;d love to hear from you! Not sure if you&#39;re a perfect fit? Reach out anyway. We&#39;re looking for awesome individuals, not people who perfectly match a job posting.&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Coinme employees are the brightest and most talented in our field and are our greatest asset. We strive to create a diverse and inclusive culture where the thoughts and ideas of all Coinme employees are valued, appreciated, and respected. Coinme recognizes that embracing a diverse workforce brings different backgrounds, skills, and perspectives that help our company thrive and grow.&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Coinme is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.&lt;/div&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/coinme/jobs/4742840003?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/07d47dc5-ee89-45b5-aa54-83082ec79388_coinme-4000x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Coinme@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[hVJ0wA9fR0SZFm553kwTaQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Coinme]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
     <title><![CDATA[Head of Field Marketing]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -11327,6 +11514,67 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
+    <title><![CDATA[Group Product Manager - Trading & Investments]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Voyager]]></company>
+    <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To learn more about Voyager please visit us at &lt;a href=&quot;http://www.investvoyager.com&quot; target=&quot;_blank&quot;&gt;www.investvoyager.com&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is seeking product leadership to join a team of talented professionals with a mission to deliver a best-in-class Crypto Trading and Investments platform. This role will specifically lead product strategy, vision, growth, and delivery of Voyager’s core line of products - Trading &amp;amp; Investments (T&amp;amp;I). This position will report directly to the Chief Product Officer and work closely with Engineering and Marketing leadership to develop strong partnerships and workflows.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Responsibilities will range from product vision and strategy to prioritization and investment decisions. The role will require a hands-on leader, capable of being deeply involved in the product management and delivery side of the business, while simultaneously recruiting and building a team of highly skilled product managers.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Oversight for the direction of Voyager’s Trading &amp;amp; Investments line of products&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Management and leadership of product managers within the T&amp;amp;I product group&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Development of strong partnerships with engineering, business development, product design and marketing teams&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Product line roadmapping, prioritization, and status reporting&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alignment to the overall Voyager business strategy and vision&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;8+ years working in a product management role, preferable financial services and trading&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proven success in leading people, preferably product managers&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Executive level communication skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proven ability of leading cross-functional teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;External relationships and marketplace awareness&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Benefits including healthcare (medical, dental, vision) and 401k&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock Options&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;*Please note that during COVID-19 we are working remotely.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.investvoyager.com/careers/?gh_jid=4157546004&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/13e96280-5fac-4708-8710-fe3aac995d25_Vertalo-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Voyager@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[3YJL8o4mkmbDWCBpVBlHQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Voyager]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
+  </job>
+<job>
     <title><![CDATA[Risk & Compliance Officer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -11421,6 +11669,111 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[Radix DLT]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Voyager Project Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Voyager]]></company>
+    <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote, Various]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To learn more about Voyager please visit us at &lt;a href=&quot;http://www.investvoyager.com&quot; target=&quot;_blank&quot;&gt;www.investvoyager.com&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The Voyager Project Manager will lead assigned projects from project initiation to implementation to achieve desired business results. They will ensure that a successful business outcome is the prime measure of project success including delivering projects on time, within quality standards and to the satisfaction of the project sponsor. The Project Manager works on mitigating execution risks in order to achieve the desired business outcomes. The Project Manager understands the business/group and facilitates communication with other programs and stakeholders efficiently and effectively.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Directs, manages, and coordinates team members including other business and technology resources, user groups, internal and external consultants and contractors, as well as vendors and external regulatory organizations.&lt;/li&gt;
+&lt;li&gt;Acts as a trusted advisor to assigned business/group.&lt;/li&gt;
+&lt;li&gt;Influences and negotiates to achieve business objectives.&lt;/li&gt;
+&lt;li&gt;Assists in the development of strategic plans.&lt;/li&gt;
+&lt;li&gt;Identifies emerging issues and trends to inform decision-making.&lt;/li&gt;
+&lt;li&gt;Monitors and tracks performance and addresses any issues.&lt;/li&gt;
+&lt;li&gt;Analyses potential issues using data to provide insights and recommendations.&lt;/li&gt;
+&lt;li&gt;Directs projects often within one business group involving multiple internal and external stakeholders&lt;/li&gt;
+&lt;li&gt;Exercises direct accountability for projects with multiple team members and global resourcing.&lt;/li&gt;
+&lt;li&gt;Provides guidance to the project sponsor on the implementation and sustainment of projects, resulting in successful project outcomes.&lt;/li&gt;
+&lt;li&gt;Manages all aspects of the project lifecycle, including business, operational and technology deliverables. Ensures all project processes are completed.&lt;/li&gt;
+&lt;li&gt;Executes project requirements in governance frameworks focused on risk appetite, regulatory and compliance standards.&lt;/li&gt;
+&lt;li&gt;Develops all related project management artifacts, while complying with applicable enterprise standards&lt;/li&gt;
+&lt;li&gt;Monitors and controls project deliverables. Makes recommendations and adjustments to the overall project plan to achieve deliverables,&lt;/li&gt;
+&lt;li&gt;Provides project sponsor with advice on the viability of the business case (costs, benefits, OKRs, KPIs, etc.) throughout the project.&lt;/li&gt;
+&lt;li&gt;Understands project interdependencies and demonstrates critical thinking that proactively identifies project risks and establishes effective risk mitigation from the outset.&lt;/li&gt;
+&lt;li&gt;Demonstrates stakeholder partnership that involves effective communicating with the project sponsor; gains and builds trust and rapport.&lt;/li&gt;
+&lt;li&gt;Demonstrates ownership and commitment by holding themselves accountable for the identification and resolution of project problems.&lt;/li&gt;
+&lt;li&gt;Leads and/or represents the project in project team meetings, governance forums and inter-department forums.&lt;/li&gt;
+&lt;li&gt;Adheres to Voyager’s risk, regulatory and compliance controls.&lt;/li&gt;
+&lt;li&gt;Focus is primarily on business/group within Voyager; may have broader, enterprise-wide focus.&lt;/li&gt;
+&lt;li&gt;Provides specialized consulting, analytical and technical support.&lt;/li&gt;
+&lt;li&gt;Exercises judgment to identify, diagnose, and solve problems within given rules.&lt;/li&gt;
+&lt;li&gt;Works independently and regularly handles non-routine situations.&lt;/li&gt;
+&lt;li&gt;Broader work or accountabilities may be assigned as needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;5 - 7 years of relevant experience and post-secondary degree in a related field of study or an equivalent combination of education and experience.&lt;/li&gt;
+&lt;li&gt;Project management experience – 3 to 6 years. International experience is a plus.&lt;/li&gt;
+&lt;li&gt;Preferred - PMP designation from the Project Management Institute (PMI) is an asset.&lt;/li&gt;
+&lt;li&gt;Possesses sound judgement&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ability to learn in a fast-paced and innovative environment&lt;/li&gt;
+&lt;li&gt;Stakeholder management&lt;/li&gt;
+&lt;li&gt;Able to navigate challenging situations effectively.&lt;/li&gt;
+&lt;li&gt;Able to apply project management methodologies or approaches.&lt;/li&gt;
+&lt;li&gt;Able to resolve project issues effectively.&lt;/li&gt;
+&lt;li&gt;Deep knowledge and technical proficiency gained through extensive education and business experience.&lt;/li&gt;
+&lt;li&gt;Verbal &amp;amp; written communication skills&lt;/li&gt;
+&lt;li&gt;Collaboration &amp;amp; team skills&lt;/li&gt;
+&lt;li&gt;Analytical and problem solving skills&lt;/li&gt;
+&lt;li&gt;Influence skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;
+&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;
+&lt;h2&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Competitive Salary&lt;/li&gt;
+&lt;li&gt;Employee Benefits including healthcare (medical, dental, vision) and 401k&lt;/li&gt;
+&lt;li&gt;Stock Options&lt;/li&gt;
+&lt;li&gt;Unlimited PTO&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Voyager is headquartered in New Jersey with offices in satellite offices in New York City, California, Toronto and Bordeaux.&lt;/p&gt;
+&lt;p&gt;Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.&lt;/p&gt;
+&lt;p&gt;*Please note that during COVID-19 we are working remotely&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Benefits including healthcare (medical, dental, vision) and 401k&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock Options&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Unlimited PTO&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;*Please note that during COVID-19 we are working remotely.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.investvoyager.com/careers/?gh_jid=4174061004&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/13e96280-5fac-4708-8710-fe3aac995d25_Vertalo-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Voyager@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[3YJL8o4mkmbDWCBpVBlHQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Voyager]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
     <title><![CDATA[Technical Support Manager]]></title>
@@ -12202,7 +12555,7 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
-    <title><![CDATA[Test Automation Engineer (m/f/div)]]></title>
+    <title><![CDATA[Test Automation Engineer (m/f/div) Germany / Portugal]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Finoa]]></company>
