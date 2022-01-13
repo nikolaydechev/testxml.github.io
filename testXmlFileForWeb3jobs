@@ -5,7 +5,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Akuna Capital]]></company>
     <company_url><![CDATA[https://akunacapital.com]]></company_url>
-    <remote><![CDATA[false]]></remote>
+    <remote>false</remote>
     <location><![CDATA[Sydney, NSW]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -63,7 +63,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Ledger]]></company>
     <company_url><![CDATA[https://www.ledger.fr/]]></company_url>
-    <remote><![CDATA[false]]></remote>
+    <remote>false</remote>
     <location><![CDATA[London]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -95,7 +95,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Blocknative]]></company>
     <company_url><![CDATA[https://www.blocknative.com/]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[United States (Remote)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -127,7 +127,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[OKEx]]></company>
     <company_url><![CDATA[http://www.okex.com/]]></company_url>
-    <remote><![CDATA[false]]></remote>
+    <remote>false</remote>
     <location><![CDATA[Hong Kong]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -198,7 +198,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[OKCoin]]></company>
     <company_url><![CDATA[https://www.okcoin.com/]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[San Francisco (Remote)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -281,7 +281,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Xfers]]></company>
     <company_url><![CDATA[https://www.xfers.com/]]></company_url>
-    <remote><![CDATA[false]]></remote>
+    <remote>false</remote>
     <location><![CDATA[Jakarta]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -313,7 +313,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Uniswap]]></company>
     <company_url><![CDATA[https://uniswap.org/]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[New York or Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -345,7 +345,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[IOHK]]></company>
     <company_url><![CDATA[https://iohk.io]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -377,7 +377,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[CoinDesk]]></company>
     <company_url><![CDATA[https://coindesk.com]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -463,7 +463,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[ChainSafe Systems]]></company>
     <company_url><![CDATA[https://chainsafe.io/]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[Remote]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -541,7 +541,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Block One]]></company>
     <company_url><![CDATA[https://block.one]]></company_url>
-    <remote><![CDATA[false]]></remote>
+    <remote>false</remote>
     <location><![CDATA[]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -576,7 +576,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Brave]]></company>
     <company_url><![CDATA[https://brave.com]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[Remote - USA]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -655,7 +655,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[OKEx]]></company>
     <company_url><![CDATA[http://www.okex.com/]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[Singapore (Remote)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -719,7 +719,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Forte Labs]]></company>
     <company_url><![CDATA[https://www.forte.io/]]></company_url>
-    <remote><![CDATA[false]]></remote>
+    <remote>false</remote>
     <location><![CDATA[San Francisco]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -760,7 +760,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[OKCoin]]></company>
     <company_url><![CDATA[https://www.okcoin.com/]]></company_url>
-    <remote><![CDATA[true]]></remote>
+    <remote>true</remote>
     <location><![CDATA[San Francisco (Remote)]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
@@ -835,7 +835,7 @@
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Celsius Network]]></company>
     <company_url><![CDATA[https://celsius.network/]]></company_url>
-    <remote><![CDATA[false]]></remote>
+    <remote>false</remote>
     <location><![CDATA[London]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
