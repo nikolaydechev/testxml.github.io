@@ -1600,75 +1600,6 @@
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Android Engineer (Remote, Europe only)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Argent]]></company>
-    <company_url><![CDATA[https://www.argent.xyz/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[London, England, United Kingdom]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[Description
-Join us as we get ready to bring crypto's benefits to millions more people. You'll play a vital part by delivering outstanding UX and unrivalled security. This will draw on your experience building top-tier apps that you're proud of, quickly shipping features, and taking ownership of the entire development lifecycle.
-Requirements
-<ul> <li>5 years experience building top tier Android apps, minimum 2 years in Kotlin</li> <li>Strong computer science fundamentals</li> <li>Focused on delivering great UX</li> </ul><p><em>Expert knowledge of:</em></p><ul> <li>RxJava usage (minimum 2 years of experience)</li> <li>The Android framework: lifecycles, memory management, Gradle</li> <li>Network protocols and data persistence techniques</li> </ul><p><i><em>Experience with:</em></i></p><ul> <li>Common Android libraries such as Retrofit, Room, Glide, and Dagger.</li> <li>Testing Android apps with unit tests and UI tests</li> <li>Continuous Integration and source control</li> <li>Implementing security best practices for safeguarding data on a mobile device</li> </ul><p><strong>The app</strong></p><p>The Argent app is written mostly in Kotlin. We use RxJava extensively as it helps us to work with concurrency issues and react to changes as soon as they happen. We also use proven libraries like Glide, Retrofit, Lottie and the latest AndroidX libraries.</p>
-Benefits
-<ul> <li> <em>Work remotely</em> - anywhere in Europe (but Europe only). No commute. Lots of flexibility. Plenty of time to care for your kids or cats.</li> <li> <em>Equity</em> in a high growth startup backed by the investors of Spotify and Slack.</li> <li> <em>Autonomy</em> - you decide how to achieve your best work.</li> <li> <em>Trips across Europe</em> - for one week every three months we collaborate in person, explore new solutions and have fun. So far we’ve stayed in Nice, Toulouse, Brussels, Lisbon and Barcelona. We'll resume these when safe following COVID.</li> <li> <em>Equipment</em> - pick the tech setup of your choice.</li> <li> <em>Parental leave </em>- generous package for new parents.</li> <li> <em>Build a new industry - </em>help define the future of the web.</li> </ul><h3>Our values</h3><p>You can find more information on each of our values <a href="https://www.notion.so/argenthq/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">here</a>.<img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/455656/00e08f56c9affe9be612393fb1fb3b34.png"></p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/6C69D299DE/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/fbd56c41-fafc-4fc3-9142-a5fcc0b27038_argent-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Argent@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[Z0N0GhTKHkqEe0OnBIShoQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Argent]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Argent X: Full Stack JavaScript/Typescript Engineer (Remote in Europe)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Argent]]></company>
-    <company_url><![CDATA[https://www.argent.xyz/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[London, England, United Kingdom]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<p>Description</p><p>With a focus on world class UX and security, you'll build outstanding web apps and backend services for both our customers and our team. These involve some of our most important initiatives. Examples include:</p><ul> <li> <em>Customer facing</em>: The Argent Security Center (a unique React app that helps our users to secure their wallets)</li> <li> <em>Internal:</em> Our internal Dashboard (a React app that significantly streamlines our engineering work and our customer support)</li> <li> <em>Backend:</em> A data pipeline which enriches Ethereum data and exposes it via a GraphQL API.</li> </ul><p>In this role you'll take ownership of the entire development lifecycle and quickly ship features in an agile environment.<br></p><p>Requirements</p><ul> <li>3+ years experience working with JavaScript</li> <li>Strong computer science and security fundamentals</li> <li>Focused on delivering great UX</li> </ul><p><em>You'll have expert knowledge of:</em></p><ul> <li>Frontend: React (hooks), CSS/HTML</li> <li>Backend:  Node.js, interacting with APIs, databases, queues and caches</li> <li>Functional programming and using unit tests and integration tests to deliver high quality code</li> <li>Deploying, monitoring and scaling apps in a production environment using AWS</li> </ul><p><em>We're also looking for experience with:</em></p><ul> <li>Ethereum blockchain</li> <li>Integrating different AWS solutions</li> <li>Open source software and contributions</li> <li>Some experience with TypeScript</li> </ul><p>Benefits</p><ul> <li> <em>Work remotely</em> - anywhere in Europe (but Europe only). No commute. Lots of flexibility. Plenty of time to care for your kids or cats.</li> <li> <em>Equity</em> in a high growth startup backed by the investors of Spotify and Slack.</li> <li> <em>Autonomy</em> - you decide how to achieve your best work.</li> <li> <em>Trips across Europe</em> - for one week every three months we collaborate in person, explore new solutions and have fun. So far we’ve stayed in Nice, Toulouse, Brussels, Lisbon and Barcelona. We'll resume these when safe following COVID.</li> <li> <em>Equipment</em> - pick the tech setup of your choice.</li> <li> <em>Parental leave </em>- generous package for new parents.</li> <li> <em>Build a new industry - </em>help define the future of the web.</li> </ul><h3>Our values</h3><p>You can find more information on each of our values <a href="https://www.notion.so/argenthq/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">here</a>.</p><p><img src="https://workablehr.s3.amazonaws.com/uploads/photos/455656/00e08f56c9affe9be612393fb1fb3b34.png"><br></p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/E6F396D02C/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/fbd56c41-fafc-4fc3-9142-a5fcc0b27038_argent-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Argent@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[Z0N0GhTKHkqEe0OnBIShoQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Argent]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Junior Technical Operations Support Engineer (Remote - American time zone)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -11177,6 +11108,82 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Neco Finance]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Software Engineer - Platform (Golang)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Nuri]]></company>
+    <company_url><![CDATA[https://nuri.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Berlin, Germany]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<h2 id="make-our-journey-your-journey">Make our journey, your journey!</h2>
+<p>We&#39;re looking for a Senior Software Engineer - Platform to join our Engineering Chapter! In this position, you will work as part of a squad team within the Engineering Chapter. Your core responsibilities will include working within your squad to support writing new functionality, maintaining and enhancing existing functionality, supporting developments carried out by our UI Feature teams, and providing production support where required.</p>
+<h2 id="your-mission">Your mission</h2>
+<ul>
+<li>Development around Nuri’s Platform</li>
+<li>Supporting Feature/UI teams by implementing layer changes</li>
+<li>Setting up, developing and maintaining connectors to third party satellite systems</li>
+<li>Maintenance and improvement of existing code</li>
+<li>Investigating, debugging and resolving bugs and issues</li>
+<li>Writing automated tests and carrying out manual testing where required</li>
+<li>Completing technical designs</li>
+<li>In addition, you&#39;ll be actively participating in your squad’s agile activities, ceremonies, and general discussions.</li>
+</ul>
+<p>Lastly, you&#39;ll also get hands-on experience growing other great engineers in your team, by:* Coaching and mentoring existing and new Engineers in our codebase and our development practices. This also includes peer programming with other Engineers to help them develop their knowledge and skills in our stack and development processes.</p>
+<ul>
+<li>Onboarding our new Engineers by providing assistance and helping them with their technical onboarding plan.</li>
+<li>Reviewing coding challenges for potential Engineers and providing documented feedback.</li>
+<li>Carrying out technical interviews with potential Engineers and providing documented feedback.</li>
+<li>Creating and reviewing technical designs for development work with support from Technical Leads.</li>
+<li>Building positive and constructive working relationships with other members of the Engineering Chapter and other stakeholders that are based on respect, empathy, open-mindedness, and honesty.</li>
+</ul>
+<h2 id="your-profile">Your profile</h2>
+<ul>
+<li>You have gained at least 3-5 years of experience as a Software engineer</li>
+<li>Advanced knowledge and testing skills in Golang and Microservice architectures</li>
+<li>Gained experience in PostgreSQL and/or other relational Database is a plus</li>
+<li>Hands-on mentality: people know you as a proactive problem-solver, who is not afraid to take ownership and accountability</li>
+<li>You are fluent in English and are known for your team collaboration skills</li>
+<li>You interested in crypto and blockchain, and want to join our mission to become the world&#39;s first leading crypto bank. <em>Experience in Crypto and/or blockchain is not a requirement.</em></li>
+</ul>
+<h2 id="why-nuri">Why Nuri?</h2>
+<ul>
+<li>You will work on a meaningful, and innovative crypto-banking products to add real value to our customers lives</li>
+<li>A competitive salary and 28 holidays plus December 24th and 31st</li>
+<li>We offer flexible ways-of-working, you have the option available to work from our modern office in Kreuzberg, and/or work remotely within Germany. Additionally, we also offer a remote option to work outside of Germany up to 2 months at a time</li>
+<li>Learning &amp; Development budget of 500 EUR per year</li>
+<li>M-Membership for Urban Sports Club to enjoy hundreds of indoor, outdoor and wellness activities as well as live classes in Berlin</li>
+<li>Access to NiloHealth for well-being support and Bitkom that provides plenty of Health &amp; lifestyle benefits and discounts</li>
+<li>Zero Trading fees to use our products</li>
+<li>German language courses up until C2 level</li>
+<li>You will be working with the latest technology along with an agile environment to work as efficiently as possible</li>
+<li>Bi-weekly break of the week pizza night, TGIF events and one big team event each month</li>
+</ul>
+<p><em>Here, at Nuri, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p>
+]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://nuri.join.com/jobs/2987184-senior-software-engineer-platform-golang?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/4eee9f55-49af-4c6d-be1d-04bc54c7e40d_nuri-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Nuri@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[HIBBSXMqxUOdvmlDGr6Uwg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Nuri]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
