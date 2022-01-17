@@ -1,2 +1,779 @@
 <jobs>
+<job>
+    <title><![CDATA[Platform Engineer (f/m/d)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Upvest]]></company>
+    <company_url><![CDATA[https://upvest.co/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote job]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>We’re looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. We’re building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) and by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener">Felix Haas</a>, founder of IDnow). </p>
+<p><br /></p>
+<p>We’re based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, we’re happy to support your relocation.<br /><br /></p>
+<p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 50+ talented people from 20 different countries. </p>
+<p><br /></p>
+<p><strong>Your mission:</strong><br /></p>
+<p>Platform team’s objectives include creating a robust, secure, resilient, and observable infrastructure for our Product Engineering teams to build products on as well as provide all the needed tooling for them to be productive on the Platform. As our next Platform Engineer, you will join our Platform team (together with <a href="https://www.linkedin.com/in/martinvulprecht/" rel="noopener">Martin</a>, <a href="https://www.linkedin.com/in/rokas-petraitis/" rel="noopener">Rokas</a> &amp; <a href="https://www.linkedin.com/in/sergei-gunstvin-59b264192/" rel="noopener">Sergei</a>). You will play an important role in engineering our infrastructure by making it as automated and scalable as possible while maintaining a high degree of security. <br /></p>
+<p><br /></p>
+<p>Our principles include infrastructure-as-code, security first, zero trust, and least privilege principles but most importantly the Platform team’s job is to enable and empower Product teams to deliver Products on the Platform in a more productive way. The platform team does this by mapping out Product teams’ requirements, formulating a roadmap and plans on what kind of tooling and automation needs to be in place and executing on those plans. </p>
+<p><br /></p>
+<p><strong>This role will give you the opportunity to:</strong><br /></p>
+<ul>
+<li>Contribute to the development of our infrastructure and architectural decisions</li><li>Gain valuable experience in a high-security and high-stakes fintech environment</li><li>Improve our CI/CD pipeline</li><li>Partner with the product engineering teams to improve services</li><li>Drive DevOps mindset and collaboration within Engineering Department</li><li>Contribute to the platform development in Go with a focus on scalability and stability</li><li>Proactively test the flexibility and resilience of the system (and keep improving our monitoring &amp; observability)</li><li>Establish communication and documentation best practices throughout the entire software development lifecycle (development, deployment, and incident management)</li><li>Provide operational support and engineering for multiple large distributed software applications</li><li>Gather and analyze system metrics to assist in improving performance and finding faults</li></ul>
+<ul>
+</ul>
+<ul><li>Prior experience with Kubernetes, Docker, Vault and Terraform</li><li>Prior experience with Cloud computing (ideally with GCP)</li><li>Deep knowledge of modern monitoring and observability</li><li>Knowledge of operating Kafka in high availability environments</li><li>High level of pragmatism</li></ul>
+<p><br /></p>
+<p><strong>Nice to have:</strong><strong><br /></strong></p>
+<ul><li>Knowledge of our modern tech-stack (Go, Docker, K8S, Postgres, Redis, Kafka), SRE, service meshes, API gateways, and observability</li><li>Experience working in the fintech domain</li></ul>
+<p><strong><br /></strong></p>
+<p><strong><strong>Why Upvest?</strong></strong></p>
+<ul><li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li><li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li><li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we also hire decent people who are passionate about their craft and helping up achieve our shared mission).</li><li>While we're not quite fully-remote, we are committed to being a flexible employer as we understand you don't have to be in the office to do your best work.</li><li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li><li>We ensure we take time to have fun as a team. We're looking forward to having more time in-person again once this becomes possible again.</li></ul>
+<p><br /></p>
+<div><strong>Our values:</strong><br /></div>
+<ul><li><strong>Learn and grow: </strong>We aim high to shape our future. We give and request honest feedback. Everything is a learning opportunity. Progression &gt; Perfection.</li><li><strong>Team first. </strong>We make it easy for others. We value different views, disagree, and commit. We win and celebrate together!</li><li><strong>Own the outcome. </strong>We are proactive and finish the job until it is done. Happy clients &gt; Sales. We take breaks when needed.</li><li><strong>Tell the story. </strong>We always start with the ‘why’. Outcome &gt; Process. We share knowledge to empower others.</li></ul>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://upvestco.recruitee.com/o/senior-platform-devopssre-engineer-fmd/c/new?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/410329/upvest-logo.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[upvest@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[eb868170-dc83-4d10-a530-4995d2a58301]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Upvest]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Strategy & Operations Analyst]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Forte Labs]]></company>
+    <company_url><![CDATA[https://www.forte.io/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[San Francisco]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a &lt;/span&gt;&lt;strong&gt;Strategy &amp;amp; Operations Analyst&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, you will play a key role in driving growth and business success across the organization. You will leverage your analytical skills to tackle a wide range of different problem spaces -- spanning tech/gaming, blockchain, and finance. You are comfortable diving deep into any task, be it strategic analysis, market research, or financial modeling. Strong candidates possess exceptional business judgement and communication skills to deliver consistent, high quality outcomes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In this role, you will...&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Demonstrate your quantitative abilities by building and/or maintaining financial models, tracking KPIs, and compiling market analyses&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Leverage your outstanding eye for detail in creating polished, high-impact presentations&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop a deep understanding of market opportunities and trends, with an emphasis on the blockchain and gaming industries&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Communicate data-driven insights to internal stakeholders and the leadership team&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Manage schedules, verify milestones, and execute on goals in collaboration with cross-functional teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ultimately, work on strategic challenges that have major impact on Forte’s products and services, partners, and teams&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To be a good fit, you have...&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A “roll up the sleeves” attitude that demonstrates a bias towards action and impact&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A low ego, a desire to take ownership, and intellectual curiosity&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prior experience at a top-tier investment bank and/or management consulting firm&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Intellectual curiosity and a passion for creative problem-solving with incomplete data&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent verbal and written communication skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BA/BS in Business, Economics, or a related field, and 1 - 3 years of relevant work experience such as consulting, financial services, strategy, business operations or program management&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus if you also have...&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with financial modeling, data analysis, visualizations and presentations&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An understanding of the fundamentals of blockchain technology, developer platforms, game design, and / or token economics. And, if not, a strong desire to learn!&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;About Forte&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Forte is building economic technology for games. Its end-to-end platform enables the emergence of&amp;nbsp;&lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fwww.forte.io%2F%3Fp%3D507&amp;amp;esheet=52430260&amp;amp;newsitemid=20210520005295&amp;amp;lan=en-US&amp;amp;anchor=community+economics&amp;amp;index=5&amp;amp;md5=47dfe9eadc11aa00eabe6c1dcfa3cc30&quot;&gt;community economics&lt;/a&gt;, a system where the interests of game developers and players are aligned, leading to healthier, sustainable game communities. The team is composed of longtime industry members (Unity, ngmoco, Riot Games, Electronic Arts, Sony, and Rockstar Games, among others), and is currently working with over 20 acclaimed game developers from across the industry to reimagine the economics of games.&lt;/em&gt;&lt;/p&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/K378r1KeRio" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/forte/jobs/4820003003?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/511563/forte-labs-logo_Cropped.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[forte@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[509e5842-f758-4b3e-8b54-bfc3ca4c2a98]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Forte Labs]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Community Lead]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Uniswap]]></company>
+    <company_url><![CDATA[https://uniswap.org/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[New York or Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum.</div><div><br></div><div>The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap ecosystem. Our team is one of the most impactful in crypto. We are based out of SoHo in New York City with the option to be partially or fully remote depending on the position.</div><div><br></div><div>The Uniswap community is one of the most impactful groups, inclusive of everyone from developers to traders. We’re looking for a Community Lead with a strong understanding of Ethereum, DeFi fundamentals, decentralized communities and community-building tools to support and engage with the Uniswap community.</div><div><br></div><div>This role will be a highly visible role in the organization and in the broader ecosystem. You will not only manage our day-to-day online presence, you will also be responsible for keeping your finger on the pulse of what’s happening in the DeFi and greater crypto space. You wil help with hiring and training a team of global community managers. You should love community-building and have a knack for developing online relationships. You will be joining a lean team, and this role will have a lot of autonomy-- you should be a self-starter and be capable of self-directed work. This role will be impactful to our ever-growing community - reinventing what a community is at the heart of crypto.</div><div><br></div><div>Most importantly, you should care deeply about the mission of decentralized communities and decentralized finance and always be thinking of creative ways to help spread the word.</div><br/>Responsibilities<br/><li>Understand Uniswap’s tone and messaging and apply this by engaging with users on twitter and in our discord</li><li>Deep technical understanding of Uniswap’s mechanisms and ability to answer questions and speak to users and integration partners</li><li>Manage support requests</li><li>Attend virtual and in person conferences and hackathons, support hackers, and generally engage with the developer community around Uniswap</li><li>Create fun community engagement programs, such as giveaways or virtual events</li><li>Host a monthly Uniswap community call</li><li>Manage our mailing list and create periodic newsletter updates</li><li>Create dank memes</li><li>Develop new wants of engaging with our users and community</li><li>Work with the business development team to turn community engagement into active BD opportunities</li><li>Thought leadership on issues in the DeFi space via twitter and the Uniswap blog</li><br/>Requirements<br/><li>Experience working in community management for a crypto project</li><li>Organizational skills</li><li>Self-directed worker</li><li>Ability to respond very quickly across all of our platforms</li><li>Sense of humor </li><br/>Nice to have<br/><li>Degree in computer science/self-taught engineer</li><li>Active following on twitter</li><li>Existing relationships in the crypto space</li><li>Fondness for the color pink</li><li>Love for unicorns :)</li><div>Uniswap Labs welcomes&nbsp;all qualified persons to apply regardless of race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Compensation will be competitive and commensurate with experience. This is a full time role which includes health insurance and other benefits.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/Uniswap/7f63671e-ea58-4a8f-a7b4-9a5b1981fcd6/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/669325/uniswap-uni-logo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[uniswap@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[b488dfbb-84b8-4efa-9d5d-2ced4e25769e]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Uniswap]]></employer_name>
+    <category><![CDATA[ Community Management ]]></category>
+  </job>
+<job>
+    <title><![CDATA[French Senior KYC Analyst (Remote in Portugal)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Swissborg]]></company>
+    <company_url><![CDATA[https://swissborg.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Porto]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>We are SwissBorg, a FinTech startup headquartered in Lausanne, Switzerland.</div><div><br></div><div>Our flagship product, the SwissBorg app, offers over 550,000+ users the best price and liquidity across 16 fiat and 17 cryptos, as well as giving them the opportunity to earn passive income with our Smart Yield account. Our community is growing fast, with over $1.5 billion in assets under management, a weekly volume of over 250 million, and over 18,000 Premium users.</div><div><br></div><div>This is just the start in our mission to democratise wealth management by building products that allow individuals to manage their crypto assets at the touch of a finger. Whether you’re in Andorra or Zimbabwe, whether your portfolio is worth one dollar or a million, SwissBorg gives you the best tools to learn about digital currencies and manage your wealth.</div><div><br></div><div>Are you looking to join a team of revolutionaries on a mission to decentralise nations? We want to hear from you!</div><div><br></div><div>Mission:</div><div><br></div><div><span style="font-size: 11pt">Due to the growth of our business, SwissBorg is offering an opportunity for a French Senior KYC analyst to join our team in Portugal. If you are motivated, creative and want to learn more about the new financial era, this is your chance to apply!</span></div><br/>What you might be doing:<br/><li>Perform the due diligence on new users, requesting the KYC information, documentation, review and verification of received documentation and making an analytical risk assessment for new users</li><li>Prepare KYC checklists and arrange for review</li><li>Analysis of accounts and user information during review</li><li>Investigate high risk users and reporting where necessary, including Politically Exposed Persons, and obtaining all necessary documentation to complete the user file</li><li>Communicate effectively and efficiently with relevant internal and external parties to obtain KYC documents</li><li>Work on specific projects which may rise from time to time</li><br/>What you might bring:<br/><li>Bachelor degree in law or business administration or country equivalent in a related discipline together with equivalent working experience</li><li>1-2 years of experience in similar position</li><li>Bilingual in English and French</li><li>Strong research and analytical skills</li><li>Sound knowledge of and /or experience in working with FATF Recommendations (Anti-Money Laundering, Countering Terrorism Financing)</li><li>Ability to work on multiple tasks independently with minimal supervision</li><li>Excellent organizational skills required for handling a high volume of work with attention to detail</li><li>Good understanding of Blockchain ecosystem is an advantage</li><li>Experience with AML monitoring and screening is an advantage</li><br/>What you can expect:<br/><li>Competitive salary</li><li>25 days of holidays</li><li>Accident insurance</li><li>Employee premium account</li><div><br></div><div><b style="font-size: 18px">Why you should apply: </b></div><div><br></div><div>- Freedom to build the company of your dreams</div><div>- Learn with (super cool) experts in finance, engineering, AI, psychology and business</div><div>- CHSB bonus based on our meritocratic system</div><div>- We'll provide you with a MacBook and a cutting edge tech stack to help you do your best work</div><div>- Flexible work hours</div><div>- Annual team retreats with colleagues around the world</div><div>- Continuous learning and development opportunities</div><div><br></div><div>Oh and are you planning on having a kid? That’s great! We have a bunch of those: you’ll get time off to enjoy that (other) adventure!&nbsp;</div><div><br></div><div><i>At SwissBorg, we embrace diversity. We strongly believe that getting to the best outcomes requires different perspectives and backgrounds. We’re committed to openness, curiosity and creating an inclusive culture as we know that diverse teams build better products and generate better ideas. We strongly encourage applications from everyone regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</i></div><p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/02lonwc5XE4" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/swissborg/c7ae7f69-077f-4c93-9b9d-33712eee06a7/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/440178/Swissborg-logo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[swissborg@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[f4703261-2e7b-4b75-af19-fbdfc5e62c02]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Swissborg]]></employer_name>
+    <category><![CDATA[ Finance & Accounting ]]></category>
+  </job>
+<job>
+    <title><![CDATA[IT Systems Engineer (remote)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Latoken]]></company>
+    <company_url><![CDATA[https://latoken.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote Worldwide]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p><strong>LATOKEN</strong> is a next-gen crypto exchange focused on the startups’ token market with a current $1.2 T value. We are the Initial Exchange Offering and VC-backed tokens categories leader, serving more than 200 primary placements and 400 VC tokens. Traders gave us 25k 5-star reviews in Google play and Applestore for simplicity to discover and buy startups’ and VC-backed tokens.</p><p><strong><strong>Today, is a great moment to join us as crypto is expanding into mainstream financial market.</strong></strong></p><p><strong>Role:</strong> IT Systems Engineer.</p><p><strong>Unit:</strong> OPERATIONS.</p><p><strong>Role Mission: IT systems are stable, secure, up-to-date, and documented</strong>.</p><ul></ul><ul></ul><ol></ol><p><strong>Details:</strong></p><p><strong>- Story</strong>: Teammates need stable, secure, up-to-date, and documented IT systems that support the company business operations so operations are efficient and not interrupted.</p><p><strong>- Key PROBLEM's</strong>:</p><ul><li>Internal systems uptime, &gt; 99,5% in Q1 2022.</li><li>Average time to repair, &lt;30 minutes in Q1 2022.</li><li>Internal Systems on the latest stable release, &gt;60% in Q1 2022.</li><li>All Initial sowtware setup proccesses documented in Q1 2022.</li><li>Internal Systems on Zabbix monitoring &gt; 99% in Q1 2022.</li><li>Support tasks accounting/management is automated &gt; 80% in Q1 2022.</li><li>Average waiting for support response and fix time &lt; 10 minutes in Q1 2022.</li></ul><p><strong>- How</strong>:</p><ul><li>Deploy and manage business-critical applications</li><li>Collaborate with engineering to coordinate on IT policies</li><li>Build policies and scripts to support infrastructure</li><li>Develop and maintain documentation for supported applications, processes</li><li>Participate in general IT operations and user support</li></ul><p><strong>- Constraints</strong>: The introduction of new systems should be approved by the CEO<br></p><p><strong>Responsibilities:</strong></p><ul><li>Setting up and supporting Docker compute environments;</li><li>Developing automation workflows and integrations for repetitive or manual tasks;</li><li>Supporting Linux and Windows.</li></ul><ul></ul><p><strong>Requirement skills and experience:</strong></p><ul><li>3+ years of experience administering SaaS and self-hosted applications like Okta, Google Workspace, Slack, Zoom, AmoCRM;</li><li>Experience setting up and supporting Docker compute environments;</li><li>Knowledge of configuration management and source control tools;</li><li>Hands-on experience supporting Linux and Windows;</li><li>2+ years experience with Python for administrative tasks automation.</li></ul><p><strong>Why LATOKEN:</strong></p><ul><li><strong>Build the future</strong>. Level up the financial system. Put it at fingertips, so everybody can use the money to build and be a stakeholder of the future.</li><li><strong>Culture.</strong>Level up your and our culture until we and the world have advancement in culture deserving to be spread with our products. We call it visionary doers culture.</li><li><strong>Raise the bar.</strong>Any hire raises our bar, and you will be the bar raiser for us and newcomers.</li><li><strong>Be stakeholder.</strong>You build a product helping people's success. People pay for it, and you get a stake in these future payments as a LATOKEN shareholder.</li><li><strong>Lead.</strong> We are the largest in the world "IPO" platform for digital assets.</li></ul><p><strong>Feel a great fit—apply now </strong>or forward to a great candidate.</p><p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/ikbGulIPQs0" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://latoken.breezy.hr/p/e0ff7dc78a4d01-it-systems-engineer-remote/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/178323/latoken.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[latoken@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[ad8a3cbd-f1ed-4400-b372-af94f5f06cb4]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Latoken]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Software Engineer, Trust & Compliance]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[BitGo]]></company>
+    <company_url><![CDATA[https://www.bitgo.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[United States, Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p style=&quot;text-align: justify;&quot;&gt;BitGo is the leader in digital asset financial services, providing institutional investors with liquidity, custody, and security solutions. In 2020, BitGo launched Prime Trading and Lending, as well as BitGo Portfolio and Tax, providing clients with a full-stack solution for digital assets. In 2018, it launched BitGo Trust Company, the first qualified custodian purpose-built for storing digital assets. BitGo processes over 20% of all global Bitcoin transactions, and supports over 250 coins and tokens. BitGo’s customer base includes the world&#39;s largest cryptocurrency exchanges and institutional investors and spans more than 50 countries. BitGo is backed by Goldman Sachs, Craft Ventures, Digital Currency Group, DRW, Galaxy Digital Ventures, Redpoint Ventures, and Valor Equity Partners.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BitGo is looking for a &lt;strong&gt;Senior &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; who will join our Custody Platform Engineering Team and help us build new features and applications for our enterprise clients. BitGo processes a significant amount of cryptocurrency transactions so our applications need to be fast, accurate, scalable and secure. Our integrated platforms interact with a number of exchanges, agencies, and governments around the world, and we use the best technology the industry offers to build them.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This role may be worked remotely from anywhere within the United States.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build strong, resilient, and robust APIs, libraries, and services to power our wallet services: hot and cold wallets, indexing, staking, and SDK services&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Own functionality and scalability features by taking responsibility from inception to deployment and customer integration&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Expose and document functionality to the UI, third-party developers, and our internal and external tooling&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate closely with all engineering teams to ensure consistency in understanding of technical requirements and overall work quality&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide mentorship to your peers in the broader engineering team through code reviews and education on best practices&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Experience:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for teammates who share and practice our values: open communication, transparency, taking ownership, and high level of craftsmanship. We are looking for coworkers who share our vision and mission: deliver trust in digital assets.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At least 5 years of back-end, server-side software development&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong experience with Node.js&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mongo DB expertise&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Solid experience with RESTful API design&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong experience with message brokers (such as Kafka)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great with unit and functional testing and debugging&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in Git/GitHub and branching methodologies, code review tools, CI tools, JIRA, Confluence, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Great at algorithm design, problem solving, and complexity analysis&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Preferred&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding and experience working in the financial industry&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding and strong interest in cryptocurrencies and blockchain industry&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with any of the following: API and SDK services, digital wallets, clearing and settlement, lending, etc.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with Kubernetes, Docker, Golang, TypeScript&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with large-scale, real-time, and distributed applications&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong data-redactor-tag=&quot;strong&quot;&gt;Why Join BitGo?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Disrupting an industry takes vision, innovation, passion, technical chops, drive to deliver, collaboration, and execution. Join a team of great people who strive for excellence and personify our corporate values of ownership, craftsmanship, and open communication. We are looking for new colleagues who bring innovative ways of thinking and problem solving, and who want risks to be part of the team that changes the world’s financial markets.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Here are some of the benefits of working at BitGo:&lt;/p&gt;
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+&lt;li class=&quot;li1&quot;&gt;Competitive base salary, bonus and stock options&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;100% company paid&amp;nbsp;health insurance for employee, partner and dependents&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;Up to 4% 401k company match&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;Paid parental leave&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;Paid vacation&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;Free custom lunches, dinners and snacks&amp;nbsp;&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;Computer equipment and workplace furniture to suit your needs&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;Great colleagues and inspiring startup environment&lt;/li&gt;
+&lt;li class=&quot;li1&quot;&gt;Benefits may vary based on location&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Cryptocurrencies are the most disruptive change the financial services industry has seen in years. Join us and you’ll be able to look back and say you were part of the team that transformed investing.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/yGR7NLjXslU" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitgo/jobs/5823119002?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/175514/birgo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[bitgo@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[b720d671-6d88-4863-a59d-ea5d1c6feea8]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[BitGo]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Recruiting Coordinator]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Digital Assets Holding]]></company>
+    <company_url><![CDATA[https://digitalasset.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About Digital Asset&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Digital Asset helps companies of all sizes and across industries get distributed applications to market faster, and stay there longer. At the core of our service offering is DAML (daml.com), the open source and platform-independent smart contract framework that enables developers to write an application once and deploy it anywhere. Today, we work with some of the largest companies in the world to harness the transformative power of smart contracts - a component of the distributed ledger technology (DLT) stack - and change the way applications are developed, deployed and used to solve real-world business challenges.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Digital Asset is a global company with offices in New York, London, Budapest, Zurich, Hong Kong, and Sydney.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As we grow our team, we will maintain the dynamic, collaborative and pragmatic way of working that has grounded our efforts from the beginning.&amp;nbsp; If you seek to develop solutions others have yet to contemplate, this opportunity may be right for you!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Opportunity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Recruiting Coordinator collaborates with the firm’s recruiters and business stakeholders to drive the hiring process forward while ensuring a seamless all-around recruiting experience, both internally and externally.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a Recruiting Coordinator at DA, you will work closely with our hiring managers and recruiters to ensure a positive interview experience for all candidates. We’re looking for someone who is resourceful and thrives under pressure. This position will rely heavily on your ability to effectively manage competing priorities. You will be part of a team that is responsible for developing, implementing, and executing on a broad recruiting strategy, with an emphasis on efficiency and overall value generation (i.e., hiring awesome people!).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for a self-starter to join our TA team, focusing on coordinating recruiting activities.&amp;nbsp; You will help post job specs, interact directly with candidates, schedule and follow up on interviews, and help us scale our recruiting process as we continue to grow as a global organization. Most importantly, the ideal candidate will support the recruiting team and hiring managers by coordinating high volume interviews while ensuring a strong, positive candidate experience.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The ideal candidate might not have any prior recruitment experience, but is looking to break into Talent/Human Resources, is exceptionally detail-oriented, organized and inquisitive.&amp;nbsp; This is a tremendous developmental opportunity for the right person.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coordinate with the internal recruiting team, including hiring managers, to post the job spec and set up the role in our ATS (Greenhouse).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Schedule phone, video and in-person interviews for active searches, and monitor to ensure that everything flows smoothly.&amp;nbsp; Support changes to the schedule, when necessary.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Own the candidate experience, ensuring timely communication throughout the interview process.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Serve as the DA host for candidates interviewing in person in the New York office and coordinate with colleagues in other jurisdictions to ensure a similar experience is provided to the candidates.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Track recruiting activities and provide candidate status in a weekly report to help assess and improve the process and results.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Inform hiring managers of progress within their open position.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help act on, develop and maintain our commitment to a diverse and inclusive hiring process.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Criteria&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At least one (1) year of experience as a recruiting coordinator, admin or intern&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Self-starter, curious and always willing to step in to help the team&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly organized and detail-oriented&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent time management and ability to multitask&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong verbal and written communication skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficient with Google docs, Office 365, etc.; able to learn new systems quickly&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent interpersonal skills and the ability to interact with professionals at all levels, both internally and externally&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creative and proactive approach to problem solving&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Willingness to take ownership of a wide range of responsibilities&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Connect With Us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a rare opportunity to help define an industry and join a dynamic team of technology innovators.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Digital Asset is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, sex, religion, sexual orientation, age, disability, citizenship status, veteran status or any other basis protected by applicable law. If and as required by applicable law, all persons hired to work at Digital Asset will be required to verify identity and eligibility to work in the location for which they have an offer to work and to complete the necessary employment eligibility verification documents upon hire. Applicants with disabilities who require accommodation should contact &lt;/span&gt;&lt;a href=&quot;mailto:recruiting@digitalasset.com&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;recruiting@digitalasset.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As part of our commitment to equal opportunity, Digital Asset believes that all employees should receive equal pay for equal work and is committed to this principle in its pay structure. DA also offers family-friendly benefits in addition to flexible work arrangements.&lt;/span&gt;&lt;/p&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/digitalasset/jobs/3819176?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/289153/digital-asset-holdings-logo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[digitalassets@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[b9e3329f-7812-4695-a1f7-5b094cbac58f]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Digital Assets Holding]]></employer_name>
+    <category><![CDATA[ HR & Recruiting ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Technical Product Manager - Data & Analytics]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Mythical Games]]></company>
+    <company_url><![CDATA[https://mythical.games/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are Mythical Games. A venture-backed next-generation game technology company at the intersection of video games and economics led by industry veterans. Our goal is to lead the industry with the launch of exceptional video game experiences that leverage distributed ledger technology, while also providing a platform of robust tools that will allow any other game developers to do the same.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for a highly-skilled &lt;/span&gt;&lt;strong&gt;Senior Technical Product Manager, Data &amp;amp; Analytics&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to join our growing team of data professionals, working to build best-in-class analytics products for our gaming, marketplace, and brand teams. The Sr. TPM, Data &amp;amp; Analytics role at Mythical Games presents an opportunity for a highly-technical and detail-oriented Product Manager to take their career to the next level by joining the most exciting company at the intersection of Gaming, E-commerce, and Blockchain. In this role, you will work with a diverse set of stakeholders to organize analytical requirements, build a prioritized roadmap for our data products, and see them through to completion and adoption.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role will report to our Head of Data &amp;amp; Intelligence Products.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Guide data product definition, strategy, and long-term vision at Mythical, both internally and externally&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Own technical design and implementation of analytic systems and alignment of engineering efforts&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Lead enablement and drive adoption of analytics products&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with stakeholders to design and run experiments to inform product direction&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create flexible systems and data structures to allow for rapid iteration&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Steward and document comprehensive system design, including integrations with multiple data providers and tracking sources of truth&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Basic Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Academic degree and deep training in a technical discipline such as Computer Science, Mathematics, Statistics, Economics/Finance&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2+ years of experience designing and building complex analytic experiences&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Programming experience in a general purpose language, SQL or Python preferred&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience designing ETL pipelines and data interfaces&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Detail-oriented and exceptional problem-solving skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Outstanding communication and interpersonal skills: experience collaborating with engineers, product managers, and executives&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly-organized with proven ability to manage multiple initiatives simultaneously&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with analytic experiences, data pipelines, and management systems/frameworks such as Docker and Kubernetes&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with the GCP suite including BigQuery, Composer, and Cloud Functions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Have previously conducted technology enablement for users&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable operating in cloud-first, *nix-centric environments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Interest in and proficiency with blockchain solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passion for video games&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Past work experience in both larger companies and startups&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our team values diversity and believes that it strengthens our games, products, and communities. We strongly encourage POC, folks with disabilities, those belonging to the LGBTQIA+ communities, and folks across all gender identities to apply.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We offer our team benefits such as (but not limited to) high-quality Vision, Dental, and Health Care, generous Parental Leave, and Unlimited PTO to ensure that they actually take time off without the stress of needing to accrue time.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need assistance around accommodations due to a disability, please reach out to accessibility@mythical.games. We’ll be with you as soon as possible; our goal is to ensure an accessible and equitable interview process for everyone.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/Zfsp0FQ5X8s" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/mythicalgames/jobs/4907487003?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/351124/Mythical-Logo.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[info@mythical.games]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[541f8953-1749-4738-90d8-efd04dd286d1]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Mythical Games]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Director, Investor Relations & Capital Raising]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[TrustToken]]></company>
+    <company_url><![CDATA[https://www.trusttoken.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York / California]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><span style="font-size: 18pt">About TrustToken</span>&nbsp;</div><div><br></div><div>TrustToken is freeing money.&nbsp;</div><div><br></div><div><span style="font-size: 10.5pt">As traditional finance is being challenged by cryptocurrencies, our team is assembling the fundamental building blocks to deliver the unprecedented opportunity and greater accessibility of decentralized finance to anyone with an internet connection.&nbsp;</span>&nbsp;</div><div><br></div><div><span style="font-size: 10.5pt">We're known for two products: TrueFi, the first project to bring collateral-free lending to the blockchain; and TrueCurrencies, the world's most trusted asset-backed stablecoins, in five denominations.&nbsp;</span>&nbsp;</div><div><br></div><div><span style="font-size: 10.5pt">TrueFi, launched by TrustToken in November 2020, is the world’s leading uncollateralized lending protocol, offering lenders transparent and competitive earning opportunities and borrowers the ease of fast loans that maximize their capital efficiency. Borrowers build credit scores by using the platform, paving the way for TrueFi’s other innovation: on-chain credit ratings.</span>&nbsp;</div><div><br></div><div><span style="font-size: 10.5pt">Our TrueCurrencies (TUSD, TGBP, TAUD, TCAD, THKD) are the world’s most trusted stablecoins. Each is fully collateralized and attested live on-chain, leading the way in transparency in our industry. Collectively, these stablecoins now move billions of dollars around the world each month, including across +100 trading partners like Binance, Huobi, and OKEx. TUSD users enjoy lighting-fast transactions, easy minting and redemptions, and obsessive customer service.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Our team is global with employees based in San Francisco, Ireland and remote, made up of talented people from Google, Facebook, and Coinbase. We're backed by luminaries at a16z crypto, Blocktower, Founders Fund, Alameda Research, Stanford StartX, and other top global investors from North America, Europe, and Asia.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Our team is on a mission to empower people by opening access to financial opportunities. We believe that new technology will allow us to make financial freedom as accessible as the internet, and each day, we're working on the fundamental elements to make this world possible. It’s going to be a long journey, and we’re just at the beginning.</span></div><div><br></div><div><span style="font-size: 15px">TrustToken is seeking to hire a Director of Investor Relations &amp; Capital Raising. In this high impact role, you will be responsible for building and maintaining relationships with family offices, high net worth individuals and institutional investors to originate new investors and lead the fundraising process for portfolios managed on the TrueFi blockchain lending protocol.</span></div><div><span style="font-size: 15px">TrueFi currently manages approximately $1 billion in liquidity and has originated over $1 billion in loans in the last twelve months. </span></div><div><span style="font-size: 15px">While the existing borrower base primarily consists of crypto-focused hedge funds, TrueFi is now onboarding traditional finance borrowers to broadly diversify across both non-crypto and crypto borrower prospects. </span></div><div><span style="font-size: 15px">As the current loan portfolio aggressively expands over the next twelve months, lender/investor fundraising will be critical to support hyper-growth in new loan originations.&nbsp;</span></div><br/>Responsibilities:<br/><li>Develop and lead the go-to-market strategy to build a family office and institutional investor pipeline.</li><li>Manage the day-to-day organization, execution, and funding of participating investors.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li>Educate clients and prospects on alternative credit investments and crypto generally.&nbsp;&nbsp;&nbsp;&nbsp;</li><li>Develop a sales projection with defined targets to raise institutional capital on TrueFi.</li><li>Collaborate with business development, sales, product, and engineering teams to communicate and manage client needs, preferences and investment criteria.</li><li>&nbsp;Identify and articulate product enhancements to improve investor experience.</li><br/>Requirements:<br/><li>7+ years of experience in a fundraising role with a HF, PE, VC or similar fund.</li><li>Extensive network of family office and institutional investor relationships with a proven track record of successfully having raised capital for new and existing funds.</li><li>Deep familiarity with alternative fund products and investment preferences of family office and institutional investor base.&nbsp;&nbsp;</li><li>Experience leading a structured fundraising process including planning, organization and execution.</li><li>Ability to succeed in a remote environment and willingness to safely travel if necessary.</li><div>Does this sound like you? We’d love to hear from you if so.</div><div><br></div><div><span style="font-size: 24px">Equal opportunity</span></div><div><span style="font-size: 11pt">We’re proud to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Apply today and let us know what makes you unique</span><span style="font-size: 10.5pt">.</span></div><div><br></div><div><span style="font-size: 24px">Learn more about TrustToken</span></div><div><a href="https://www.linkedin.com/company/trusttoken/" class="postings-link">Follow us on LinkedIn</a></div><div><a href="https://blog.trusttoken.com/" class="postings-link">Check out our blog</a></div><div><a href="http://www.trusttoken.com" class="postings-link">Visit www.trusttoken.com</a></div><p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/lPnbgyc-ZIA" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/trusttoken/dd4be7ac-c72d-46ef-b7c5-6ab70ef8b4f2/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/193497/trusttoken.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[trusttoken@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[aea100fb-f5aa-4c1e-9fd3-2896483d7f46]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[TrustToken]]></employer_name>
+    <category><![CDATA[ Finance & Accounting ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Head of Marketing]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[ChainSafe Systems]]></company>
+    <company_url><![CDATA[https://chainsafe.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;ChainSafe Systems is currently seeking a Head of Marketing to establish and lead a new marketing department from the ground up. As our first Marketing hire, you’ll have the opportunity to have a tremendous impact, but it is important that you are a self-starter with an entrepreneurial spirit. You will be working very closely with the leadership team to understand our marketing needs across the organization and drive initiatives to address them. You will build the marketing team, both from a processes and hiring perspective, while contributing to critical marketing efforts to help push ChainSafe forward.&lt;/p&gt;
+&lt;p&gt;ChainSafe is a unique company in a nascent space that is growing quickly and building a stellar global reputation. &quot;Beyond offering experience across major blockchain ecosystems to our team, we provide an open, inclusive, and supportive environment where we help folks reach their full potential as a human and as a professional.”&lt;/p&gt;
+&lt;p&gt;Culture fit and alignment to our core values are extremely important to us. We are fueled by an immense intellectual curiosity of what technology can do and the impact it can have. We are building the next generation of web infrastructure and decentralized systems and you will thrive here if you are intensely driven by tackling challenges in a fast-moving enviornment with a tight knit team.&lt;/p&gt;
+&lt;p&gt;It is a very exciting time as Web3 and blockchain technology is continuously pushing the boundaries of what is possible and new opportunities arise on a daily basis. It is a great time to join and this position is both fun and extremely rewarding!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a new marketing department at ChainSafe from the ground up, including establishing the department’s strategy &amp;amp; best practices&lt;/li&gt;
+&lt;li&gt;Direct the high-level competitive positioning for our innovative Web3 products&lt;/li&gt;
+&lt;li&gt;Work closely with our product teams to help with product marketing, including value propositions, market segmentation and go-to-market strategies&lt;/li&gt;
+&lt;li&gt;Work hands-on for key organizational marketing projects, including product marketing and online marketing initiatives&lt;/li&gt;
+&lt;li&gt;Recruit, scale, coach and mentor the marketing team as needed to help meet ChainSafe’s marketing needs&lt;/li&gt;
+&lt;li&gt;Continuously look for ways to improve our marketing practices&lt;/li&gt;
+&lt;li&gt;Communicate effectively with leadership and the organization to influence outcomes&lt;/li&gt;
+&lt;li&gt;Develop and manage marketing budgets &amp;amp; costs&lt;/li&gt;
+&lt;li&gt;Develop branding plans &amp;amp; campaigns&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree or time-equivalent working experience.&lt;/li&gt;
+&lt;li&gt;5+ years working at a startup with a role focused on marketing&lt;/li&gt;
+&lt;li&gt;2+ years of hiring &amp;amp; managing other marketing professionals&lt;/li&gt;
+&lt;li&gt;Demonstrated understanding of the techniques and methods of product marketing and online marketing&lt;/li&gt;
+&lt;li&gt;Demonstrated ability to learn multiple functional areas of business – engineering, design, finance, sales, or marketing&lt;/li&gt;
+&lt;li&gt;Proven ability to engage with engineers, designers, and company leaders in a constructive and collaborative relationship&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bonus points&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with and passion for Web3&lt;/li&gt;
+&lt;li&gt;Experience doing marketing for a SaaS product&lt;/li&gt;
+&lt;li&gt;Experience building and leading a marketing team at a startup&lt;/li&gt;
+&lt;li&gt;Professional experience in development, product management, sales engineering or another technical role&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We offer fast opportunities for personal growth, mentorship, professional development funding, tons of autonomy and responsibility, a results-driven environment, close collaboration with an international team, exposure to a wide array of ecosystems and trailblazing technologies, and flexible work hours.&lt;/p&gt;
+&lt;p&gt;At ChainSafe, we are a compassionate group of builders and makers, working to bring our ideas to life. You’ll be part of a team that believes in the vital importance of community and contributing to advance humanity with open-source and decentralized technology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://chainsafe.io/corevalues&quot;&gt;We care deeply about our values and look for these in every team member:&lt;/a&gt;&lt;/strong&gt; A dedication to self-improvement and professional development; a commitment to community and collaboration; a drive for accountability, diligence, and autonomy; and above fostering a place of acceptance, friendliness, and compassion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tell us who you are and learn more about us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you are ready to join us, assemble your highlights (Portfolio, LinkedIn) and show us your best work. Get ready to have incredible conversations about your work. For our team’s project highlights, explore our &lt;a href=&quot;https://discord.com/invite/xSAwrnCWcg&quot;&gt;Discord&lt;/a&gt;, &lt;a href=&quot;https://github.com/chainsafe&quot;&gt;GitHub&lt;/a&gt;, and &lt;a href=&quot;https://chainsafe.io/projects&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We welcome your fresh perspectives and ideas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At ChainSafe, diversity and inclusion is more than a statement; equality and accessibility are guiding principles embedded in who we are - and why we do what we do. Our leadership is committed to continuously improving their own level of education to make the fairest and inclusive hiring and performance decisions from an informed perspective. We recognize the benefits of a diverse team and aspire to embed respect for all people into our culture, values, and day-to-day practices.&lt;/p&gt;
+&lt;p&gt;If at any time we can provide accommodations to facilitate your application and interview process, please let us know. We will strive to meet your needs.&lt;/p&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/chainsafesystems/jobs/4299467004?gh_jid=4299467004&ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/820874/chainsafe-systems-logo.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[chainsafe@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[5f6a040d-27de-4887-98d1-3606d387ad93]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[ChainSafe Systems]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[System Administrator]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[BitGo]]></company>
+    <company_url><![CDATA[https://www.bitgo.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[San Francisco]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div&gt;BitGo is the leader in custody and security solutions with over $60B in assets under custody. Founded in 2013, BitGo is the first digital asset company to focus exclusively on serving institutional clients. In 2018, it launched BitGo Trust Company, the first qualified custodian purpose-built for storing digital assets and established BitGo New York Trust in 2021. BitGo also offers market leading trading, lending, and borrowing services and supports over 400 digital assets on its platform. BitGo provides the security and operational backbone for more than 500 institutional clients in 50 countries, including many of the world’s top cryptocurrency exchanges and platforms.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;BitGo is looking for an experienced&lt;strong&gt;&amp;nbsp;System Administrator&amp;nbsp;&lt;/strong&gt;who will join our Security Team in Palo Alto. The System Administrator to maintain, upgrade and manage our software, hardware and networks. Resourcefulness is a necessary skill in this role. You should be able to diagnose and resolve problems quickly. You should also have the patience to communicate with a variety of interdisciplinary teams and users. Your goal will be to ensure that our technology infrastructure runs smoothly and efficiently.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and configure software and hardware.&lt;/li&gt;
+&lt;li&gt;Manage network servers and technology tools.&lt;/li&gt;
+&lt;li&gt;Set up accounts and workstations.&lt;/li&gt;
+&lt;li&gt;Monitor performance and maintain systems according to requirements.&lt;/li&gt;
+&lt;li&gt;Troubleshoot issues and outages.&lt;/li&gt;
+&lt;li&gt;Ensure security through access controls, backups, and firewalls.&lt;/li&gt;
+&lt;li&gt;Upgrade systems with new releases and models.&lt;/li&gt;
+&lt;li&gt;Develop expertise to train staff on new technologies.&lt;/li&gt;
+&lt;li&gt;Build an internal wiki with technical documentation, manuals, and IT policies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;BitGo is looking for people who are passionate about their craft, take full ownership for their work and projects, and believe in a transparent and collaborative culture with the goal of making BitGo successful.&lt;/p&gt;
+&lt;p&gt;Main requirements include:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven experience as a System Administrator, Network Administrator or similar role.&lt;/li&gt;
+&lt;li&gt;Experience with databases, networks (LAN, WAN) and patch management.&lt;/li&gt;
+&lt;li&gt;Knowledge of system security (e.g. intrusion detection systems) and data backup/recovery.&lt;/li&gt;
+&lt;li&gt;Ability to create scripts in Python, Perl or other languages.&lt;/li&gt;
+&lt;li&gt;Familiarity with various operating systems and platforms.&lt;/li&gt;
+&lt;li&gt;Resourcefulness and problem-solving aptitude.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills.&lt;/li&gt;
+&lt;li&gt;BS/BA in Information Technology, Computer Science or a related discipline; professional certification is a plus&lt;/li&gt;
+&lt;li&gt;Experience with monitoring systems.&lt;/li&gt;
+&lt;li&gt;Solid networking knowledge. (OSI network layers, TCP/IP)&lt;/li&gt;
+&lt;li&gt;Minimum of 5 years of relevant experience.&lt;/li&gt;
+&lt;li&gt;You are a huge fan of blockchain technology and cryptocurrencies.&lt;/li&gt;
+&lt;li&gt;50% in office, 50% remote&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Competitive base salary, and stock options&lt;/li&gt;
+&lt;li&gt;100% company paid health insurance for employee, partner and dependents&lt;/li&gt;
+&lt;li&gt;Up to 5% 401k company match&lt;/li&gt;
+&lt;li&gt;Paid parental leave, Paid vacation&lt;/li&gt;
+&lt;li&gt;Free commuter/parking pass; 5 min from Caltrain&lt;/li&gt;
+&lt;li&gt;Free custom lunches, dinners and snacks&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Computer equipment and workplace furniture to suit your needs&lt;/li&gt;
+&lt;li&gt;Great colleagues and inspiring startup environment&lt;/li&gt;
+&lt;li&gt;Benefits may vary based on location.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/yGR7NLjXslU" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/bitgo/jobs/5835043002?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/175514/birgo.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[bitgo@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[b720d671-6d88-4863-a59d-ea5d1c6feea8]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[BitGo]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Crypto Research Associate]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Kraken]]></company>
+    <company_url><![CDATA[https://kraken.com]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b style="font-size: 18px">About Kraken</b></div><div><br></div><div>Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. In our first decade, Kraken has risen to become one of the largest, most successful and respected crypto exchanges on the planet.&nbsp;</div><div><br></div><div>We are changing the way the world thinks about finance and our range of successful products are playing a critical role in the mainstream adoption of crypto assets. We continue to trail-blaze into new territory with the introduction of Kraken Bank, providing a more seamless integration between crypto and the traditional financial system. This makes us the first crypto company (ever) to be awarded a U.S. state banking charter.&nbsp;</div><div><br></div><div>Our diverse group of 2,400+ Krakenites are distributed all over the world as part of our 'remote first' culture, united by a shared passion for delighting customers, upholding crypto values and achieving our meaningful mission. We attract people who push themselves to improve, are radically transparent and think differently in order to unlock their potential.&nbsp;</div><div><br></div><div>Crypto is a rapidly evolving industry and we’re just getting started. We’re growing fast and you're invited to join the revolution!</div><div><br></div><div><b style="font-size: 18px">About the Role</b><span style="font-size: 18px">&nbsp;</span></div><div><br></div><div>This is a fully remote role, we will consider applicants based in North America, South America and Europe.&nbsp;Kraken is expanding its Intelligence team! This is an opportunity to join Kraken’s inhouse team of research experts focused on providing industry insights for market participants and for internal business decisions. As a member of Kraken Intelligence, you will be tasked with exploring and analyzing industry trends, producing highly impactful and original content, working internally with key stakeholders, supporting colleagues, and growing the Intelligence brand. As crypto, Kraken, and the Intelligence team grows, so will you.&nbsp;</div><div><br></div><div>The ideal candidate for this position is a self-starter who is highly ambitious and is not afraid to approach difficult questions, collect and analyze large quantities of data, and deliver concise, actionable reports. Intellectual curiosity and a desire to learn is a must; you should be passionate about exploring all corners of crypto. Interested applicants must be capable of multi-tasking and wearing multiple hats.</div><div><br></div><div>Kraken Intelligence prides itself on being a group of open-minded individuals interested in finding answers, optimizing for the best result, and not letting one’s ego get in the way of decision making. While we are laser focused on providing value both internally and externally, we also like to have fun!</div><br/>Responsibilities<br/><li>Support the Manager of Kraken Intelligence in conducting research, unpacking industry developments, and monitoring market trends</li><li>Spearhead external research efforts and develop differentiated content based on research, analytics, and related insights</li><li>Contribute to the team’s content ideation, dissemination strategy, and brand awareness initiatives</li><li>Analyze and produce managerial reports for research KPIs</li><li>Work with other teams in a generalist capacity, as needed</li><li>Support other functions, including corporate and business development, to identify and capture additional value-enhancing opportunities</li><br/>Basic Qualifications<br/><li>Bachelor’s degree in a quantitative field and at least 2+ years of relevant work experience in equity research, investment banking, venture capital, strategy consulting, economics, computer science, or a similar capacity</li><li>Strong communication and presentation skills, and proven ability to translate data into actionable insights</li><li>Existing knowledge of the cryptoasset industry</li><li>Exceptional research and analytical skills and advanced proficiency in Excel </li><li>Detail-oriented with emphasis on quality</li><li>A team player that works well with various functions across the company and can work independently</li><br/>Preferred Qualifications<br/><li>Experience with cryptoasset or traditional market analysis</li><li>The ability to think critically under pressure, simultaneously maintain multiple workflows, and deliver against aggressive deadlines</li><li>Experience with APIs, HTML, Python, SQL, and/or Tableau (or other data visualization tools)</li><li>An understanding of smart contracts, cryptography, tokeneconomics, blockchain technology, and Web 3.0.&nbsp;</li><div>Location Tagging: #EU #US <span style="font-size: 15px">#APAC&nbsp;#LI-Remote </span>#LI-BL1</div><div><br></div><div>We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background.&nbsp;</div><div><br></div><div>As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div>Check out all our open roles at&nbsp;<a href="https://www.kraken.com/careers" class="postings-link">https://www.kraken.com/careers</a>. &nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link"><b>Follow us on Twitter</b></a></div><div><a href="https://blog.kraken.com/" class="postings-link"><b>Catch up on our blog</b></a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link"><b>Follow us on LinkedIn</b></a></div><p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/iG-bpAnRvqM" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/kraken/f5d5e6ae-756f-46ca-b478-51a82a145a8d/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/141006/kraken_new.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[kraken@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[3fb432db-ca35-4833-8307-f0a44eb39242]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Kraken]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Manager, Analytics]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Coinbase]]></company>
+    <company_url><![CDATA[https://www.coinbase.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote - India]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re Coinbase. We’re the world’s most trusted way to join the crypto revolution, serving more than 73 million accounts in more than 100 countries.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our mission is to &lt;/span&gt;&lt;a href=&quot;https://blog.coinbase.com/our-mission-strategy-and-culture-18a92a3bb0fa&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;increase economic freedom around the world&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, and we couldn’t do this without hiring the best people. We’re a group of hard-working overachievers who are deeply focused on building the future of finance and Web 3.0 for our users across the globe, whether they’re trading, storing, staking or using crypto. Know those people who always lead the group project? That’s us.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we look for candidates who will thrive in a &lt;/span&gt;&lt;a href=&quot;https://blog.coinbase.com/culture-at-coinbase-f0e1c2a99aff&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;culture&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; like ours, where we default to trust, embrace feedback, and disrupt ourselves. Second, we expect all employees to commit to our &lt;/span&gt;&lt;a href=&quot;https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;mission-focused approach&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to our work. Finally, we seek people who are excited to learn about and live crypto, because those are the folks who enjoy the intense moments in our sprint and recharge work culture.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ready to #LiveCrypto? Who you are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ve got good vibes. You’re optimistic about the future and determined to get there.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’re never tired of learning. You want to be a pro in bleeding edge tech like DeFi, NFTs, DAOs, and Web 3.0.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You appreciate direct communication. You’re both an active communicator and an eager listener - because let’s face it, you can’t have one without the other. You’re cool with candid feedback and see every setback as an opportunity to grow.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You can pivot on the fly. Crypto is constantly evolving, so our priorities do, too. What you worked on last month may not be what you work on today, and that excites you. You’re not looking for a boring job.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a “can do” attitude. Our teams create high-quality work on quick timelines. Owning a problem doesn’t scare you, but rather empowers you to take 100% responsibility for achieving our mission.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You want to be part of a winning team. We’re stronger together, and you’re a person who embraces being pushed out of your comfort zone. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coinbase, Inc. is seeking a full time employee to be part of our Workforce Management (WFM) team.&amp;nbsp; As a Command Center Leader, you’ll build and define Coinbase’s Customer Experience analytics operations and strategy. This includes ownership of all Coinbase support reporting, while also developing a team of analysts, working closely with different stakeholders on their operational reporting needs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you’ll be doing (ie. job duties):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work closely with the Customer Experience (CX) team to define what are the reports and metrics needed across our operations and the best way to deliver them&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with CX Leadership and cross-functional partners to prioritize work and define impactful ways share insights&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Leverage metrics to drive insights and influence business decisions in a global scale&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to frame and break down complex business problems into key components and recommend practical solutions&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build a collaborative team environment that fosters efficient execution, innovation, and continuous improvement&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop and support the analytical technologies that give our team timely, flexible, and structured access to their data&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we look for in you (ie. job requirements):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Passionate about delivering an excellent Customer Experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Minimum of 3 years of relevant experience in analytics with management experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Expertise in workforce management reporting&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Able to work with large amounts of data to identify trends and patterns.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Specialist in spreadsheet tools like Excel and Google Sheet.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Flexible and adaptable to meeting the evolving needs of a high-growth and fast paced organization.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent written and verbal communication skills required&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Able to proactively collaborate with other departments, providing inputs and insights on business metrics&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to haves:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience using BI tool such as Looker and Salesforce&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;SQL experience a plus&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience meeting with and presenting information to senior leadership&lt;br&gt;&lt;br&gt;&lt;/span&gt;PID_P33713&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note that for employees based in the US, Philippines, Canada or Singapore, if your role requires you to be present in a Coinbase office or if you choose to be physically present in a Coinbase office or sponsored location, participate in any in-person gathering (including offsites) or engage in business travel sponsored by Coinbase, you will be required to be fully vaccinated (as defined by applicable law).&amp;nbsp; If you receive an offer, you will receive additional information about the grounds and process for an exemption.&lt;/span&gt;&lt;/h4&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Commitment to Equal Opportunity&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer.&amp;nbsp; All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law.&amp;nbsp; For US applicants, you may view &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_English_unformattedESQA508c.pdf&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Pay Transparency&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Rights&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and &lt;/span&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Equal Employment Opportunity is the Law&lt;/span&gt; &lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;notices by clicking on their corresponding links.&amp;nbsp; Additionally, Coinbase participates in the &lt;/span&gt;&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;E-Verify program&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; in certain locations, as required by law.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;accommodations[at]coinbase.com&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and let us know the nature of your request and your contact information.&amp;nbsp; For quick access to screen reading technology compatible with this site &lt;/span&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;click here to download&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; a free compatible screen reader &lt;/span&gt;&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(free step by step tutorial can be found here)&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Global Data Privacy Notice for Job Candidates and Applicants&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available &lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By submitting your application, you are agreeing to our use and processing of your data as required.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/iWA1eLgSmfM" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://www.coinbase.com/careers/3830156?gh_jid=3830156&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/143074/coinbase.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[coinbase@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[5ca8d11e-b184-412a-9ed3-9fc9125704eb]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Coinbase]]></employer_name>
+    <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Software Development Engineer in Test]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[DRW]]></company>
+    <company_url><![CDATA[https://drw.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Singapore]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;DRW&lt;/strong&gt; is a technology-driven, diversified principal trading firm. We trade our own capital at our own risk, across a broad range of asset classes, instruments and strategies, in financial markets around the world. As the markets have evolved over the past 25 years, so has DRW – maximizing opportunities to include real estate, cryptoassets and venture capital. With over 1200 employees at our Chicago headquarters and offices around the world, we work together to solve complex problems, challenge consensus and deliver meaningful results. It’s a place of high expectations, deep curiosity and thoughtful collaboration.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Software Development Engineer in Test&lt;/strong&gt; provides mission critical support for our core proprietary trading systems.&amp;nbsp; As a SDET, you will partner closely with the business and with software developers to develop test&amp;nbsp;plans and test cases for various trading platforms that are used globally by trading and research teams across the firm. We are seeking a candidate with a strong background in functional testing and the ability to design and develop both manual and automated test strategies and test cases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Core Duties:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up, maintain, and support testing environments for automated and manual testing for both the QA and software development environments&lt;/li&gt;
+&lt;li&gt;Provide testing environment configuration support for development teams; ensure availability and provide backup QA support during overlapping times for Asia and US-based teams&lt;/li&gt;
+&lt;li&gt;Perform certification and conformance testing with Asian exchanges&lt;/li&gt;
+&lt;li&gt;Test market data and order adapters for European exchanges&lt;/li&gt;
+&lt;li&gt;Develop automated regression testing of system functionality using Python&lt;/li&gt;
+&lt;li&gt;Develop scripts for maintaining, updating, and monitoring test system components&lt;/li&gt;
+&lt;li&gt;Troubleshoot issues and bugs discovered in testing to help determine root cause&lt;/li&gt;
+&lt;li&gt;Provide feedback on system functionality to help make improvements&lt;/li&gt;
+&lt;li&gt;Work with operations team to communicate upcoming changes to software systems&lt;/li&gt;
+&lt;li&gt;Help troubleshoot and resolve problems in production systems&lt;/li&gt;
+&lt;li&gt;Reproduce issues discovered in production using the test environments in order to help identify issues and solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong programming skills obtained through a degree or equivalent experience&lt;/li&gt;
+&lt;li&gt;Demonstrated ability to effectively test applications independently&lt;/li&gt;
+&lt;li&gt;Strong analytical skills, detail orientation and excellent written and verbal communication skills&lt;/li&gt;
+&lt;li&gt;Experience working with automated test frameworks&lt;/li&gt;
+&lt;li&gt;Experience with scripting languages, primarily Python&lt;/li&gt;
+&lt;li&gt;2+ years of experience working with databases such as SQL or Postgres&lt;/li&gt;
+&lt;li&gt;1+ year of experience working on Linux operating systems&lt;/li&gt;
+&lt;li&gt;Experience in testing trading systems and strategies is a big plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;For more information about DRW&#39;s processing activities and our use of job applicants&#39; data, please view our Privacy Notice at &lt;a href=&quot;https://drw.com/privacy-notice&quot;&gt;https://drw.com/privacy-notice&lt;/a&gt;&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;California residents, please review the&amp;nbsp;California Privacy Notice&amp;nbsp;for information about certain legal rights at&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;a href=&quot;https://drw.com/california-privacy-notice&quot;&gt;https://drw.com/california-privacy-notice&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;<p><figure><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/MdwEImeQcx8" frameborder="0" allowfullscreen=""></iframe></figure></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/drweng/jobs/3829874?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://www.crypto-careers.com/uploads/employer/logo/145892/drw.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[drw@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[bf32acf8-cf47-410b-aa59-74974c4d6afd]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[DRW]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
 </jobs>
