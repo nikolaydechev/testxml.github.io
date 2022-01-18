@@ -640,38 +640,6 @@
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
-    <title><![CDATA[DevOps (Remote - Canada)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Shakepay]]></company>
-    <company_url><![CDATA[https://shakepay.com/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Montreal, QC]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<div>Join our small, fiery team on our mission to create open access to building wealth.</div><div><br></div><div>Shakepay is one of the fastest growing startups in Canada. We've grown 10x in the last year. 2% of Canadians use Shakepay. We're building something really special. We need true believers to join our team. We're looking for ambitious professionals with a thirst for knowledge that are interested in working with the most exciting financial innovation ever created: Bitcoin.</div><div><br></div><div>Bitcoin is important because it enables wealth to be stored with a person without need for a third party. Its fundamental use-case as a store of value with a predictable monetary policy is having profound implications on freeing people into financial sovereignty.</div><div><br></div><div><span style="font-size: 32px">DevOps</span></div><div><br></div><div>Shakepay's infrastructure started simple and was easily managed by our small team. With the recent growth in demand for Shakepay, we're looking for a fiery DevOps to scale our infrastructure to millions of customers.</div><div><br></div><div>This is the first infrastructure role at Shakepay and you will head the infrastructure team as we continue to grow.</div><br/>You will:<br/><li>Participate in building financial products of the future</li><li>Implement Infrastructure as code</li><li>Build on our CI/CD pipeline</li><li>Build/deploy/maintain security controls, instrumentation, and detection infrastructure</li><li>Participate in code reviews</li><br/>Must have:<br/><li>At least 5 years working experience in DevOps</li><li>Familiarity with AWS</li><li>Experience with infrastructure security</li><br/>Nice to have: <br/><li>Experience with infrastructure as code</li><li>Experience with <a href="http://node.js/" class="postings-link">Node.js</a>, React-Native, Vue, Postgres, Docker</li><li>Experience with building financial infrastructure</li><br/>What you get:<br/><li>Potentially life-changing stock options. We believe everyone at Shakepay should have the financial upside for building a generational company</li><li>Remote-friendly work environment: work from anywhere in Canada. If you're in Montreal, you can work from the office</li><li>Generous vacation time: we think time off is essential, and highly encourage it</li><li>Personal development: we're here to help you define and hit your personal career goals so that you can get where you want to be</li><li>Continued learning: every Shaker gets a yearly budget to spend on learning</li><li>Employer-covered group insurance: health, dental, paramedical, disability and travel coverage to ensure you're at your best</li><li>Get paid in Bitcoin: choose to take a percentage of your salary in the hardest, soundest money the world has ever known</li><li>A collaborative and friendly team: we succeed together and we have fun doing it</li><li>MacBook: company-issued laptop to make sure you're doing your best work</li><li>Equipment stipend: every Shaker receives a stipend to use toward setting up their home office</li><div>If you don't meet all the requirements but believe you would be a great fit for this role then give us your pitch and tell us why.</div><div><br></div><div><span style="font-size: 18px">About Shakepay</span></div><div><br></div><div>Shakepay helps Canadians buy and sell bitcoin and pay their friends. We offer web and mobile apps that make it easy for Canadians to buy bitcoin in minutes with Interac e-Transfer. Shakepay is the fastest-growing bitcoin platform in Canada.</div><div><br></div><div>At Shakepay we're committed to promoting and celebrating diversity and inclusion. We strongly encourage applications from everyone, regardless of background and life experience. If you want to be a part of something momentous then we're excited to hear from you.</div>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://jobs.lever.co/shakepay/f3ce9fde-caf8-43b7-b557-f4ba627ce542/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/75e819ca-3506-480c-b9b0-af9f41ffbc6f_shakepay-400x040.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Shakepay@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[EHIvuCfaYEav7zPaePd2Q]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Shakepay]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[NetSuite Administrator]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -1086,6 +1054,38 @@
     <reference/>
     <employer_name><![CDATA[Token Metrics]]></employer_name>
     <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Customer Support Manager (Remote - Canada)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Shakepay]]></company>
+    <company_url><![CDATA[https://shakepay.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Montreal, QC]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>Join our small, fiery team on our mission to create open access to building wealth.</div><div><br></div><div>Shakepay is one of the fastest growing startups in Canada. We've grown 10x in the last year. 2% of Canadians use Shakepay. We're building something really special. We need true believers to join our team. We're looking for ambitious professionals with a thirst for knowledge that are interested in working with the most exciting financial innovation ever created: Bitcoin.</div><div><br></div><div>Bitcoin is important because it enables wealth to be stored with a person without need for a third party. Its fundamental use-case as a store of value with a predictable monetary policy is having profound implications on freeing people into financial sovereignty.</div><div><br></div><div><span style="font-size: 32px">Customer Support Manager</span></div><div><br></div><div>At Shakepay, our customers’ happiness is a top priority. We are looking for an enthusiastic problem-solver with a passion for leading to work with our Customer Support Lead and our growing Customer Support team.</div><div><br></div><div><span style="font-size: 18px">Bitcoin</span></div><div><br></div><div>You must have some knowledge about Bitcoin for this position. If you don't right now, a few hours on YouTube will give you the basics for a conversation with the team.</div><br/>You will:<br/><li>Coach and head our new and experienced Customer Support team-members in all areas of performance</li><li>Collaborate closely with the Customer Support Lead to drive continuous improvement and scale the Customer Support team</li><li>Rally the troops during tough times, keep them focused on the big picture, and have an idea of what goals you're heading the team towards achieving</li><li>Treat success as a product, innovating and iterating on the customers’ experience</li><br/>Must have:<br/><li>3+ years of Customer Service experience with 1+ years of direct people management</li><li>Experience managing distributed teams with a knack for mentorship and people development</li><li>The ability to effectively influence and communicate cross-functionally</li><li>Excellent written and verbal communication skills</li><li>Basic prior knowledge or some familiarity with Bitcoin</li><br/>Nice to have:<br/><li>Experience at a high-growth technology startup</li><li>Demonstrated passion for and deeper knowledge of the Bitcoin space</li><br/>What you get:<br/><li>Potentially life-changing stock options<b>.</b> We believe everyone at Shakepay should have the financial upside for building a generational company</li><li>Remote-friendly work environment: work from anywhere in Canada. If you're in Montreal, you can work from the office</li><li>Generous vacation time: we think time off is essential, and highly encourage it</li><li>Personal development: we're here to help you define and hit your personal career goals so that you can get where you want to be</li><li>Continued learning: every Shaker gets a yearly budget to spend on learning</li><li>Employer-covered group insurance: health, dental, paramedical, disability and travel coverage to ensure you're at your best</li><li>Get paid in Bitcoin: choose to take a percentage of your salary in the hardest, soundest money the world has ever known</li><li>A collaborative and friendly team: we succeed together and we have fun doing it</li><li>MacBook: company-issued laptop to make sure you're doing your best work</li><li>Equipment stipend: every Shaker receives a stipend to use toward setting up their home office</li><div>If you don't meet all the requirements but believe you would be a great fit for this role then give us your pitch and tell us why.</div><div><br></div><div><span style="font-size: 18px">About Shakepay</span></div><div><br></div><div>Shakepay helps Canadians buy and sell Bitcoin and pay their friends. We offer web and mobile apps that make it easy for Canadians to buy Bitcoin in minutes with Interac e-Transfer. Shakepay is the fastest-growing Bitcoin platform in Canada.</div><div><br></div><div>At Shakepay we're committed to promoting and celebrating diversity and inclusion. We strongly encourage applications from everyone, regardless of background and life experience. If you want to be a part of something momentous then we're excited to hear from you.</div><div><br></div><div><u>Please note that while all of our roles are remote, we are a Canadian company and will not be sponsoring visas for this position. You must be eligible to work in Canada to be selected.</u></div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/shakepay/275f37f5-3ebe-44d6-86da-05e7eb72439b/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/75e819ca-3506-480c-b9b0-af9f41ffbc6f_shakepay-400x040.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Shakepay@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[EHIvuCfaYEav7zPaePd2Q]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Shakepay]]></employer_name>
+    <category><![CDATA[ Customer Services ]]></category>
   </job>
 <job>
     <title><![CDATA[Web Developer]]></title>
@@ -1597,6 +1597,75 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Terraform Labs]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Android Engineer (Remote, Europe only)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Argent]]></company>
+    <company_url><![CDATA[https://www.argent.xyz/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[London, England, United Kingdom]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[Description
+Join us as we get ready to bring crypto's benefits to millions more people. You'll play a vital part by delivering outstanding UX and unrivalled security. This will draw on your experience building top-tier apps that you're proud of, quickly shipping features, and taking ownership of the entire development lifecycle.
+Requirements
+<ul> <li>5 years experience building top tier Android apps, minimum 2 years in Kotlin</li> <li>Strong computer science fundamentals</li> <li>Focused on delivering great UX</li> </ul><p><em>Expert knowledge of:</em></p><ul> <li>RxJava usage (minimum 2 years of experience)</li> <li>The Android framework: lifecycles, memory management, Gradle</li> <li>Network protocols and data persistence techniques</li> </ul><p><i><em>Experience with:</em></i></p><ul> <li>Common Android libraries such as Retrofit, Room, Glide, and Dagger.</li> <li>Testing Android apps with unit tests and UI tests</li> <li>Continuous Integration and source control</li> <li>Implementing security best practices for safeguarding data on a mobile device</li> </ul><p><strong>The app</strong></p><p>The Argent app is written mostly in Kotlin. We use RxJava extensively as it helps us to work with concurrency issues and react to changes as soon as they happen. We also use proven libraries like Glide, Retrofit, Lottie and the latest AndroidX libraries.</p>
+Benefits
+<ul> <li> <em>Work remotely</em> - anywhere in Europe (but Europe only). No commute. Lots of flexibility. Plenty of time to care for your kids or cats.</li> <li> <em>Equity</em> in a high growth startup backed by the investors of Spotify and Slack.</li> <li> <em>Autonomy</em> - you decide how to achieve your best work.</li> <li> <em>Trips across Europe</em> - for one week every three months we collaborate in person, explore new solutions and have fun. So far we’ve stayed in Nice, Toulouse, Brussels, Lisbon and Barcelona. We'll resume these when safe following COVID.</li> <li> <em>Equipment</em> - pick the tech setup of your choice.</li> <li> <em>Parental leave </em>- generous package for new parents.</li> <li> <em>Build a new industry - </em>help define the future of the web.</li> </ul><h3>Our values</h3><p>You can find more information on each of our values <a href="https://www.notion.so/argenthq/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">here</a>.<img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/455656/00e08f56c9affe9be612393fb1fb3b34.png"></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/6C69D299DE/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/fbd56c41-fafc-4fc3-9142-a5fcc0b27038_argent-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Argent@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Z0N0GhTKHkqEe0OnBIShoQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Argent]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Argent X: Full Stack JavaScript/Typescript Engineer (Remote in Europe)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Argent]]></company>
+    <company_url><![CDATA[https://www.argent.xyz/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[London, England, United Kingdom]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>Description</p><p>With a focus on world class UX and security, you'll build outstanding web apps and backend services for both our customers and our team. These involve some of our most important initiatives. Examples include:</p><ul> <li> <em>Customer facing</em>: The Argent Security Center (a unique React app that helps our users to secure their wallets)</li> <li> <em>Internal:</em> Our internal Dashboard (a React app that significantly streamlines our engineering work and our customer support)</li> <li> <em>Backend:</em> A data pipeline which enriches Ethereum data and exposes it via a GraphQL API.</li> </ul><p>In this role you'll take ownership of the entire development lifecycle and quickly ship features in an agile environment.<br></p><p>Requirements</p><ul> <li>3+ years experience working with JavaScript</li> <li>Strong computer science and security fundamentals</li> <li>Focused on delivering great UX</li> </ul><p><em>You'll have expert knowledge of:</em></p><ul> <li>Frontend: React (hooks), CSS/HTML</li> <li>Backend:  Node.js, interacting with APIs, databases, queues and caches</li> <li>Functional programming and using unit tests and integration tests to deliver high quality code</li> <li>Deploying, monitoring and scaling apps in a production environment using AWS</li> </ul><p><em>We're also looking for experience with:</em></p><ul> <li>Ethereum blockchain</li> <li>Integrating different AWS solutions</li> <li>Open source software and contributions</li> <li>Some experience with TypeScript</li> </ul><p>Benefits</p><ul> <li> <em>Work remotely</em> - anywhere in Europe (but Europe only). No commute. Lots of flexibility. Plenty of time to care for your kids or cats.</li> <li> <em>Equity</em> in a high growth startup backed by the investors of Spotify and Slack.</li> <li> <em>Autonomy</em> - you decide how to achieve your best work.</li> <li> <em>Trips across Europe</em> - for one week every three months we collaborate in person, explore new solutions and have fun. So far we’ve stayed in Nice, Toulouse, Brussels, Lisbon and Barcelona. We'll resume these when safe following COVID.</li> <li> <em>Equipment</em> - pick the tech setup of your choice.</li> <li> <em>Parental leave </em>- generous package for new parents.</li> <li> <em>Build a new industry - </em>help define the future of the web.</li> </ul><h3>Our values</h3><p>You can find more information on each of our values <a href="https://www.notion.so/argenthq/Our-values-64e1a6a2c3c546dd9ca595eb8e5fe557" rel="nofollow noreferrer noopener" class="external">here</a>.</p><p><img src="https://workablehr.s3.amazonaws.com/uploads/photos/455656/00e08f56c9affe9be612393fb1fb3b34.png"><br></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/argenthq/j/E6F396D02C/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/fbd56c41-fafc-4fc3-9142-a5fcc0b27038_argent-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Argent@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Z0N0GhTKHkqEe0OnBIShoQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Argent]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
@@ -5512,6 +5581,38 @@ Benefits
     <category><![CDATA[ Marketing & PR ]]></category>
   </job>
 <job>
+    <title><![CDATA[Content Writer (Remote Working Opportunity)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Human Protocol]]></company>
+    <company_url><![CDATA[https://www.humanprotocol.org/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote - London]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><span style="font-size: 11pt">The HUMAN Protocol Foundation is leading the growth and development of an ecosystem around the most used blockchain technology in the world -- HUMAN Protocol.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Today, HUMAN interacts with hundreds of millions of people across 274 countries and territories worldwide. Applications built on HUMAN technology already serve more than 15% of global internet traffic, protecting many familiar websites and brands from bot-nets while simultaneously contributing millions of data points that help refine machine learning algorithms.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">While HUMAN already supports the world’s largest decentralized workforce, the Foundation’s ambitions are much larger --- HUMAN wants to provide the infrastructure and tools to power an autonomous, distributed gig-economy to address some of the biggest challenges in AI and ML today. This includes biased data sets, ineffective algorithms, and ultimately, problematic user experiences across business and consumer-facing platforms, products and services.&nbsp;</span>&nbsp;</div><div><br></div><div><span style="font-size: 11pt">The HUMAN Protocol Foundation cares deeply about its mission and believes that this type of technology is essential to improving the quality of HUMAN and AI interactions in the digital economy. In the near future, HUMAN plans to introduce new interfaces and applications that can be added to its protocol in a plug-and-play fashion, allowing anyone to launch jobs and get tasks done, safely, through the HUMAN network.&nbsp;</span>&nbsp;</div><div><br></div><div><span style="font-size: 11pt">As the Foundation builds toward its mission, it is looking to hire extraordinary HUMANs that can join its team to support the next phase of growth</span></div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/human-protocol-foundation/79f58c0d-efd9-43ad-a3a1-5bc59d538aed/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/8fa6b1f0-304f-4cbb-ba6d-47e7e45cb5ea_human_protocol-400x400.jpeg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+HumanProtocol@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Vis534Er40GuzZVhzDSPTg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Human Protocol]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
     <title><![CDATA[Senior Cryptoasset Research Analyst]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8392,38 +8493,6 @@ positive, constructive team member.<br /></li></ol>
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[DevOps Senior Engineer (Remote)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Soramitsu]]></company>
-    <company_url><![CDATA[https://soramitsu.co.jp/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p dir=&quot;ltr&quot;&gt;About:&lt;/p&gt;&lt;p&gt;SORAMITSU is a Japanese technology company delivering blockchain-based solutions for enterprises, universities, and governments. From the creation of domestic and cross-border payment systems, to the development of our own decentralized autonomous economy, our projects and use case studies represent the next-generation of fintech. In 2020, Soramitsu was recognized by Central Banking as the &quot;Central Bank Digital Currency Partner of the Year&quot;. We have many widely recognized projects in both enterprise/institutional and crypto, including Bakong, Hyperledger IROHA, Polkaswap, Fearless Wallet, KAGOME, FUHON, and of course, SORA. You can familiarize yourself with our various activities by visiting our &lt;a href=&quot;https://soramitsu.co.jp&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;homepage&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This is a remote position, though we do maintain physical offices in Japan, Russia, Thailand, Cambodia, and Switzerland - which you would be welcome to stop by if you&#39;re in one of those regions.&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Who are we looking for?&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;We are looking for an experienced and enthusiastic Senior DevOps Engineer. &amp;nbsp;This position is for someone who is looking to expand their career by working on a large scale, service infrastructure. &amp;nbsp;As a DevOps Engineer, you are expected to act as a leader to create an effective process, meeting ITIL standards.&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;You’ll work closely with various developers in supporting new services as well as being the operations expert and development engineer that launches and maintains our services in a production environment. This is an opportunity to enhance your career with FinTech domain experience.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Requirements:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;More than 2 years of experience as a DevOps Engineer (or a similar position) working with large-scale, online applications&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Proficient in scripting languages&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Bachelor’s Degree in Computer Science or equivalent combination of education and experience&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Able to work flexible hours including weekends or off-hours&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Critical thinker and problem-solving skills&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Interpersonal and communication skills&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Business-level English (written and spoken)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Experience with:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Linux systems administration&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;CI/CD tools and practices&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Running and managing (micro)services in a cloud e.g. AWS&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Version control systems&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Setup and maintenance k8ts cluster or Amazon EKS&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Deploy application to k8ts&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Desired Skills:&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;• Proficient in database management (RDMS, NoSQL)&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Knowledge of:&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;• Security mechanisms and best practices (authentication/authorization, SSL/TLS, &amp;nbsp;encryption schemes)&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;• Basic networking (DNS, firewall, tunneling)&lt;/p&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://soramitsu.freshteam.com/jobs/0mY11Dvoh1bR/senior-devops-engineer-remote?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/f39da0ab-05c7-45a0-927c-be31562fdec2_soramitsu-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Soramitsu@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[MIJAd30AEijTrYWR61dRA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Soramitsu]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Team Lead in Crypto Project (Remote)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8488,38 +8557,6 @@ positive, constructive team member.<br /></li></ol>
     <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Front-end Developer (Remote)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Soramitsu]]></company>
-    <company_url><![CDATA[https://soramitsu.co.jp/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;About company:&lt;br&gt;Soramitsu is a blockchain technology company based in Japan. We are focusing on products for financial markets based on the Hyperledger Iroha blockchain platform. Two main product streams are digital asset management solutions including innovative payment solutions and a digital identity platform that supports transparent and secure exchange of information according to the financial KYC requirements. The company was established in 2016 and currently employs more than 50 people in Japan and Russia.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Role:&lt;/p&gt;&lt;p&gt;We are looking for a senior Front-end Developer that has experience with critical production systems (i.e. payment systems, B2B systems, Telco or similar systems). The project is related to finance and blockchain. The responsibility would be to design, implement and support software production solutions that will be used by our clients, write tests for the system and guarantee high quality of functional and non-functional characteristic of produced code, perform code review for other developers, &amp;nbsp;take part into making architectural decisions, transfer knowledge to other team members and mentor junior developers. The candidate will also be responsible for interviewing people that will perform backend development related tasks and work in the development team. The candidate will also need to select and integrate frameworks and libraries which will be the part of software systems and to prove his/her selection. As senior developer, candidate should understand the business goals of the system, plan his/her work upfront, provide correct estimations to each task and able to foresee possible problems and eliminate them before they appear.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Tasks:&lt;/p&gt;&lt;p&gt;- Design, implement and support software system&lt;/p&gt;&lt;p&gt;- Write tests which will cover major amount of functionality and non-functional requirements&lt;/p&gt;&lt;p&gt;- Perform code review for other front-end developers&lt;/p&gt;&lt;p&gt;- Participate in architecture meetings and take part in making architecture decisions&lt;/p&gt;&lt;p&gt;- Provide knowledge transfer inside the company (document important parts of the system, provide workshops or lectures inside the company)&lt;/p&gt;&lt;p&gt;- Provide mentorship for junior developers and interns&lt;/p&gt;&lt;p&gt;- Analyse requirements and select technologies which will speed up implementation keeping quality on needed level&lt;/p&gt;&lt;p&gt;- Provide estimations for all related tasks&lt;/p&gt;&lt;p&gt;- Perform issue- and bug-fixing&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Education and experience:&lt;/p&gt;&lt;p&gt;- A bachelor’s degree or higher&lt;/p&gt;&lt;p&gt;- At least 4 years of experience in Javascript development an how web works&lt;/p&gt;&lt;p&gt;- At least 2 years of pertinent experience at the similar senior position&lt;/p&gt;&lt;p&gt;- Knowledge of software engineering processes&lt;/p&gt;&lt;p&gt;- Experience in designing software solutions&lt;/p&gt;&lt;p&gt;- Participation on key position in at least one successful project.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Technical competences and qualifications:&lt;/p&gt;&lt;p&gt;- Excellent analytical and problem-solving skills&lt;/p&gt;&lt;p&gt;- Deep knowledge of Javascript language&lt;/p&gt;&lt;p&gt;- Good understanding of building tools, for example Webpack&lt;/p&gt;&lt;p&gt;- NodeJS knowledge and how it differs from developing client-side applications is a plus&lt;/p&gt;&lt;p&gt;- Experience in optimizing web assets and content (chunking, server-side (pre)rendering, lazy loading, etc.)&lt;/p&gt;&lt;p&gt;- Skilled at writing tests (test-driven approach is preferred) and using UI testing frameworks&lt;/p&gt;&lt;p&gt;- Proficiency in html/css markup&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Required soft skills:&lt;/p&gt;&lt;p&gt;- Impeccable communication, presentation and organizational skills&lt;/p&gt;&lt;p&gt;- Significant attention to details&lt;/p&gt;&lt;p&gt;- Maintain a positive attitude while giving and receiving constructive criticism to make improvements and take appropriate corrective actions&lt;/p&gt;&lt;p&gt;- Honesty and ethic&lt;/p&gt;&lt;p&gt;- Be open to changes (positive or negative) and to considerable variety in the work place&lt;/p&gt;&lt;p&gt;- Willingness to take on responsibilities and challenges&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Working Conditions:&lt;/p&gt;&lt;p&gt;- Full time position with Soramitsu company in Russia&lt;/p&gt;&lt;p&gt;- Flexible 40 working hours/ week&lt;/p&gt;&lt;p&gt;- Group benefit program&lt;/p&gt;&lt;p&gt;- Social committee&lt;/p&gt;&lt;p&gt;- Relaxed work environment&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Our technologies:&lt;/p&gt;&lt;p&gt;- React / Vuejs as front-end frameworks&lt;/p&gt;&lt;p&gt;- Cloud-based environment&lt;/p&gt;&lt;p&gt;- JIRA as task-tracker&lt;/p&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://soramitsu.freshteam.com/jobs/2ERW4NQ36t5G/senior-front-end-developer-remote?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/f39da0ab-05c7-45a0-927c-be31562fdec2_soramitsu-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Soramitsu@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[MIJAd30AEijTrYWR61dRA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Soramitsu]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[DevOps Tech Support Engineer (Shifted work) (Remote)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8582,6 +8619,38 @@ positive, constructive team member.<br /></li></ol>
     <reference/>
     <employer_name><![CDATA[Soramitsu]]></employer_name>
     <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[IOS (Swift) Developer (Remote)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Soramitsu]]></company>
+    <company_url><![CDATA[https://soramitsu.co.jp/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;The Company&lt;/strong&gt; - Soramitsu is a blockchain technology company based in Japan&lt;strong&gt;.&amp;nbsp;&lt;/strong&gt;We are focusing on products for financial markets based on the Hyperledger Iroha blockchain platform. Two main product streams are digital asset management solutions including innovative payment solutions and a digital identity platform that supports transparent and secure exchange of information according to the financial KYC requirements. The company was established in 2016 and currently employs more than 80 people in Japan, Russia, USA and Cambodia.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technical competencies and qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Excellent analytical and problem-solving skills &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;An excellent understanding of development and testing methodologies (test-driven approach is preferred), object-oriented and protocol-oriented programming best practices;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Proficiency in architecture design of software systems with SOLID principles; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Participate in architecture development and code review;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Experience with multi-threaded, asynchronous code&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Git usage experience, along with related workflows&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Knowledge of basic algorithms, data structures, and design patterns&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Experience requirements:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;3+ years experience in iOS app development with a strength in Swift&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Good knowledge of the general mobile landscape, architectures, trends, and emerging technologies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Good &amp;nbsp;understanding of the full mobile development life cycle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Significant experience in software development, including work with third-party libraries and APIs&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Deep understanding of iOS frameworks such as Core Data and Core &amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Animation, along with offline storage, threading, and performance tuning&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Required soft skills:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Good English (read and spoken)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Communication, presentation, and organizational skills&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Significant attention to details&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Maintain a positive attitude while giving and receiving constructive criticism to make improvements and take appropriate corrective actions&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Be open to changes (positive or negative) and to considerable variety in the workplace&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;Willingness to take on responsibilities and challenges&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://soramitsu.freshteam.com/jobs/-BJyjur4gCC0/ios-swift-developer-remote?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/f39da0ab-05c7-45a0-927c-be31562fdec2_soramitsu-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Soramitsu@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[MIJAd30AEijTrYWR61dRA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Soramitsu]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Software Engineer]]></title>
@@ -9552,43 +9621,6 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Caleb And Brown]]></employer_name>
     <category><![CDATA[ Finance & Accounting ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Senior Frontend Developer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Caleb And Brown]]></company>
-    <company_url><![CDATA[https://www.calebandbrown.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[Description
-<p>Entirely self-funded by a small team we have grown in the last five years to become one of the leading cryptocurrency brokerage firms. By fostering a culture of crypto experience married with professional services, we are building the bridge to the traditional financial world via a white-glove service model to ensure our customers are getting the right assistance in their cryptocurrency investment journey.</p><p>Our team is looking for an experienced Senior Frontend Developer to create code, solve problems, formulate efficient processes, and create a seamless experience for users. You will be working in a motivated and ambitious culture built around autonomy and results. You will work directly with our founders in shaping the new fintech industry around cryptocurrency.<br><br></p> <p><strong>What you will be doing:</strong></p><ul> <li>Leverage the inbuilt React toolkit for creating frontend features</li> <li>Create data visualization tools, libraries, and reusable code for prospects</li> </ul><ul><li>Work with a team of developers and designers to enhance UI features</li></ul>
-Requirements
-<ul> <li>Design systems</li> <li>Strong proficiency in frontend Javascript </li> <li>Experience in Web Development with Typescript/JavaScript</li> <li>Experience with ReactJS and NodeJS and their workflows</li> <li>Experience with Google Cloud, AWS or Azure</li> <li>Development experience with RESTful web services</li> <li>Experience working with Git and Continuous Integration</li> <li>Experience in collaborating with stakeholders to provide business solutions</li> <li>Experience with design-systems, design thinking and modular, responsive content</li> </ul>
-Benefits
-<ul> <li>Learn from a team of experienced cryptocurrency experts</li> <li>Ongoing training and industry development</li> <li>Group events, lunches, outings, extremely friendly and supportive team members</li> </ul><p>This position presents as an exceptional opportunity to be part of a fast-growing and internationally expanding business while working with a dynamic and multicultural team. Join us in our top-notch private space in Cremorne, the heart of Melbourne’s startup scene.</p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/caleb-and-brown-pty-ltd/j/68FA5A06A6/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/6583487d-c5ed-4b72-a893-e350209e8114_Caleb__And_Brown-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+CalebAndBrown@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[J9EnLtJJ1USP1JPvONFpbQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Caleb And Brown]]></employer_name>
-    <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Full Stack Engineer]]></title>
@@ -13128,6 +13160,78 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[Finoa]]></employer_name>
     <category><![CDATA[ Sales And Business Development ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Backend Engineer (m/f/d)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Finoa]]></company>
+    <company_url><![CDATA[https://www.finoa.io/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Berlin, Germany]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<h2 id="job-description">Job description</h2>
+<p>The Backend Engineer will work with the team to improve and build new back-end applications and process, analysing current codes and industry developments You will work with the latest blockchain technology, integrating it into our backend, and creating a more seamless experience for users.</p>
+<ul>
+<li><p>Deliver quality software solutions, have influence in the whole development cycle from architecture design, to implementation, testing, and maintenance</p>
+</li>
+<li><p>Design and deliver new products and services that help move the company forward</p>
+</li>
+<li><p>Write code that your peers praise for their elegance and add value by leveraging current trends in software design, architecture, and technology</p>
+</li>
+<li><p>Stay up-to-date on the latest developments in technology, performance and security to ensure the highest levels of stability and safety for the customer.</p>
+</li>
+<li><p>Working in an agile environment according to DevOps methodology and concepts</p>
+</li>
+</ul>
+<h2 id="requirements">Requirements</h2>
+<ul>
+<li><p>BS/MS degree or higher in Computer Science, Engineering, or another related subject.</p>
+</li>
+<li><p>Experienced in NodeJS (Typescript) and good SQL knowledge</p>
+</li>
+<li><p>Broad view on different software architectures, programming technologies and languages. </p>
+</li>
+<li><p>Some experience or interaction with cryptography, major public blockchains, or FinTech</p>
+</li>
+</ul>
+<p><strong>Great if you have this, but not essential</strong></p>
+<ul>
+<li><p>Experience with C and/or C++</p>
+</li>
+<li><p>Experience with DevOps methodology and concepts</p>
+</li>
+</ul>
+<p><strong>What you can expect from us</strong></p>
+<ul>
+<li><strong>Diverse and inclusive team:</strong> We are from 10+ different countries with diversity of both thought and background on a mission to disrupt the digital asset industry. We support each other and take pride in our achievements. We attract talents from companies like McKinsey, Credit Suisse, JP Morgan, Google, Moonfare, and N26.</li>
+<li><strong>Ownership &amp; learning-curve:</strong> Opportunity to make an active contribution to the growth story of one of the leading disruptors in the FinTech industry.</li>
+<li>Communication: We treat our staff like owners by being open, transparent, and providing regular communication about our direction and progress. We provide regular insights into decision making, strategy, and company-wide OKR progress so that each of our employees is aligned and empowered. We are also always aiming to improve how we can more effectively communicate.</li>
+<li><strong>Office:</strong> We offer both the flexibility to work remotely or to work in style and comfort from our modern office at Checkpoint Charlie, the heart of Berlin (at the moment, we all work from home).  </li>
+</ul>
+<p><em>Finoa is an equal opportunity employer devoted to diversity and inclusion in the workplace. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status.</em></p>
+]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://finoa.join.com/jobs/3309149-backend-engineer-m-f-d?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/b79c6a5b-9711-4267-8007-de1e394c6334_finoa-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Finoa@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[z1wo1ydP0U6Y8uSpFisjw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Finoa]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Graphic Designer]]></title>
