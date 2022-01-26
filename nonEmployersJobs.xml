@@ -1568,38 +1568,6 @@
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Core Researcher]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Terraform Labs]]></company>
-    <company_url><![CDATA[https://terra.money/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote Worldwide]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<p>Terra’s mission is to set money free. We believe that money is a form of technology that can be innovated on. As a pioneer in monetary technology, we build open infrastructure, rethink monetary policy, and create revolutionary applications that sets the stage for open financial platforms.   <br></p><p><p><strong>Some examples include:</strong><br></p><ul><li>Mirror : Mirror is a synthetic asset protocol built on top of the Terra blockchain. These 'mirrored asset' (mAssets) are tokens that track the price of the underlying real life asset, such as stocks, ETFs, commodities etc. The vision of mirror is to allow unfettered access to global markets. By utilizing Terra's stable coins, liquidity for the Mirror Protocol is greatly improved, and the decentralized nature of the protocol allows for immediate access from anywhere in the world. Mirror investors are able to freely access the protocol by both web and mobile application. With Mirror, users are able to join in the value-creation process seen in real financial markets.</li><li>Anchor : Anchor is a savings protocol that provides stablecoin depositors with a stable interest rate that is much more competitive to traditional savings products. </li></ul><p><p><strong>As featured in:</strong><br></p><ul><li><strong>Bloomberg</strong>: "<a>Novogratz Invests in Crypto Startup Serving Millions in Korea</a>"</li><li><strong>Coindesk</strong>: "<a>Galaxy, Coinbase Bet $25M on DeFi Using Terra Stablecoins</a>"</li><li><strong>NASDAQ</strong>: "<a>Terra Brings 24-Hour Trading to Synthetic Versions of Stocks Like TSLA and AAPL</a>"</li><li><strong>Yahoo! Finance</strong>: "<a>TerraMirror Wallet Offers Robinhood-Like Trading Experience and Access to Top 12 US Stocks to Anyone in the World's plan for a blockchain PayPal alternative gets $32m from top crypto exchanges</a>"</li></ul><p><br></p><p><strong></strong><strong>You will be solving these problems at Terra: </strong><br></p><ul><li>Design and analysis of novel economic and financial models to be built on the blockchain</li><li>Simulations to assess the behavior of economic systems under a variety of agent models</li><li>Risk modeling and stress-testing of developed mechanisms</li></ul><p><strong>You will find it easier to do your job if you have the following qualities. Needless to say, none of these qualities supersede your intellectual and professional curiosity</strong>:  <br></p><ul><li>English and/or Mandarin proficiency preferred</li><li>PhD or equivalent level in Economics or Quantitative Finance or 2+ years of experience as a Quantitative Trader/Researcher</li><li>Proficient at probabilistic modeling and scripting (Python/R)</li><li>Fluency in game theory and mechanism design a plus</li></ul><p>If you are tired of simply making money and hope to go down the rabbit hole to rethink how money works, then Terra is the right place for you. <br></p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://terra.breezy.hr/p/eebd747b7ab6-core-researcher/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/615e6b28-dc49-4b82-9032-4768fb82c4ad_Terraform_Labs-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+TerraformLabs@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[2zKDaNgvBUqmnmVGCQ7ZNA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Terraform Labs]]></employer_name>
-    <category><![CDATA[  ]]></category>
-  </job>
-<job>
     <title><![CDATA[DevOps Engineer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -2687,7 +2655,7 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Fullstack Engineer]]></title>
+    <title><![CDATA[Don't see your role?]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Centrifuge]]></company>
@@ -2698,13 +2666,13 @@ Benefits
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[<div>Centrifuge is an early-stage startup with a big mission to bridge real-world finance to DeFi (decentralized finance). We do this by tokenizing real-world assets, like invoices, as NFTs (non-fungible tokens) so that they can be financed through our Tinlake pools at&nbsp;<a href="http://tinlake.centrifuge.io/" class="postings-link">tinlake.centrifuge.io</a>. With over $25m TVL (total value locked), Tinlake is the largest DeFi protocol that is financing real world assets and we are only just getting started. Upending traditional finance by unlocking wealth instruments for everyone is our mission, full stop 💪.</div><div><br></div><div>Our team is a self-managed organization of 25 (and growing) that gives plenty of space to experiment and fit into the roles that are most exciting. We value diversity, which is reflected in our team. Now that the pandemic is ending, we can get back to regularly hosting off-sites and offering office space.</div><br/>Responsibilites<br/><li>Create and maintain our Dapp hosted at&nbsp;<a href="https://tinlake.centrifuge.io/" class="postings-link">tinlake.centrifuge.io</a></li><li>Bring financially and technically challenging products to crypto-experts and novices alike.</li><li>Optimize UI/UX of our frontends based on user feedback.</li><li>Architect and implement new features that are enabled by advances in our blockchain stack.</li><li>Build software with TypeScript, occasionally working with tools and applications that support both the frontend and backend (e.g. The Graph—a data layer that aggregates and indices data from Ethereum—or our user dashboard).</li><li>Work on our open-source codebase together with internal and external contributors.</li><li>Support the Centrifuge network overall, with a focus on users.</li><li>Prioritize scalability, security, and ease of deployment for our end-users.</li><li>Drive your projects from inception to completion by owning your own deliverable and collaborating with your teammates.</li><br/>Requirements<br/><li>You love being at the forefront of fast-moving codebases and are comfortable working in flat hierarchies under agile development and quickly changing requirements.</li><li>You have 3+ years of professional software development experience.</li><li>You professionally developed software written in TypeScript for 2+ years.</li><li>You are passionate about user experience and love working with smart, nice people.</li><li>A strong and proven computer science or computer engineering background.</li><li>Track record of high quality, well-crafted code that has been used in production environments.</li><br/>Tech Stack<br/><li>TypeScript</li><li>React (NextJS)</li><li>Redux</li><li>Node (NestJS)</li><li>GraphQL</li><li>Grommet Component Library</li><li>Styled-Components</li><li>Cypress</li><li>Github Actions</li><li>Netlify</li><div><span style="font-size: 16px">There is no preferred work location, but you will be working primarily with a Berlin and NYC timezone. Compensation is blockchain competitive + based on your experience.</span></div>]]></description>
+    <description><![CDATA[<div>If you don't see your role here, but feel your skillset can benefit Centrifuge, please send us a resume at jobs@centrifuge.io </div><div><br></div><div><b style="font-size: 16px">About Centrifuge</b></div><div>We are an early-stage startup with a big mission to bridge real-world finance to DeFi. We do this by tokenizing real-world assets, like invoices, so that they can be financed through our Tinlake pools at&nbsp;<a href="http://tinlake.centrifuge.io/" class="postings-link">tinlake.centrifuge.io</a>. Tinlake has over $2m TVL, with major features in the coming months to exponentially expand our growth.</div><div>Our team is a self-managed organization of 16 (and growing) that gives you plenty of space to experiment and fit into the roles that excite you the most. We value diversity, which is reflected in our team. We host regular off-sites (post-covid) and offer office space in Berlin.</div><div><span style="font-size: 16px">There is no preferred work location, but you will be working primarily with a Berlin and NYC timezone. Compensation is blockchain competitive + based on your experience.</span></div>]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://jobs.lever.co/centrifuge/244267c7-ca4f-4ad1-bdf1-6c6da8c1daea/apply?ref=crypto-careers.com]]></apply_url>
+    <apply_url><![CDATA[https://jobs.lever.co/centrifuge/c0f7a908-8d9e-4f3c-9b15-a4f81e033484/apply?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/c9518132-187b-4b22-b665-8ef0851de771_centrifuge_400x400.jpg]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -2716,7 +2684,7 @@ Benefits
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Centrifuge]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
+    <category><![CDATA[  ]]></category>
   </job>
 <job>
     <title><![CDATA[Technical Lead]]></title>
@@ -11423,6 +11391,38 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
+    <title><![CDATA[Senior Architect - API & Blockchain]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[CoinFlip]]></company>
+    <company_url><![CDATA[https://coinflip.tech/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Tampa, FL or Chicago, IL]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>CoinFlip is a leading financial services platform focused on the digital economy. Headquartered in Chicago, CoinFlip operates the world’s largest network of cryptocurrency ATMs by volume and an over-the-counter trading desk, giving the world quick, easy, and secure access to the benefits of cryptocurrency.</div><div><br></div><div>CoinFlip placed No. 60 on the 2021 Inc. 5000 list, making it the top-ranked cryptocurrency company in the most prestigious ranking of the nation’s fastest-growing private companies. CoinFlip was also named the 2021 #1 fastest-growing company in Chicago by Crain’s and was awarded the 2021 Silver Stevie ® Award for Customer Service.</div><div><br></div><div>With a 5-year growth rate of 1,715,091.9%, the company is looking to quickly expand its current headcount across all departments. It’s an exciting time to join CoinFlip as it plans to add additional business lines, expand internationally, and cement itself as a leading fintech company.</div><div><br></div><div><span style="font-size: 11pt">As a Senior Blockchain Engineer, you will be a key member of the Platform Engineering team designing our next generation, crypto powered, financial services platform.&nbsp; In collaboration with Product Managers, Platform Engineers and our ecosystem partners, you will design and implement our on-chain infrastructure components including nodes, bridges and oracles.</span></div><br/>Responsibilities<br/><li>Lead design and development on the blockchain infrastructure elements</li><li>Serve as the organization SME and advise on blockchain integration techniques including the proper use of relevant APIs and libraries</li><li>Work with the Platform Assurance team and Information Security to establish proper operations, management and security controls and processes..Engage in both product definition and development of the microservices related to blockchain integration.</li><li>Provide guidance related to securing interactions between the core cloud platform and various blockchain technologies.</li><br/>Requirements<br/><li>B.S. in Computer Science or Software Engineering. Graduate degree in one of these fields is preferred.</li><li>At least 3 years of experience with blockchain technology integrations including a deep understanding of blockchain concepts and hands-on development experience.</li><li>Proven expertise implementing Bitcoin and Ethereum nodes (validator, full, archive)At least 5 years of senior-level Java programming including development of Spring Boot microservices.</li><li>Significant exposure to integration with blockchain developer platforms such as QuickNode, Blockdaemon, or Alchemy.</li><li>Preferred: Experience with developer-oriented blockchain technologies such as Ethereum smart contracts and Web3 libraries.</li><li>Preferred: Experience with financial systems or other environments with high transaction throughput and stringent security requirements.</li><li>Preferred: Experience working with agile methodologies (Kanban, CI/CD, TDD, Paired Programming)Preferred: Experience with Google Cloud and GKE.</li><div>Working at Coinflip means collaborating with experienced, people-first leaders with a clear vision and a track record of success. We offer a collaborative, positive working environment where we encourage employees to balance productivity with the need to recharge the batteries. And of course, you get paid pretty well - we offer competitive compensation packages, including equity, performance-based incentives, and competitive benefits for full-time employees.</div><div><br></div><div>CoinFlip values diversity in the workplace and is an equal opportunity employer. We are committed to providing an inclusive and accessible work environment. We thank all candidates who apply, but only those selected for an interview will be contacted. By applying to this role, you give express consent that CoinFlip may send you informational text (SMS) messages regarding this role, your application, and the application process. You can cancel the SMS service at any time by replying "STOP" to the text message you received. If at any time you forget what keywords are supported, just reply "HELP" to the text message you received.&nbsp; Message and data rates apply. If you require an accommodation, please let us know. We will work with you to meet your needs.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/CoinFlip/5b00d2d9-6d22-4b37-a4cb-b02f8bac1fca/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/0056658c-a57d-4547-b7da-3b105f7333fd_coinflip-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+CoinFlip@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[gsTiuqZ7U2KuoC1oWi6A]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[CoinFlip]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[Product Marketing Manager (Remote Optional)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -12829,7 +12829,7 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Public Sector Sales Executive]]></title>
+    <title><![CDATA[Account Executive (Public Sector)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Lukka]]></company>
