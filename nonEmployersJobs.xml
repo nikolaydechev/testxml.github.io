@@ -1504,6 +1504,38 @@
     <category><![CDATA[ Customer Services ]]></category>
   </job>
 <job>
+    <title><![CDATA[Ethereum Smart Contract Solidity Developer (US Remote)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Token Metrics]]></company>
+    <company_url><![CDATA[https://tokenmetrics.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[New York, NY]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div>Token Metrics is seeking an <b>Ethereum Smart Contract Solidity Developer &nbsp;</b>to help our team with Ethereum smart contract and protocol development. Your duties will include programming Ethereum smart contracts, tokens, protocols, cryptocurrency techniques that will lead industry standards and more.</div><div><br></div><div>To be successful in this role, you should demonstrate&nbsp;<b>passion for blockchain,&nbsp;open source, and decentralized finance,</b>&nbsp;have strong programming and development skills and the ability to communicate well.</div><br/>Responsibilities<br/><li>Designing and implementing new features within the product such as cryptocurrency staking, the aggregation of external data in various blockchain environments, and many more problems.</li><li>Thinking creatively about attack vectors, possible failures and disaster scenarios, modeling them in reproducible test environments, and developing fixes.</li><li>Modeling and developing user behaviors.</li><li>Managing the architectural vision for a decentralized investment platform.</li><li>Implementing resilient distributed systems to achieve extremely high reliability in a variety of blockchain environments.</li><br/>Requirements<br/><li>Professional software development experience.</li><li>Major in computer science, software engineering or related engineering or technical field.</li><li>Experience with test driven development and the use of testing frameworks.</li><li>Knowledge of systems design concepts and experience developing complex web applications / services and back-end APIs. </li><li>Experience with distributed systems and/or container orchestration, highly-concurrent systems, particularly those employing the “communicating sequential processes” (CSP) model.</li><li>Strong communication skills, specifically giving/receiving constructive feedback in a collaborative setting.</li><li>Professional experience with Golang, TypeScript, Solidity, Rust, Docker, Postgres.</li><li>Concrete experience interacting with Ethereum and other blockchains.</li><li>Experience defining security strategies and securing high-value systems.</li><li>Comfort with pair programming.</li><li>Experience with Continuous Integration and Continuous Delivery.</li><div><span style="font-size: 24px">About Token Metrics</span></div><div><br></div><div>Token Metrics helps crypto investors build profitable portfolios using artificial intelligence based crypto indices, rankings, and price predictions.&nbsp;</div><div><br></div><div>Token Metrics has a diverse set of customers, from retail investors and traders to crypto fund managers, in more than 50 countries.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/tokenmetrics/e3020d48-1eaa-4c3b-9cc7-941dd193871d/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/3a52640f-f24a-4a95-990d-4748582f2bca_Token_Metrics-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+TokenMetrics@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[NwO1sh81ZkeGZDzeAAwaMw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Token Metrics]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[(HR) Recruiter]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -4241,71 +4273,6 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Simplex]]></employer_name>
     <category><![CDATA[ Customer Services ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Compliance Specialist]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Simplex]]></company>
-    <company_url><![CDATA[https://www.simplex.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Lithuania]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;Simplex, a Nuvei company, is a B2B2C fintech company leading the mainstream adoption of crypto by offering a variety of fiat/crypto on and off-ramp solutions. Our network of over 250 customers spans the entire crypto ecosystem including all the leading exchanges, wallets and information sites.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;At Simplex we think big and act fast, giving you the opportunity to grow, innovate, and be part of the rapidly evolving financial landscape. Now a Nuvei company, we are a global market leader and pioneer in the payments innovation space and value those who question the status quo.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Come join us and help define the next generation of payment services, fraud prevention and cryptocurrency.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We are looking for people who are driven, eager to learn, and most importantly, want to perform within a company while making Compliance part of its culture.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;In this role, you’ll get to:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Perform ongoing transaction monitoring and/or KYC ensuring constant compliance of KYC, AML, and CTF program, processes, instructions that are applicable in the Company.&lt;/li&gt;
-&lt;li&gt;Be up-to-date with ongoing legislation changes, regulatory recommendations and industry best practices on AML/CTF, KYC, Client onboarding, PEP and sanction screening and advising Management and relevant Company personnel accordingly.&lt;/li&gt;
-&lt;li&gt;Monitoring of customers and transactions by investigating alerts generated by internal systems.&lt;/li&gt;
-&lt;li&gt;Analyzing customer&#39;s information and transactions using internal/external systems, public databases and records.&lt;/li&gt;
-&lt;li&gt;Identification of suspicious and unusual activity and escalation to further internal teams.&lt;/li&gt;
-&lt;li&gt;Preparation of a summary of investigation and overview of customer’s activity and escalation to Money laundering reporting officer.&lt;/li&gt;
-&lt;li&gt;Contribution to a good working environment by taking on a positive and constructive approach in cooperation with colleagues and giving honest feedback ensuring the drive of high performance in the unit.&lt;/li&gt;
-&lt;li&gt;Constantly provide feedback on possible/needed processes/procedures changes and improvements.&lt;/li&gt;
-&lt;li&gt;Carrying out other tasks and targets set by the Head of Compliance/MLRO&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;strong&gt;What do you need:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;At least 1 year of experience in financial services-related areas.&lt;/li&gt;
-&lt;li&gt;Basic knowledge in AML/CFT, Sanctions, KYC, and transactions monitoring&lt;/li&gt;
-&lt;li&gt;Fluency in Lithuanian and English.&lt;/li&gt;
-&lt;li&gt;Good analytical skills and willingness to do precise and accurate routine job.&lt;/li&gt;
-&lt;li&gt;High ethical standards, a strong sense of responsibility and commitment to results.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;strong&gt;What’s in it for you:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ability to shape and be part of challenging Fintech industry&lt;/li&gt;
-&lt;li&gt;Office perks, great atmosphere and company events + a lot more to explore! (after lockdown :)&lt;/li&gt;
-&lt;li&gt;Private Health insurance&lt;/li&gt;
-&lt;li&gt;Wolt food budget&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Young, international and talented team&lt;/li&gt;
-&lt;li&gt;Space for personal and professional improvements&lt;/li&gt;
-&lt;li&gt;And more!&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/simplex/jobs/4717834002?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/094008df-7b46-4985-8580-d0a49e2b5290_simplex-400x400.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Simplex@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[JEty95uuEamXFd6OEyd9g]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Simplex]]></employer_name>
-    <category><![CDATA[ Legal & Compliance ]]></category>
   </job>
 <job>
     <title><![CDATA[Frontend Developer]]></title>
@@ -7308,7 +7275,7 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Data Engineer, Crypto]]></title>
+    <title><![CDATA[Data Engineer, Crypto]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Foundry Digital]]></company>
@@ -7644,7 +7611,7 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Software Engineer, Crypto Staking]]></title>
+    <title><![CDATA[Software Engineer, Crypto Staking]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Foundry Digital]]></company>
@@ -8111,6 +8078,75 @@ positive, constructive team member.<br /></li></ol>
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Metrika]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Backend Developer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Simplex]]></company>
+    <company_url><![CDATA[https://www.simplex.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Israel]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Simplex is a global leading fintech company, selected as one of the top 10 most impactful companies in Blockchain in 2019-2020. Simplex provides the fiat infrastructure for the cryptocurrency industry, working with leading banks and crypto exchanges and ensuring fraud-free payment processing.&lt;/strong&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Come join us and help define the next generation of payment services, fraud prevention, and cryptocurrency.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What you’ll do:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Guide and mentor the team of experienced developers&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;You&#39;ll have the chance to influence, define and take part in building our systems to the next level&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Create high-end technology fraud detection SaaS platform based on micro-services and serviceless technologies on AWS and GCP cloud platforms&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Develop scalable, real-time decision making a data-driven system by adopting the latest architectural and design principles and based on RDBMS and graph database&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Collaborate with other team members such as Analyst’s and Data scientists.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Build systems that are highly available, hold sensitive financial data, and include safety nets to avoid hackers/fraudsters employing large-scale fraud attacks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Challenges&lt;/strong&gt;:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Multi-tasking and dynamic environment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;To learn and implement advanced technologies&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Ability to work independently&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Requirements:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;B.Sc Computer Science, Mathematics or Statistics&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Solid experience as Python Developer&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;At least 5+ years of proven experience in developing robust, scalable SaaS platforms.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Knowledge in AWS&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Hands-on experience with backend development&amp;nbsp;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Knowledge and experience of Design &amp;amp; Architecture&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Experience in various databases (Postgres/ Redis/ Elastic/ etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Advantages:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Google Cloud&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Data pipeline architecture: experience with data pipeline and workflow management tools&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Leadership experience (scrum master, tech lead, team leader, etc.).&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Graph databases.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Experience in Microservices and serverless architecture&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;REST&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Git&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot;&gt;Linux&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/simplex/jobs/5393849002?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/094008df-7b46-4985-8580-d0a49e2b5290_simplex-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Simplex@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[JEty95uuEamXFd6OEyd9g]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Simplex]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
@@ -11141,6 +11177,58 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
+    <title><![CDATA[Head of Communications]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Amun Tokens]]></company>
+    <company_url><![CDATA[https://amun.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Amun 21Shares is looking for a Head of PR with deep public relations and media experience, ideally both in agency and in-house. This person should have a passion for storytelling is a must. Candidates should be comfortable managing agents as well as have pre-existing relationships with reporters. This role will be based in our NYC office.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop Amun &amp;amp; 21Shares’s strategy for media relations&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create a messaging framework for the company’s media strategy that ties to relevant societal, technology, and media trends&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write press releases, bylines, blog posts, and other key pieces of content&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Lead the identification, development, pitching and placement of company-related stories in top-tier media&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Managing press opportunities through to completion – including staffing interviews, developing background bios, briefing executive spokespeople and tracking through the publishing process&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Establish and nurture relationships with key media contacts&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create metrics to measure success and impact of corporate communications&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience in PR&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mix of agency and in-house experience&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Startup mentality and experience a plus&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Pre-existing relationships with reporters in the business and technology sectors&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strategic problem solver; intelligent and creative&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exceptional writing and editing skills&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extreme attention to detail&lt;/span&gt;&lt;/p&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4135305004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+AmunTokens@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
     <title><![CDATA[Editor in Chief]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -12983,6 +13071,105 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[Lukka]]></employer_name>
     <category><![CDATA[ Product Management ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Backend Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Lukka]]></company>
+    <company_url><![CDATA[https://www.lukka.tech/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p><span style="font-weight: bold;"><em>This role is currently remote as a result of Covid.  Will consider candidates from any USA location.  When safe to return to the NY office, where possible, local employees will be given the option for partial onsite return. </em></span></p>
+<p><br></p>
+<p><span style="font-weight: bold;">Who we are </span></p>
+<p> </p>
+<p><span>We are a trusted, blockchain-native technology team that delivers leading products to address the most complex data challenges</span><span style="font-weight: bold;">. </span><span>We build SaaS solutions and data services to convert data into auditable information to support management, financial and regulatory reporting. Our products automate and optimize accounting, audit and tax processes for funds, fund administrators, OTC and proprietary trading firms, exchanges, miners, protocols and accounting firms - and we are proud to call some of the largest ones our clients.</span></p>
+<p><br></p>
+<p><span style="font-weight: bold;">Who we need</span></p>
+<p> </p>
+<ul>
+<li><span>2+ years of experience building, scaling and maintaining production services, and understanding of how to compose a microservice or serverless architecture in either Java or Kotlin</span></li>
+<li><span>Knowledge of REST services, gRPC</span><span></span></li>
+<li><span>Understanding of OOP. Professional work experience with Functional Programming would be a plus</span><br></li>
+<li><span>Knowledge of with RDBMS (i.e. Postgres), various types of noSQL storage solutions</span></li>
+<li><span>Experience in AWS infrastructure, Kubernetes, Kafka, JVM performance tuning would be a nice advantage </span></li>
+</ul>
+<p><br></p>
+<p><span style="font-weight: bold;">What you’ll do</span></p>
+<p> </p>
+<ul>
+<li><span>Collaborate with cross-functional stakeholders from Product, Customer Success, and Engineering in order to deliver and enhance new and existing features of our flagship product Lukka Software Suite.  </span><br></li>
+<li><span>Work with senior team members to contribute planning, coding, testing and releasing your work</span></li>
+<li><span>Achieve on-time delivery without compromising quality</span></li>
+<li><span>Hit the ground running and be a full-fledged contributor to the corresponding project/team within 6 months</span></li>
+</ul>
+<p><br></p>
+<p><span style="font-weight: bold;">Why Join Lukka?</span></p>
+<p><br></p>
+<p>Are you looking for a challenge? Lukka solves the most complex data and technology challenges for an industry that is at the forefront of innovation.</p>
+<p><br></p>
+<p>At Lukka, we strive to anticipate and respond to the needs of this new and ever-changing ecosystem of digital assets. That was true in 2014, while everyone was focused on trading &amp; buying this new asset class, we were thinking about the tax implications of crypto. That innovative foresight continues today as we evolve and iterate on our product suite to address the regulations and educate our customers.</p>
+<p><br>We are looking for passionate, collaborative, and strategic individuals who want to help shape the future of, well, everything – starting with making crypto more accountable. We invest in our teammates, promote from within &amp; are responsible to each other by fostering an inclusive space for curious minds to thrive and innovate.</p>
+<p><br></p>
+<p><span style="font-weight: bold;">What are some common reasons our team members enjoy working @ Lukka? </span></p>
+<p><br></p>
+<ol>
+<li>Ability to own the projects they work on</li>
+<li>Less red-tape to take ideas from inception to delivery</li>
+<li>Being at the forefront of an industry</li>
+<li>Small team, big dreams</li>
+</ol>
+<p><br></p>
+<p><span style="font-weight: bold;">What’s life @ Lukka like? </span></p>
+<p><br></p>
+<p><span>We move fast and continue to be ahead of the curve. You could be part of a growing company bridging the gap between business and blockchain. </span></p>
+<p><span>Here’s some insight into why our team members have joined:</span></p>
+<ul>
+<li><span>Ability to own the projects they work on </span></li>
+<li><span>Less red-tape to take ideas from inception to delivery</span></li>
+<li><span>Being at the forefront of an industry</span></li>
+<li><span>Small team, big dreams</span></li>
+</ul>
+<p><br></p>
+<p><span style="font-weight: bold;">Of course, let’s discuss some perks:</span></p>
+<p><br></p>
+<ol>
+<li>Health and Dental insurance covered at 100% for employees and 70% for dependents<br></li>
+<li><span>Flexible PTO - burnout is a real thing, we encourage all employees to get out and recharge</span></li>
+<li><span>Generous Parental Leave - Your growing family is important to you and thus important to us</span><span></span><br></li>
+<li>We work in a rapidly growing industry and we need to also constantly grow. We can’t stay ahead of the curve if we aren’t learning. Every employee is given an annual learning allowance and encouraged to use it</li>
+<li>We want you for the long haul. We’re a team on a mission and we want you to grow your career with us. Promoting from within is not just something we say, but something we do</li>
+<li>Hard work is rewarded at Lukka. Our recognition programs are designed with you in mind – we provide free crypto to all new employees for learning purposes</li>
+<li><span>Team events - recent nights have included kickboxing, game night, and happy hour!</span></li>
+<li><span>In-office Fitness Studio - whether you want to lift, meditate or pedal it out on our Peloton; you’ve got the ability to do so</span></li>
+</ol>
+<p><br></p>
+<p>So you’ve scrolled, your interest is piqued and hopefully read all of the important things...now what? </p>
+<p><br></p>
+<p><span>This is an exciting time to join a team that’s at the forefront of this rapidly growing industry. We are looking for people who constantly push themselves to think differently, are ready to face new challenges and chart exciting new paths. If this excites you, apply now!  </span></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://lukka.bamboohr.com/jobs/view.php?id=18&ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/8d4f4ce8-6204-4b8c-bdfa-4a7513857132_lukka_400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Lukka@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[2yr45XmkukSKj7D7Ev9Mfg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Lukka]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Frontend Engineer]]></title>
