@@ -5456,7 +5456,7 @@ Benefits
     <company><![CDATA[CoinDCX]]></company>
     <company_url><![CDATA[https://coindcx.com/]]></company_url>
     <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Mumbai/Bangalore, India]]></location>
+    <location><![CDATA[Bangalore/Mumbai, India]]></location>
     <city><![CDATA[]]></city>
     <state><![CDATA[]]></state>
     <zip/>
@@ -9252,38 +9252,6 @@ Benefits
     <category><![CDATA[ Marketing & PR ]]></category>
   </job>
 <job>
-    <title><![CDATA[Software Engineer (Internship / Working Student)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Staking Rewards]]></company>
-    <company_url><![CDATA[https://www.stakingrewards.com/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote Worldwide]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<h1>Let's bring passive income to the masses! Shall we?</h1><p>We believe in a world with a decentralized, open, and transparent financial community. In the emerging ecosystem of Staking, DeFi, and Crypto Interest, we are creating a platform of trusted information and collaboration.<br></p><p>Are you self-driven, motivated, and interested in web3 technologies? Do you want to dig into Software Development and have a good analytical understand and some first experience in coding? We are looking for a passionate, methodical and interested Software Developer Intern or Working Student to help to build the Backend code for new asset integrations. </p><h2>Optimally you can take the following responsibilities:</h2><ul><li>Help our Backend team to write simple algorithms for aggregating blockchain data</li><li>Run your own code locally and test the results </li></ul><h2>You will find it easier to do your job if you have the following qualities. Needless to say, none of these qualities supersedes your intellectual and professional curiosity:</h2><ul><li>You have some basic experience in Software Development or Coding</li><li>You have an interest in blockchain, DLT, web3 technologies</li><li>You have an intuitive understanding of data structures</li><li>You enjoy collaborating with and learning from your teammates</li><li>You are creative and curious</li></ul><h2>Our offer to you:</h2><ul><li>Be part of a supportive work environment with the opportunity for explosive growth</li><li>Be part of a fast-growing crypto startup</li><li>Learn in a high-quality Software Development environment</li><li>Profit from crypto insights and get some Alpha </li><li>Flexible, lean &amp; remote working</li><li>Contribute your visions &amp; ideas - own your work</li></ul><h2>What we need from you to apply:</h2><ul><li>Send us your social profiles for Linkedin &amp; Github</li><li>Write us a brief text about yourself<ul><li>Why are you interested in Blockchain, Web3 or Staking?</li></ul></li></ul><p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://staking-rewards.breezy.hr/p/625ca7819d0e01-software-engineer-internship-working-student/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a83cc60c-5d64-4c2d-8a07-208683cfbc31_staking_rewards-400x400.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+StakingRewards@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[WCtyuSSjO023HgGknJMxg]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Staking Rewards]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Senior Accountant]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -9348,43 +9316,6 @@ Benefits
     <category><![CDATA[ Finance & Accounting ]]></category>
   </job>
 <job>
-    <title><![CDATA[Full Stack Software Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Reserve]]></company>
-    <company_url><![CDATA[https://reserve.org/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[Description
-<p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/d5332482640a1857e32468bc22667f47.jpeg"></p><p>At Reserve, we’re changing the Venezuelan financial system to allow access to US dollars. Dollar access is crucial to our users in order to cope with ongoing hyperinflation. We’re roughly 2/3 Venezuelan and 1/3 US American, funded by Sam Altman and Peter Thiel personally, and spread across North and South America. Before Reserve, our team members led two of the most prominent attempts to solve the problem of hyperinflation in Venezuela.<br></p> <p>We’ve created a series of tubes that allows any normal Venezuelan to convert their Bolivars (the local failed currency) into US dollars and back again in our app in a couple of minutes. This means that Venezuelans can use our app to easily save and spend in US dollars, and not have to worry about their money devaluing overnight. Because of the capital controls in Venezuela, this kind of financial service is not commonly available, and our early users are extremely appreciative of what we’ve built. New users are often skeptical we can deliver on what we say our app does until they try it, and often evangelize to their friends once they have seen it work. </p><p>This is the percentage of users that are still actively using the service after N weeks from their first time trying it</p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/495c37225c149431067e6ce6503ba683.png"><p><br></p><p>Our near-term ambition is to support the entire Venezuelan economy transacting digitally in US dollars, escaping the issues posed by the hyperinflation our country has suffered for the last decade.</p><p>In the long term, Reserve aims to eliminate hyperinflation globally, by offering the same service in other countries and eventually launching a currency that’s independent of the US dollar. But, let’s not get carried away, one step at a time! Right now we are aiming to serve 10M+ Venezuelans, and we’re looking at Argentina next. Reserve is ultimately a cryptocurrency project, but right now what we are doing is more like Cash App meets BitTorrent. <br><br></p> <h3>Why we’re hiring</h3><p>Despite all we have going for us (yes, we are proud!) our app still sucks in various ways. As we write this, we have a long waitlist of would-be users who are getting impatient with us (publicly – like, accumulating 1-star reviews from people who are upset that they are still waiting to get in 😬). We aren’t able to let them join, because of the challenges we face in scaling the series of tubes referenced above. We have pretty clear plans for how to scale, but there are still puzzles to handle and we’re sure there will be unexpected twists and turns. Until recently, we’ve been mostly product– and research–oriented, understanding our users and settling on what our app needs to offer.</p><p>Now that our early adopters are loving us and evangelizing, we need to grow our engineering team to deliver the same level of service to a much larger audience.<br></p> <p>So, we urgently need your creative, driven, articulate, altruistic mind to thoughtfully and efficiently grok these challenges, reach clear solutions, and – sometimes on your own and sometimes with a team – implement them. We’re willing to compete with Amazon/Google/Apple/Netflix on compensation in order to hire the absolute best people we can find, because we just <em>have</em> to get this right, and because we have the cash treasury to comfortably do so, having done very well in the crypto markets. So, we can offer an unusual degree of job security along with the impact, challenge, and potential financial upside of being a relatively early startup.<br><br></p><h3>Our engineering team</h3><p>Our small engineering team consists of two US Americans, two Argentinians, and one Venezuelan. Including two ex-Googlers, one 20-year founder/contractor-type, an early blockchain dev, and a recent grad. Some of us are part of the Effective Altruism / AGI sphere, and all of us care a great deal about clear thinking, doing good work, and getting things right.</p><p>This is us. Venezuelans on our team typically stay anonymous. <img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/7e78ebd32d56bcb408ca6889fe891021.png"></p><p>We’ve read Paul Graham, Peter Thiel, Scott Alexander, Ray Dalio, Nick Szabo, Greg Egan, Isaac Asimov, Douglas Hofstadter, Daniel Kahneman, Eliezer Yudkowsky, and Nick Bostrom between us, but we haven’t all read all of them. We recognize that everyone has strengths and weaknesses and we structure our work to cover each other, but we also recognize that the best programmers are indeed 10-100x as productive as the median and we work hard to increase the average effectiveness of our team with each new hire.<br></p> <p>We lean towards selecting and using the right tools for the jobs that arise, and we expect our team to learn new tools and skills when the time is right. Our <em>current</em> development stack includes React, React Native, Flask, and Postgres, deployed across Heroku and GCP. We’ve built and deployed smart contracts on Ethereum for custody of the underlying US dollars. Our Ethereum development stack includes Brownie and web3.py, plus a few open-source tools we’ve built ourselves (in Go and Python) for testing, finding code coverage, deploying, and interacting with smart contracts.</p> <p>Our engineering work hours span from US Pacific Time to Venezuelan time (GMT-4). We use Discord, Zoom, Slack, and Asana. We love Roam, but given recent performance issues we’re using Notion. Our CTO and Head of Product lead our prioritization, and our CEO and COO are deeply involved with the product development process. Our CEO was a self-taught full stack developer long ago, so typically understands our high-level technical considerations.<br></p><h3> <br>The full stack role</h3><p>We’re currently hiring individual contributors and tech leads. All new team members should expect to spend the majority of their time implementing. We hire highly productive engineers with good judgment, which means you need to either be substantially experienced or otherwise unusually skilled in software engineering.</p><p>Our current and upcoming work includes:</p><ul> <li>mobile and web user interfaces</li> <li>back-end services</li> <li>data and database engineering</li> <li>system architecture<br> </li> </ul><p>As a full stack engineer, you will:</p><ul> <li>work on the Reserve mobile app and associated web portal, front and back end</li> <li>build in React Native, React.js, and Flask (Python)</li> </ul><h3> <br>The kind of engineers we hire</h3><p>We’re very excited about you if:</p><ul> <li>You take pride in figuring things out and making things work, and once you accept a challenge you enjoy getting into all of the little details and becoming a micro-expert in order to nail it.</li> <li>You can show us cool things you have built yourself in your own time, and/or a long list of projects you’ve had significant ownership over professionally that are related to the work we are doing (mobile, web, smart contracts).</li> <li>You are kind, conscientious, thoughtful, cooperative, and communicative.</li> <li>You have found ways of spending time, effort, or money on improving the world in a meaningful way (i.e. not just virtue signalling, though we don’t mind if you do that too).</li> <li>When we talk to you about something we are building, worrying about, or planning, you quickly understand what we are describing and have productive things to say.</li> <li>You have honed your ability to self-manage, so that when you take on relatively abstract projects you turn them into concrete, sensible plans and bring them to completion -- or if they end up not making sense you realize that quickly and help the team adjust course.</li> <li>You reliably accomplish impressive amounts of important progress on what really matters, whether it’s figuring things out, implementing, educating, evaluating new team members, or anything else that comes up.</li> <li>You prefer the startup life of challenges, uncertainty, invention, chaos, impact, responsibility, and autonomy, over the big-company life of predictability, bureaucracy, clarity, brand recognition, nice offices, and policy.</li> <li>You have enough relevant experience that you can quickly come to solid plans for how to implement whatever you are working on, and your code naturally matches or raises the bar of maintainability we achieve.</li> <li>You understand and appreciate the importance of helping people cope with hyperinflation, either because you have experienced it yourself at some point in your life, or because you are a curious and empathetic intellectual who dives into understanding such things, and are easily sucked into trying to solve humanitarian problems you encounter.</li> </ul><p><br></p><h3>In summary</h3><ul> <li> <strong>Location</strong>: anywhere, but expect to be online for a decent part of the US workday</li> <li> <strong>Seniority</strong>: both senior and junior engineers are considered, but standards are high</li> <li> <strong>Comp</strong>: we can match any offer you have, and can do full cash or RSR tokens</li> <li> <strong>Stability</strong>: we have a large cash treasury, so can offer high job security</li> <li> <strong>Purpose</strong>: Reserve helps people beat hyperinflation, and aims to eradicate it entirely</li> <li> <strong>Language</strong>: English native / bilingual proficiency </li> </ul>
-Requirements
-
-Benefits
-]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/reserve/j/BDAD521C3F/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/86e80f16-31bb-44fa-bc1f-929f2e204371_reserve-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Reserve@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[EkVoUq7dUiZm7Tgh3mkHA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Reserve]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Ethereum + web3 Software Engineer]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -9422,7 +9353,7 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Backend Software Engineer]]></title>
+    <title><![CDATA[Head of Crypto Strategy]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Reserve]]></company>
@@ -9434,7 +9365,7 @@ Benefits
     <zip/>
     <country><![CDATA[]]></country>
     <description><![CDATA[Description
-<p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/d5332482640a1857e32468bc22667f47.jpeg"></p><p>At Reserve, we’re changing the Venezuelan financial system to allow access to US dollars. Dollar access is crucial to our users in order to cope with ongoing hyperinflation. We’re roughly 2/3 Venezuelan and 1/3 US American, funded by Sam Altman and Peter Thiel personally, and spread across North and South America. Before Reserve, our team members led two of the most prominent attempts to solve the problem of hyperinflation in Venezuela.<br></p> <p>We’ve created a series of tubes that allows any normal Venezuelan to convert their Bolivars (the local failed currency) into US dollars and back again in our app in a couple of minutes. This means that Venezuelans can use our app to easily save and spend in US dollars, and not have to worry about their money devaluing overnight. Because of the capital controls in Venezuela, this kind of financial service is not commonly available, and our early users are extremely appreciative of what we’ve built. New users are often skeptical we can deliver on what we say our app does until they try it, and often evangelize to their friends once they have seen it work. </p><p>This is the percentage of users that are still actively using the service after N weeks from their first time trying it:</p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/5bd64b5a9a99a512bc0c3812d356e155.png"><p>Our near-term ambition is to support the entire Venezuelan economy transacting digitally in US dollars, escaping the issues posed by the hyperinflation our country has suffered for the last decade.</p><p>In the long term, Reserve aims to eliminate hyperinflation globally, by offering the same service in other countries and eventually launching a currency that’s independent of the US dollar. But, let’s not get carried away; one step at a time! Right now we are aiming to serve 10M+ Venezuelans, and we’re looking at Argentina next. Reserve is ultimately a cryptocurrency project, but right now what we are doing is more like Cash App meets BitTorrent. <br><br></p> <h3><em>Why we’re hiring</em></h3><p>Despite all we have going for us (yes, we are proud!) our app still sucks in various ways. As we write this, we have a long waitlist of would-be users who are getting impatient with us (publicly – like, accumulating 1-star reviews from people who are upset that they are still waiting to get in 😬). We aren’t able to let them join, because of the challenges we face in scaling the series of tubes referenced above. We have pretty clear plans for how to scale, but there are still puzzles to handle and we’re sure there will be unexpected twists and turns. Until recently, we’ve been mostly product–and research–oriented, understanding our users and settling on what our app needs to offer.</p><p>Now that our early adopters are loving us and evangelizing, we need to grow our engineering team to deliver the same level of service to a much larger audience.<br></p> <p>So, we urgently need your creative, driven, articulate, altruistic mind to thoughtfully and efficiently grok these challenges, reach clear solutions, and – sometimes on your own and sometimes with a team – implement them. We’re willing to compete with Amazon/Google/Apple/Netflix on compensation in order to hire the absolute best people we can find, because we just <em>have</em> to get this right, and because we have the cash treasury to comfortably do so, having done very well in the crypto markets. So, we can offer an unusual degree of job security along with the impact, challenge, and potential financial upside of being a relatively early startup.<br><br></p><h3><em>Our engineering team</em></h3><p>Our small engineering team consists of two US Americans, two Argentinians, and one Venezuelan. Including two ex-Googlers, one 20-year founder/contractor-type, an early blockchain dev, and a recent grad. Some of us are part of the Effective Altruism / AGI sphere, and all of us care a great deal about clear thinking, doing good work, and getting things right.</p><p>This is us. Venezuelans on our team typically stay anonymous.</p><p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/7e78ebd32d56bcb408ca6889fe891021.png"><br></p><p>We’ve read Paul Graham, Peter Thiel, Scott Alexander, Ray Dalio, Nick Szabo, Greg Egan, Isaac Asimov, Douglas Hofstadter, Daniel Kahneman, Eliezer Yudkowsky, and Nick Bostrom between us, but we haven’t all read all of them. We recognize that everyone has strengths and weaknesses and we structure our work to cover each other, but we also recognize that the best programmers are indeed 10-100x as productive as the median and we work hard to increase the average effectiveness of our team with each new hire.</p> <p>We lean towards selecting and using the right tools for the jobs that arise, and we expect our team to learn new tools and skills when the time is right. Our <em>current</em> development stack includes React, React Native, Flask, and Postgres, deployed across Heroku and GCP. We’ve built and deployed smart contracts on Ethereum for custody of the underlying US dollars. Our Ethereum development stack includes Brownie and web3.py, plus a few open-source tools we’ve built ourselves (in Go and Python) for testing, finding code coverage, deploying, and interacting with smart contracts.</p> <p>Our engineering work hours span from US Pacific Time to Venezuelan time (GMT-4). We use Discord, Zoom, Slack, and Asana. We love Roam, but given recent performance issues we’re using Notion. Our CTO and Head of Product lead our prioritization, and our CEO and COO are deeply involved with the product development process. Our CEO was a self-taught full stack developer long ago, so typically understands our high-level technical considerations.<br></p><h3><em><br>The backend role</em></h3><p>We’re currently hiring individual contributors and tech leads. All new team members should expect to spend the majority of their time implementing. We hire highly productive engineers with good judgment, which means you need to either be substantially experienced or otherwise unusually skilled in software engineering.</p><p>As a backend engineer, you might work on:</p><ul> <li>building and scaling our order-book exchange, in Python</li> <li>building a framework for automated interaction with 3rd party payment and banking services, using a variety of tools as needed</li> <li>maintaining or building new internal tools we use in smart contract engineering, likely in Go or Python</li> <li>improving scalability of our existing application as our user base grows</li> <li>systems for secret handling and private key management, in order to facilitate client applications accessing private keys, as well as users recovering private keys from cold storage</li> </ul><h3><em><br>The kind of engineers we hire</em></h3><p>We’re very excited about you if:</p><ul> <li>You take pride in figuring things out and making things work, and once you accept a challenge you enjoy getting into all of the little details and becoming a micro-expert in order to nail it.</li> <li>You can show us cool things you have built yourself in your own time, and/or a long list of projects you’ve had significant ownership over professionally that are related to the work we are doing (mobile, web, smart contracts).</li> <li>You are kind, conscientious, thoughtful, cooperative, and communicative.</li> <li>You have found ways of spending time, effort, or money on improving the world in a meaningful way (i.e. not just virtue signalling, though we don’t mind if you do that too).</li> <li>When we talk to you about something we are building, worrying about, or planning, you quickly understand what we are describing and have productive things to say.</li> <li>You have honed your ability to self-manage, so that when you take on relatively abstract projects you turn them into concrete, sensible plans and bring them to completion -- or if they end up not making sense you realize that quickly and help the team adjust course.</li> <li>You reliably accomplish impressive amounts of important progress on what really matters, whether it’s figuring things out, implementing, educating, evaluating new team members, or anything else that comes up.</li> <li>You prefer the startup life of challenges, uncertainty, invention, chaos, impact, responsibility, and autonomy, over the big-company life of predictability, bureaucracy, clarity, brand recognition, nice offices, and policy.</li> <li>You have enough relevant experience that you can quickly come to solid plans for how to implement whatever you are working on, and your code naturally matches or raises the bar of maintainability we achieve.</li> <li>You understand and appreciate the importance of helping people cope with hyperinflation, either because you have experienced it yourself at some point in your life, or because you are a curious and empathetic intellectual who dives into understanding such things, and are easily sucked into trying to solve humanitarian problems you encounter.</li> </ul><p><br></p><h3><em>In summary</em></h3><ul> <li> <strong>Location</strong>: anywhere, but expect to be online for a decent part of the US workday</li> <li> <strong>Seniority</strong>: both senior and junior engineers are considered, but standards are high</li> <li> <strong>Comp</strong>: we can match any offer you have, and can do full cash or RSR tokens.</li> <li> <strong>Stability</strong>: we have a large cash treasury, so can offer high job security</li> <li> <strong>Purpose</strong>: Reserve helps people beat hyperinflation, and aims to eradicate it entirely</li> <li> <strong>Language</strong>: English native / bilingual proficiency </li> </ul>
+<p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/998076b1cc1b30376f6a28851e517d7b.png"></p><p>At Reserve, we’re changing the Venezuelan financial system to allow access to US dollars. In the long term, Reserve aims to eliminate high inflation all around the world.  Eventually, we’ll launch a currency that’s independent from the US dollar. We’re ultimately a cryptocurrency project, but right now what we do is Cash App meets BitTorent.<br></p><p>Dollar access is crucial for our users in Venezuela and Argentina as well as their migrant relatives and friends in Colombia and Panamá to cope with ongoing high levels of inflation. Our team is distributed across 3 continents and 7 different countries. We’re funded by Sam Altman and Peter Thiel personally. Before Reserve, our team members led two of the most prominent attempts to solve the problem of hyperinflation in Venezuela.</p><p>We’ve created a series of channels that allow any normal Venezuelan to convert their Bolivars (the local failed currency) into US dollars and back again in our app in a couple of minutes. This means that Venezuelans can use our app to easily save and spend in US dollars, without having to worry about their money devaluing overnight. </p><p>Due to capital controls in Venezuela, this kind of financial service is not commonly available, and our early users are extremely appreciative of what we’ve built. New users are often skeptical that we can deliver what we promise…  until they try it, and often evangelize their friends once they have seen how our app works.</p><p>This is the percentage of users actively using the service after N weeks from their first time trying it:</p><p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/ccee3d8874f2f2acef5170c644b1464d.png"></p><p>Our short-term goal is to support the entire Venezuelan economy transacting digitally in US dollars, escaping the issues posed by the hyperinflation the country has suffered in the last decade. We are aiming to serve 10M+ Venezuelans, and looking to Argentina next.<br></p><p><br></p><h3>Why we’re hiring</h3><p>Things are going great for us (yes, we are proud!). As we write this, we have a long waitlist of would-be users who are getting impatient with us (publicly – like, accumulating 1-star reviews from those who are upset that they are still waiting to get in 😬). </p><p>We are on the way to reaching mass crypto adoption in a national economy. Now we want to consolidate our presence in the crypto world. We need a real insider, capable of devising tools to create an entirely new space in the sector that ends up working as well as yield farming and that others try to copy.</p><p>We’re willing to compete with Amazon/Google/Apple/Netflix on compensation in order to hire the absolute best individual we can find, because we just have to get this right, and because we have the cash treasury to comfortably do so, having done very well in the crypto markets, we can offer an unusual degree of potential financial gains from being a relatively early startup.</p><p><br></p><h3>The candidate</h3><p>The individual we are looking for:</p><ul> <li>Could be described as a bit like SBF or CZ in their intelligence, boldness, and bias to action</li> <li>Has intimate knowledge of the crypto world, including some of the non-public realities of how it works</li> <li>Has made significant money in crypto personally, and is interested in money, but is tired of just making money and is looking for something more fun and meaningful</li> <li>Might have worked high up at an exchange, OTC desk, trading shop, or successful crypto project</li> <li>Has a strong network of connections with high-profile individuals and organizations such as investment funds, hedge funds, cryptocurrency wallets, exchanges and other crypto related companies</li> <li>Has a technical mind, and can think through mechanisms and architectures, and perhaps implement software systems themselves, though does not need to be a seasoned developer</li> </ul><p><br></p><h3>The position</h3><ul> <li>Come up with novel, breakthrough ideas to develop RSV and RSR in the crypto world (i.e. don't suggest that we copy yield farming -- invent an entirely new thing that ends up working as well as yield farming and that others end up copying)</li> <li>Have innovative and sound ideas in the domains of incentives, marketing, branding, relationship management, and technological approaches</li> <li>Build initial proofs of concept yourself by learning APIs and configuring open source software, or working with developers on the side to test things out</li> <li>Manage a significant treasury to lend out, use for MM, or otherwise deploy (without flat-out spending, though you could spend some too)</li> <li>Build and manage a pipeline of opportunities in the crypto/trading world</li> <li>Create, develop and manage relationships with high-profile individuals and entities of the crypto world who may help Reserve further its goals</li> </ul><p><br></p><h3>In summary</h3><ul> <li> <strong>Location</strong>: anywhere, but expect to be online for a decent part of the US workday</li> <li> <strong>Seniority</strong>: we need a senior/seasoned expert in the crypto world</li> <li> <strong>Comp</strong>: we can match any offer you have, and can do full cash or significant equity</li> <li> <strong>Stability</strong>: we have a large cash treasury, so can offer high job security</li> <li> <strong>Purpose</strong>: Reserve helps people beat hyperinflation, and aims to eradicate it entirely</li> <li> <strong>Language</strong>: English native / bilingual proficiency </li> </ul>
 Requirements
 
 Benefits
@@ -9444,7 +9375,7 @@ Benefits
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/reserve/j/64A6752723/apply?ref=crypto-careers.com]]></apply_url>
+    <apply_url><![CDATA[https://apply.workable.com/reserve/j/3BB92327E7/apply?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/86e80f16-31bb-44fa-bc1f-929f2e204371_reserve-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -9456,44 +9387,7 @@ Benefits
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Reserve]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Front End Software Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Reserve]]></company>
-    <company_url><![CDATA[https://reserve.org/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[Description
-<p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/d5332482640a1857e32468bc22667f47.jpeg"></p><p>At Reserve, we’re changing the Venezuelan financial system to allow access to US dollars. Dollar access is crucial to our users in order to cope with ongoing hyperinflation. We’re roughly 2/3 Venezuelan and 1/3 US American, funded by Sam Altman and Peter Thiel personally, and spread across North and South America. Before Reserve, our team members led two of the most prominent attempts to solve the problem of hyperinflation in Venezuela.<br></p> <p>We’ve created a series of tubes that allows any normal Venezuelan to convert their Bolivars (the local failed currency) into US dollars and back again in our app in a couple of minutes. This means that Venezuelans can use our app to easily save and spend in US dollars, and not have to worry about their money devaluing overnight. Because of the capital controls in Venezuela, this kind of financial service is not commonly available, and our early users are extremely appreciative of what we’ve built. New users are often skeptical we can deliver on what we say our app does until they try it, and often evangelize to their friends once they have seen it work. </p><p>This is the percentage of users that are still actively using the service after N weeks from their first time trying it</p><img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/dcaa2a2664659317ef5913b1de195bb7.png"><p>Our near-term ambition is to support the entire Venezuelan economy transacting digitally in US dollars, escaping the issues posed by the hyperinflation our country has suffered for the last decade.<br></p><p>In the long term, Reserve aims to eliminate hyperinflation globally, by offering the same service in other countries and eventually launching a currency that’s independent of the US dollar. But, let’s not get carried away, one step at a time! Right now we are aiming to serve 10M+ Venezuelans, and we’re looking at Argentina next. Reserve is ultimately a cryptocurrency project, but right now what we are doing is more like Cash App meets BitTorrent. <br><br></p> <h3>Why we’re hiring</h3><p>Despite all we have going for us (yes, we are proud!) our app still sucks in various ways. As we write this, we have a long waitlist of would-be users who are getting impatient with us (publicly – like, accumulating 1-star reviews from people who are upset that they are still waiting to get in 😬). We aren’t able to let them join, because of the challenges we face in scaling the series of tubes referenced above. We have pretty clear plans for how to scale, but there are still puzzles to handle and we’re sure there will be unexpected twists and turns. Until recently, we’ve been mostly product– and research–oriented, understanding our users and settling on what our app needs to offer.</p><p>Now that our early adopters are loving us and evangelizing, we need to grow our engineering team to deliver the same level of service to a much larger audience.<br></p> <p>So, we urgently need your creative, driven, articulate, altruistic mind to thoughtfully and efficiently grok these challenges, reach clear solutions, and – sometimes on your own and sometimes with a team – implement them. We’re willing to compete with Amazon/Google/Apple/Netflix on compensation in order to hire the absolute best people we can find, because we just <em>have</em> to get this right, and because we have the cash treasury to comfortably do so, having done very well in the crypto markets. So, we can offer an unusual degree of job security along with the impact, challenge, and potential financial upside of being a relatively early startup.<br><br></p><h3>Our engineering team</h3><p>Our small engineering team consists of two US Americans, two Argentinians, and one Venezuelan. Including two ex-Googlers, one 20-year founder/contractor-type, an early blockchain dev, and a recent grad. Some of us are part of the Effective Altruism / AGI sphere, and all of us care a great deal about clear thinking, doing good work, and getting things right. </p><p>This is us. Venezuelans on our team typically stay anonymous. <img title="" alt="" src="https://workablehr.s3.amazonaws.com/uploads/photos/288512/7e78ebd32d56bcb408ca6889fe891021.png"></p><p>We’ve read Paul Graham, Peter Thiel, Scott Alexander, Ray Dalio, Nick Szabo, Greg Egan, Isaac Asimov, Douglas Hofstadter, Daniel Kahneman, Eliezer Yudkowsky, and Nick Bostrom between us, but we haven’t all read all of them. We recognize that everyone has strengths and weaknesses and we structure our work to cover each other, but we also recognize that the best programmers are indeed 10-100x as productive as the median and we work hard to increase the average effectiveness of our team with each new hire.<br></p> <p>We lean towards selecting and using the right tools for the jobs that arise, and we expect our team to learn new tools and skills when the time is right. Our <em>current</em> development stack includes React, React Native, Flask, and Postgres, deployed across Heroku and GCP. We’ve built and deployed smart contracts on Ethereum for custody of the underlying US dollars. Our Ethereum development stack includes Brownie and web3.py, plus a few open-source tools we’ve built ourselves (in Go and Python) for testing, finding code coverage, deploying, and interacting with smart contracts.</p> <p>Our engineering work hours span from US Pacific Time to Venezuelan time (GMT-4). We use Discord, Zoom, Slack, and Asana. We love Roam, but given recent performance issues we’re using Notion. Our CTO and Head of Product lead our prioritization, and our CEO and COO are deeply involved with the product development process. Our CEO was a self-taught full stack developer long ago, so typically understands our high-level technical considerations.<br></p><h3> <br>The front end role</h3><p>We’re currently hiring individual contributors and tech leads. All new team members should expect to spend the majority of their time implementing. We hire highly productive engineers with good judgment, which means you need to either be substantially experienced or otherwise unusually skilled in software engineering.</p><p>As a front end engineer, you’d start off working on our React Native app and React.js web app. As a startup, we have very fast release cycles, often shipping multiple updates per week, including on mobile. We have deployed our app only on Android as of the writing of this post, and you would likely be a part of adding an iOS deployment. </p><p>In 2020 we intentionally cut every corner we could in order to focus on implementing a wide range of features and rapidly changing our product with a small team. In 2021 and beyond, we are expanding our development capacity in order to polish every piece we ship more carefully, while maintaining a fast release cycle. We believe a great and truly unique UI can set a product apart in the mind of the customer, and although we haven’t emphasized perfection and uniqueness so far, we are beginning to in our upcoming designs, which are already underway. We anticipate implementing visual elements that are different from what any of us have seen before, and would rely on you to help innovate and keep everything functional and snappy.</p><h3> <br>The kind of engineers we hire</h3><p>We’re very excited about you if:</p><ul> <li>You take pride in figuring things out and making things work, and once you accept a challenge you enjoy getting into all of the little details and becoming a micro-expert in order to nail it.</li> <li>You can show us cool things you have built yourself in your own time, and/or a long list of projects you’ve had significant ownership over professionally that are related to the work we are doing (mobile, web, smart contracts).</li> <li>You are kind, conscientious, thoughtful, cooperative, and communicative.</li> <li>You have found ways of spending time, effort, or money on improving the world in a meaningful way (i.e. not just virtue signalling, though we don’t mind if you do that too).</li> <li>When we talk to you about something we are building, worrying about, or planning, you quickly understand what we are describing and have productive things to say.</li> <li>You have honed your ability to self-manage, so that when you take on relatively abstract projects you turn them into concrete, sensible plans and bring them to completion -- or if they end up not making sense you realize that quickly and help the team adjust course.</li> <li>You reliably accomplish impressive amounts of important progress on what really matters, whether it’s figuring things out, implementing, educating, evaluating new team members, or anything else that comes up.</li> <li>You prefer the startup life of challenges, uncertainty, invention, chaos, impact, responsibility, and autonomy, over the big-company life of predictability, bureaucracy, clarity, brand recognition, nice offices, and policy.</li> <li>You have enough relevant experience that you can quickly come to solid plans for how to implement whatever you are working on, and your code naturally matches or raises the bar of maintainability we achieve.</li> <li>You understand and appreciate the importance of helping people cope with hyperinflation, either because you have experienced it yourself at some point in your life, or because you are a curious and empathetic intellectual who dives into understanding such things, and are easily sucked into trying to solve humanitarian problems you encounter.</li> </ul><p><br></p><h3>In summary</h3><ul> <li> <strong>Location</strong>: anywhere, but expect to be online for a decent part of the US workday</li> <li> <strong>Seniority</strong>: both senior and junior engineers are considered, but standards are high</li> <li> <strong>Comp</strong>: we can match any offer you have, and can do full cash or RSR tokens.</li> <li> <strong>Stability</strong>: we have a large cash treasury, so can offer high job security</li> <li> <strong>Purpose</strong>: Reserve helps people beat hyperinflation, and aims to eradicate it entirely</li> <li> <strong>Language</strong>: English native / bilingual proficiency </li> </ul>
-Requirements
-
-Benefits
-]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/reserve/j/EE5296426A/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/86e80f16-31bb-44fa-bc1f-929f2e204371_reserve-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Reserve@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[EkVoUq7dUiZm7Tgh3mkHA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Reserve]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
+    <category><![CDATA[  ]]></category>
   </job>
 <job>
     <title><![CDATA[Operations Analyst]]></title>
@@ -9605,43 +9499,6 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Caleb And Brown]]></employer_name>
     <category><![CDATA[  ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Graduate Trader]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Caleb And Brown]]></company>
-    <company_url><![CDATA[https://www.calebandbrown.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Cremorne, Victoria, Australia]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[Description
-<p>Entirely self-funded by a small team, Caleb and Brown has grown in the last five years to become one of the leading cryptocurrency brokerage firms globally. By fostering a culture of crypto experience married with professional services, we are building the bridge to the traditional financial world.</p><p>We are looking for a passionate Execution Trader to join our Melbourne-based team. The ideal candidate will have impeccable numerical analysis skills, attention to detail, and a strong work ethic.</p><p>This position presents an exceptional opportunity to be part of a fast-growing and internationally expanding business while working in a motivated and ambitious culture built around autonomy and results.</p><p><strong>Your Role:</strong></p><p></p><ul> <li>Ensure digital currency trades are executed in a timely and cost-efficient manner.</li> <li>Ensure trade requests fulfil risk criteria before execution </li> <li>Report operational performance to management including any transactions executed incorrectly</li> <li>Conduct research on digital currency networks to ensure they fulfil our compliance policy before listing</li> <li>Maintain oversight of listed digital currency token migrations across networks and prepare for any operational changes required</li> <li>Maintain personal diligence in activity and handling of sensitive data to uphold security</li> <li>Provide blockchain and internal system technical assistance to the broker team and customers </li> </ul>
-Requirements
-<p><strong>Your Qualifications:</strong></p><p></p><ul> <li>An entrepreneurial, hardworking, self-starter with initiative and a desire to keep improving every day</li> <li>Strong math aptitude, numerical and quantitative analysis skills</li> <li>Passionate about cryptocurrencies and the future of financial markets</li> <li>Decisiveness with the ability to process complicated information quickly and accurately under pressure</li> </ul>
-Benefits
-]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/caleb-and-brown-pty-ltd/j/F197BC3FE8/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/6583487d-c5ed-4b72-a893-e350209e8114_Caleb__And_Brown-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+CalebAndBrown@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[J9EnLtJJ1USP1JPvONFpbQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Caleb And Brown]]></employer_name>
-    <category><![CDATA[ Trading ]]></category>
   </job>
 <job>
     <title><![CDATA[Recruiter]]></title>
@@ -11045,58 +10902,6 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
-    <title><![CDATA[Head of Communications]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Amun Tokens]]></company>
-    <company_url><![CDATA[https://amun.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[New York, New York, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Amun 21Shares is looking for a Head of PR with deep public relations and media experience, ideally both in agency and in-house. This person should have a passion for storytelling is a must. Candidates should be comfortable managing agents as well as have pre-existing relationships with reporters. This role will be based in our NYC office.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop Amun &amp;amp; 21Shares’s strategy for media relations&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create a messaging framework for the company’s media strategy that ties to relevant societal, technology, and media trends&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write press releases, bylines, blog posts, and other key pieces of content&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Lead the identification, development, pitching and placement of company-related stories in top-tier media&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Managing press opportunities through to completion – including staffing interviews, developing background bios, briefing executive spokespeople and tracking through the publishing process&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Establish and nurture relationships with key media contacts&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create metrics to measure success and impact of corporate communications&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience in PR&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mix of agency and in-house experience&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Startup mentality and experience a plus&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Pre-existing relationships with reporters in the business and technology sectors&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strategic problem solver; intelligent and creative&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exceptional writing and editing skills&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extreme attention to detail&lt;/span&gt;&lt;/p&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4135305004?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+AmunTokens@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Amun Tokens]]></employer_name>
-    <category><![CDATA[ Marketing & PR ]]></category>
-  </job>
-<job>
     <title><![CDATA[(Junior) People Operations Specialist (m/f/div)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -12119,114 +11924,6 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[TQ Tezos]]></employer_name>
     <category><![CDATA[ Marketing & PR ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Android Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Voyager]]></company>
-    <company_url><![CDATA[https://www.investvoyager.com/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote (US, Canada, Denmark)]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To learn more about Voyager please visit us at &lt;a href=&quot;http://www.investvoyager.com&quot; target=&quot;_blank&quot;&gt;www.investvoyager.com&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;You will spend time on&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working on an app that is used by millions of people&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designing and building advanced applications on the Android platform&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborating with a cross-functional team to define, design, and, ship new features&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working on interesting and complex technical challenges&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Writing performant, clean and well tested code&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enjoying a high degree of autonomy, contributing to ideas and shaping architecture&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working on bug fixing and improving application performance&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work in a collaborative and fast-paced team environment&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;What we are looking for&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years native Android experience in a fast paced, high growth tech environment&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BA/BS or MS in Computer Science, a related field, or relevant industry experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong knowledge of Android UI design principles, patterns, and best practices&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extensive experience Kotlin / Java, open source frameworks&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Well versed with Dependency-Injection, and MVVM architectural patterns&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Shipped high traffic apps to millions of users in the past and worked on large scale mobile architectures&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Effective in communicating technical issues to appropriate audiences, both technical and non-technical.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A flawless executor, not a procrastinator.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus requirements&amp;nbsp; - makes you an even better fit:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience shipping open source frameworks&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with Coroutines, RxJava, Jetpack libraries(Navigation, Compose), Dagger 2, Hilt&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of Redux&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Kotlin Native experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;iOS experience, ability to read Swift&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cryptocurrency, stock trading and fintech industry experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;React native mobile app experience&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Benefits including healthcare (medical, dental, vision) and 401k&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock Options&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Unlimited PTO&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;*Please note that during COVID-19 we are working remotely.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://www.investvoyager.com/careers/?gh_jid=4021671004&ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/13e96280-5fac-4708-8710-fe3aac995d25_Vertalo-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Voyager@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[3YJL8o4mkmbDWCBpVBlHQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Voyager]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Frontend Developer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Local Bitcoin]]></company>
-    <company_url><![CDATA[https://localbitcoins.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Helsinki, Uusimaa, Finland]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<p>Description</p><p>We are looking for frontend developers to join our team in Helsinki or Pori, Finland. As part of our technology team, you have an opportunity to build and develop a global bitcoin trading platform with customers all over the world. Our technology stack is ReactJS (web),  React Native (mobile app) and Django / Python at the backend.</p><p>LocalBitcoins is globally leading P2P trading platform for bitcoin and one of the foundation pillars of the Bitcoin economy. The company, headquartered in Helsinki (with side-office in Pori, Finland), was founded in 2012 and has since grown to over 6 000 000 registered users from all over the world. Although we are already an established, financially profitable company, we are not a corporation. We treasure agile ways of working and a growth hacking kind of mindset.</p><p>Requirements</p><p>Primarily we are looking for talented and motivated people who are willing to accept challenges and develop themselves. However, here is what we expect from a competent candidate:</p><ul> <li>ReactJS or React Native development experience</li> <li>JavaScript / TypeScript knowledge</li> <li>Understanding of web development paradigms and concepts</li> <li>Fluency in English</li> </ul><p>These skills are not required but considered a plus:</p><ul> <li>Python or Django experience</li> <li>UI / UX design experience</li> <li>Familiarity with Linux / Unix-based operating systems</li> <li>Generic understanding of software development methodologies and processes</li> </ul><p>We also value open-minded attitude and good communication skills. We have a diverse, international team and the primary working language is English.</p><p>Benefits</p><ul> <li>The opportunity to work with a revolutionary business in one of the first cryptocurrency companies.</li> <li>Possibility to develop your skills and specialize according to your own personality. </li> <li>A relaxed, young, professional and diverse work community at our Finnish office. The effort of every single member of the team truly matters. And we want yours to matter too.</li> <li>And yes, we also pay your salary, lunch coupons, healthcare insurance and so on.</li> </ul><p>If you have any questions regarding the role or the recruitment process in general, please contact Hanna Leppänen at hanna.leppanen@localbitcoins.com</p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://apply.workable.com/localbitcoins/j/576FC0552B/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/fa1bb975-10b9-4f5f-811c-041d40071181_local_bitcoin-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+LocalBitcoin@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[IstMwvX2kCQ5T0g2PXTkg]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Local Bitcoin]]></employer_name>
-    <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
     <title><![CDATA[Compliance and Monitoring Officer - Bitcoin Payments (Remote)]]></title>
@@ -13606,6 +13303,38 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[  ]]></category>
   </job>
 <job>
+    <title><![CDATA[Software Engineer - Bitcoin, Crypto & Blockchain]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Bitaccess]]></company>
+    <company_url><![CDATA[https://bitaccess.ca/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Toronto, Ontario, Canada]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>We are looking for a software engineer with a passion for decentralized technologies to join our blockchain wallet team. Your role is to integrate additional cryptocurrencies into our payment backend and contribute to launching a new enterprise wallet product. You'll be working directly with cutting edge blockchain networks, including Bitcoin and Ethereum.</p><h3><br></h3><h3>Why Bitaccess?</h3><p>We’re looking for people who are excited about financial services and cutting edge technology, and how these together can make a difference in people’s everyday lives.</p><p>Cryptocurrency is a transformative technology that will require a re-engineering of the way business as we know it is done. Bitaccess is proud to be a pioneer in this space, and are looking for outstanding individuals to join us on this journey.</p><p>So if you are ready to join the most fast paced, exciting, and hectic industry of our generation apply now.</p><h3><br></h3><h3>Responsibilities</h3><ul> <li>Contribute to and maintain our blockchain payment services</li> <li>Help us launch a new enterprise wallet product</li> <li>Integrate support for additional cryptocurrencies and layer 2 protocols for Bitcoin, Ethereum, and more</li> </ul><ul> <li>Experience with NodeJS and TypeScript</li> <li>Experience with web services such as REST and websockets</li> <li>Experience with SQL databases</li> <li>Familiar working in a Linux or Unix environment</li> <li>Knowledge of cybersecurity and blockchain technology</li> </ul><h3><br></h3><h3>Good to have</h3><ul> <li>Being passionate about decentralization</li> <li>Interest and knowledge in <strong>cryptoeconomics</strong>.</li> <li>Experience contributing or managing <strong>open source</strong> projects.</li> <li>Experience setting up and maintaining cloud servers</li> </ul><ul> <li>Extended Healthcare Plan (Medical, Disability, Dental &amp; Vision)</li> <li>Group Life - AD&amp;D - Critical Illness Insurance</li> <li>Paid Time Off Benefits</li> <li>Work From Home - Flexible hours</li> <li>Stock Option Plan</li> <li>RRSP Contributions</li> <li>Discretionary Bonus</li> </ul>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/bitaccess/j/3ED405621B/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/b289ede1-b48e-4665-b1f3-fa9a3c8c7c48_bitaccess-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Bitaccess@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[lHJUU8vEGwpboiE1qpuw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Bitaccess]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[Senior Software Engineer - Front End]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -14052,5 +13781,37 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[Optimism]]></employer_name>
     <category><![CDATA[  ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Full Stack Payments Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Casa]]></company>
+    <company_url><![CDATA[https://keys.casa/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote - North America]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><b>WHO WE ARE</b></div><div><span style="font-size: 11pt">You’ve probably heard by now: Bitcoin is the future. Wouldn’t you like to be a part of it?&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Meet </span><a href="http://keys.casa" style="font-size: 11pt" class="postings-link">Casa</a><span style="font-size: 11pt">, the secure home for your bitcoin. We’re the leading provider of Bitcoin self-custody solutions, the ultimate blend of security, privacy, and control. Our team combines deep security expertise, human-focused design, and exceptional customer service to empower our clients and build lifelong relationships.&nbsp;</span></div><div><br></div><div><b style="font-size: 11pt">THE ROLE</b></div><div><span style="font-size: 11pt">Casa is seeking a talented full-stack engineer to help maintain our existing commerce and subscriptions services and to build out new ones.&nbsp;</span></div><div><br></div><div><b style="font-size: 11pt">Salary Range: </b></div><div>$135,000 - $153,000</div><br/>WHAT YOU'LL DO <br/><li>Own full stack development of multiple web apps, from architecture to QA and deployment</li><li>Maintain existing integrations with third party APIs like Stripe, BTCPay, StoreKit, Google Pay and others</li><li>Build new payment integrations with payment merchants like Paypal and Apple Pay.</li><li>Expand and customize our current product offerings</li><li>Support the Operations team by creating and maintaining database reporting queries&nbsp;</li><li>Regularly review other engineers’ code</li><br/>WHO YOU ARE<br/><li>Experience developing e-commerce systems with Stripe</li><li>Significant experience with building UIs with React and pure CSS styling &amp; layouts (experience with React Emotion is a plus)</li><li>Experience with NodeJS backend frameworks</li><li>Experience with relational and non-relational databases. Preferably PostgreSQL and MongoDB.</li><li>Experience writing tests and utilizing test frameworks, such as Jest and Cypress</li><li>Knowledge of API design and best practices, caching, resiliency, HTTP, REST</li><li>Demonstrable knowledge of secure coding practices</li><li>Knowledgeable about deployment process &amp; deployment optimization. Has worked with starters like React CRA and bundlers like webpack</li><li>Experience in Git/GitHub, code review tools, CI tools</li><li>Solid engineering fundamentals and commitment to high-quality code</li><li>Foundation of design &amp; product thinking during development</li><li>Ability to work well in a fast-paced team, including helping teammates move quickly</li><li>Solid communication skills and desire to frequently communicate with the team about project status and blockers</li><br/>Ideal Candidates will also have…<br/><li>Experience working with ES6, React, and TypeScript (<a href="http://Vue.js" class="postings-link">Vue.js</a> is an additional plus)</li><li>Experience logging, monitoring, and alerting using an ELK stack</li><li>Experience building reusable components that can be used throughout a codebase</li><li>Knowledge of balancing DRY vs premature abstractions</li><li>Experience developing high-security products</li><li>Experience working remotely</li><div><br></div><div><br></div><div><b>Why Casa?</b></div><div>At Casa, our mission is empowering individuals to secure their digital sovereignty, and<b>&nbsp;</b><i><b>we empower our employees to do their best work.&nbsp;</b></i></div><div><br></div><div><b>Ownership</b>. Bitcoin is the beginning of a future you can truly own, and at Casa, everyone has a role. We offer equity opportunities so our employees can benefit from what we are building together.&nbsp;</div><div><b>Community</b>. Inclusivity is important to us. We value each other and our contributions. Our team, known as the Casa Space Fleet, brings out the best in everyone while having plenty of fun along the way.</div><div><b>Rest and Relaxation</b>. We believe in the power of personal time, so we offer as much flexible time as you need. We encourage you to take at least 3 weeks off a year.&nbsp;</div><div><b>Health Benefits</b>. We provide medical coverage with FSA options, dental, vision, and access to mental health providers.</div><div><b>Setup for Remote Success</b>. Our team is both decentralized and effective. We reimburse up to $400 for anything you need to set up your home office.&nbsp;</div><div><b>Investment Avenues</b>. We partner with resources so you can invest a portion of your paycheck in bitcoin, and we also have the more traditional 401(k) option.&nbsp;</div><div><b>Maternity/Paternity Leave</b>. We provide 12 weeks for maternity / 4 weeks for paternity.</div><div><br></div><div><i>*As Casa is a fully remote company hiring candidates around the world, our perks and benefit packages may adjust based on your location</i></div><div><br></div><div><i>Casa is an Equal Employment Opportunity (EEO) employer and welcomes all qualified applicants. Applicants will receive fair and impartial consideration without regard to race, sex, color, religion, national origin, age, disability, veteran status, genetic data, or other legally protected status.</i></div><div><br></div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/Casa/74d4efc4-8c15-4bb3-bb4a-c94a99f62fbc/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/92f7fed9-1b13-4f51-8651-b89a7c9998f5_Casa-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Casa@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[3xNrCGxPfUy671iRbB5A]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Casa]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 </jobs>
