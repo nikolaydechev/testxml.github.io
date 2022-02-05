@@ -640,38 +640,6 @@
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Security Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Ledn]]></company>
-    <company_url><![CDATA[https://ledn.io/en/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Toronto]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<div><a href="http://ledn.io/" class="postings-link">Ledn</a> provides financial products with a mission to help clients across the globe unlock the power of digital assets to build wealth for the long term. Active in over 100 countries and exceeding $1 billion in assets on its platform, Ledn provides simple, transparent, and secure financial service products that help people save, earn, and borrow on their digital assets.</div><div><br></div><div>Ledn is backed by world class investors that has allowed the company to experience tremendous growth since launching in 2018. We are one of Canada’s leading digital asset companies creating a global platform. Ledn is led by a team with decades of experience in traditional financial services and banking, all connected by a common belief in the future of digital assets.</div><div><br></div><div><b style="font-size: 18px">The Opportunity&nbsp;</b></div><div><br></div><div>As an owner of Ledn, each team member has a voice and owns their work. This is an adaptive role in a fast-paced progressive environment. You thrive in working autonomously on projects, but are passionate about collaboration. </div><div><br></div><div>As a<b> full time Senior Security Engineer,  </b>you are passionate about building software, configuring, writing queries, setting up tooling, and writing software. The security space is your passion and you utilize your skill sets across applied cryptography, networking, application security, and threat detection as an architect here at Ledn. You are an integral part of the Ledn team and will be working  interdepartmentally to educate, support, and build the security framework here at Ledn.</div><br/>About This Role<br/><li>Build and manage security automation tooling to aid in secure development, deployment and monitoring of infrastructure and application layers.</li><li>Triaging and resolving security vulnerabilities.</li><li>Conduct software design reviews and guide our engineers in building secure software.</li><li>Participating in on-call rotation for responding to security incidents.</li><li>Continually taking initiative to improve the overall security posture of the organization.</li><li>You will build software, write queries, deploy tools, and set up automation processes. </li><li>Review code and identify vulnerabilities in the codebase by conducting audits. </li><li>You will be setting up tooling to improve quality and ensure integrity of code.&nbsp;</li><li>Develop elegant solutions to complex business problems and apply appropriate technologies while following security engineering best practices.&nbsp;</li><li>Perform fuzzing, conduct static code analysis, perform integrity checks, hashlocking libraries.&nbsp;</li><li>&nbsp;Keeping up with CVEs and keeping us up to date on our patches. </li><li>Conduct security awareness training.</li><br/>What You Bring To Ledn <br/><li>2+ years of information security experience.</li><li>3+ years of professional experience as a Software Engineer, DevOps, or Systems Engineer.</li><li>You have experience building software such as web applications, setting up infrastructure such as monitoring tooling (ELK etc.), automation of security testing (fuzzing etc.).</li><li>Engineer with well rounded security experience that covers penetration testing, forensics, monitoring and security architecture.</li><li>Professional experience with Javascript / Nodejs, Python and Bash.</li><li>Experience with cloud security (AWS) required.</li><li>You understand the Linux operating system to the call level and how operating systems communicate with kernels. </li><li>Understanding of microservice architecture and serverless architecture required.</li><li>Experienced with applied cryptography (encryption, hashing etc.) required.</li><li>Experience with designing and maintaining authorization layers in distributed microservice architectures.</li><br/>Nice to Haves:<br/><li>Experience with implementing zero-trust on different levels of infrastructure.&nbsp;</li><li>Experience with SIEM software.</li><li>Experience in finding, responsibly disclosing, or resolving security vulnerabilities (CVEs).</li><li>Experience with production databases (MongoDB).</li><li>You have a bug bounty profile with successful bounties (such as HackerOne or BugCrowd).</li><li>Any of the following certifications (or similar): OSCP, CISSP, CEH, Security+, GSEC.</li><div><b style="font-size: 18px">A Taste of What We Provide</b></div><div><br></div><div><b>* </b>As one of Canada’s leading digital asset companies we provide tremendous growth opportunities.</div><div>* Flexible working environments.</div><div><b>* </b>A career that provides you with purpose in your job. We remove barriers so you love what you do.</div><div><b>* </b>Team-based organizational structures that reinforce problem solving, decision making, and collaboration. </div><div><b>* </b>Here at Ledn we all have ownership in the company. </div><div><b>* </b>Comprehensive benefits package that starts on your first day with us.</div><div>* Competency based compensation structures.</div><div><br></div><div>We are an equal opportunity employment organization and pride ourselves on inclusivity, diversity, and the success that comes from diversity. Please check us out on <a href="https://www.linkedin.com/company/ledn-inc/mycompany/" class="postings-link">LinkedIn</a> to get to know the team. Please reach out to the Ledn Talent team <a href="http://careers@ledn.io" class="postings-link">here</a> for any accommodations for applying and for participating in the interview process.</div><div><br></div><div><b>Please note,</b> due to the high volume of applications, only those applicants that qualify will be contacted.</div><div><br></div><div><b>It's COVID, where are you working?</b></div><div>We're all working remote until Dec 2021. After that, if and when it's safe to do so, we will be offering flexible working environments of remote and in-office, which is located downtown Toronto and Montreal. We've learned a lot working remotely and are pretty good at it, but also miss connecting and collaborating with our team! </div><div><br></div>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://jobs.lever.co/ledn/918582ac-eeb5-48ed-8f71-59f7a3fcd596/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/0a53e245-362a-49ea-aaad-8c5b5e051b1c_ledn-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Ledn@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[hLxCPqfTUqBiutCW1Q8tQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Ledn]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[中國數碼營銷團隊負責人]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -1120,7 +1088,7 @@
     <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
-    <title><![CDATA[Cryptography Analyst]]></title>
+    <title><![CDATA[Security Consultant (Cryptography)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Trail of Bits]]></company>
@@ -1149,10 +1117,10 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Trail of Bits]]></employer_name>
-    <category><![CDATA[  ]]></category>
+    <category><![CDATA[ Consulting ]]></category>
   </job>
 <job>
-    <title><![CDATA[Blockchain Security Analyst]]></title>
+    <title><![CDATA[Security Consultant (Blockchain)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[Trail of Bits]]></company>
@@ -1426,38 +1394,6 @@
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
     <apply_url><![CDATA[https://jobs.lever.co/shakepay/76a08522-1df8-4b5f-84c6-79102c9b4acf/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/75e819ca-3506-480c-b9b0-af9f41ffbc6f_shakepay-400x040.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Shakepay@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[EHIvuCfaYEav7zPaePd2Q]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Shakepay]]></employer_name>
-    <category><![CDATA[ Customer Services ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Customer Support (Remote - Canada)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Shakepay]]></company>
-    <company_url><![CDATA[https://shakepay.com/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Montreal, QC]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<div>Join our small, fiery team on our mission to create open access to building wealth.</div><div><br></div><div>Shakepay is one of the fastest growing startups in Canada. We've grown 10x in the last year. 2% of Canadians use Shakepay. We're building something really special. We need true believers to join our team. We're looking for ambitious professionals with a thirst for knowledge that are interested in working with the most exciting financial innovation ever created: Bitcoin.</div><div><br></div><div>Bitcoin is important because it enables wealth to be stored with a person without need for a third party. Its fundamental use-case as a store of value with a predictable monetary policy is having profound implications on freeing people into financial sovereignty.</div><div><br></div><div><span style="font-size: 32px">Customer Support</span></div><div><br></div><div>You will be engaging with our customers when they have questions about our platform. You’ll be the eyes and ears of our customers when it comes to understanding their experience and how to make Shakepay better.</div><div><br></div><div><span style="font-size: 18px">Bitcoin</span></div><div><br></div><div>You must have some knowledge about Bitcoin for this position. If you don't right now, a few hours on YouTube will give you the basics for a conversation with the team.</div><br/>What you get:<br/><li>Potentially life-changing stock options. We believe everyone at Shakepay should have the financial upside for building a generational company</li><li>Remote-friendly work environment: work from anywhere in Canada. If you're in Montreal, you can work from the office</li><li>Generous vacation time: we think time off is essential, and highly encourage it</li><li>Personal development: we're here to help you define and hit your personal career goals so that you can get where you want to be</li><li>Continued learning: every Shaker gets a yearly budget to spend on learning</li><li>Employer-covered group insurance: health, dental, paramedical, disability and travel coverage to ensure you're at your best</li><li>Get paid in Bitcoin: choose to take a percentage of your salary in the hardest, soundest money the world has ever known</li><li>A collaborative and friendly team: we succeed together and we have fun doing it</li><li>MacBook: company-issued laptop to make sure you're doing your best work</li><li>Equipment stipend: every Shaker receives a stipend to use toward setting up their home office</li><div><span style="font-size: 18px">About Shakepay</span></div><div><br></div><div>Shakepay helps Canadians buy and sell bitcoin and pay their friends. We offer web and mobile apps that make it easy for Canadians to buy bitcoin in minutes with Interac e-Transfer. Shakepay is the fastest-growing bitcoin platform in Canada.</div><div><br></div><div>At Shakepay we're committed to promoting and celebrating diversity and inclusion. We strongly encourage applications from everyone, regardless of background and life experience. If you want to be a part of something momentous then we're excited to hear from you.</div><div><br></div><div><u>Please note that while all of our roles are remote, we are a Canadian company and will not be sponsoring visas for this position. You must be eligible to work in Canada to be selected.</u></div>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://jobs.lever.co/shakepay/c02e8a00-35bd-4a51-9bf0-599e7bdcd262/apply?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/75e819ca-3506-480c-b9b0-af9f41ffbc6f_shakepay-400x040.png]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -2967,90 +2903,6 @@ Benefits
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Subspace Labs]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Principal Security Architect]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Taxbit]]></company>
-    <company_url><![CDATA[https://taxbit.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Draper, Utah, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is helping to drive mainstream adoption of digital assets by connecting the consumer, enterprise, and government tax and accounting ecosystems.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our Software-as-a-Service platform streamlines our customers’ reporting experience across traditional and digital asset classes. We are trusted in this work by thousands of consumers, leading exchanges and enterprises, government agencies (including the IRS), respected accounting firms, and others to solve complex accounting problems at scale and ensure compliance with the latest tax laws. TaxBit investors include Paradigm, Tiger Global, PayPal Ventures, Winklevoss Capital, Coinbase Ventures, and other leading crypto investors. Our team is located in Salt Lake City, UT and Seattle, WA.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your growth, recognizes your unique contribution, and provides a fun, flexible and inclusive work environment, then TaxBit is the place for you. We’re looking for team members ready to join a hyper growth company and are excited to work at the forefront of an entirely new industry.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Principal Security Architect is a key function of the growing Security organization of TaxBit, Inc. This position consults and provides guidance on enterprise security operations and solutions, and architects internal processes to augment TaxBit’s threat and vulnerability management program. The Security Architect role will focus on the implementation, design, and support of security operations and technology as it relates to cloud architecture, network infrastructure, system monitoring, and regulatory compliance.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role will touch vulnerability management, log monitoring, incident response, EDR, automation, and will work with best-of-breed security tools.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role focuses on technical and strategic level initiatives, which include working alongside our cloud engineering staff, support team, and sales.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Configure and maintain security solutions in a cloud-centric environment&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure systems and data are protected from unauthorized access, modification, deletion, or exposure following security best practices&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conduct critical analysis of the current state of the security framework, identifying gaps and key areas for improvement; collaborate with stakeholders to ensure the successful remediation of identified security weaknesses&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build policies to automate the monitoring of infrastructure, software, and other technical components&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate with team members and cross functional teams to successfully implement and deploy security detection solutions&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with TaxBit’s technical architecture team to build and scale a secure infrastructure&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assist with the Security program development by creating procedures that align to security policies and standards&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What You’ll Need&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor’s Degree in a technical field (Computer Science, Cyber and/or Network Security, Mathematics, or other related field)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;7+ years of experience in technical security&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of IT infrastructure experience&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with SIEM/Log Management tools&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with AWS cloud infrastructure and security best practices&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of any of the following methodologies: NIST CSF, OWASP, MITRE ATT&amp;amp;CK, and CIS Critical Security Controls&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of penetration testing methodologies and practices&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in security incident response and incident handling&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Master’s Degree in a technical field (Computer Science, Cyber and/or Network Security, Mathematics, or other related field)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with Threat Intel, identifying and categorizing through TTPs&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working knowledge of a scripting language (e.g., Python)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong experience in security architecture and solution prototyping&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong experience in auditing secure cloud configuration and securing cloud environments&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive cash compensation&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock options&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Heath, Dental, Vision, and Life Insurance &lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hybrid working model: 3 days in-office, 2 days WFH/flexible&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friday team lunches&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Autonomous work and flexibility in how work is performed&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;**Vaccines are mandatory in order to foster a safe environment.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://taxbit.com/careers/4015926004?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Taxbit]]></employer_name>
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
@@ -6134,6 +5986,46 @@ Benefits
     <category><![CDATA[  ]]></category>
   </job>
 <job>
+    <title><![CDATA[VP / AVP - Engineering]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[CoinDCX]]></company>
+    <company_url><![CDATA[https://coindcx.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Mumbai / Bangalore, India]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<h2><strong><span style="font-size: 16px;">Imagine</span></strong></h2>
+<p>India’s cryptocurrency markets are booming, and post the SC verdict, the industry has grown manifold. More Indians want to join this exciting new industry and Cryptocurrency Traders are looking for a strong global platform that can help them trade faster, better, and smarter. At CoinDCX, we have the right platform, the right audiences and the right trajectory to take things to the next level.</p>
+<p dir="ltr">As our Head of Platform Engineering, you’ll be - together with your teams - ensuring continuous platform and architecture enhancements at CoinDCX while making product development faster and easier for the rest of the team. In close collaboration with our Head of Product Engineering and CTO, you’ll have the chance to shape the future of CoinDCX from an engineering perspective.</p>
+<p dir="ltr"><strong><br /></strong></p>
+<p dir="ltr"><strong>Responsibilities</strong><br /></p>
+<ul><li dir="ltr"><p dir="ltr">Leading, coaching and inspiring a team Engineers responsible for our architecture, platform and tooling</p></li><li dir="ltr"><p dir="ltr">Setting the engineering strategy together with our CTO and Head of Product Engineering</p></li><li dir="ltr"><p dir="ltr">Owning the platform roadmap</p></li><li dir="ltr"><p dir="ltr">Ownership of Core systems, DevSecOps, Infrastructure and Security</p></li><li dir="ltr"><p dir="ltr">Ensuring consistent adoption of software development best practices across all engineering teams</p></li><li dir="ltr"><p dir="ltr">Fostering a culture of knowledge sharing on each platform</p></li><li dir="ltr"><p dir="ltr">Overseeing hiring within your Engineering area and shaping our company culture</p></li></ul>
+<ul><li dir="ltr"><p dir="ltr">10+ years of experience in software engineering.5+ years of leadership experience and ideally, first experience in leading a team of managers</p></li><li dir="ltr"><p dir="ltr">Proven track record of building, operating and scaling large scale distributed systems &amp; architectures.</p></li><li dir="ltr"><p dir="ltr">Proficiency in microservices architecture, Databases, Infrastructure as code solutions, Configuration management tools, CI/CD tools, Infrastructure &amp; Application monitoring  and containerization.</p></li><li dir="ltr"><p dir="ltr">Deep understanding of all aspects of the software development life cycle as well as agile principles</p></li><li dir="ltr"><p dir="ltr">Empathetic, people-centered mindset and a passion for leadership</p></li><li dir="ltr"><p dir="ltr">Familiarity with managing teams that only had other engineering teams as customers</p></li><li dir="ltr"><p dir="ltr">Coaching mentality with a willingness to lead and drive company-wide initiatives</p></li><li dir="ltr"><p dir="ltr">Preferably, track record of designing Engineering organizational structures</p></li><li dir="ltr"><p dir="ltr">Excellent communication skills</p></li></ul><div><p><strong>About CoinDCX</strong></p>
+<p>CoinDCX is India’s largest and safest cryptocurrency exchange. Built with user experience and security in mind, CoinDCX provides instant fiat to crypto conversions with zero fees, so that users can have access to a diverse suite of financial products and services that are backed by industry-leading security processes and insurance protection.</p>
+<p>CoinDCX aims to be the global gateway to cryptocurrencies. Its proprietary liquidity aggregation model provides its users with access to liquidity from leading global crypto exchanges. Recognized and awarded for its contribution to the Indian emerging tech space, CoinDCX is backed by investors such as Polychain Capital, Bain Capital Ventures, and HDR Group, operator of BitMEX</p></div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://careers.coindcx.com/o/head-platform-engineering/c/new?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/95b47f1a-66ef-4cfb-8dbf-3550e010eb11_coin_dcx-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+CoinDCX@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[eIhDSaweG0eEKIvVK1xWLw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[CoinDCX]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[Counsel, E-Gaming (Remote)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -6834,81 +6726,6 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Taxbit]]></employer_name>
     <category><![CDATA[ Consulting ]]></category>
-  </job>
-<job>
-    <title><![CDATA[DevOps Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Amun Tokens]]></company>
-    <company_url><![CDATA[https://amun.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[New York, New York, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Our Stack:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;AWS infrastructure&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Docker, Kubernetes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Postgresql&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Node backend (Typescript, feathersjs, nestjs)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Vue and React frontend frameworks on the front&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Python and Golang in the mix as well&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Job Summary:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain, guide and develop dev ops best practices throughout the engineering department and all its projects.&amp;nbsp; This includes helping with our continuous integration practices in the organisation by creating pipelines, automating build and release processes and working to standardise those processes across our application suite. In addition, this candidate will aid in the technical design and delivery of new systems with regard to continuous integration, automated testing and effective monitoring.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Accountabilities and Scope:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Architect infrastructure and deploy production systems&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Implement and maintain CI/CD pipelines to support teams during development and release cycles&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build tooling to reduce the overhead of deployment and monitoring&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Produce and update documentation of standards and procedures&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide on-demand support as needed&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prepare disaster recovery and incident response plan for production deployments&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Implement best practices and cost optimization strategies&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Communicates with wider team to solve and diagnose problems, to design technical solutions and discuss technology choices&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborates in a multi-skilled agile team to estimate, plan, deliver and test prioritised features&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mentors and guides fellow engineers in technical skills and the application of DevOps practices and development methodologies&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Investigate, diagnose and fix problems in existing systems using creative thought processes&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Skills Required:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;High comfort in working with Linux environment and typical sysadmin tools&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Good understanding of concepts like CI/CD, configuration management, cloud platforms, version control, automation, monitoring, analytics, containerization, and microservices architecture&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong experience and understanding of using Agile methodologies to plan, develop, test and deliver software through the value stream. Ability to mentor others in its use.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;excellent organisational and time management skills, and the ability to work on multiple projects at the same time&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with orchestration systems and containerisation, e.g. Kubernetes, Docker&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledgeable in communication protocols and the OSI model&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent team working and communication skills&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Skilled in communicating across the organisation to communicate technical solutions and resolve technical problems&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data security is your middle name&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience investigating and diagnosing problems with large-scale IT systems&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Degree in Engineering or Computer Science - preferred&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Capable of writing E2E and integration tests - preferred&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ideally in office / hybrid in either Zurich or New York, but open to remote [GMT+2 to GMT-5 time zone]&lt;/span&gt;&lt;/p&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4050688004?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+AmunTokens@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Amun Tokens]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[(Senior) Legal Counsel (m/w/d)]]></title>
@@ -9539,6 +9356,80 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
+    <title><![CDATA[Sr. NOC Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Taxbit]]></company>
+    <company_url><![CDATA[https://taxbit.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Draper, Utah, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is the technology platform that enables cryptocurrency adoption by automating the tax complexities behind the asset class. TaxBit is used by thousands of consumers, leading exchanges, governmental authorities, respected accounting firms, and other cryptocurrency facilitators. TaxBit is trusted for solving some of the most novel and difficult tax problems at scale.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your ideas and growth, recognizes your unique contribution, and provides a fun, flexible and inclusive work environment, then TaxBit is the place for you. Whether you are a fin-tech wizard, crypto enthusiast, or passionate about solving complex problems at scale, we’d love to speak with you. Apply now.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The NOC engineer is an integral part of the growing engineering team at TaxBit, Inc. This position plays a pivotal role in the availability and performance of TaxBit’s application portfolio and services. The NOC engineer partners with Engineering teams in creating world class monitoring, alerting, and automation solutions.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be the first employee and cornerstone for our NOC team. Willingness to grow into a leader.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide a central hub of communication regarding the status of events within our infrastructure.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide support for Technical Support, R&amp;amp;D, Product, and other internal teams.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Create alerts and dashboards to provide visibility into the health of our systems.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Help our services maintain a 99.9%+ uptime that are also performant.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Responds to any number of alarms, alerts, or abnormal behaviors detected through reactive or proactive monitoring.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand and build out our escalation patterns for critical incidents.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensures all activities are documented and tracked through a ticketing system.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Performs duties in a flexible fashion as the Network Operations Center is open 24x7.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate in an on-call rotation.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate and lead blameless post-mortems so we can continue to improve.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Need&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to execute responsibilities with a high sense of urgency and a willingness to drive issues forward within established processes.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to begin troubleshooting any issue, problem, or oddity regardless of topic or content with a focus of assessment and engagement of proper external resources.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Professional written and verbal communication skills.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ability to harvest and disseminate information in both formal and informal training environments.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Comfortable being in an on-call rotation.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with cloud security best practices to ensure our data remains secure.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;AWS Experience / AWS Certificates - Associate or Professional&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A keen interest in automating all aspects of your job&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working with SaaS/Cloud based software environments.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in creating, utilizing, and maintaining technical documentation.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive cash compensation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Heath, Dental, Vision, and Life Insurance &lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hybrid working model: 3 days in-office, 2 days WFH/flexible&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friday team lunches&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Autonomous work and flexibility in how work is performed&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://taxbit.com/careers/4113318004?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Taxbit]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
+  </job>
+<job>
     <title><![CDATA[Mobile Software Engineer - IOS]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -9717,7 +9608,7 @@ Benefits
     <category><![CDATA[ Administrative / Office Management ]]></category>
   </job>
 <job>
-    <title><![CDATA[Manager, Product Marketing]]></title>
+    <title><![CDATA[Marketing Manager]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[CoinFlip]]></company>
@@ -10150,7 +10041,7 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[  ]]></category>
   </job>
 <job>
-    <title><![CDATA[Director, Communications and Content]]></title>
+    <title><![CDATA[Marketing Director]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[CoinFlip]]></company>
@@ -11258,6 +11149,60 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Finance & Accounting ]]></category>
   </job>
 <job>
+    <title><![CDATA[Head of Marketing, Tokens]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Amun Tokens]]></company>
+    <company_url><![CDATA[https://amun.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Amun 21Shares is looking for a &lt;strong&gt;Head of Marketing, Tokens&lt;/strong&gt; to help establish Amun Tokens as a world-class DeFi platform. This Head of Marketing will be responsible for executing the marketing strategy, including community management and engagement, events, demand generation, digital marketing, content and more. The perfect candidate thrives in both marketing strategy and execution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You Will Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Conceptualize and build Amun’s brand, voice, and identity&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop a global marketing plan for Amun Tokens&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build strategic, mutually-beneficial partnerships with key players in the ecosystem&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Optimize a marketing team to develop top-tier content and events&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Plan and execute in-house events and proactively approach third-party event opportunities&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Set ambitious growth goals and monitor progress using data and analytics&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who You Are&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience working in digital or experiential marketing&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A crypto enthusiast with experience in marketing, comms or brand in the fin-tech or crypto space&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience creating and executing creative and effective campaigns&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proven success in executing event strategy&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exceptional partnerships and relationship skills&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A wonderful collaborator and communicator&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Capable of managing a team and budget&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Experience developing and executing a marketing strategy&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4147756004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+AmunTokens@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ Marketing & PR ]]></category>
+  </job>
+<job>
     <title><![CDATA[Sales Strategist]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -11352,6 +11297,93 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[OpenNode]]></employer_name>
     <category><![CDATA[ Sales And Business Development ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Production / Reliability Engineer (m/w/d)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Gnosis]]></company>
+    <company_url><![CDATA[https://gnosis.io/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Berlin - Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About Gnosis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We believe in a redistributed future. Gnosis builds new market mechanisms to make this future possible. Through decentralized platforms on the Ethereum blockchain, we enable the distribution of resources—from assets to incentives, and information to ideas—at individual, societal, and global scales.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our products are interoperable, allowing you to create, trade, and hold assets. Our decentralized platforms and applications provide foundational infrastructure, assuring security, stability, and foresight for the longevity of blockchain-driven technologies. This role in particular is about our decentralized batch exchange protocol which enables access to fair and arbitrage-free marketplaces.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Join in on our mission to build a permissionless and decentralised future!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for a Senior DevOps engineer to join our Gnosis Protocol (aka CowSwap) team. You’ll be joining a distributed team with offices in Berlin &amp;amp; Lisbon and some people fully remote. You will support our development team in reliably running their software (infrastructure configuration, release process, improving our automated alerting and monitoring stack as well as incidence management).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our tech stack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Enterprise Cloud Computing Service providers: AWS&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Container orchestrators: Kubernetes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Continuous Integration Services: Github Actions, Gitlab CI&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;DevOps Tools: Prometheus, Kibana, Elastic Search, Grafana, Elastalert, &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Terraform&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Operating systems: Linux distributions (Ubuntu, Debian, Alpine)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Product Code: Mainly Rust, some C++, Python &amp;amp; typescript&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work to continuously provision and improve high-available, scalable and self-healing IT systems&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Support &amp;amp; mentor rest of the team in becoming better at “running their own software”&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Make necessary adjustments to the product code to improve reliability/alerting&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Automate installation, configuration, maintenance, and troubleshooting of software deployments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monitor system activity, application performance and troubleshoot problem areas as needed&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure compliance with industry wide and company wide security standards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Design, automate and test procedures for incident management and disaster recovery&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have 4+ years of experience in various DevOps/SRE/SysOps roles&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have 3+ years of Linux administrator experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have 2+ year experience with containerization technologies like Docker and orchestration tools like Kubernetes/Swarm&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have great experience with monitoring/alerting tools like Grafana or ElasticSearch&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have experience with infrastructure as a code tools like Terraform or Ansible&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Scripting ability (Bash / Shell, Python)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Soft Skills: You are a very reliable person. You show a high level of commitment and take ownership of your tasks. You are able to deal with ambiguity, work under loose supervision and are a good communicator.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;It’s a plus if you bring:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding of the Ethereum blockchain/ecosystem&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Rust knowledge&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Statistics knowledge (in the context of anomaly detection)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What we can offer you&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you need resources to pursue your professional goals? -&amp;gt; We got you covered with a personal education and conference budgets&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Is there something that you would like to try out within our projects? -&amp;gt; You can use your Friday afternoons on research or on a side project in our ecosystem&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our hierarchy is flat, so there is no chance to get lost in vertical looking organizational structure.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Not really an early bird? No worries! -&amp;gt; Flexible working schedules and remote work policies are at the core of our culture.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;And do not worry about your equipment and subscriptions. We’ll equip you with the latest hardware and provide you with all the tools you need!&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We also offer competitive pay both in terms of fixed salary as well as with a generous token plan (think StartUp equity)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;But most importantly - grow with us! We&#39;re growing rapidly, the industry is expanding fast, and we have a lot to do. If you&#39;re someone who loves taking initiative and getting things done, there&#39;s a lot of opportunities for you at Gnosis/CowSwap. We’re enthusiastic about our shared mission and enjoy spending time together!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h5&gt;&lt;em&gt;At Gnosis, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer: all qualified applicants are considered for positions regardless of race, ethnic origin, age, religion or belief, marital status, gender identification, sexual orientation, or physical ability.&lt;/em&gt;&lt;/h5&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/gnosis/jobs/5620084002?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/5744fe18-a3c3-4912-8673-192e4a30a3ba_gnosis-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Gnosis@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[A2NWkPGikiaWHK1kUkg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Gnosis]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Senior Blockchain Educator]]></title>
@@ -11613,6 +11645,88 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[Ledn]]></employer_name>
     <category><![CDATA[ Finance & Accounting ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Engineering Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Taxbit]]></company>
+    <company_url><![CDATA[https://taxbit.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Seattle, Washington, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p&gt;&lt;strong&gt;About TaxBit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit is helping to drive mainstream adoption of digital assets by connecting the consumer, enterprise, and government tax and accounting ecosystems.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our Software-as-a-Service (SaaS) platform streamlines our customers’ reporting experience across traditional and digital asset classes. We are trusted by thousands of consumers, leading exchanges and enterprises, government agencies—including the IRS— respected accounting firms, and others to solve complex accounting problems at scale and ensure compliance with the latest tax laws. TaxBit investors include IVP, Insight Partners, Paradigm, Tiger Global, PayPal Ventures, Winklevoss Capital, Coinbase Ventures, and other leading crypto investors. Our team is located in Salt Lake City, UT and Seattle, WA.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re searching for a company that’s dedicated to your growth, recognizes your unique contribution, and provides a fun, flexible, and inclusive work environment, then TaxBit is the place for you. We’re looking for team members who are ready to join a hypergrowth company and excited to work at the forefront of an entirely new industry.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;TaxBit’s engineering team is growing exponentially. In order to deliver quality products with high velocity, we need leaders to develop talent, lead teams, solve challenging technical problems, and evolve our organizational processes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Engineering managers own team delivery and developing talent. They seek to unblock the critical path whether it’s a people, process, or product challenge. They ensure sound technical design tradeoffs are made upfront, and quality code is shipped efficiently to production. They take pride in the output of their team and the quality of their operations.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Engineering managers will partner with leadership on resourcing and evolving team structures as TaxBit continues to deliver SaaS solutions to consumer, enterprise, and government verticals. They’ll collaborate with product managers and other stakeholders to understand the customer and business needs, and lead a culture of customer focus and a bias to ship.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Drive daily standup and engineering rhythm for one or more engineering teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with product management and other stakeholders to establish quarterly objectives &amp;amp; key results (OKRs)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Regularly communicate accomplishments and risks upward and outward&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Facilitate technical designs and ensure quality code reviews across team members&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain healthy production systems and establish a team culture of learning from outages&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop junior and senior people through various career stages (regular 1-on-1s, feedback, performance reviews)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Participate as a hiring manager on interview loops&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;10+ years professional software engineering experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years engineering leadership&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3+ years as people manager&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent communication and leadership skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficient in AWS or alternative cloud architecture&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiar with modern devops/SRE systems and processes&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Desired Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience attracting and developing top talent&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years building SaaS cloud-based products&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience managing sensitive data and working with security and compliance teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Thrives in early stage and ambiguous requirement environments&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Why you want to work here&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive cash compensation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stock options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Heath, Dental, Vision, and Life Insurance &lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hybrid working model: 3 days in-office, 2 days WFH/flexible&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Friday team lunches&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Autonomous work and flexibility in how work is performed&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;**Vaccines are mandatory in order to foster a safe environment.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://taxbit.com/careers/4168494004?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/a148ffba-f8cd-4a68-bb83-c06e4943bd2c_taxbit-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Taxbit@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[bAmK9s9H6kmaX9Sj9gYOA]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Taxbit]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Risk & Compliance Officer]]></title>
@@ -12739,6 +12853,38 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <reference/>
     <employer_name><![CDATA[OpenNode]]></employer_name>
     <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Technical Project Manager - Bitcoin Payments (Remote)]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[OpenNode]]></company>
+    <company_url><![CDATA[https://www.opennode.com/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Remote]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;OpenNode is building the future of money through simple, secure, instant, and low-cost Bitcoin payment infrastructure for businesses, platforms, and people everywhere.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;We are now seeking a Technical Project Manager to help us manage the development process and ship high quality code quickly.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;The role will report to our CTO and CPO/Lead Dev. This position is full-time and ideally based in/near Los Angeles, CA - but location is flexible for the right candidates.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Requirements&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Misfit&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Passion for bitcoin and the future of money&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Insanely organized, seriously fun to work with&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;5+ years of experience with software engineering&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;2+ years of experience managing development projects and teams&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#202124;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Specific and significant expertise in the tech aspects of project management processes&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Proven expertise with standard methodologies for development, code reuse, testing etc&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Experience with web services&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Capable and willing to add value from micro to macro&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Thoughtful and articulate&lt;/span&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Responsibilities&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Work closely with the CTO and CPO/Lead Dev to define, manage, and deliver code sprints&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Engage and direct our development team on an ongoing basis&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Act in a technical leadership capacity by mentoring junior engineers and team members&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Work both collaboratively and independently&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Investigate new technologies and practices&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Bonus points&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Experience with AWS and DevOps&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Understanding of Bitcoin and the Lightning Network&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Entrepreneurship or startup experience&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Adept at writing technical documentation&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Speak multiple languages and/or have spent significant time abroad&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Well connected in the crypto and/or payments industry&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://opennode.freshteam.com/jobs/gVK1ajs7ebkP/technical-project-manager-remote?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/5e8967c2-0bf4-420c-807b-7432a260cee8_openNode-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+OpenNode@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[9wZjaxRvOka2ttqIPfGxyw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[OpenNode]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
   </job>
 <job>
     <title><![CDATA[Test Automation Engineer (m/f/div) Germany and/or Portugal]]></title>
