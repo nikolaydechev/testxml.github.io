@@ -1,37 +1,5 @@
 <jobs>
 <job>
-    <title><![CDATA[Junior Software Engineer, Tendermint Core]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Interchain GmbH]]></company>
-    <company_url><![CDATA[https://interchain.berlin/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Berlin, DE - Remote OK]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<p>Interchain GmbH is a 20-person company which works on core blockchain technology. We are based in Berlin, but our team stretches from New York City to Ulyanovsk, Russia. We keep in touch through Slack and Zoom, and get together in person periodically (when COVID permits). </p><p>One of our responsibilities is Tendermint Core, a Byzantine Fault Tolerant consensus engine which powers a number of projects both inside and outside the blockchain space, including the Cosmos Network. All in all, Tendermint Core secures billions of dollars of value across many different systems. But we don’t take ourselves too seriously: We strive to build great software, while having a lot of laughs along the way. </p><p>Tendermint Core engineers are responsible for building and maintaining Tendermint Core. Activities include:</p><ul><li>Anticipating new attacks on Tendermint and designing and implementing new ways to handle them</li><li>Architecting and implementing new features, like state sync, to make Tendermint safer and faster</li><li>Refactoring pre-existing components, like the mempool or P2P layer, to meet new needs</li><li>Testing distributed systems and ensuring protocol and implementation correctness</li><li>Updating Tendermint to meet new requirements from users and ever-increasing performance needs</li><li>Reviewing pull requests from community contributors and answering questions from users </li></ul><p>We’re not especially picky about your previous experience, but we're looking for candidates who ideally have:<br></p><ul><li><strong>A solid understanding of distributed systems fundamentals, and real world experience with distributed systems. </strong>You have worked on systems that have nuanced concurrency and data models.</li><li><strong>Great communication skills. </strong>You speak and write with clarity, and have a high degree of empathy. You are comfortable working with people across company lines and can collaborate with strangers over the internet.</li><li><strong>Excellent generalist programming ability.</strong> You have a knack for systems design and can debug sophisticated programs when something goes wrong. You have experience working in a systems language. We do all our work in Go, but if you’ve worked in another language like Rust, Java, or C, you’ll probably be able to get up to speed quickly with our projects. </li><li><strong>Curiosity and a desire to learn new things.</strong> You are keen to continue honing your craft, and you’re not afraid to jump into an unfamiliar area.</li><li><strong>A taste for simplicity. </strong>You know how to choose good abstractions and make sensible choices around 3rd party dependencies. </li><li><strong>Demonstrated ability to take ownership. </strong>You finish what you start and keep a high standard of quality. You take pride in your work. </li><li><strong>A home base within our working timezones. </strong>You are probably based in a timezone between UTC-5:00 (New York) and UTC+3:00 (Moscow). </li></ul><p>It is nice, but not a requirement, to be familiar with:<br></p><ul><li>Go</li><li>Consensus algorithms, like Paxos, Raft, or PBFT</li><li>Blockchains or other distributed databases </li><li>Networking</li><li>P2P systems </li><li>Cryptography</li><li>Open source maintainership</li></ul><p><p>Not sure if you're a fit? Please feel free to apply anyways, and we'll take it from there.</p><p><em>Interchain GmbH believes that great people come from a broad range of backgrounds, and that the diversity of our team is one of our strengths. Discrimination has no place at Interchain GmbH and we do not discriminate on the bases of race, color, gender, gender identity, national origin, age, religion, disability, or sexual orientation. We are committed to fighting bias and discrimination in our workplace and in our communities. </em></p><p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://interchain-gmbh.breezy.hr/p/682fb7e8a6f601-software-engineer-tendermint-core/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/b8bc49f1-0d10-48a5-bfe7-de09f9862560_interchain-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+InterchainGmbH@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[MKKySvo2BEGmMuF5nawKmg]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Interchain GmbH]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Software Engineer, Cosmos Hub]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -637,6 +605,38 @@
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Shakepay]]></employer_name>
+    <category><![CDATA[ UX / UI Design ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Senior Frontend Engineer]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Ledn]]></company>
+    <company_url><![CDATA[https://ledn.io/en/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Toronto]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<div><a href="http://ledn.io/" class="postings-link">Ledn</a> provides financial products with a mission to help clients across the globe unlock the power of digital assets to build wealth for the long term. Active in over 100 countries and exceeding $1 billion in assets on its platform, Ledn provides simple, transparent, and secure financial service products that help people save, earn, and borrow on their digital assets.</div><div><br></div><div>Ledn is backed by world class investors that has allowed the company to experience tremendous growth since launching in 2018. We are one of Canada’s leading digital asset companies creating a global platform. Ledn is led by a team with decades of experience in traditional financial services and banking, all connected by a common belief in the future of digital assets. We are a team of hungry, humble, adaptable, team players who are motivated by the opportunity to build, innovate, and revolutionize. </div><div><br></div><div><b style="font-size: 18px">The Opportunity&nbsp;</b></div><div><br></div><div>As an owner of Ledn, each team member has a voice and owns their work. This is an adaptive role in a fast-paced progressive environment. You thrive in working autonomously on projects, but are passionate about collaboration.&nbsp;</div><div><br></div><div>As a <b>Senior Frontend Engineer,</b> you are an imperative member of our Engineering team. You will be the leader on building intuitive, accessible, reusable UI components that define our user experience with the least amount of clicks possible. You will be collaborating with the UI/UX designer and other engineers to deliver best in class products and services worldwide. You will take pride in the projects you own, favour regular incremental delivery over perfection, and monitor and lead engineers. </div><br/>About The Role<br/><li>Lead in building the foundation for the frontend codebase structure, testing requirements and policies in anticipation of the team's growth and scaling requirements</li><li>Implement fully automated test coverage which is integrated with CI/CD</li><li>Maximize page speed, both for loading and interactions</li><li>Implement TypeScript throughout the codebase</li><li>Collaborate with UI/UX designers, engineers, marketing, and other stakeholders to help design and implement new features, simplify the existing codebase, and scale our systems as we rapidly grow and evolve. </li><li>Implement a more modular architecture to our product suite</li><li>Collaborate with designers to develop a component library which is used across applications to bring continuity and standardization of design</li><li>Continuously improve our user experience</li><li>Use your creativity and provide recommendations on user features or new products</li><br/>What You Bring To Ledn<br/><li>4+ years of professional experience building reusable frontend components that can be applied across platforms. </li><li>Experience with React, TypeScript, AWS, MongoDB and JS frameworks.</li><li>Experience with micro-services architecture and best practices.</li><li>Engineers with strong component and design systems knowledge.</li><li>Working knowledge of typography, layout systems.</li><li>Experience with GraphQL.</li><li>Deep understanding of semantic HTML, CSS, and client-side JavaScript.</li><li>Values writing good quality code and unit/end to end tests. Able to tell a story through your code that non-technical people can make sense of.</li><li>Collaboration, initiative, and ability to own your work. </li><br/>Nice To Have<br/><li>Experience with React Native.</li><li>End-end testing using Jest Framework is ideal.</li><li>Demonstrated experience.</li><li>An understanding of blockchain technology and cyrptocurrency or a passion for the industry. </li><div><b style="font-size: 18px">A Taste of What We Provide</b></div><div><br></div><div><b>* </b>As one of Canada’s leading digital asset companies we provide tremendous growth opportunities.</div><div>* Flexible working environments - we are a hybrid model for those in Toronto &amp; Montreal. </div><div><b>* </b>A career that provides you with purpose in your job. We remove barriers so you love what you do.</div><div><b>* </b>Team-based organizational structures that reinforce team work, initiative, and innovation. </div><div><b>* </b>Here at Ledn we all have ownership in the company. </div><div><b>* </b>Comprehensive benefits package that starts on your first day with us.</div><div>* Competency based compensation structures.</div><div><br></div><div>We are an equal opportunity employment organization and pride ourselves on inclusivity, diversity, and the success that comes from diversity. Please check us out on <a href="https://www.linkedin.com/company/ledn-inc/mycompany/" class="postings-link">LinkedIn</a> to get to know the team. Please reach out to the Ledn Talent team <a href="http://careers@ledn.io" class="postings-link">here</a> for any accommodations for applying and for participating in the interview process.</div><div><br></div><div><b style="font-size: 18px">Ledn Working Environment</b></div><div><br></div><div>When it's safe to do so, we  are a hybrid flexible working environment of remote and in-office environments. During times of closures, for internationals, or for team members not located near an office, we offer remote based work. Our 2 offices are located downtown Toronto and Montreal. We've learned a lot working remotely and are pretty good at it, but also miss connecting and collaborating with our team! We put the safety and security of our team first and follow all health guidelines and recommendations at both the provincial and federal level. </div><div><br></div><div><b>Please note,</b> due to the high volume of applications, only those applicants that qualify will be contacted.</div>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://jobs.lever.co/ledn/9d194df5-79cf-4d52-a05b-a45287c4f88f/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/0a53e245-362a-49ea-aaad-8c5b5e051b1c_ledn-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+Ledn@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[hLxCPqfTUqBiutCW1Q8tQ]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Ledn]]></employer_name>
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
@@ -3584,43 +3584,6 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Quant Researcher]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[CoinDCX]]></company>
-    <company_url><![CDATA[https://coindcx.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Mumbai/Bangalore, India]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<p dir="ltr">We are looking for a Quant Researcher. In this role, you will be working on creating and maintaining market-making strategies, automated trading strategies, and statistical data modeling on the other business verticals.</p>
-<p dir="ltr">Success in this role is defined as:</p>
-<ul><li dir="ltr"><p dir="ltr">Designing and developing automated market-making strategies to provide pricing on digital assets</p></li><li dir="ltr"><p dir="ltr">Make trading bots across crypto assets , exchanges and generate PNL</p></li><li dir="ltr"><p dir="ltr">Generating PNL from client flow and market inefficiencies while managing position risk</p></li><li dir="ltr"><p dir="ltr">Extracting insights and identifying trading opportunities and making markets more efficient</p></li><li dir="ltr"><p dir="ltr">Develop statistical models for other business verticals of margins and lending </p></li></ul><p><h2>Requirements:</h2></p><ul><li>Minimum 2 years experience in Quantitative Trading with hands-on experience in market making / Algo trading/ data science</li><li dir="ltr"><p dir="ltr">Bachelor’s Degree in computer science, electrical engineering, physics, math, or statistics</p></li><li dir="ltr"><p dir="ltr">Strong mathematical aptitude and ability to turn ideas into implementation</p></li><li dir="ltr"><p dir="ltr">Knowledge of programming paradigms like - multithreading / multiprocessing</p></li><li dir="ltr"><p dir="ltr">Proficiency within one or more programming languages, including C++ and Python</p></li><li dir="ltr"><p dir="ltr">Experience in one or more amongst the following areas: Distributed Computing, ML/AI, Platform Development, Networking, System Design, and Web Development</p></li><li dir="ltr"><p dir="ltr">Experience in derivatives would be a plus</p></li><li dir="ltr"><p dir="ltr">Past participation in competitions - ACM ICPC, topcoder would be a plus</p></li></ul>
-<p><strong><br /></strong></p>
-<p><strong><br /></strong><strong>About CoinDCX</strong></p>
-<p>CoinDCX is India’s largest and safest cryptocurrency exchange. We provide users single-point access to a diverse suite of crypto-based financial products and services that are backed by security processes and insurance. CoinDCX aims to be the global gateway to cryptocurrencies where users can start building their cryptocurrency portfolio with ease. We provide a comprehensive set of advanced and powerful products to trade crypto-based instruments in the fast-paced markets and aim to keep opening new opportunities for its traders as well as new customers to level up their potential with industry-first innovations. Recognized and awarded for its contribution to the Indian emerging tech space, CoinDCX is backed by investors such as Coinbase Ventures, Polychain Capital, Bain Capital Ventures, Block.one and HDR Group, operator of BitMEX</p>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://careers.coindcx.com/o/quant-strategist-high-frequency-trading/c/new?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/95b47f1a-66ef-4cfb-8dbf-3550e010eb11_coin_dcx-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+CoinDCX@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[eIhDSaweG0eEKIvVK1xWLw]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[CoinDCX]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Technical Recruiter]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -4873,6 +4836,43 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
+    <title><![CDATA[Technical Product Manager]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[ParaSwap]]></company>
+    <company_url><![CDATA[https://paraswap.io/#/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Paris, Île-de-France, France]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[Description
+<p>ParaSwap offers a simple, fast and safe way to exchange Ethereum-native tokens by pooling together the liquidity from many decentralised services in one unique interface. It is a middleware layer connecting wallets and traders to digital assets.</p><p>Our ambition is to help the DeFi space reach new heights!</p><p><strong>Who are we?</strong></p><p>We demonstrate a true passion for building great products and we love it when people go out of their way to make it better. By working at ParaSwap you will play an integral role and your work will have a direct impact to the success of the company.</p><p>We are an international team based around the globe, all working fully remotely and our main language is English. We also have an office in Paris. Currently we are 10, we want to double our team in the coming months.</p><p>We did a recent fundraising of 2,7M$ gathering over 33 investors including some big names in the crypto industry, and we are still at an early stage so it is an extraordinary time to join us! To sustain our growth we are looking for a deeply Technical Product Manager.  </p><p><strong>Our Products</strong></p><p>At ParaSwap you will be in charge of :</p><p>- Improving our main dApp <a href="http://paraswap.io/" rel="nofollow noreferrer noopener" class="external">paraswap.io</a></p><p>- Improving and building features on our APIs and Smart Contracts on both Ethereum L1 &amp; L2</p><p>- Working closely with our tier 1 customers: Argent, Metamask, Monolith </p><p>- Building the early stage bricks of a future decentralized community owned system</p><p>Our stack is based on cutting-edge technologies : Node.js, JavaScript, TypeScript, React, Solidity, Blockchain, Redis, Ethereum Layer 2..</p><p><br></p>
+Requirements
+<p>This role of Product Manager involves a mixture of technical skills and Product Management skills. You drive the lifecycle of our entire Products, from prioritisation of the roadmap, structuring of its key components to features development.<br></p><p>-       Responsible for the whole process end-to-end, from strategy to execution, based on customer insights, competitive analysis, and data from the market</p><p>-       Have a deep focus on data, measure our Products success using set of metrics, analyze them and draw insights</p><p>-       Oversee the APIs as a product, identify and own key partnerships, manage the developer ecosystem</p><p>-       Work closely with a world class tech team as a Product Owner</p><p>-       Spend some of your time engaging with customers and partners in the ecosystem, connect with end-users</p><p>-       Drive product launches alongside product marketing, and ensure success of your features in the market</p><p><br></p><p><strong>Desired skills</strong></p><p>- 5+ years of professional experience working with APIs and technical products in the crypto/blockchain or Fintech space</p><p>-       A background in Computer Science, Data Science, Statistics, Financial engineering or related fields</p><p>-       Ability to go deep on technology trends, architectural questions, stack control, road map, and managing development life cycle</p><p>-       Experience working on a community based product, or building products at scale</p><p>-       Strong data-driven mindset, great attention to detail and ability to solve problems creatively and effectively</p><p>-       An ability to achieve strategic goals in a fast-paced environment</p><p>-       Fluent in English</p><p>-       Bonus: Understanding of DeFi, tokenomics and game theory</p><p><br></p><p><strong>What you will like at ParaSwap</strong></p><p>-       You will join a DeFi world-class team that is conquering a market where no startup has yet managed to establish itself</p><p>-       As we are still early stage and our environment is fast-paced, your impact will be direct and you will have a great contribution on the company’s success</p><p>-       We encourage open communication and have a good working environment for people to flesh out their creativity. At ParaSwap you can continue to learn and grow in a collaborative and iterative way of working</p>
+Benefits
+<p>-       Competitive compensation package and ESOP</p><p>-       Fully remote environment</p><p>-       Flexible working hours</p><p>-       Quarterly company meeting to gather all the members together</p><p>-       Helping you to get the best material to work in good conditions from home </p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://apply.workable.com/paraswap/j/CDC42BF910/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/7f4e3d9f-36a8-4fa3-a9a2-238eca197ad2_paraswap-400x400.jpg]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+ParaSwap@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[X9SxDvixESqjh6rruBDUg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[ParaSwap]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
+  </job>
+<job>
     <title><![CDATA[Technical Consultant]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -5838,6 +5838,43 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Cardano Foundation]]></employer_name>
     <category><![CDATA[ Legal & Compliance ]]></category>
+  </job>
+<job>
+    <title><![CDATA[Mobile Automation QA Tester]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[CoinDCX]]></company>
+    <company_url><![CDATA[https://coindcx.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[Bangalore/ Mumbai, India]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p dir="ltr">Cryptocurrency Traders are looking for a strong global platform that can help them trade faster, better and smarter. We are building a platform that can solve their needs. The opportunity is big, and the journey is tough. Now that’s a challenge that needs to be addressed. You do that. You are phenomenal in solving these complex challenges. You help our team do more.</p>
+<p dir="ltr">As a Mobile Automation QA Tester, you do all of the above and more. <strong>You make a difference.</strong></p>
+<p dir="ltr"><strong>Job Responsibilities</strong></p>
+<ul><li dir="ltr"><p dir="ltr">Design and develop automated UI tests with XCUI, Espresso, KIF, appium, UIAutomator etc</p></li><li dir="ltr"><p dir="ltr">Design Automation framework from scratch for our mobile app features and performance evaluations.</p></li><li dir="ltr"><p dir="ltr">Provide qualitative and quantitative feedback to the Engineering, Creative, and other teams throughout feature development</p></li><li dir="ltr"><p dir="ltr">Suggest new processes and policies that Engineering and QA can implement to ensure we’re only shipping the best possible product via automation</p></li><li dir="ltr"><p dir="ltr">Integration of automation suites with CI-CD technologies as well as tools such as browserstack, AWS farm etc.</p></li></ul>
+
+<ul><li dir="ltr"><p dir="ltr">3- 4 years of experience in doing Functional &amp; Non-Functional QA automation for mobile apps.</p></li><li dir="ltr"><p dir="ltr">Experience conducting usability tests, and an ability to empathise with users’ unique perspectives.</p></li><li dir="ltr"><p dir="ltr">A practiced eye for pixel misalignments, margin errors, and other visual details</p></li><li dir="ltr"><p dir="ltr">Someone capable of writing and automating manual tests for mobile apps.</p></li><li dir="ltr"><p dir="ltr">A self-starter who assumes responsibility for their work, accepts direction and feedback from co-workers and managers, and happily helps make anyone’s good idea a reality</p></li><li dir="ltr"><p dir="ltr">Knowledge of blockchain technology, smart contracts and cryptocurrency will be an added advantage</p></li><li dir="ltr"><p dir="ltr">Experience in fintech domain will be another added advantage</p></li></ul>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://careers.coindcx.com/o/mobile-automation-qa-tester-bangalore-mumbai/c/new?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/95b47f1a-66ef-4cfb-8dbf-3550e010eb11_coin_dcx-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+CoinDCX@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[eIhDSaweG0eEKIvVK1xWLw]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[CoinDCX]]></employer_name>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Full Stack Engineer]]></title>
@@ -8052,6 +8089,38 @@ positive, constructive team member.<br /></li></ol>
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
+    <title><![CDATA[Technical Product Manager, Cosmos Discoverability]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Interchain GmbH]]></company>
+    <company_url><![CDATA[https://interchain.berlin/]]></company_url>
+    <remote><![CDATA[True]]></remote>
+    <location><![CDATA[Berlin, DE - Remote OK]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p><strong>Technical Product Manager, Cosmos Discoverability </strong></p><p>Interchain is a 20-person company which works on core blockchain technology. We’re headquartered in Berlin, Germany, but our team stretches from New York, NY to Ulyanovsk, Russia. We keep in touch through Github, Slack, and Zoom, and meet in person periodically (when COVID permits). All in all, the software we develop secures billions of dollars in value across many different systems, but we don’t take ourselves too seriously. We strive to build world-class software while having plenty of laughs along the way.</p><p>As the Cosmos Network grows, we’re facing a new class of challenges. How can we make it really easy for a new node to join the network? What nodes are available for peer to peer communication? How does one gauge the reliability or trustworthiness of nodes that purport to be honest and available? Where does one go to understand the network topology? What systems are needed (financial and structural) to ensure public access is always available to blockchain network nodes? When building Cosmos SDK blockchains, what modules are available, popular, trustworthy and safe?</p><p>We’re calling this product vertical “Discoverability,” and we’re looking for someone to lead the charge on making the Cosmos network more accessible and scalable than ever. We’ve taken a few big steps, including releasing a product called <a>Atlas</a>, which is part package manager and part network crawler, but we think we should do so much more. </p><p>This is the perfect role for a technical product manager or former software engineer, who is excited to work in a key position in one of the fastest-growing blockchain ecosystems and wants to help solve real user problems rooted in hard technical challenges.</p><p><br><strong>Activities include:</strong></p><ul><li>Setting product roadmaps with prioritized features based on continuous market research, prototyping and user validation, in conjunction with engineering managers and other product leaders in the ecosystem</li><li>Interviewing current and potential users and understanding their needs and pains</li><li>Writing product specifications in collaboration with research and engineering teams from around the ecosystem</li><li>Coordinating and running meetings with a diverse set of stakeholders, including teams ranging from Cosmos Hub engineering, Cosmos SDK engineering, Cosmos Hub validators, wallets, block explorers and exchanges</li><li>Communicating publicly about your plans and progress to a technical community, including sharing roadmaps, status updates, and excellent READMEs</li></ul><p><p><strong>There are no hard requirements on previous experience, but ideally you have:</strong></p><ul><li>Experience working as a product manager, especially on cloud or developer tools, blockchain networks, or other technical products</li><li>Working familiarity with Golang (or experience writing another systems language and a desire to learn more) </li><li>A passion for building great developer experiences </li><li>Top-notch communications skills, clear written prose, and a knack for working with a diverse range of contributors and users, and synthesizing different perspectives</li><li>Vision and opinions about network discoverability and decentralization and the drive to execute that vision</li><li>A high degree of personal responsibility and ownership: you’ll be responsible for setting deadlines and holding yourself and your team accountable to them</li><li>An appropriate taste for simplicity and an ability to balance pragmatism with ideal solutions</li><li>A home base within our working timezones, probably from UTC - 5 (New York) to UTC + 3 (Moscow), and the ability to travel to Germany at least occasionally (post-COVID)</li></ul><p><p>To succeed in this role, you’ll be touching a wide range of technologies and tools. You don’t need expertise in any of these areas, but you should be passionate about learning about them. These technologies include: </p><ul><li>Peer-to-peer networking</li><li>Package managers</li><li>Open source development</li><li>Devops processes and tooling, including server configuration, load balancing, proxies (like nginx), networking monitoring and observability, CI tools and/or Github actions, and cloud services like AWS, Digital Ocean, or GCP</li></ul><p><p>Not sure if you're a fit? Please feel free to apply anyways, and we'll take it from there.</p><p>Interchain GmbH believes that great people come from a broad range of backgrounds, and that the diversity of our team is one of our strengths. Discrimination has no place at Interchain GmbH and we do not discriminate on the bases of race, colour, gender, gender identity, national origin, age, religion, disability, or sexual orientation. We are committed to fighting bias and discrimination in our workplace and in our communities.</p><p><br><br><br><br></p>]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://interchain-gmbh.breezy.hr/p/c5a7d6be5bbf01-technical-product-manager-cosmos-discoverability/apply?ref=crypto-careers.com]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/b8bc49f1-0d10-48a5-bfe7-de09f9862560_interchain-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+InterchainGmbH@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[MKKySvo2BEGmMuF5nawKmg]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Interchain GmbH]]></employer_name>
+    <category><![CDATA[ Product Management ]]></category>
+  </job>
+<job>
     <title><![CDATA[Full Stack Team Leader]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8824,38 +8893,6 @@ Benefits
     <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
-    <title><![CDATA[Application Security Engineer]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Ledn]]></company>
-    <company_url><![CDATA[https://ledn.io/en/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[Toronto]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[<div><a href="http://Ledn.io" class="postings-link">Ledn</a> provides financial products with a mission to help clients across the globe unlock the power of digital assets to build wealth for the long term. Active in over 100 countries and exceeding $1 billion in assets on its platform, Ledn provides simple, transparent, and secure financial service products that help people save, earn, and borrow on their digital assets. </div><div><br></div><div>Ledn is backed by world-class global investors including Alan Howard, Alexis Ohanian, CMT Digital, Coinbase Ventures,&nbsp; Global Founders Capital, Hashed, John Pfeffer, Kingsway Capital,&nbsp;ParaFi Capital, Susquehanna Private Equity Investments LLLP, and White Star Capital’s Digital Asset Fund. </div><div><br></div><div><b style="font-size: 18px">The Opportunity</b></div><div><br></div><div>As an owner of Ledn, each team member has a voice and owns their work. This is an adaptive role in a fast-paced progressive environment. You thrive in working autonomously on projects, but are passionate about collaboration. </div><div><br></div><div>As a <b>Full Time Application Security Engineer,</b> you will validate that our services, applications, and websites are designed and implemented to the highest security standards. You will be responsible for analyzing the security of applications and services, discovering and addressing security issues, building security automation, and quickly reacting to new threat scenarios.&nbsp;</div><br/>About The Role<br/><li>You will be an integral part of the initial design sessions to build in security from the beginning of all projects.</li><li>Review code and identify vulnerabilities in the codebase by conducting audits.</li><li>You will be setting up tooling to improve quality and ensure integrity of code.&nbsp;</li><li>Develop elegant solutions to complex business problems and apply appropriate technologies while following security engineering best practices.&nbsp;</li><li>Perform fuzzing, conduct static code analysis, perform integrity checks, hashlocking libraries.&nbsp;&nbsp;</li><li>Keeping up with CVEs and keeping us up to date on our patches.</li><li>Conduct security awareness training.</li><li>You will implement automated tooling to improve and ensure quality of code.</li><li>You will ensure all our libraries are fully audited, and version locked.</li><li>Constantly educating developers and engineers to be working towards secure architecture.</li><li>Application security reviews, penetration testing and projects, research work, security guidance documentation.</li><li>Conduct application security reviews and threat modelling, and identify security issues and bugs through code review.</li><li>Security tool development and security metrics delivery and improvements.</li><li>Get an amazing opportunity to learn about blockchain!</li><br/>What You Bring To Ledn<br/><li>3+ years of coding experience. Javascript and Typescript are assets.</li><li>3+ years of experience within the Information Security industry.&nbsp;</li><li>Demonstrated ability in detecting vulnerabilities in code, fuzzing, configuration of static code analysis tools (experience with particular tooling is a plus), implementation of integrity checks.&nbsp;</li><li>Knowledge of OWASP, NIST CSF, and other industry application security standards and frameworks.</li><li>Demonstrated experience managing a Bug Bounty program.</li><li>Applied cryptography experience is a valuable asset.</li><li>Experience with Go and Rust will be considered strong assets.</li><li>You will need a combination of troubleshooting, technical, and communication skills, as well as the ability to handle a mix of disparate tasks which may include project and software development work. </li><div><b>A Taste of What We Provide</b></div><div><br></div><div><b>* </b>As one of Canada’s leading digital asset companies we provide tremendous growth opportunities</div><div><b>* </b>A career that provides you with purpose in your job. We remove barriers so you love what you do.</div><div><b>* </b>Team-based organizational structures that reinforce problem solving, decision making, and team work. </div><div><b>* </b>Here at Ledn we all have ownership in the company. </div><div><b>* </b>Competitive benefit packages and competency based compensation structures</div><div><br></div><div>We are an equal opportunity employment organization and pride ourselves on inclusivity, diversity, and the success that comes from diversity. Please check us out on <a href="https://www.linkedin.com/company/ledn-inc/mycompany/" class="postings-link">LinkedIn</a> to get to know the team. </div><div><br></div><div><b>Please note,</b> due to the high volume of applications, only those applicants that qualify will be contacted.</div><div><br></div><div><b>It's COVID, where are you working?</b></div><div>We're all working remote until Fall 2021. After that, if and when it's safe to do so, we will be offering flexible working environments of remote and in-office, which is located downtown Toronto. We've learned a lot working remotely and are pretty good at it, but also miss connecting and collaborating with our team! </div><div><br></div>]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://jobs.lever.co/ledn/66871798-d00c-437d-afb0-85980648998e/apply?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/0a53e245-362a-49ea-aaad-8c5b5e051b1c_ledn-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+Ledn@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[hLxCPqfTUqBiutCW1Q8tQ]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Ledn]]></employer_name>
-    <category><![CDATA[ Engineering And Tech ]]></category>
-  </job>
-<job>
     <title><![CDATA[Senior Copywriter]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -8993,70 +9030,6 @@ Benefits
     <reference/>
     <employer_name><![CDATA[Taxbit]]></employer_name>
     <category><![CDATA[ Marketing & PR ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Senior Accountant]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[Amun Tokens]]></company>
-    <company_url><![CDATA[https://amun.com/]]></company_url>
-    <remote><![CDATA[False]]></remote>
-    <location><![CDATA[New York, New York, United States]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Amun 21Shares is looking to hire a Staff Accountant to join its rapidly growing finance team in its New York City office.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Review, prepare and post monthly journal entries including working with other teams to ensure completeness of accruals and proper revenue recognition&lt;/li&gt;
-&lt;li&gt;Maintain Fixed Asset, Intangible and Prepaid schedules&lt;/li&gt;
-&lt;li&gt;Reconcile monthly bank, credit card and cryptocurrency accounts/wallets&lt;/li&gt;
-&lt;li&gt;Prepare and analyze monthly and quarterly account reconciliations&lt;/li&gt;
-&lt;li&gt;Perform financial analyses, including balance sheet and income statement fluctuations analyses&lt;/li&gt;
-&lt;li&gt;Close general ledger monthly and prepare for internal and external reporting&lt;/li&gt;
-&lt;li&gt;Assist with the preparation of financial statements on an IFRS basis&lt;/li&gt;
-&lt;li&gt;Assist in the preparation of regulatory filings&lt;/li&gt;
-&lt;li&gt;Work closely with external auditors in year-end audit process&lt;/li&gt;
-&lt;li&gt;Assist with the design and implementation of proper internal controls to ensure a high degree of completeness and accuracy of the financial statements&lt;/li&gt;
-&lt;li&gt;Ad-hoc assignments and special projects&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements / Qualifications:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Undergraduate degree in Accounting or related field&lt;/li&gt;
-&lt;li&gt;2+ years of experience in corporate accounting and/or audit&lt;/li&gt;
-&lt;li&gt;CPA&lt;/li&gt;
-&lt;li&gt;Asset management or general financial services experience, preferred&lt;/li&gt;
-&lt;li&gt;Public accounting experience, preferred&lt;/li&gt;
-&lt;li&gt;IFRS experience, preferred&lt;/li&gt;
-&lt;li&gt;Strong analytical skills, both quantitative and qualitative&lt;/li&gt;
-&lt;li&gt;Intermediate to advanced MS Excel skills&lt;/li&gt;
-&lt;li&gt;Strong attention to detail and accuracy&lt;/li&gt;
-&lt;li&gt;Resourceful self-starter, with strong problem-solving skills&lt;/li&gt;
-&lt;li&gt;A collegial and collaborative team player&lt;/li&gt;
-&lt;li&gt;Strong organizational skills; ability to handle a diverse workload in a deadline driven environment&lt;/li&gt;
-&lt;li&gt;An interest in cryptocurrencies&lt;/li&gt;
-&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4101760004?ref=crypto-careers.com#app]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+AmunTokens@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[Amun Tokens]]></employer_name>
-    <category><![CDATA[ Finance & Accounting ]]></category>
   </job>
 <job>
     <title><![CDATA[Principal Application Security Engineer]]></title>
@@ -11276,6 +11249,66 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ Marketing & PR ]]></category>
   </job>
 <job>
+    <title><![CDATA[Index Methodologist]]></title>
+    <referencenumber><![CDATA[]]></referencenumber>
+    <expiration_date><![CDATA[]]></expiration_date>
+    <company><![CDATA[Amun Tokens]]></company>
+    <company_url><![CDATA[https://amun.com/]]></company_url>
+    <remote><![CDATA[False]]></remote>
+    <location><![CDATA[New York, New York, United States]]></location>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <zip/>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amun is a leading cryptocurrency issuer which aims to make purchasing crypto more&lt;br&gt;accessible, and efficient.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Under its 21Shares brand, Amun is the world&#39;s largest issuer of crypto exchange-traded&lt;br&gt;products (ETPs). The 21Shares suite of ETPs has simplified access to crypto for both&lt;br&gt;institutional and retail investors in the traditional finance community. In a similar fashion,&lt;br&gt;Amun aims to provide tokens that will make it easy for the crypto community to access&lt;br&gt;sophisticated strategies that are not otherwise readily available in this space. Amun 21Shares is a&lt;br&gt;team of entrepreneurs, engineers, and financial product developers who are uniquely&lt;br&gt;placed to revolutionize cryptocurrency investing through the issuance of our broad range&lt;br&gt;of tokens. Our goal is to make these tokens present a new paradigm in cryptocurrency&lt;br&gt;investing and to facilitate their use.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Our investment in superior technology and automation has enabled us to both release&lt;br&gt;products, as well as work directly with top organizations including the Bitcoin Cash Foundation,&lt;br&gt;Bitcoin Suisse, Binance, Bitwise, Coinbase, FlowTraders, Sygnum, and the Tezos Foundation&lt;br&gt;as launch partners or customers of Onyx, our full stack issuance platform.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Amun 21Shares is seeking an Index Methodologist who will focus on researching and projecting indexes which result in changes to the underlying benchmarks the teams manage funds against. The successful candidate will be instrumental in driving this daily projection process, be a solid contributor to enhancing automation and efficiency of process, and conduct independent research and analysis to incorporate into the portfolio strategy.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Key Responsibilities:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Projecting upcoming index changes across a vast number of benchmarks used by portfolio managers to model trades&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Enhance and streamline index projection process by participating in technology developments&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Research expected index changes, upcoming corporate actions, and major index rebalances&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Develop strong knowledge of index methodology&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Advise and collaborate with global index providers on implementing methodology and best practices&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Active voice in all portfolio manager and index discussions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Support index strategy and product teams with benchmark analysis&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Partner with product development team to develop and launch new products&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Skills/Qualifications:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Minimum of a Bachelor’s degree in a finance related subject,&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Relevant professional experience in a financial services environment and/or a keen interest in financial markets&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Strong IT skills, advanced proficiency in Excel and VBA desirable&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Bloomberg &amp;amp; Factset knowledge an advantage&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competencies:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Strong analytical and quantitative skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Proactive attitude, with a strong ability to multitask and prioritize assignments while producing high quality work in a demanding and fast paced environment&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
+    <jobtype><![CDATA[]]></jobtype>
+    <compensation_min/>
+    <compensation_max/>
+    <compensation_currency><![CDATA[USD]]></compensation_currency>
+    <compensation_interval><![CDATA[Annually]]></compensation_interval>
+    <apply_url><![CDATA[https://boards.greenhouse.io/amun/jobs/4144802004?ref=crypto-careers.com#app]]></apply_url>
+    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/084ff23c-bec0-4771-bbf7-366b9a6cbd3f_amun-400x400.png]]></logo>
+    <url><![CDATA[]]></url>
+    <apply_email><![CDATA[]]></apply_email>
+    <contact_email><![CDATA[alexander+AmunTokens@crypto-careers.com]]></contact_email>
+    <date><![CDATA[]]></date>
+    <updated><![CDATA[]]></updated>
+    <employer_id><![CDATA[Cpn1mPqfV0Or3yaqeHl0ww]]></employer_id>
+    <featured><![CDATA[False]]></featured>
+    <campaign_type/>
+    <reference/>
+    <employer_name><![CDATA[Amun Tokens]]></employer_name>
+    <category><![CDATA[ Finance & Accounting ]]></category>
+  </job>
+<job>
     <title><![CDATA[Sales Strategist]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
@@ -11337,38 +11370,6 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[Bitwise]]></employer_name>
-    <category><![CDATA[ Sales And Business Development ]]></category>
-  </job>
-<job>
-    <title><![CDATA[Sales and Business Development - Bitcoin Payments (Remote)]]></title>
-    <referencenumber><![CDATA[]]></referencenumber>
-    <expiration_date><![CDATA[]]></expiration_date>
-    <company><![CDATA[OpenNode]]></company>
-    <company_url><![CDATA[https://www.opennode.com/]]></company_url>
-    <remote><![CDATA[True]]></remote>
-    <location><![CDATA[Remote]]></location>
-    <city><![CDATA[]]></city>
-    <state><![CDATA[]]></state>
-    <zip/>
-    <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p dir=&quot;ltr&quot;&gt;OpenNode is building the future of money through simple, secure, instant, and low-cost Bitcoin payment infrastructure for businesses everywhere.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;We are seeking a talented and enthusiastic Sales and Business Development Manager to join our fast-growing company. The role will report to the Sales Lead. This position is full-time and remote.&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Responsibilities&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Conduct research and generate leads&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Execute on leads provided by the team&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Present and sell OpenNode payment capabilities to prospective businesses.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Demonstrate product expertise and provide market insights to help potential customers understand value proposition&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Develop and maintain positive business relationships&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Collaborate with business and technology colleagues to support sales efforts&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Report and track leads, progress, challenges, and opportunities&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Book meetings/demos, close sales leads and drive new business sign-ups&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Maintain high conversion rates and exceed sales targets&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Requirements&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Bitcoiner&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Proven success closing deals&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Commercial and customer service mindset&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Excellent communication skills&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Great energy, excellent judgement&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Ability to positively influence&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;3+ years experience in payments, fintech or financial services&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Experience using CRM tools&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Rigorous, resilient&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Focused, independent and driven&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Super organized, fun to work with&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
-    <jobtype><![CDATA[]]></jobtype>
-    <compensation_min/>
-    <compensation_max/>
-    <compensation_currency><![CDATA[USD]]></compensation_currency>
-    <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://opennode.freshteam.com/jobs/IyatKzjsgxb6/sales-and-business-development-bitcoin-payments-remote?ref=crypto-careers.com]]></apply_url>
-    <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/5e8967c2-0bf4-420c-807b-7432a260cee8_openNode-400x400.png]]></logo>
-    <url><![CDATA[]]></url>
-    <apply_email><![CDATA[]]></apply_email>
-    <contact_email><![CDATA[alexander+OpenNode@crypto-careers.com]]></contact_email>
-    <date><![CDATA[]]></date>
-    <updated><![CDATA[]]></updated>
-    <employer_id><![CDATA[9wZjaxRvOka2ttqIPfGxyw]]></employer_id>
-    <featured><![CDATA[False]]></featured>
-    <campaign_type/>
-    <reference/>
-    <employer_name><![CDATA[OpenNode]]></employer_name>
     <category><![CDATA[ Sales And Business Development ]]></category>
   </job>
 <job>
@@ -12896,7 +12897,7 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <category><![CDATA[ UX / UI Design ]]></category>
   </job>
 <job>
-    <title><![CDATA[Senior Designer (UX &amp; UI) - Bitcoin Payments (Remote)]]></title>
+    <title><![CDATA[Senior Mobile App Developer (Cross-Platform) (Remote)]]></title>
     <referencenumber><![CDATA[]]></referencenumber>
     <expiration_date><![CDATA[]]></expiration_date>
     <company><![CDATA[OpenNode]]></company>
@@ -12907,13 +12908,13 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <state><![CDATA[]]></state>
     <zip/>
     <country><![CDATA[]]></country>
-    <description><![CDATA[&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;OpenNode is building the future of money through simple, secure, instant, and low-cost Bitcoin payment infrastructure for businesses everywhere.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;We are now seeking a Senior Designer (UX &amp;amp; UI) to lead strategy and execution of amazing payment and brand experiences.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;The role will report to the CEO &amp;amp; CPO. This position is full-time and ideally based in Los Angeles, CA - but location is flexible and remote for the right candidate.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Requirements&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Passion for bitcoin and the future of money&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;6+ years of design experience at a start-up, agency, studio or technology company&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Significant prior focus on digital software products&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Experience planning and conducting user research and translating findings into design opportunities&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ability to solve problems, make well-reasoned design decisions, and deliver amazing experiences&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Considerate of technical constraints and business goals&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Can show us a kick-ass portfolio with examples of great interaction design&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Capable and willing to add value from micro to macro&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Thoughtful and articulate.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Serious about the responsibility for ensuring OpenNode delivers beautifully designed experiences&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Responsibilities&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Lead strategy and execution for all OpenNode product design deliverables, including mobile app, corporate website and payment platform&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Support strategy and execution for other OpenNode design deliverables, including branding, marketing and sales collateral, etc.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Collaborate with engineering team to define product requirements, feasibility, and desirability&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Implement user flows, interactions, and experiences that are simple, intuitive, and consistent across web and mobile platforms&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Conduct design research&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Contribute best practices for design tools and processes&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Help shape product strategy&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Bonus points&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Experience designing payment experiences&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Experience designing motion graphics and animation&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Experience designing branded content, developing content strategy, and illustrations and motion assets&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Entrepreneurship or startup experience&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Speak multiple languages and/or have spent significant time abroad&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Well connected in the crypto and/or payments industry&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
+    <description><![CDATA[&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;OpenNode is building the future of money through simple, secure, instant, and low-cost Bitcoin payment infrastructure for businesses everywhere.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;We are now seeking a Senior Mobile App Developer (Cross-Platform) to extend OpenNode capabilities to new Android and iOS Apps.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;The role will report to the CPO. This position is full-time and ideally based near Los Angeles, CA - but location is remote and flexible for the right candidates.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Requirements&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Passion for bitcoin and the future of money&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;5+ years of experience building cross platform real-time dynamic mobile applications for IOS and Android.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;3+ years of experience in hybrid mobile application frameworks like React Native, Flutter&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;3+ year of experience with backend integration with API gateways, Rest API and Web services&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Excellent problem solving skills and a love for technical challenges&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Strong appreciation for design, user experience, and object oriented programming&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Experience working autonomously and in a cross functional team&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Knowledgeable about the entire lifecycle from concept to development to deployment of mobile apps&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:14pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Thoughtful and articulate&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Responsibilities&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Develop and deliver product requirements&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Generate delivery ideas and solutions&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Lead the full spectrum of design, software engineering, and testing&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Deliver well-architected and high-quality solutions using agile development practices&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:14pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Craft clean, compliant code&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Bonus points&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Technical understanding of Bitcoin and the Lightning Network&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Entrepreneurship or startup experience&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Adept at writing technical documentation&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
     <jobtype><![CDATA[]]></jobtype>
     <compensation_min/>
     <compensation_max/>
     <compensation_currency><![CDATA[USD]]></compensation_currency>
     <compensation_interval><![CDATA[Annually]]></compensation_interval>
-    <apply_url><![CDATA[https://opennode.freshteam.com/jobs/gUqN1UY-UzR5/senior-designer-ux-ui-remote?ref=crypto-careers.com]]></apply_url>
+    <apply_url><![CDATA[https://opennode.freshteam.com/jobs/jHH0km86ByzG/senior-mobile-app-developer-cross-platform-remote?ref=crypto-careers.com]]></apply_url>
     <logo><![CDATA[https://static.jobboard.io/uploads/wysiwyg/5e8967c2-0bf4-420c-807b-7432a260cee8_openNode-400x400.png]]></logo>
     <url><![CDATA[]]></url>
     <apply_email><![CDATA[]]></apply_email>
@@ -12925,7 +12926,7 @@ Verknüpfung von einem Frontend mit einem Backend sollte keine Probleme darstell
     <campaign_type/>
     <reference/>
     <employer_name><![CDATA[OpenNode]]></employer_name>
-    <category><![CDATA[ UX / UI Design ]]></category>
+    <category><![CDATA[ Engineering And Tech ]]></category>
   </job>
 <job>
     <title><![CDATA[Test Automation Engineer (m/f/div) Germany and/or Portugal]]></title>
